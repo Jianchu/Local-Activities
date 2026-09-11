@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-10T22:38:44-07:00",
+  "updatedAt": "2026-09-11T10:03:19-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-09-10T22:38:44-07:00",
+      "updatedAt": "2026-09-11T10:03:19-07:00",
       "status": "ok",
       "count": 160
     },
     "Richmond": {
-      "updatedAt": "2026-09-10T22:38:44-07:00",
+      "updatedAt": "2026-09-11T10:03:19-07:00",
       "status": "ok",
-      "count": 29
+      "count": 28
     }
   },
   "events": [
@@ -75,22 +75,6 @@
       "description": "A solo exhibition featuring the latest works of accomplished Richmond-based oil painter Junyi Ji. Through masterful technique and a deep connection to nature, Ji captures the beauty of Vancouver’s landscapes, inviting viewers to slow down and rediscover the poetry of the everyday world. Opening Reception & Artist Talk Saturday September 5, 7:00-9:00pm (free event) Lipont Gallery Room 218 (no elevator), 4211 No. 3 Rd Richmond BC Canada V6X 2C3 Free parking on south side of the building only. In an age where digital images can effortlessly reproduce the visible world, artist Junyi Ji advocates for the irreplaceable value of painting from life. Over the past year, Ji has traveled extensively throughout Vancouver and its surrounding areas to document coastlines, forests, parks, city streets and mountains. Working without rehearsal or repetition, every brushstroke responds to a moment that exists only once. “Plein air painting is a dialogue with time,” says Ji. “Each work is created on location, shaped by changing weather, shifting light and the fleeting rhythm of the day. For me, it is not simply an act of copying nature, but a continual process of observation and understanding.” Ji’s paintings seek to capture more than just visual accuracy; they preserve the atmosphere, temperature and emotion of a specific time and place. As sunlight moves across a façade, or the shadows of trees slowly drift, the canvas preserves the quiet presence of Vancouver’s bays, bridges, churches, harbours and cherry blossoms as lived experiences. About Artist Junyi Ji An accomplished oil painter, Junyi Ji holds degrees from the Tianjin Academy of Fine Arts, where he studied under the renowned artist Professor Yu Xiaodong. Known for his superb realistic skills and unique artistic perspective, Ji creates emotionally charged landscapes that capture the diverse beauty of nature through careful detailing and the clever use of colour. Since moving to Canada in 2022, he has established art studios in Richmond and West Vancouver, and to date, has held four solo exhibitions in the Metro Vancouver area. More Information This event is for All Ages. This is not an accessible site. This event is free.",
       "category": "Arts & culture",
       "sourceCategories": "Culture Days Art",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "8fb267ee588c7eb9",
-      "city": "Richmond",
-      "title": "Youth at the Booth Job Fair",
-      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19109",
-      "dateLabel": "Tuesday, Sep 08, 2026 - Thursday, Sep 10, 2026",
-      "startDate": "2026-09-08",
-      "endDate": "2026-09-10",
-      "time": "September 8: 2:30-5:30pm September 9 & 10: 3:30-5:30pm",
-      "location": "6911 No. 3 Rd",
-      "description": "The Richmond Elections Office is looking for energetic, friendly and upbeat youth age 16 to 18 to assist and support Election staff during the 2026 General Local and School Election. Youth at the Booth work in teams of two and report to the Presiding Election Official (PEO) and/or the Alternate Presiding Election Officials (APEOs). To apply, complete the application form and attend our Youth at the Booth Job Fair. More Information This event is for Youth (Ages 13-18) This is an accessible site. This event is free.",
-      "category": "Community & festivals",
-      "sourceCategories": "Local Elections Social / Community Event",
       "price": "Free",
       "isFree": true
     },
