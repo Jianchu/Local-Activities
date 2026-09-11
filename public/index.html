@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f4ee">
+  <meta name="description" content="Find your next local outing. Explore Surrey and Richmond community activities, arts, nature, and recreation by date.">
+  <title>Near & Now — Surrey + Richmond activities</title>
+  <link rel="icon" href="/icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/style.css"><script src="/app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#results">Skip to activities</a>
+<header class="top"><a class="brand" href="/" aria-label="Near and Now home"><span class="brand-icon">n<span>↗</span></span>near<span class="amp">&</span>now<span class="brand-dot">.</span></a><span class="region"><i></i> SURREY + RICHMOND, BC</span><a href="#about" class="about-link">Made for getting out <span>↗</span></a></header>
+<main>
+  <section class="intro"><div><p class="eyebrow">LESS SCROLLING. MORE SHOWING UP.</p><h1>Good things.<br><span>Close to home.</span><svg viewBox="0 0 100 80" aria-hidden="true"><path d="M12 48C22 18 55 4 62 23S33 67 30 44 62 16 82 31M67 16l18 15-20 6"/></svg></h1><p class="lede">A little fresh air. A new favourite thing.<br>Find what’s happening in your neighbourhood.</p></div><aside class="intro-note"><span class="note-star">✳</span><p>Your next<br><em>“let’s go!”</em><br>starts here.</p><span class="note-bottom">TWO CITIES. PLENTY OF POSSIBILITIES.</span></aside></section>
+  <section class="explorer" aria-label="Find activities">
+    <div class="filter-top"><div class="city-tabs" role="group" aria-label="Filter by city"><button class="selected" data-city="all" aria-pressed="true">Both cities</button><button data-city="Surrey" aria-pressed="false">Surrey</button><button data-city="Richmond" aria-pressed="false">Richmond</button></div><span class="source-note"><span class="status-dot"></span> From official city calendars</span></div>
+    <div class="filter-grid"><label class="search"><span>⌕</span><input id="search" type="search" placeholder="Find your kind of thing…" aria-label="Search titles, descriptions, and places"></label><label class="select-label"><span>WHEN</span><select id="when"><option value="upcoming">Upcoming</option><option value="today">Today</option><option value="weekend">This weekend</option><option value="week">Next 7 days</option><option value="month">Next month</option><option value="custom">Choose dates</option></select></label><label class="select-label"><span>TIME OF DAY</span><select id="daytime"><option value="all">Any time</option><option value="morning">Morning · before noon</option><option value="afternoon">Afternoon · noon–5</option><option value="evening">Evening · after 5</option></select></label></div>
+    <div id="custom-dates" hidden><label>From <input id="from" type="date"></label><span>→</span><label>To <input id="to" type="date"></label></div><p class="date-error" id="date-error" role="alert" hidden>Choose an end date on or after your start date.</p>
+    <div class="categories" role="group" aria-label="Filter by activity type"><button data-category="all" class="active" aria-pressed="true">✳ Everything</button><button data-category="Nature & outdoors" aria-pressed="false">❋ Nature & outdoors</button><button data-category="Arts & culture" aria-pressed="false">◈ Arts & culture</button><button data-category="Sports & wellness" aria-pressed="false">↗ Sports & wellness</button><button data-category="Learn & create" aria-pressed="false">✎ Learn & create</button><button data-category="Community & festivals" aria-pressed="false">☀ Community & festivals</button></div>
+  </section>
+  <section id="results" aria-label="Activities"><div class="results-heading"><div><p class="eyebrow" id="result-kicker">MAKE A LITTLE ROOM FOR SOMETHING GOOD</p><h2 id="result-title">Coming up nearby <span id="count"></span></h2></div><label class="group-toggle"><input id="group" type="checkbox" checked><span class="switch"></span>Group by type</label></div><p id="notice" class="notice" hidden></p><div id="live" class="sr-only" role="status" aria-live="polite"></div><div id="cards"><div class="loading">Gathering good things nearby…</div></div><button id="reset" class="reset" hidden>Clear filters ↗</button></section>
+  <section class="about" id="about"><span class="about-symbol">✳</span><div><h2>Local plans, straight from the source.</h2><p>Activities from the City of Surrey and City of Richmond calendars, collected daily. Follow the official link for registration and the latest details. Multi-day listings show their published date range; check the schedule for individual sessions.</p><p class="freshness" id="freshness"></p></div><a href="https://github.com/Jianchu/Local-Activities" target="_blank" rel="noopener noreferrer">Behind the project ↗</a></section>
+</main><footer><span class="brand small">near<span class="amp">&</span>now.</span><p>A good day doesn’t have to be far away.</p><span>All times are local to Metro Vancouver.</span></footer>
+</body></html>

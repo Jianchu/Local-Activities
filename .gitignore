@@ -1,0 +1,5 @@
+.deps/
+__pycache__/
+.env*
+.vercel/
+.sites-runtime/

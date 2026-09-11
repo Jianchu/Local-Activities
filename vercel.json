@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "outputDirectory": "public",
+  "headers": [{"source": "/data/events.json", "headers": [{"key": "Cache-Control", "value": "public, max-age=300"}]}]
+}
