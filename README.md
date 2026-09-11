@@ -2,7 +2,15 @@
 
 A mobile-friendly Surrey + Richmond activity finder. Plain HTML, CSS and JavaScript with a Python data collector; no frontend build step or application secrets.
 
-## Deploy on Vercel
+## Deploy on GitHub Pages (primary hosting)
+
+The website lives at https://jianchu.github.io/Local-Activities/.
+
+Select **Settings → Pages → Source → GitHub Actions**. The `Deploy activity website` workflow publishes **public**, not the repository root. It runs on pushes to `main` and after successful daily data refreshes. The explicit refresh-completion trigger is necessary because commits made with GitHub's workflow token do not trigger another push workflow.
+
+Asset and data URLs are relative, so both the GitHub project URL and local preview work.
+
+## Optional: deploy on Vercel
 
 1. Open https://vercel.com/new and import `Jianchu/Local-Activities`.
 2. Use **Other** as the framework, leave the build command empty, and use **public** as the output directory (`vercel.json` also declares it).
