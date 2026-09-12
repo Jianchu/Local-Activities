@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-11T10:03:19-07:00",
+  "updatedAt": "2026-09-12T09:22:16-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-09-11T10:03:19-07:00",
+      "updatedAt": "2026-09-12T09:22:16-07:00",
       "status": "ok",
-      "count": 160
+      "count": 168
     },
     "Richmond": {
-      "updatedAt": "2026-09-11T10:03:19-07:00",
+      "updatedAt": "2026-09-12T09:22:16-07:00",
       "status": "ok",
       "count": 28
     }
@@ -79,34 +79,18 @@
       "isFree": true
     },
     {
-      "id": "3fcf65b671d42a2f",
+      "id": "fd346e7c6d5ada74",
       "city": "Surrey",
-      "title": "Seniors Open Houses",
-      "url": "https://www.surrey.ca/news-events/events/seniors-open-houses",
-      "dateLabel": "September 11, 2026",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-11",
-      "time": "11:30am - 1:30pm",
-      "location": "Various locations",
-      "description": "Discover what makes Surrey’s seniors programs and spaces vibrant hubs for community and creativity. Join us for Open House events at six locations – featuring activities, refreshments, entertainment, and opportunities to shape future programs and services. Upcoming open houses: September 11, 2026 Newton Seniors Centre 13775 70 Ave Surrey, BC 11:30am-1:30pm October 6, 2026 Cloverdale Recreation Centre 6188 - 176th Street Surrey, BC 1:00pm-3:00pm October 21, 2026 Chuck Bailey Recreation Centre 13458 107A Avenue Surrey, BC 11:00am-1:00pm October 27, 2026 South Surrey Recreation & Arts Centre 14601 - 20 Avenue Surrey, BC 11:30am-1:00pm November 12, 2026 Guildford Recreation Centre 15105 - 105 Avenue Surrey, BC 12:00pm-2:00pm November 17, 2026 Fleetwood Community Centre 15996 - 84 Avenue Surrey, BC 12:00pm-2:00pm",
-      "category": "Community & festivals",
-      "sourceCategories": "Guildford Seniors",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "a1c80a32c38328d4",
-      "city": "Surrey",
-      "title": "The Clayton Coffee House",
-      "url": "https://www.surrey.ca/news-events/events/clayton-coffee-house",
-      "dateLabel": "September 11, 2026",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-11",
-      "time": "6:00pm - 7:30pm",
-      "location": "Performing Arts Studio at Clayton Community Centre, 7155 187a St, Surrey, BC V4N 6L9",
-      "description": "The Clayton Coffee House is a monthly performance opportunity for both aspiring and established poets, spoken-word artists, novelists, musicians, improvisers or comedians to share their work with the community. Attend for free Come out and cheer on local artists at these all-ages, drop-in events. Admission is free Capacity is limited Sign up to perform Are you an artist interested in performing at this event? Fill out our form with your contact information and a brief description of your act. Performers are given 5–8 minutes, with limited drop-in spots available on show day. Applications for the September 11th date are due by September 6. sign up Clayton Coffee House 2026 schedule Performance date Applications due September 11 September 6 October 23 October 11 November 27 November 15 This event is organized by the City's Community Art team.",
+      "title": "Ahead of Her Time Exhibit",
+      "url": "https://www.surrey.ca/news-events/events/ahead-of-her-time-exhibit",
+      "dateLabel": "September 12, 2026",
+      "startDate": "2026-09-12",
+      "endDate": "2026-09-12",
+      "time": "Time not published — check event link",
+      "location": "Stewart Hall, Historic Stewart Farm, 13723 Crescent Road, Surrey, BC",
+      "description": "Who is she? Elinor Dunsmuir was born in 1887 into the prominent, wealthy Dunsmuir family. As a young woman, Elinor was expected to behave according to the social rules of the upper class which she found difficult. Because of her family's wealth, Elinor had many opportunities to study music and art. She learned to play the violin and later continued her music education in New York and Germany. Elinor chose to stay in Europe as an adult. This may have been because Canada was not very accepting of LGBTQ+ people in the early 1900s. Elinor was open about being a lesbian and likely faced discrimination because of it. Her experiences influenced her music. She wrote love songs for women and composed pieces inspired by the ancient Greek poet Sappho. Elinor was a talented composer who created many different types of music, including art songs, piano concertos, ballets and Broadway-style musical pieces. Her work remains an important part of her legacy.",
       "category": "Arts & culture",
-      "sourceCategories": "Arts & Culture Community Art Music",
+      "sourceCategories": "South Surrey Arts & Culture Heritage Stewart Farm",
       "price": "Free",
       "isFree": true
     },
@@ -879,6 +863,22 @@
       "isFree": false
     },
     {
+      "id": "a9e19075c1d54b97",
+      "city": "Surrey",
+      "title": "Surrey Youth Stewardship Squad",
+      "url": "https://www.surrey.ca/news-events/events/surrey-youth-stewardship-squad",
+      "dateLabel": "September 25, 2026",
+      "startDate": "2026-09-25",
+      "endDate": "2026-09-25",
+      "time": "11:00am",
+      "location": "Serpentine Heights Park, 16151 92 Ave Meet at the last soccer field by the school",
+      "description": "Volunteer in parks with other youth Remove invasive plants, plant trees and shrubs, clean up litter, and enhance habitat within Surrey parks. Tools and training are provided. Bring your friends - all youth aged 13 to 18 are welcome! No experience is required. Important information Dress for the weather and bring water. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Fri. Sep 25 Tree and shrub planting 11:00am 1:00pm Serpentine Heights Park 16151 92 Ave Meet at the last soccer field by the school Fri. Oct 23 Tree and shrub planting 12:30pm 2:30pm Serpentine Heights Park 16151 92 Ave Meet at the last soccer field by the school Sat. Nov 14 Invasive plant removal 1:00pm 3:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Additional opportunities are shared online for registered Surrey Youth Stewardship Squad volunteers. Sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
+      "category": "Nature & outdoors",
+      "sourceCategories": "Parks & Environment Youth",
+      "price": "Drop-in",
+      "isFree": false
+    },
+    {
       "id": "9d587597b56a23b9",
       "city": "Surrey",
       "title": "Alt-Escape",
@@ -1567,6 +1567,22 @@
       "isFree": true
     },
     {
+      "id": "84b290d2e826526a",
+      "city": "Surrey",
+      "title": "Nature Work Parties",
+      "url": "https://www.surrey.ca/news-events/events/nature-work-parties",
+      "dateLabel": "October 17, 2026",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-17",
+      "time": "1:00pm",
+      "location": "Fraser Heights Park, 10588 - 160 St Meet between the two soccer fields behind the recreation centre",
+      "description": "Join us in caring for Surrey parks Remove invasive plants, plant native trees and shrubs, clean up litter, and enhance habitat within the park. Tools and training are provided. Bring your family and friends—all ages are welcome! Important information Dress for the weather and bring water. Drop in at one of two start times. Staggered start times help us give you a great orientation. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to strong winds or extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Sat. Oct 17 Tree and shrub planting 1:00pm 3:00pm Fraser Heights Park 10588 - 160 St Meet between the two soccer fields behind the recreation centre Sat. Nov 7 Tree and shrub planting 10:00am 12:00pm Robertson Drive Park 12714 - 92 Ave Meet near playground located off Robertson Drive Sat. Nov 14 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Feel free to drop in, or sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
+      "category": "Nature & outdoors",
+      "sourceCategories": "Parks & Environment",
+      "price": "Drop-in",
+      "isFree": false
+    },
+    {
       "id": "8ab8f2f187d88691",
       "city": "Surrey",
       "title": "Garden Work Parties",
@@ -1661,6 +1677,38 @@
       "sourceCategories": "Newton Community-Hosted",
       "price": "$65",
       "isFree": false
+    },
+    {
+      "id": "1a551b0a7d6cc2db",
+      "city": "Surrey",
+      "title": "Surrey Youth Stewardship Squad",
+      "url": "https://www.surrey.ca/news-events/events/surrey-youth-stewardship-squad",
+      "dateLabel": "October 23, 2026",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-23",
+      "time": "12:30pm",
+      "location": "Serpentine Heights Park, 16151 92 Ave Meet at the last soccer field by the school",
+      "description": "Volunteer in parks with other youth Remove invasive plants, plant trees and shrubs, clean up litter, and enhance habitat within Surrey parks. Tools and training are provided. Bring your friends - all youth aged 13 to 18 are welcome! No experience is required. Important information Dress for the weather and bring water. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Fri. Sep 25 Tree and shrub planting 11:00am 1:00pm Serpentine Heights Park 16151 92 Ave Meet at the last soccer field by the school Fri. Oct 23 Tree and shrub planting 12:30pm 2:30pm Serpentine Heights Park 16151 92 Ave Meet at the last soccer field by the school Sat. Nov 14 Invasive plant removal 1:00pm 3:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Additional opportunities are shared online for registered Surrey Youth Stewardship Squad volunteers. Sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
+      "category": "Nature & outdoors",
+      "sourceCategories": "Parks & Environment Youth",
+      "price": "Drop-in",
+      "isFree": false
+    },
+    {
+      "id": "ea0f3b273bfe58fe",
+      "city": "Surrey",
+      "title": "The Clayton Coffee House",
+      "url": "https://www.surrey.ca/news-events/events/clayton-coffee-house",
+      "dateLabel": "October 23, 2026",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-23",
+      "time": "6:00pm - 7:30pm",
+      "location": "Performing Arts Studio at Clayton Community Centre, 7155 187a St, Surrey, BC V4N 6L9",
+      "description": "The Clayton Coffee House is a monthly performance opportunity for both aspiring and established poets, spoken-word artists, novelists, musicians, improvisers or comedians to share their work with the community. Attend for free Come out and cheer on local artists at these all-ages, drop-in events. Admission is free Capacity is limited Sign up to perform Are you an artist interested in performing at this event? Fill out our form with your contact information and a brief description of your act. Performers are given 5–8 minutes, with limited drop-in spots available on show day. Applications for the September 11th date are due by September 6. sign up Clayton Coffee House 2026 schedule Performance date Applications due September 11 September 6 October 23 October 11 November 27 November 15 This event is organized by the City's Community Art team.",
+      "category": "Arts & culture",
+      "sourceCategories": "Arts & Culture Community Art Music",
+      "price": "Free",
+      "isFree": true
     },
     {
       "id": "2be3b954ac9fa58e",
@@ -1871,6 +1919,22 @@
       "isFree": false
     },
     {
+      "id": "e26b53abed3d5dfa",
+      "city": "Surrey",
+      "title": "Sensory Friendly Trick or Treating",
+      "url": "https://www.surrey.ca/arts-culture/museum-of-surrey/whats-on/sensory-friendly-trick-or-treating",
+      "dateLabel": "October 30, 2026",
+      "startDate": "2026-10-30",
+      "endDate": "2026-10-30",
+      "time": "4:00pm - 8:00pm",
+      "location": "17710 56a Ave, Surrey, BC V3S 5H8",
+      "description": "Bring your family for a gentle and enjoyable Halloween night — full of fun, creativity, and community connection! Experience a welcoming space for kids of all ages and abilities to enjoy Halloween at their own pace. Families can explore relaxed trick-or-treating stations, participate in festive crafts, and embark on a scavenger hunt throughout the galleries. This event features a calm, low-sensory environment with no loud noises, strobe lights, or jump scares. A sensory room and quiet spaces will also be available for anyone who needs a break. Admission is free, and the event is wheelchair and stroller accessible.",
+      "category": "Arts & culture",
+      "sourceCategories": "Cloverdale Children Museum of Surrey",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "47ce73a8aba0d5c0",
       "city": "Surrey",
       "title": "Community Tree Planting",
@@ -1932,6 +1996,22 @@
       "category": "Sports & wellness",
       "sourceCategories": "South Surrey Community-Hosted",
       "price": "$40",
+      "isFree": false
+    },
+    {
+      "id": "1d0c01a983ba140e",
+      "city": "Surrey",
+      "title": "Nature Work Parties",
+      "url": "https://www.surrey.ca/news-events/events/nature-work-parties",
+      "dateLabel": "November 7, 2026",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "time": "10:00am",
+      "location": "Robertson Drive Park, 12714 - 92 Ave Meet near playground located off Robertson Drive",
+      "description": "Join us in caring for Surrey parks Remove invasive plants, plant native trees and shrubs, clean up litter, and enhance habitat within the park. Tools and training are provided. Bring your family and friends—all ages are welcome! Important information Dress for the weather and bring water. Drop in at one of two start times. Staggered start times help us give you a great orientation. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to strong winds or extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Sat. Oct 17 Tree and shrub planting 1:00pm 3:00pm Fraser Heights Park 10588 - 160 St Meet between the two soccer fields behind the recreation centre Sat. Nov 7 Tree and shrub planting 10:00am 12:00pm Robertson Drive Park 12714 - 92 Ave Meet near playground located off Robertson Drive Sat. Nov 14 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Feel free to drop in, or sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
+      "category": "Nature & outdoors",
+      "sourceCategories": "Parks & Environment",
+      "price": "Drop-in",
       "isFree": false
     },
     {
@@ -2045,6 +2125,38 @@
       "sourceCategories": "Whalley and City Centre Arts & Culture Seniors Surrey Art Gallery Youth",
       "price": "Free",
       "isFree": true
+    },
+    {
+      "id": "8cf644f0349c4d30",
+      "city": "Surrey",
+      "title": "Nature Work Parties",
+      "url": "https://www.surrey.ca/news-events/events/nature-work-parties",
+      "dateLabel": "November 14, 2026",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-14",
+      "time": "10:00am & 10:30am",
+      "location": "Godwin Farm Biodiversity Preserve Park, 9016 164 St Meet at the parking lot located on 164 St",
+      "description": "Join us in caring for Surrey parks Remove invasive plants, plant native trees and shrubs, clean up litter, and enhance habitat within the park. Tools and training are provided. Bring your family and friends—all ages are welcome! Important information Dress for the weather and bring water. Drop in at one of two start times. Staggered start times help us give you a great orientation. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to strong winds or extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Sat. Oct 17 Tree and shrub planting 1:00pm 3:00pm Fraser Heights Park 10588 - 160 St Meet between the two soccer fields behind the recreation centre Sat. Nov 7 Tree and shrub planting 10:00am 12:00pm Robertson Drive Park 12714 - 92 Ave Meet near playground located off Robertson Drive Sat. Nov 14 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Feel free to drop in, or sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
+      "category": "Nature & outdoors",
+      "sourceCategories": "Parks & Environment",
+      "price": "Drop-in",
+      "isFree": false
+    },
+    {
+      "id": "7f86362613bc740b",
+      "city": "Surrey",
+      "title": "Surrey Youth Stewardship Squad",
+      "url": "https://www.surrey.ca/news-events/events/surrey-youth-stewardship-squad",
+      "dateLabel": "November 14, 2026",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-14",
+      "time": "1:00pm",
+      "location": "Godwin Farm Biodiversity Preserve Park, 9016 164 St Meet at the parking lot located on 164 St",
+      "description": "Volunteer in parks with other youth Remove invasive plants, plant trees and shrubs, clean up litter, and enhance habitat within Surrey parks. Tools and training are provided. Bring your friends - all youth aged 13 to 18 are welcome! No experience is required. Important information Dress for the weather and bring water. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Fri. Sep 25 Tree and shrub planting 11:00am 1:00pm Serpentine Heights Park 16151 92 Ave Meet at the last soccer field by the school Fri. Oct 23 Tree and shrub planting 12:30pm 2:30pm Serpentine Heights Park 16151 92 Ave Meet at the last soccer field by the school Sat. Nov 14 Invasive plant removal 1:00pm 3:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Additional opportunities are shared online for registered Surrey Youth Stewardship Squad volunteers. Sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
+      "category": "Nature & outdoors",
+      "sourceCategories": "Parks & Environment Youth",
+      "price": "Drop-in",
+      "isFree": false
     },
     {
       "id": "96ad9bccd0dca17c",
