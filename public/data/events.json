@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-14T11:41:35-07:00",
+  "updatedAt": "2026-09-15T10:41:48-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-09-14T11:41:35-07:00",
+      "updatedAt": "2026-09-15T10:41:48-07:00",
       "status": "ok",
-      "count": 164
+      "count": 165
     },
     "Richmond": {
-      "updatedAt": "2026-09-14T11:41:35-07:00",
+      "updatedAt": "2026-09-15T10:41:48-07:00",
       "status": "ok",
       "count": 22
     }
@@ -77,22 +77,6 @@
       "sourceCategories": "Culture Days Art",
       "price": "Free",
       "isFree": true
-    },
-    {
-      "id": "2528400e2e4b6c51",
-      "city": "Surrey",
-      "title": "Sensory Friendly Swims",
-      "url": "https://www.surrey.ca/news-events/events/sensory-friendly-swims",
-      "dateLabel": "September 14, 2026",
-      "startDate": "2026-09-14",
-      "endDate": "2026-09-14",
-      "time": "12:00pm - 2:00pm",
-      "location": "Various locations",
-      "description": "Sensory friendly swims are inclusive swim times for individuals and families looking for an environment with reduced noise. They are available for those who are autistic, have anxiety or other sensory processing needs, or anyone who feels they would benefit from a more supportive environment. There will be: Reduced noise & water features. No background music. No speaker announcements (whistles used only for emergencies). Encouraged use of paper towels instead of hand dryers using signage. Designated sensory friendly break rooms. Set clear times and transition warnings. Additional staff available for support. Schedule Guildford Recreation Centre Wednesday, November 18, 1pm to 3pm Wednesday, December 16, 1pm to 3pm Newton Recreation Centre Tuesday, September 22, 1pm to 3pm Wednesday, October 28, 1pm to 3pm Wednesday, November 25, 1pm to 3pm Tuesday, December 22, 1pm to 3pm South Surrey Indoor Pool Saturday, October 3, 12pm to 2pm Saturday, November 7, 12pm to 2pm Saturday, December 5, 12pm to 2pm Surrey Sport & Leisure Complex Monday, September 14, 12pm to 2pm Monday, October 5, 12pm to 2pm Monday, November 9, 12pm to 2pm Monday, December 14, 12pm to 2pm Borrow a sensory friendly kit Kits include: Noise-cancelling headphones, communication cards, fidget toys, ear plugs and sunglasses. Ask a staff member to borrow one. Learn more The City of Surrey is committed to providing a safe and welcoming environment for patrons with sensory sensitivities to continue recreating and participating in activities. Learn more about the City of Surrey's initiatives to enhance accessibility, remove barriers, and create a more inclusive community .",
-      "category": "Sports & wellness",
-      "sourceCategories": "Recreation",
-      "price": "Use your Recreation Surrey pass or pay for a drop-in admission .",
-      "isFree": false
     },
     {
       "id": "c405bba6c3c74169",
@@ -415,6 +399,22 @@
       "isFree": true
     },
     {
+      "id": "fa89861299e78c77",
+      "city": "Surrey",
+      "title": "South Rock Art Tour - Chai, Chat & Art Exhibition",
+      "url": "https://www.surrey.ca/news-events/events/south-rock-art-tour-chai-chat-art-exhibition",
+      "dateLabel": "September 19, 2026",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "time": "10:00am - 4:00pm",
+      "location": "Jon Lavoie Fine Art Gallery, 966 McNally Creek Drive, Surrey, BC.",
+      "description": "Visit a local art gallery as part of the South Rock Art Tour, a two-day event featuring local art, refreshments and special activities. Event highlights Chai and cookies Free art giveaway Unveiling of the 2027 art calendar Free 2026 art calendar for the first 10 visitors No tax weekend and 20% off select items This event is held in partnership with the South Rock Art Tour .",
+      "category": "Arts & culture",
+      "sourceCategories": "South Surrey Community-Hosted",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "2085a52fb246ee6c",
       "city": "Richmond",
       "title": "The Big Pirate Run",
@@ -712,7 +712,7 @@
       "endDate": "2026-09-26",
       "time": "10am-1pm",
       "location": "Fleetwood Park | 15802 80 Avenue National Tree Day !",
-      "description": "Plant trees & shrubs in your community park and help grow the urban forest! Everyone is welcome. Tools and training provided. Dress to get dirty & wear sturdy closed-toe shoes. Plantings take place rain or shine but could be cancelled in high winds. Upcoming dates & locations Date Time Location Saturday, September 26 10am-1pm Fleetwood Park | 15802 80 Avenue National Tree Day ! Saturday, October 3 10am-12pm Chantrell Creek Park | 13741 24 Avenue *parking available at Chantrell Creek Elementary Saturday, October 10 10am-12pm William Beagle Park | 12944 92A Avenue *parking available at David Brankin Elementary Saturday, October 17 10am-12pm Fraser Heights Park | 10588 160 Street Saturday, October 31 10am-12pm Clayton Park | 18513 70 Avenue Halloween in the Urban Forest* *Celebrate Halloween by planting native trees and shrubs to create habitats for bats, owls and other wildlife. Wear your costume and enjoy some Halloween-themed fun in the urban forest. More ways to help Plant a tree at home Surrey residents can buy quality trees at an affordable price this fall. Learn more Help your neighbourhood trees thrive Healthy trees make healthier communities. Learn some simple tips to care for City street trees. Learn more",
+      "description": "Plant trees & shrubs in your community park and help grow the urban forest! Everyone is welcome. Tools and training provided. Dress to get dirty & wear sturdy closed-toe shoes. Plantings take place rain or shine but could be cancelled in high winds. Upcoming dates & locations Date Time Location Saturday, September 26 10am-1pm Fleetwood Park | 15802 80 Avenue National Tree Day ! Saturday, October 3 10am-12pm Chantrell Creek Park | 13741 24 Avenue *parking available at Chantrell Creek Elementary Saturday, October 10 10am-12pm William Beagle Park | 12944 92A Avenue *parking available at David Brankin Elementary Saturday, October 17 10am-12pm Fraser Heights Park | 10588 160 Street Saturday, October 31 10am-12pm Clayton Park | 18513 70 Avenue Halloween in the Urban Forest* *Celebrate Halloween by planting native trees and shrubs to create habitats for bats, owls and other wildlife. Wear your costume and enjoy some Halloween-themed fun in the urban forest. More ways to help Plant a tree at home Surrey residents can buy quality trees at an affordable price this fall. Learn more Help your neighbourhood trees thrive Healthy trees make healthier communities. Learn some simple tips to care for City street trees. Learn more This tree planting is sponsored by",
       "category": "Nature & outdoors",
       "sourceCategories": "Parks & Environment",
       "price": "Free, drop-in.",
@@ -1016,7 +1016,7 @@
       "endDate": "2026-10-03",
       "time": "10am-12pm",
       "location": "Chantrell Creek Park | 13741 24 Avenue *parking available at Chantrell Creek Elementary",
-      "description": "Plant trees & shrubs in your community park and help grow the urban forest! Everyone is welcome. Tools and training provided. Dress to get dirty & wear sturdy closed-toe shoes. Plantings take place rain or shine but could be cancelled in high winds. Upcoming dates & locations Date Time Location Saturday, September 26 10am-1pm Fleetwood Park | 15802 80 Avenue National Tree Day ! Saturday, October 3 10am-12pm Chantrell Creek Park | 13741 24 Avenue *parking available at Chantrell Creek Elementary Saturday, October 10 10am-12pm William Beagle Park | 12944 92A Avenue *parking available at David Brankin Elementary Saturday, October 17 10am-12pm Fraser Heights Park | 10588 160 Street Saturday, October 31 10am-12pm Clayton Park | 18513 70 Avenue Halloween in the Urban Forest* *Celebrate Halloween by planting native trees and shrubs to create habitats for bats, owls and other wildlife. Wear your costume and enjoy some Halloween-themed fun in the urban forest. More ways to help Plant a tree at home Surrey residents can buy quality trees at an affordable price this fall. Learn more Help your neighbourhood trees thrive Healthy trees make healthier communities. Learn some simple tips to care for City street trees. Learn more",
+      "description": "Plant trees & shrubs in your community park and help grow the urban forest! Everyone is welcome. Tools and training provided. Dress to get dirty & wear sturdy closed-toe shoes. Plantings take place rain or shine but could be cancelled in high winds. Upcoming dates & locations Date Time Location Saturday, September 26 10am-1pm Fleetwood Park | 15802 80 Avenue National Tree Day ! Saturday, October 3 10am-12pm Chantrell Creek Park | 13741 24 Avenue *parking available at Chantrell Creek Elementary Saturday, October 10 10am-12pm William Beagle Park | 12944 92A Avenue *parking available at David Brankin Elementary Saturday, October 17 10am-12pm Fraser Heights Park | 10588 160 Street Saturday, October 31 10am-12pm Clayton Park | 18513 70 Avenue Halloween in the Urban Forest* *Celebrate Halloween by planting native trees and shrubs to create habitats for bats, owls and other wildlife. Wear your costume and enjoy some Halloween-themed fun in the urban forest. More ways to help Plant a tree at home Surrey residents can buy quality trees at an affordable price this fall. Learn more Help your neighbourhood trees thrive Healthy trees make healthier communities. Learn some simple tips to care for City street trees. Learn more This tree planting is sponsored by",
       "category": "Nature & outdoors",
       "sourceCategories": "Parks & Environment",
       "price": "Free, drop-in.",
@@ -1096,7 +1096,7 @@
       "endDate": "2026-10-03",
       "time": "6:00pm - 9:00pm",
       "location": "Surrey Art Gallery - 13750 88 Ave, Surrey, BC",
-      "description": "Take in the following exhibits at the fall opening: Farheen Haq and Russna Kaur: In the Folds of Memory tender threads S F Ho: Triple Burner Flower Field Marking the Seasons The evening will begin with a conversation between exhibiting artists Farheen Haq and Russna Kaur with Associate Curator of Engagement Jas Lally. After, join exhibiting artist S F Ho in dialogue with Curatorial Assistant Zoe Yang. Enjoy artmaking with saga shop artist Fiadh of Foxy Verve Atelier .",
+      "description": "Take in the following exhibits at the fall opening: Farheen Haq and Russna Kaur: In the Folds of Memory tender threads S F Ho: TRIPLE BURNER FLOWER FIELD Marking the Seasons The evening will begin with a conversation between exhibiting artists Farheen Haq and Russna Kaur with Associate Curator of Engagement Jas Lally. After, join exhibiting artist S F Ho in dialogue with Curatorial Assistant Zoe Yang. Enjoy artmaking with saga shop artist Fiadh of Foxy Verve Atelier .",
       "category": "Arts & culture",
       "sourceCategories": "Whalley and City Centre Arts & Culture Surrey Art Gallery",
       "price": "Free",
@@ -1112,7 +1112,7 @@
       "endDate": "2026-10-04",
       "time": "2:00pm - 3:00pm",
       "location": "Surrey Art Gallery, 13750 88 Ave, Surrey, BC",
-      "description": "Join artist S F Ho for a tour of their exhibit Triple Burner Flower Field . Live translation will be provided in Mandarin and Cantonese. Hosted in partnership with Dandelion Action and Learning Collective and supported by the David Lam Centre at Simon Fraser University. Space is limited. Contact [email protected] to register. 與藝術家 S F Ho 一同參觀其個展 《三焦花田》。導覽将提供普通話及 粵 語即時 翻譯。位置有限，請電郵至 [email protected] 預約。",
+      "description": "Join artist S F Ho for a tour of their exhibit TRIPLE BURNER FLOWER FIELD . Live translation will be provided in Mandarin and Cantonese. Hosted in partnership with Dandelion Action and Learning Collective and supported by the David Lam Centre at Simon Fraser University. Space is limited. Contact [email protected] to register. 與藝術家 S F Ho 一同參觀其個展 《三焦花田》。導覽将提供普通話及 粵 語即時 翻譯。位置有限，請電郵至 [email protected] 預約。",
       "category": "Arts & culture",
       "sourceCategories": "Whalley and City Centre Arts & Culture Surrey Art Gallery",
       "price": "Free",
@@ -1240,7 +1240,7 @@
       "endDate": "2026-10-10",
       "time": "10am-12pm",
       "location": "William Beagle Park | 12944 92A Avenue *parking available at David Brankin Elementary",
-      "description": "Plant trees & shrubs in your community park and help grow the urban forest! Everyone is welcome. Tools and training provided. Dress to get dirty & wear sturdy closed-toe shoes. Plantings take place rain or shine but could be cancelled in high winds. Upcoming dates & locations Date Time Location Saturday, September 26 10am-1pm Fleetwood Park | 15802 80 Avenue National Tree Day ! Saturday, October 3 10am-12pm Chantrell Creek Park | 13741 24 Avenue *parking available at Chantrell Creek Elementary Saturday, October 10 10am-12pm William Beagle Park | 12944 92A Avenue *parking available at David Brankin Elementary Saturday, October 17 10am-12pm Fraser Heights Park | 10588 160 Street Saturday, October 31 10am-12pm Clayton Park | 18513 70 Avenue Halloween in the Urban Forest* *Celebrate Halloween by planting native trees and shrubs to create habitats for bats, owls and other wildlife. Wear your costume and enjoy some Halloween-themed fun in the urban forest. More ways to help Plant a tree at home Surrey residents can buy quality trees at an affordable price this fall. Learn more Help your neighbourhood trees thrive Healthy trees make healthier communities. Learn some simple tips to care for City street trees. Learn more",
+      "description": "Plant trees & shrubs in your community park and help grow the urban forest! Everyone is welcome. Tools and training provided. Dress to get dirty & wear sturdy closed-toe shoes. Plantings take place rain or shine but could be cancelled in high winds. Upcoming dates & locations Date Time Location Saturday, September 26 10am-1pm Fleetwood Park | 15802 80 Avenue National Tree Day ! Saturday, October 3 10am-12pm Chantrell Creek Park | 13741 24 Avenue *parking available at Chantrell Creek Elementary Saturday, October 10 10am-12pm William Beagle Park | 12944 92A Avenue *parking available at David Brankin Elementary Saturday, October 17 10am-12pm Fraser Heights Park | 10588 160 Street Saturday, October 31 10am-12pm Clayton Park | 18513 70 Avenue Halloween in the Urban Forest* *Celebrate Halloween by planting native trees and shrubs to create habitats for bats, owls and other wildlife. Wear your costume and enjoy some Halloween-themed fun in the urban forest. More ways to help Plant a tree at home Surrey residents can buy quality trees at an affordable price this fall. Learn more Help your neighbourhood trees thrive Healthy trees make healthier communities. Learn some simple tips to care for City street trees. Learn more This tree planting is sponsored by",
       "category": "Nature & outdoors",
       "sourceCategories": "Parks & Environment",
       "price": "Free, drop-in.",
@@ -1336,7 +1336,7 @@
       "endDate": "2026-10-17",
       "time": "10am-12pm",
       "location": "Fraser Heights Park | 10588 160 Street",
-      "description": "Plant trees & shrubs in your community park and help grow the urban forest! Everyone is welcome. Tools and training provided. Dress to get dirty & wear sturdy closed-toe shoes. Plantings take place rain or shine but could be cancelled in high winds. Upcoming dates & locations Date Time Location Saturday, September 26 10am-1pm Fleetwood Park | 15802 80 Avenue National Tree Day ! Saturday, October 3 10am-12pm Chantrell Creek Park | 13741 24 Avenue *parking available at Chantrell Creek Elementary Saturday, October 10 10am-12pm William Beagle Park | 12944 92A Avenue *parking available at David Brankin Elementary Saturday, October 17 10am-12pm Fraser Heights Park | 10588 160 Street Saturday, October 31 10am-12pm Clayton Park | 18513 70 Avenue Halloween in the Urban Forest* *Celebrate Halloween by planting native trees and shrubs to create habitats for bats, owls and other wildlife. Wear your costume and enjoy some Halloween-themed fun in the urban forest. More ways to help Plant a tree at home Surrey residents can buy quality trees at an affordable price this fall. Learn more Help your neighbourhood trees thrive Healthy trees make healthier communities. Learn some simple tips to care for City street trees. Learn more",
+      "description": "Plant trees & shrubs in your community park and help grow the urban forest! Everyone is welcome. Tools and training provided. Dress to get dirty & wear sturdy closed-toe shoes. Plantings take place rain or shine but could be cancelled in high winds. Upcoming dates & locations Date Time Location Saturday, September 26 10am-1pm Fleetwood Park | 15802 80 Avenue National Tree Day ! Saturday, October 3 10am-12pm Chantrell Creek Park | 13741 24 Avenue *parking available at Chantrell Creek Elementary Saturday, October 10 10am-12pm William Beagle Park | 12944 92A Avenue *parking available at David Brankin Elementary Saturday, October 17 10am-12pm Fraser Heights Park | 10588 160 Street Saturday, October 31 10am-12pm Clayton Park | 18513 70 Avenue Halloween in the Urban Forest* *Celebrate Halloween by planting native trees and shrubs to create habitats for bats, owls and other wildlife. Wear your costume and enjoy some Halloween-themed fun in the urban forest. More ways to help Plant a tree at home Surrey residents can buy quality trees at an affordable price this fall. Learn more Help your neighbourhood trees thrive Healthy trees make healthier communities. Learn some simple tips to care for City street trees. Learn more This tree planting is sponsored by",
       "category": "Nature & outdoors",
       "sourceCategories": "Parks & Environment",
       "price": "Free, drop-in.",
@@ -1736,7 +1736,7 @@
       "endDate": "2026-10-31",
       "time": "10am-12pm",
       "location": "Clayton Park | 18513 70 Avenue Halloween in the Urban Forest*",
-      "description": "Plant trees & shrubs in your community park and help grow the urban forest! Everyone is welcome. Tools and training provided. Dress to get dirty & wear sturdy closed-toe shoes. Plantings take place rain or shine but could be cancelled in high winds. Upcoming dates & locations Date Time Location Saturday, September 26 10am-1pm Fleetwood Park | 15802 80 Avenue National Tree Day ! Saturday, October 3 10am-12pm Chantrell Creek Park | 13741 24 Avenue *parking available at Chantrell Creek Elementary Saturday, October 10 10am-12pm William Beagle Park | 12944 92A Avenue *parking available at David Brankin Elementary Saturday, October 17 10am-12pm Fraser Heights Park | 10588 160 Street Saturday, October 31 10am-12pm Clayton Park | 18513 70 Avenue Halloween in the Urban Forest* *Celebrate Halloween by planting native trees and shrubs to create habitats for bats, owls and other wildlife. Wear your costume and enjoy some Halloween-themed fun in the urban forest. More ways to help Plant a tree at home Surrey residents can buy quality trees at an affordable price this fall. Learn more Help your neighbourhood trees thrive Healthy trees make healthier communities. Learn some simple tips to care for City street trees. Learn more",
+      "description": "Plant trees & shrubs in your community park and help grow the urban forest! Everyone is welcome. Tools and training provided. Dress to get dirty & wear sturdy closed-toe shoes. Plantings take place rain or shine but could be cancelled in high winds. Upcoming dates & locations Date Time Location Saturday, September 26 10am-1pm Fleetwood Park | 15802 80 Avenue National Tree Day ! Saturday, October 3 10am-12pm Chantrell Creek Park | 13741 24 Avenue *parking available at Chantrell Creek Elementary Saturday, October 10 10am-12pm William Beagle Park | 12944 92A Avenue *parking available at David Brankin Elementary Saturday, October 17 10am-12pm Fraser Heights Park | 10588 160 Street Saturday, October 31 10am-12pm Clayton Park | 18513 70 Avenue Halloween in the Urban Forest* *Celebrate Halloween by planting native trees and shrubs to create habitats for bats, owls and other wildlife. Wear your costume and enjoy some Halloween-themed fun in the urban forest. More ways to help Plant a tree at home Surrey residents can buy quality trees at an affordable price this fall. Learn more Help your neighbourhood trees thrive Healthy trees make healthier communities. Learn some simple tips to care for City street trees. Learn more This tree planting is sponsored by",
       "category": "Nature & outdoors",
       "sourceCategories": "Parks & Environment",
       "price": "Free, drop-in.",
