@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-15T10:41:48-07:00",
+  "updatedAt": "2026-09-16T10:39:13-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-09-15T10:41:48-07:00",
+      "updatedAt": "2026-09-16T10:39:13-07:00",
       "status": "ok",
-      "count": 165
+      "count": 163
     },
     "Richmond": {
-      "updatedAt": "2026-09-15T10:41:48-07:00",
+      "updatedAt": "2026-09-16T10:39:13-07:00",
       "status": "ok",
-      "count": 22
+      "count": 21
     }
   },
   "events": [
@@ -77,38 +77,6 @@
       "sourceCategories": "Culture Days Art",
       "price": "Free",
       "isFree": true
-    },
-    {
-      "id": "c405bba6c3c74169",
-      "city": "Surrey",
-      "title": "Living Kidney Donation Awareness Week Event",
-      "url": "https://www.surrey.ca/news-events/events/living-kidney-donation-awareness-week-event",
-      "dateLabel": "September 15, 2026",
-      "startDate": "2026-09-15",
-      "endDate": "2026-09-15",
-      "time": "4:30pm - 6:30pm",
-      "location": "Surrey Libraries - City Centre Branch (Room 120), 10350 University Dr, Surrey, BC",
-      "description": "Join us for an inspiring and informative event in Surrey featuring personal stories from living kidney donors and kidney transplant recipients, along with insights from a specialist kidney transplant physician. Hear firsthand about their experiences and learn more about the life-changing impact of organ donation, living kidney donation, and kidney transplantation. This event aims to raise awareness and encourage meaningful conversations about organ and living kidney donation within the South Asian community. Attendees will have an opportunity to learn, ask questions, and gain a better understanding of the donation and transplant journey. Information will be provided in both English and Punjabi.",
-      "category": "Community & festivals",
-      "sourceCategories": "Whalley and City Centre Community-Hosted",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "aaa48c5449d66a6e",
-      "city": "Richmond",
-      "title": "Tee Cup Ladies Charity Golf Tournament",
-      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19106",
-      "dateLabel": "Tuesday, Sep 15, 2026",
-      "startDate": "2026-09-15",
-      "endDate": "2026-09-15",
-      "time": "- Registration begins: 11:30am - Shotgun Start: 1:00pm - Dinner approximately: 5:00pm - Event Ends approximately: 8:30pm",
-      "location": "9911 Sidaway Rd",
-      "description": "Individual golfers and foursomes are invited to join us for this fundraising event benefitting Touchstone Family Association's Front Porch program. The theme is Women Making a Difference. Only women can play but anyone can support the Front Porch by sponsoring or donating. Visit us to register: https://www.teecupgolf.com/index.php/registration A great opportunity to enjoy a memorable day of golf while making a meaningful impact in our community. Contact Us for more details: 604 279 5599 or touchstone@touchfam.ca More Information This event is for Adult (Ages 18+) & 55+ (Ages 55 and over) This is a partially accessible site. $175 for an individual golfer and $700 for a foursome. Includes Golf, Lunch, Dinner, prizes, auction and more.",
-      "category": "Sports & wellness",
-      "sourceCategories": "Sports Tournaments Golf",
-      "price": "",
-      "isFree": false
     },
     {
       "id": "05a14460a1d77ba6",
@@ -536,7 +504,7 @@
       "endDate": "2026-09-22",
       "time": "1:00pm - 3:00pm",
       "location": "Various locations",
-      "description": "Sensory friendly swims are inclusive swim times for individuals and families looking for an environment with reduced noise. They are available for those who are autistic, have anxiety or other sensory processing needs, or anyone who feels they would benefit from a more supportive environment. There will be: Reduced noise & water features. No background music. No speaker announcements (whistles used only for emergencies). Encouraged use of paper towels instead of hand dryers using signage. Designated sensory friendly break rooms. Set clear times and transition warnings. Additional staff available for support. Schedule Guildford Recreation Centre Wednesday, November 18, 1pm to 3pm Wednesday, December 16, 1pm to 3pm Newton Recreation Centre Tuesday, September 22, 1pm to 3pm Wednesday, October 28, 1pm to 3pm Wednesday, November 25, 1pm to 3pm Tuesday, December 22, 1pm to 3pm South Surrey Indoor Pool Saturday, October 3, 12pm to 2pm Saturday, November 7, 12pm to 2pm Saturday, December 5, 12pm to 2pm Surrey Sport & Leisure Complex Monday, September 14, 12pm to 2pm Monday, October 5, 12pm to 2pm Monday, November 9, 12pm to 2pm Monday, December 14, 12pm to 2pm Borrow a sensory friendly kit Kits include: Noise-cancelling headphones, communication cards, fidget toys, ear plugs and sunglasses. Ask a staff member to borrow one. Learn more The City of Surrey is committed to providing a safe and welcoming environment for patrons with sensory sensitivities to continue recreating and participating in activities. Learn more about the City of Surrey's initiatives to enhance accessibility, remove barriers, and create a more inclusive community .",
+      "description": "Sensory friendly swims are inclusive swim times for individuals and families looking for an environment with reduced noise. They are available for those who are autistic, have anxiety or other sensory processing needs, or anyone who feels they would benefit from a more supportive environment. There will be: Reduced noise & water features. No background music. No speaker announcements (whistles used only for emergencies). Encouraged use of paper towels instead of hand dryers using signage. Designated sensory friendly break rooms. Set clear times and transition warnings. Additional staff available for support. Schedule Guildford Recreation Centre Wednesday, November 18, 1pm to 3pm Wednesday, December 16, 1pm to 3pm Newton Recreation Centre Tuesday, September 22, 1pm to 3pm Wednesday, October 28, 1pm to 3pm Wednesday, November 25, 1pm to 3pm Tuesday, December 22, 1pm to 3pm South Surrey Indoor Pool Saturday, October 3, 12pm to 2pm Saturday, November 7, 12pm to 2pm Saturday, December 5, 12pm to 2pm Surrey Sport & Leisure Complex Monday, October 5, 12pm to 2pm Monday, November 9, 12pm to 2pm Monday, December 14, 12pm to 2pm Borrow a sensory friendly kit Kits include: Noise-cancelling headphones, communication cards, fidget toys, ear plugs and sunglasses. Ask a staff member to borrow one. Learn more The City of Surrey is committed to providing a safe and welcoming environment for patrons with sensory sensitivities to continue recreating and participating in activities. Learn more about the City of Surrey's initiatives to enhance accessibility, remove barriers, and create a more inclusive community .",
       "category": "Sports & wellness",
       "sourceCategories": "Recreation",
       "price": "Use your Recreation Surrey pass or pay for a drop-in admission .",
@@ -1048,7 +1016,7 @@
       "endDate": "2026-10-03",
       "time": "12:00pm - 2:00pm",
       "location": "Various locations",
-      "description": "Sensory friendly swims are inclusive swim times for individuals and families looking for an environment with reduced noise. They are available for those who are autistic, have anxiety or other sensory processing needs, or anyone who feels they would benefit from a more supportive environment. There will be: Reduced noise & water features. No background music. No speaker announcements (whistles used only for emergencies). Encouraged use of paper towels instead of hand dryers using signage. Designated sensory friendly break rooms. Set clear times and transition warnings. Additional staff available for support. Schedule Guildford Recreation Centre Wednesday, November 18, 1pm to 3pm Wednesday, December 16, 1pm to 3pm Newton Recreation Centre Tuesday, September 22, 1pm to 3pm Wednesday, October 28, 1pm to 3pm Wednesday, November 25, 1pm to 3pm Tuesday, December 22, 1pm to 3pm South Surrey Indoor Pool Saturday, October 3, 12pm to 2pm Saturday, November 7, 12pm to 2pm Saturday, December 5, 12pm to 2pm Surrey Sport & Leisure Complex Monday, September 14, 12pm to 2pm Monday, October 5, 12pm to 2pm Monday, November 9, 12pm to 2pm Monday, December 14, 12pm to 2pm Borrow a sensory friendly kit Kits include: Noise-cancelling headphones, communication cards, fidget toys, ear plugs and sunglasses. Ask a staff member to borrow one. Learn more The City of Surrey is committed to providing a safe and welcoming environment for patrons with sensory sensitivities to continue recreating and participating in activities. Learn more about the City of Surrey's initiatives to enhance accessibility, remove barriers, and create a more inclusive community .",
+      "description": "Sensory friendly swims are inclusive swim times for individuals and families looking for an environment with reduced noise. They are available for those who are autistic, have anxiety or other sensory processing needs, or anyone who feels they would benefit from a more supportive environment. There will be: Reduced noise & water features. No background music. No speaker announcements (whistles used only for emergencies). Encouraged use of paper towels instead of hand dryers using signage. Designated sensory friendly break rooms. Set clear times and transition warnings. Additional staff available for support. Schedule Guildford Recreation Centre Wednesday, November 18, 1pm to 3pm Wednesday, December 16, 1pm to 3pm Newton Recreation Centre Tuesday, September 22, 1pm to 3pm Wednesday, October 28, 1pm to 3pm Wednesday, November 25, 1pm to 3pm Tuesday, December 22, 1pm to 3pm South Surrey Indoor Pool Saturday, October 3, 12pm to 2pm Saturday, November 7, 12pm to 2pm Saturday, December 5, 12pm to 2pm Surrey Sport & Leisure Complex Monday, October 5, 12pm to 2pm Monday, November 9, 12pm to 2pm Monday, December 14, 12pm to 2pm Borrow a sensory friendly kit Kits include: Noise-cancelling headphones, communication cards, fidget toys, ear plugs and sunglasses. Ask a staff member to borrow one. Learn more The City of Surrey is committed to providing a safe and welcoming environment for patrons with sensory sensitivities to continue recreating and participating in activities. Learn more about the City of Surrey's initiatives to enhance accessibility, remove barriers, and create a more inclusive community .",
       "category": "Sports & wellness",
       "sourceCategories": "Recreation",
       "price": "Use your Recreation Surrey pass or pay for a drop-in admission .",
@@ -1067,22 +1035,6 @@
       "description": "Join us for displays of hand-dye textiles using plants from our garden, hands-on activities for children, tours of the textile dye garden, demonstrations of spinning and weaving, and much more.",
       "category": "Arts & culture",
       "sourceCategories": "Cloverdale Arts & Culture Children Museum of Surrey",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "6550d388deddda6a",
-      "city": "Surrey",
-      "title": "White Rock & South Surrey Culture Crawl",
-      "url": "https://www.surrey.ca/news-events/events/white-rock-south-surrey-culture-crawl",
-      "dateLabel": "October 3, 2026 - October 4, 2026",
-      "startDate": "2026-10-03",
-      "endDate": "2026-10-04",
-      "time": "Time not published — check event link",
-      "location": "Venues throughout Surrey and White Rock",
-      "description": "Celebrate the vibrant arts, culture, and heritage of the Semiahmoo Peninsula during the White Rock & Surrey Culture Crawl , happening this fall over two exciting days. On October 3 and 4, 2026, explore local creativity through art exhibits, live music, heritage displays, theatre, guided tours, and more—all hosted at venues across the community. This self-guided cultural experience invites residents and visitors alike to discover the people, stories, and spaces that shape our region’s creative identity. Learn more",
-      "category": "Arts & culture",
-      "sourceCategories": "South Surrey Arts & Culture Community Art",
       "price": "Free",
       "isFree": true
     },
@@ -1149,6 +1101,22 @@
       "sourceCategories": "Public Meetings & Open Houses",
       "price": "Free",
       "isFree": true
+    },
+    {
+      "id": "3ed60691c325e497",
+      "city": "Surrey",
+      "title": "Sensory Friendly Swims",
+      "url": "https://www.surrey.ca/news-events/events/sensory-friendly-swims",
+      "dateLabel": "October 5, 2026",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-05",
+      "time": "12:00pm - 2:00pm",
+      "location": "Various locations",
+      "description": "Sensory friendly swims are inclusive swim times for individuals and families looking for an environment with reduced noise. They are available for those who are autistic, have anxiety or other sensory processing needs, or anyone who feels they would benefit from a more supportive environment. There will be: Reduced noise & water features. No background music. No speaker announcements (whistles used only for emergencies). Encouraged use of paper towels instead of hand dryers using signage. Designated sensory friendly break rooms. Set clear times and transition warnings. Additional staff available for support. Schedule Guildford Recreation Centre Wednesday, November 18, 1pm to 3pm Wednesday, December 16, 1pm to 3pm Newton Recreation Centre Tuesday, September 22, 1pm to 3pm Wednesday, October 28, 1pm to 3pm Wednesday, November 25, 1pm to 3pm Tuesday, December 22, 1pm to 3pm South Surrey Indoor Pool Saturday, October 3, 12pm to 2pm Saturday, November 7, 12pm to 2pm Saturday, December 5, 12pm to 2pm Surrey Sport & Leisure Complex Monday, October 5, 12pm to 2pm Monday, November 9, 12pm to 2pm Monday, December 14, 12pm to 2pm Borrow a sensory friendly kit Kits include: Noise-cancelling headphones, communication cards, fidget toys, ear plugs and sunglasses. Ask a staff member to borrow one. Learn more The City of Surrey is committed to providing a safe and welcoming environment for patrons with sensory sensitivities to continue recreating and participating in activities. Learn more about the City of Surrey's initiatives to enhance accessibility, remove barriers, and create a more inclusive community .",
+      "category": "Sports & wellness",
+      "sourceCategories": "Recreation",
+      "price": "Use your Recreation Surrey pass or pay for a drop-in admission .",
+      "isFree": false
     },
     {
       "id": "29dbcf18c7eaaa14",
