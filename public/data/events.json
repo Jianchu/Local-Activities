@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-16T10:39:13-07:00",
+  "updatedAt": "2026-09-17T10:39:32-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-09-16T10:39:13-07:00",
+      "updatedAt": "2026-09-17T10:39:32-07:00",
       "status": "ok",
-      "count": 163
+      "count": 171
     },
     "Richmond": {
-      "updatedAt": "2026-09-16T10:39:13-07:00",
+      "updatedAt": "2026-09-17T10:39:32-07:00",
       "status": "ok",
-      "count": 21
+      "count": 22
     }
   },
   "events": [
@@ -445,6 +445,22 @@
       "sourceCategories": "South Surrey Community-Hosted",
       "price": "$75",
       "isFree": false
+    },
+    {
+      "id": "1490f13bb3b1a8b1",
+      "city": "Surrey",
+      "title": "South Rock Art Tour - Chai, Chat & Art Exhibition",
+      "url": "https://www.surrey.ca/news-events/events/south-rock-art-tour-chai-chat-art-exhibition",
+      "dateLabel": "September 20, 2026",
+      "startDate": "2026-09-20",
+      "endDate": "2026-09-20",
+      "time": "10:00am - 4:00pm",
+      "location": "Jon Lavoie Fine Art Gallery, 966 McNally Creek Drive, Surrey, BC.",
+      "description": "Visit a local art gallery as part of the South Rock Art Tour, a two-day event featuring local art, refreshments and special activities. Event highlights Chai and cookies Free art giveaway Unveiling of the 2027 art calendar Free 2026 art calendar for the first 10 visitors No tax weekend and 20% off select items This event is held in partnership with the South Rock Art Tour .",
+      "category": "Arts & culture",
+      "sourceCategories": "South Surrey Community-Hosted",
+      "price": "Free",
+      "isFree": true
     },
     {
       "id": "896343b759929770",
@@ -943,20 +959,20 @@
       "isFree": false
     },
     {
-      "id": "140b62e03fbb76be",
-      "city": "Surrey",
-      "title": "5th Annual International Sikh Research Summit",
-      "url": "https://www.surrey.ca/news-events/events/5th-annual-international-sikh-research-summit",
-      "dateLabel": "October 3, 2026 - October 4, 2026",
-      "startDate": "2026-10-03",
-      "endDate": "2026-10-04",
-      "time": "Time not published — check event link",
-      "location": "Surrey City Hall, 13450 104 Ave, Surrey, BC",
-      "description": "Guru Nanak Institute (GNI) is proud to host its 5th Annual International Sikh Research Summit on October 3–4, 2026, at Surrey City Hall in Surrey, British Columbia. This year's theme, \"Curiosity becomes Scholarship. Voices become Impact.\", celebrates the power of research, dialogue, and community collaboration in shaping the future. Day 1 – \"Curiosity becomes Scholarship\" will feature a keynote presentation, international research presentations, youth talks, and discussions exploring Sikh studies, history, culture, education, business, technology, and interdisciplinary research. The day will end with an evening dinner event and a fireside chat with the Honourable Baltej Singh Dhillon, Senator. Day 2 – \"Voices become Impact\" will focus on community engagement through presentations on \"Where have we been?\", \" Where are we now and where are we going?\", rapid-fire presentations by Sikh organizations, a panel discussion on the evolving role of Gurduaras, and open discussions addressing current community issues, challenges, and collaborative solutions for \"Sarbat da Bhala.\" Whether you are an academic, researcher, educator, professional, student, community leader, policy maker, or member of the public, the Summit offers a unique opportunity to learn about global research, share ideas for collaborations, build professional and personal connections, and contribute to meaningful conversations that strengthen scholarship and community impact. Learn more",
-      "category": "Community & festivals",
-      "sourceCategories": "Whalley and City Centre Community-Hosted",
-      "price": "$50",
-      "isFree": false
+      "id": "6d732c3cbd7f996f",
+      "city": "Richmond",
+      "title": "Go Golf! Junior Clinic",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19143",
+      "dateLabel": "Friday, Oct 02, 2026",
+      "startDate": "2026-10-02",
+      "endDate": "2026-10-02",
+      "time": "4:30-6:00pm",
+      "location": "5460 No. 7 Rd",
+      "description": "Beginner introduction to golf, taught by PGA of Canada Professionals, plus receive a tee gift and refreshments sponsored by Cam Clark Ford Richmond. More Information This event is for Child (Ages 6-12) This is an accessible site. This event is free.",
+      "category": "Sports & wellness",
+      "sourceCategories": "Sports & Recreation Events Sports Event",
+      "price": "Free",
+      "isFree": true
     },
     {
       "id": "e9bf2f6f646b0bba",
@@ -1035,6 +1051,22 @@
       "description": "Join us for displays of hand-dye textiles using plants from our garden, hands-on activities for children, tours of the textile dye garden, demonstrations of spinning and weaving, and much more.",
       "category": "Arts & culture",
       "sourceCategories": "Cloverdale Arts & Culture Children Museum of Surrey",
+      "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "6550d388deddda6a",
+      "city": "Surrey",
+      "title": "White Rock & South Surrey Culture Crawl",
+      "url": "https://www.surrey.ca/news-events/events/white-rock-south-surrey-culture-crawl",
+      "dateLabel": "October 3, 2026 - October 4, 2026",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-04",
+      "time": "Time not published — check event link",
+      "location": "Venues throughout Surrey and White Rock",
+      "description": "Celebrate the vibrant arts, culture, and heritage of the Semiahmoo Peninsula during the White Rock & Surrey Culture Crawl , happening this fall over two exciting days. On October 3 and 4, 2026, explore local creativity through art exhibits, live music, heritage displays, theatre, guided tours, and more—all hosted at venues across the community. This self-guided cultural experience invites residents and visitors alike to discover the people, stories, and spaces that shape our region’s creative identity. Learn more",
+      "category": "Arts & culture",
+      "sourceCategories": "South Surrey Arts & Culture Community Art",
       "price": "Free",
       "isFree": true
     },
@@ -1148,6 +1180,22 @@
       "category": "Nature & outdoors",
       "sourceCategories": "Parks & Environment Seniors Youth",
       "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "f1fdcbab28f27940",
+      "city": "Surrey",
+      "title": "Positively Parenting Workshop Series",
+      "url": "https://www.surrey.ca/news-events/events/positively-parenting-workshop-series",
+      "dateLabel": "October 6, 2026",
+      "startDate": "2026-10-06",
+      "endDate": "2026-10-06",
+      "time": "6:00pm - 7:30pm",
+      "location": "South Surrey Recreation and Arts Center, 14601 20 Avenue, Surrey, BC",
+      "description": "Positively Parenting is an interactive and informative series for parents and caregivers of children 5 to 12 years old. The 4-week series offers an opportunity to explore the power of connection and how it can support in day-to-day parenting. Over the course of the series, topics reviewed include: Keeping in Connection at All Ages Making Sense of Behaviours Feelings and the Brain Problem Solving Approaches This series aims to provide practical strategies and helpful resources to support learning and thinking about parenting today. How to register To register or for more information, call Alex Neighbourhood House at 778-239-5960 or email [email protected] . Limited childminding spots are available. Please enquire during registration.",
+      "category": "Learn & create",
+      "sourceCategories": "South Surrey",
+      "price": "Free, registration required.",
       "isFree": true
     },
     {
@@ -1720,7 +1768,7 @@
       "endDate": "2026-11-04",
       "time": "8:30am - 3:00pm",
       "location": "Various locations",
-      "description": "This one day event is for youth ages 13 to 14. Students must be in grade 9 to register for one of the three different streams available to choose from depending on the student's interests. Join the City of Surrey's Park, Recreation and Culture team for Take Our Kids To Work Day for residents in our city who are unable to take their own kids to certain professional atmospheres. Groups of students will experience a sample workday and explore diverse career paths including outdoor recreation, event planning, cultural programming and volunteer opportunities. All interested students must register by October 30 and bring a signed permission slip. Don't miss out on this unique opportunity to discover the world of work with us! Parks Grade 9 students who love nature and protecting the environment won’t want to miss this! The day will include hands-on stewardship activities and demonstrations. Taking place at the Surrey Nature Centre; dress for the weather, some activities take place outdoors (rain or shine). Location: Surrey Nature Centre - Forest Room Course ID: 546257 Register Now Recreation Grade 9 students can explore the world of recreation through a hands-on learning experience. Engaging in fitness fundamentals, day camp activities, and arena operations, students will gain practical skills and insights into the importance of recreational services and how to keep their community active and engaged. Location: Newton Recreation Centre - Room 2 Course ID: 546035 Register Now Arts & Culture Grade 9 students will discover volunteer and career opportunities in arts and culture while learning about programming, exhibitions, and special events. Participants will also enjoy a behind-the-scenes tour of the facility and gain insight into the many roles that support arts and cultural experiences in Surrey. Location: Surrey Arts Centre -Theatre Course ID: 546254 Register Now For more information, call 604-501-5566 .",
+      "description": "This one day event is for youth ages 13 to 14. Students must be in grade 9 to register for one of the three different streams available to choose from depending on the student's interests. Join the City of Surrey's Park, Recreation and Culture team for Take Our Kids To Work Day for residents in our city who are unable to take their own kids to certain professional atmospheres. Groups of students will experience a sample workday and explore diverse career paths including outdoor recreation, event planning, cultural programming and volunteer opportunities. All interested students must register by October 30 and bring a signed permission slip. Don't miss out on this unique opportunity to discover the world of work with us! Parks Grade 9 students who love nature and protecting the environment won’t want to miss this! The day will include hands-on stewardship activities and demonstrations. Taking place at the Surrey Nature Centre; dress for the weather, some activities take place outdoors (rain or shine). Location: Surrey Nature Centre - Forest Room Course ID: 00546257 Register Now Recreation Grade 9 students can explore the world of recreation through a hands-on learning experience. Engaging in fitness fundamentals, day camp activities, and arena operations, students will gain practical skills and insights into the importance of recreational services and how to keep their community active and engaged. Location: Newton Recreation Centre - Room 2 Course ID: 00546035 Register Now Arts & Culture Grade 9 students will discover volunteer and career opportunities in arts and culture while learning about programming, exhibitions, and special events. Participants will also enjoy a behind-the-scenes tour of the facility and gain insight into the many roles that support arts and cultural experiences in Surrey. Location: Surrey Arts Centre -Theatre Course ID: 00546254 Register Now For more information, call 604-501-5566 .",
       "category": "Nature & outdoors",
       "sourceCategories": "Arts & Culture Parks & Environment Recreation Youth",
       "price": "Free",
@@ -2239,6 +2287,22 @@
       "isFree": false
     },
     {
+      "id": "79975f7bb2760e2f",
+      "city": "Surrey",
+      "title": "Deck the Halls Christmas Drop-In",
+      "url": "https://www.surrey.ca/news-events/events/deck-halls-christmas-drop",
+      "dateLabel": "December 5, 2026",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "time": "12:00pm - 4:30pm",
+      "location": "Historic Stewart Farm, 13723 Crescent Road, Surrey, BC",
+      "description": "Back-to-basics Christmas Christmas season has arrived at Stewart Farm! This weekend, explore homemade decorations that Victorians made for the holidays, tour the festively decorated farmhouse, and make your own traditional paper ornament to take home. A different theme each weekend Each weekend highlights a classic element of the holidays. Snack on woodstove baked treats, take in the holiday décor and watch some holiday heritage demonstrations. With a new theme each weekend, you can visit multiple times to fill your holiday cup!",
+      "category": "Arts & culture",
+      "sourceCategories": "South Surrey Arts & Culture Heritage Stewart Farm",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "87483fe021c41372",
       "city": "Surrey",
       "title": "Engage with Artist in Residence Mariel Nelms",
@@ -2303,6 +2367,22 @@
       "isFree": true
     },
     {
+      "id": "5607c66affa5a727",
+      "city": "Surrey",
+      "title": "Deck the Halls Christmas Drop-In",
+      "url": "https://www.surrey.ca/news-events/events/deck-halls-christmas-drop",
+      "dateLabel": "December 6, 2026",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
+      "time": "12:00pm - 4:30pm",
+      "location": "Historic Stewart Farm, 13723 Crescent Road, Surrey, BC",
+      "description": "Back-to-basics Christmas Christmas season has arrived at Stewart Farm! This weekend, explore homemade decorations that Victorians made for the holidays, tour the festively decorated farmhouse, and make your own traditional paper ornament to take home. A different theme each weekend Each weekend highlights a classic element of the holidays. Snack on woodstove baked treats, take in the holiday décor and watch some holiday heritage demonstrations. With a new theme each weekend, you can visit multiple times to fill your holiday cup!",
+      "category": "Arts & culture",
+      "sourceCategories": "South Surrey Arts & Culture Heritage Stewart Farm",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "bf428662e93d142a",
       "city": "Surrey",
       "title": "Sensory Friendly Skates",
@@ -2331,6 +2411,38 @@
       "description": "Sing your heart out at our free monthly karaoke night! Step into the spotlight and enjoy an evening of music and fun in our state-of-the-art Performing Arts Theatre.",
       "category": "Arts & culture",
       "sourceCategories": "Cloverdale Arts & Culture Community Art",
+      "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "4c716166e162a92b",
+      "city": "Surrey",
+      "title": "Homemade Holidays Christmas Drop-In",
+      "url": "https://www.surrey.ca/news-events/events/homemade-holidays-christmas-drop",
+      "dateLabel": "December 12, 2026",
+      "startDate": "2026-12-12",
+      "endDate": "2026-12-12",
+      "time": "12:00pm - 4:30pm",
+      "location": "Historic Stewart Farm, 13723 Crescent Road, Surrey, BC",
+      "description": "Back-to-basics Christmas This weekend, stop by Historic Stewart Farm to discover homemade gifts that would have been found under a Victorian Christmas tree, discover why we hang stockings, and make your own heritage paper toy to take home. A different theme each weekend Each weekend highlights a classic element of the holidays. Snack on woodstove baked treats, take in the holiday décor and watch some holiday heritage demonstrations. With a new theme each weekend, you can visit multiple times to fill your holiday cup!",
+      "category": "Arts & culture",
+      "sourceCategories": "South Surrey Arts & Culture Heritage Stewart Farm",
+      "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "9c986b89956f3d84",
+      "city": "Surrey",
+      "title": "Homemade Holidays Christmas Drop-In",
+      "url": "https://www.surrey.ca/news-events/events/homemade-holidays-christmas-drop",
+      "dateLabel": "December 13, 2026",
+      "startDate": "2026-12-13",
+      "endDate": "2026-12-13",
+      "time": "12:00pm - 4:30pm",
+      "location": "Historic Stewart Farm, 13723 Crescent Road, Surrey, BC",
+      "description": "Back-to-basics Christmas This weekend, stop by Historic Stewart Farm to discover homemade gifts that would have been found under a Victorian Christmas tree, discover why we hang stockings, and make your own heritage paper toy to take home. A different theme each weekend Each weekend highlights a classic element of the holidays. Snack on woodstove baked treats, take in the holiday décor and watch some holiday heritage demonstrations. With a new theme each weekend, you can visit multiple times to fill your holiday cup!",
+      "category": "Arts & culture",
+      "sourceCategories": "South Surrey Arts & Culture Heritage Stewart Farm",
       "price": "Free",
       "isFree": true
     },
@@ -2383,6 +2495,22 @@
       "isFree": false
     },
     {
+      "id": "b935fed316cd1a1b",
+      "city": "Surrey",
+      "title": "Let's Celebrate Christmas Drop-In",
+      "url": "https://www.surrey.ca/news-events/events/lets-celebrate-christmas-drop",
+      "dateLabel": "December 19, 2026",
+      "startDate": "2026-12-19",
+      "endDate": "2026-12-19",
+      "time": "12:00pm - 4:30pm",
+      "location": "Historic Stewart Farm, 13723 Crescent Road, Surrey, BC",
+      "description": "Back-to-basics Christmas It is almost Christmas—let's make merry! Stop by Historic Stewart Farm to celebrate the holidays as the Stewarts did, try your hand at some popular Victorian parlour games and make your own heritage craft to take home. A different theme each weekend Each weekend highlights a classic element of the holidays. Snack on woodstove baked treats, take in the holiday décor and watch some holiday heritage demonstrations. With a new theme each weekend, you can visit multiple times to fill your holiday",
+      "category": "Arts & culture",
+      "sourceCategories": "South Surrey Arts & Culture Heritage Stewart Farm",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "64be6639c8e40e06",
       "city": "Surrey",
       "title": "The Gingerbread Men: A Holiday Cabaret",
@@ -2429,6 +2557,22 @@
       "sourceCategories": "Whalley and City Centre Community-Hosted",
       "price": "$18.75-38.75",
       "isFree": false
+    },
+    {
+      "id": "43fdd92115163394",
+      "city": "Surrey",
+      "title": "Let's Celebrate Christmas Drop-In",
+      "url": "https://www.surrey.ca/news-events/events/lets-celebrate-christmas-drop",
+      "dateLabel": "December 20, 2026",
+      "startDate": "2026-12-20",
+      "endDate": "2026-12-20",
+      "time": "12:00pm - 4:30pm",
+      "location": "Historic Stewart Farm, 13723 Crescent Road, Surrey, BC",
+      "description": "Back-to-basics Christmas It is almost Christmas—let's make merry! Stop by Historic Stewart Farm to celebrate the holidays as the Stewarts did, try your hand at some popular Victorian parlour games and make your own heritage craft to take home. A different theme each weekend Each weekend highlights a classic element of the holidays. Snack on woodstove baked treats, take in the holiday décor and watch some holiday heritage demonstrations. With a new theme each weekend, you can visit multiple times to fill your holiday",
+      "category": "Arts & culture",
+      "sourceCategories": "South Surrey Arts & Culture Heritage Stewart Farm",
+      "price": "Free",
+      "isFree": true
     },
     {
       "id": "bacddef56aba95de",
