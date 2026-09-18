@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-17T10:39:32-07:00",
+  "updatedAt": "2026-09-18T10:06:53-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-09-17T10:39:32-07:00",
+      "updatedAt": "2026-09-18T10:06:53-07:00",
       "status": "ok",
-      "count": 171
+      "count": 170
     },
     "Richmond": {
-      "updatedAt": "2026-09-17T10:39:32-07:00",
+      "updatedAt": "2026-09-18T10:06:53-07:00",
       "status": "ok",
-      "count": 22
+      "count": 23
     }
   },
   "events": [
@@ -75,22 +75,6 @@
       "description": "A solo exhibition featuring the latest works of accomplished Richmond-based oil painter Junyi Ji. Through masterful technique and a deep connection to nature, Ji captures the beauty of Vancouver’s landscapes, inviting viewers to slow down and rediscover the poetry of the everyday world. Opening Reception & Artist Talk Saturday September 5, 7:00-9:00pm (free event) Lipont Gallery Room 218 (no elevator), 4211 No. 3 Rd Richmond BC Canada V6X 2C3 Free parking on south side of the building only. In an age where digital images can effortlessly reproduce the visible world, artist Junyi Ji advocates for the irreplaceable value of painting from life. Over the past year, Ji has traveled extensively throughout Vancouver and its surrounding areas to document coastlines, forests, parks, city streets and mountains. Working without rehearsal or repetition, every brushstroke responds to a moment that exists only once. “Plein air painting is a dialogue with time,” says Ji. “Each work is created on location, shaped by changing weather, shifting light and the fleeting rhythm of the day. For me, it is not simply an act of copying nature, but a continual process of observation and understanding.” Ji’s paintings seek to capture more than just visual accuracy; they preserve the atmosphere, temperature and emotion of a specific time and place. As sunlight moves across a façade, or the shadows of trees slowly drift, the canvas preserves the quiet presence of Vancouver’s bays, bridges, churches, harbours and cherry blossoms as lived experiences. About Artist Junyi Ji An accomplished oil painter, Junyi Ji holds degrees from the Tianjin Academy of Fine Arts, where he studied under the renowned artist Professor Yu Xiaodong. Known for his superb realistic skills and unique artistic perspective, Ji creates emotionally charged landscapes that capture the diverse beauty of nature through careful detailing and the clever use of colour. Since moving to Canada in 2022, he has established art studios in Richmond and West Vancouver, and to date, has held four solo exhibitions in the Metro Vancouver area. More Information This event is for All Ages. This is not an accessible site. This event is free.",
       "category": "Arts & culture",
       "sourceCategories": "Culture Days Art",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "05a14460a1d77ba6",
-      "city": "Surrey",
-      "title": "Rooted and Rising Season 2",
-      "url": "https://www.surrey.ca/news-events/events/rooted-and-rising-season-2",
-      "dateLabel": "September 17, 2026",
-      "startDate": "2026-09-17",
-      "endDate": "2026-09-17",
-      "time": "4:30pm - 6:15pm",
-      "location": "Surrey Libraries - City Centre Branch (Room 120), 10350 University Dr, Surrey, BC",
-      "description": "Rooted and Rising Season 2 is an annual event celebrating the stories of immigrant Punjabi women, held during Punjabi Women’s Storytelling Week, proclaimed by the City of Surrey. This event will provide valuable information and inspiration to immigrant women, who will have the opportunity to learn from women who came before them and have achieved professional success. The speakers will include a financial services professional, a psychologist, a media professional, and a woman in a leadership role at a provincial organization.",
-      "category": "Community & festivals",
-      "sourceCategories": "Whalley and City Centre Community-Hosted",
       "price": "Free",
       "isFree": true
     },
@@ -655,6 +639,22 @@
       "isFree": false
     },
     {
+      "id": "7c1d04f5dffc1bf5",
+      "city": "Richmond",
+      "title": "Artist Salon: Karilynn Ming Ho on Art, AI & Motherhood",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19144",
+      "dateLabel": "Saturday, Sep 26, 2026",
+      "startDate": "2026-09-26",
+      "endDate": "2026-09-26",
+      "time": "2:00-3:00pm",
+      "location": "7700 Minoru Gate",
+      "description": "Join exhibiting artist Karilynn Ming Ho for a discussion of her newest work featured in Richmond Art Gallery's exhibit, a video work that uses the framework of a love story to critically examine AI technology and its complex impacts on the human condition. Drawing from her artist residency in Japan and ongoing research into artificial intelligence, the work explores the increasingly blurred boundaries between human connection, desire and machine-generated realities. Alongside insights into her current artwork, Ming Ho will share personal reflections on how motherhood reframes artistic practice from disrupted studio time to evolving materials, themes and methods of production. What does it mean to make work within structures of childcare, repetition and limited time? Join fellow artists and art enthusiasts for an engaging conversation about contemporary art, AI, parenthood and the evolving realities of sustaining a creative practice. Limited spaces, RSVP requested. More Information This event is for Adult (Ages 18+) & 55+ (Ages 55 and over) This is an accessible site. This event is free.",
+      "category": "Arts & culture",
+      "sourceCategories": "Gallery & Museum Talk / Tour / Lecture",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "f3b6c7a5d125404e",
       "city": "Richmond",
       "title": "Celebrate the Mid-Autumn Festival at Lansdowne Centre",
@@ -973,6 +973,22 @@
       "sourceCategories": "Sports & Recreation Events Sports Event",
       "price": "Free",
       "isFree": true
+    },
+    {
+      "id": "140b62e03fbb76be",
+      "city": "Surrey",
+      "title": "5th Annual International Sikh Research Summit",
+      "url": "https://www.surrey.ca/news-events/events/5th-annual-international-sikh-research-summit",
+      "dateLabel": "October 3, 2026 - October 4, 2026",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-04",
+      "time": "Time not published — check event link",
+      "location": "Surrey City Hall, 13450 104 Ave, Surrey, BC",
+      "description": "Guru Nanak Institute (GNI) is proud to host its 5th Annual International Sikh Research Summit on October 3–4, 2026, at Surrey City Hall in Surrey, British Columbia. This year's theme, \"Curiosity becomes Scholarship. Voices become Impact.\", celebrates the power of research, dialogue, and community collaboration in shaping the future. Day 1 – \"Curiosity becomes Scholarship\" will feature a keynote presentation, international research presentations, youth talks, and discussions exploring Sikh studies, history, culture, education, business, technology, and interdisciplinary research. The day will end with an evening dinner event and a fireside chat with the Honourable Baltej Singh Dhillon, Senator. Day 2 – \"Voices become Impact\" will focus on community engagement through presentations on \"Where have we been?\", \" Where are we now and where are we going?\", rapid-fire presentations by Sikh organizations, a panel discussion on the evolving role of Gurduaras, and open discussions addressing current community issues, challenges, and collaborative solutions for \"Sarbat da Bhala.\" Whether you are an academic, researcher, educator, professional, student, community leader, policy maker, or member of the public, the Summit offers a unique opportunity to learn about global research, share ideas for collaborations, build professional and personal connections, and contribute to meaningful conversations that strengthen scholarship and community impact. Learn more",
+      "category": "Community & festivals",
+      "sourceCategories": "Whalley and City Centre Community-Hosted",
+      "price": "$50",
+      "isFree": false
     },
     {
       "id": "e9bf2f6f646b0bba",
@@ -1821,22 +1837,6 @@
       "sourceCategories": "Parks & Environment",
       "price": "Drop-in",
       "isFree": false
-    },
-    {
-      "id": "6bc332f3b8663909",
-      "city": "Surrey",
-      "title": "Regular Council Meeting - Public Hearing",
-      "url": "https://www.surrey.ca/news-events/events/regular-council-meeting-public-hearing",
-      "dateLabel": "November 9, 2026",
-      "startDate": "2026-11-09",
-      "endDate": "2026-11-09",
-      "time": "7:00pm - 10:00pm",
-      "location": "Online and in-person at City Hall, 13450 - 104 Avenue",
-      "description": "Learn how to attend and participate in Council Meetings , or view the livestream from home. To find out what will be discussed at the meeting, see our list of upcoming Council Meeting Public Hearing Items . Council meetings are held every other Monday evening at City Hall, with some exceptions. See the Council Meeting Schedule for full details.",
-      "category": "Community & festivals",
-      "sourceCategories": "Public Meetings & Open Houses",
-      "price": "Free",
-      "isFree": true
     },
     {
       "id": "788db8a2cbb3459b",
