@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-20T09:51:56-07:00",
+  "updatedAt": "2026-09-21T11:46:25-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-09-20T09:51:56-07:00",
+      "updatedAt": "2026-09-21T11:46:25-07:00",
       "status": "ok",
-      "count": 162
+      "count": 158
     },
     "Richmond": {
-      "updatedAt": "2026-09-20T09:51:56-07:00",
+      "updatedAt": "2026-09-21T11:46:25-07:00",
       "status": "ok",
-      "count": 16
+      "count": 15
     }
   },
   "events": [
@@ -75,70 +75,6 @@
       "description": "A solo exhibition featuring the latest works of accomplished Richmond-based oil painter Junyi Ji. Through masterful technique and a deep connection to nature, Ji captures the beauty of Vancouver’s landscapes, inviting viewers to slow down and rediscover the poetry of the everyday world. Opening Reception & Artist Talk Saturday September 5, 7:00-9:00pm (free event) Lipont Gallery Room 218 (no elevator), 4211 No. 3 Rd Richmond BC Canada V6X 2C3 Free parking on south side of the building only. In an age where digital images can effortlessly reproduce the visible world, artist Junyi Ji advocates for the irreplaceable value of painting from life. Over the past year, Ji has traveled extensively throughout Vancouver and its surrounding areas to document coastlines, forests, parks, city streets and mountains. Working without rehearsal or repetition, every brushstroke responds to a moment that exists only once. “Plein air painting is a dialogue with time,” says Ji. “Each work is created on location, shaped by changing weather, shifting light and the fleeting rhythm of the day. For me, it is not simply an act of copying nature, but a continual process of observation and understanding.” Ji’s paintings seek to capture more than just visual accuracy; they preserve the atmosphere, temperature and emotion of a specific time and place. As sunlight moves across a façade, or the shadows of trees slowly drift, the canvas preserves the quiet presence of Vancouver’s bays, bridges, churches, harbours and cherry blossoms as lived experiences. About Artist Junyi Ji An accomplished oil painter, Junyi Ji holds degrees from the Tianjin Academy of Fine Arts, where he studied under the renowned artist Professor Yu Xiaodong. Known for his superb realistic skills and unique artistic perspective, Ji creates emotionally charged landscapes that capture the diverse beauty of nature through careful detailing and the clever use of colour. Since moving to Canada in 2022, he has established art studios in Richmond and West Vancouver, and to date, has held four solo exhibitions in the Metro Vancouver area. More Information This event is for All Ages. This is not an accessible site. This event is free.",
       "category": "Arts & culture",
       "sourceCategories": "Culture Days Art",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "932a93f9f807c909",
-      "city": "Richmond",
-      "title": "2026 Terry Fox Run Richmond",
-      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19069",
-      "dateLabel": "Sunday, Sep 20, 2026",
-      "startDate": "2026-09-20",
-      "endDate": "2026-09-20",
-      "time": "9:00 am - 12:00 pm",
-      "location": "12011 7th Avenue",
-      "description": "The Terry Fox Run raises funds for cancer research. For more information please visit www.terryfox.org/run More Information This event is for All Ages. This is an accessible site. This event is free.",
-      "category": "Sports & wellness",
-      "sourceCategories": "Sports & Recreation Events Sports Event",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "c1c88195e6b9be87",
-      "city": "Surrey",
-      "title": "Fire Open House",
-      "url": "https://www.surrey.ca/news-events/events/fire-open-house",
-      "dateLabel": "September 20, 2026",
-      "startDate": "2026-09-20",
-      "endDate": "2026-09-20",
-      "time": "1:30pm - 3:30pm",
-      "location": "All fire halls",
-      "description": "Join us at any of our fire halls to meet the firefighters, see the fire trucks, enjoy a demonstration of our firefighting equipment and try out your firefighting skills. This is an outdoor event: dress for the weather All fire halls are operational during the open house and staff may be called out to an emergency before or during the event. Onsite staff will be available to assist and answer any questions. Parking Parking is limited at fire halls, so please plan your trip accordingly. Fire hall locations Fire Hall 1 8767 132 Street Fire Hall 2 13079 104 Avenue Fire Hall 4 14586 108 Avenue Fire Hall 5 10042 176 Street Fire Hall 6 9049 152 Street Fire Hall 8 17572 57 Avenue Fire Hall 9 14901 64 Avenue Fire Hall 10 7278 132 Street Fire Hall 11 12863 60 Avenue Fire Hall 12 2610 128 Street Fire Hall 13 15155 18 Avenue Fire Hall 14 2016 176 Street Fire Hall 15 18915 64 Avenue Fire Hall 17 15329 32 Avenue Fire Hall 18 8091 164 Street",
-      "category": "Community & festivals",
-      "sourceCategories": "",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "5756bcff93da0ae0",
-      "city": "Surrey",
-      "title": "Learn Ikebana",
-      "url": "https://www.surrey.ca/news-events/events/learn-ikebana",
-      "dateLabel": "September 20, 2026",
-      "startDate": "2026-09-20",
-      "endDate": "2026-09-20",
-      "time": "1:00pm - 3:00pm",
-      "location": "Darts Hill Garden (1680 168 Street), Surrey, BC",
-      "description": "Rooted in centuries of aesthetic refinement, Ikebana is a meditative art form that celebrates nature, balance, and the changing seasons. This hands-on workshop begins with a projected presentation introducing the Ohara School of Ikebana, a style known for its emphasis on seasonal materials and naturalistic landscapes. Participants will have the opportunity to closely examine completed arrangements that demonstrate the fundamental principles of design, space, and line. Under guidance, participants will then apply these principles by creating their own unique floral arrangement using seasonal branches and flowers. The workshop offers an introduction to the spiritual essence and foundational theories of the Ohara School of Ikebana while encouraging mindfulness and creative expression. Each participant will leave with both a beautiful arrangement and a deeper appreciation for the artistry and philosophy of Ikebana. Parking is available at 1680 168 Street. Learn more",
-      "category": "Community & festivals",
-      "sourceCategories": "South Surrey Community-Hosted",
-      "price": "$75",
-      "isFree": false
-    },
-    {
-      "id": "1490f13bb3b1a8b1",
-      "city": "Surrey",
-      "title": "South Rock Art Tour - Chai, Chat & Art Exhibition",
-      "url": "https://www.surrey.ca/news-events/events/south-rock-art-tour-chai-chat-art-exhibition",
-      "dateLabel": "September 20, 2026",
-      "startDate": "2026-09-20",
-      "endDate": "2026-09-20",
-      "time": "10:00am - 4:00pm",
-      "location": "Jon Lavoie Fine Art Gallery, 966 McNally Creek Drive, Surrey, BC.",
-      "description": "Visit a local art gallery as part of the South Rock Art Tour, a two-day event featuring local art, refreshments and special activities. Event highlights Chai and cookies Free art giveaway Unveiling of the 2027 art calendar Free 2026 art calendar for the first 10 visitors No tax weekend and 20% off select items This event is held in partnership with the South Rock Art Tour .",
-      "category": "Arts & culture",
-      "sourceCategories": "South Surrey Community-Hosted",
       "price": "Free",
       "isFree": true
     },
