@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-21T11:46:25-07:00",
+  "updatedAt": "2026-09-22T10:39:42-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-09-21T11:46:25-07:00",
+      "updatedAt": "2026-09-22T10:39:42-07:00",
       "status": "ok",
-      "count": 158
+      "count": 162
     },
     "Richmond": {
-      "updatedAt": "2026-09-21T11:46:25-07:00",
+      "updatedAt": "2026-09-22T10:39:42-07:00",
       "status": "ok",
-      "count": 15
+      "count": 14
     }
   },
   "events": [
@@ -79,35 +79,35 @@
       "isFree": true
     },
     {
-      "id": "896343b759929770",
-      "city": "Richmond",
-      "title": "Indigenous Authors Series: 52 Ways to Reconcile with Author David Alexander Robertson",
-      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19132",
-      "dateLabel": "Monday, Sep 21, 2026",
-      "startDate": "2026-09-21",
-      "endDate": "2026-09-21",
-      "time": "7:00-8:30pm",
-      "location": "7700 Minoru Gate",
-      "description": "As the headliner for the Indigenous Author Series, David A. Robertson, one of Canada’s most celebrated Indigenous authors and storytellers, brings his acclaimed book 52 Ways to Reconcile to life in this keynote designed to engage, inspire and empower audiences to move reconciliation forward in tangible ways. More Information This event is for Adult (Ages 18+) & 55+ (Ages 55 and over) This is an accessible site. This event is free.",
+      "id": "0a3dd3255175406b",
+      "city": "Surrey",
+      "title": "Culture Days",
+      "url": "https://www.surrey.ca/news-events/events/culture-days",
+      "dateLabel": "September 18, 2026 - October 4, 2026",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-04",
+      "time": "Time not published — check event link",
+      "location": "Various",
+      "description": "Culture Days is a national celebration of arts and culture. Events in Surrey include a range of free activities and events. There will be in person and virtual events for your enjoyment ranging from performances to tours and suitable for a variety of ages. Parking and accessibility will vary from venue to venue. Tuesday, September 22 5-5:30pm Newton Recreation Centre Core of Four Instagram @coreoffourband Thursday, September 24 4:30-6pm Guildford Recreation Centre Core of Four Instagram @coreoffourband Jingyan Mei Bir Btaalvi Instagram: @btal_v Suhavi Kaur Friday, September 25 12-1pm Cloverdale Recreation Centre Hendrix Tacuycuy Youtube: @funtimewithhendrix Saturday, September 26 6-7pm Surrey Arts Centre Royal Canadian Theatre Company Instagram: @rctheatreco Friday, October 2 6:30-7:30pm South Surrey Recreation and Arts Centre Monica Gregory Friday, October 2 6:30-7:30pm Surrey Arts Centre Donne Ao-Asen For a full list of activities visit, www.culturedays.com .",
       "category": "Arts & culture",
-      "sourceCategories": "Culture & Heritage Events Literary / Library",
-      "price": "Free",
+      "sourceCategories": "Arts & Culture Community Art Heritage Music",
+      "price": "Free!",
       "isFree": true
     },
     {
-      "id": "53ecc3e6744ca88c",
+      "id": "4dd9173f8016d443",
       "city": "Surrey",
-      "title": "Regular Council Meeting - Public Hearing",
-      "url": "https://www.surrey.ca/news-events/events/regular-council-meeting-public-hearing",
-      "dateLabel": "September 21, 2026",
-      "startDate": "2026-09-21",
-      "endDate": "2026-09-21",
-      "time": "7:00pm - 10:00pm",
-      "location": "Online and in-person at City Hall, 13450 - 104 Avenue",
-      "description": "Learn how to attend and participate in Council Meetings , or view the livestream from home. To find out what will be discussed at the meeting, see our list of upcoming Council Meeting Public Hearing Items . Council meetings are held every other Monday evening at City Hall, with some exceptions. See the Council Meeting Schedule for full details.",
-      "category": "Community & festivals",
-      "sourceCategories": "Public Meetings & Open Houses",
-      "price": "Free",
+      "title": "Culture Days",
+      "url": "https://www.surrey.ca/news-events/events/culture-days",
+      "dateLabel": "September 22, 2026",
+      "startDate": "2026-09-22",
+      "endDate": "2026-09-22",
+      "time": "5:00pm - 5:30pm",
+      "location": "Various",
+      "description": "Culture Days is a national celebration of arts and culture. Events in Surrey include a range of free activities and events. There will be in person and virtual events for your enjoyment ranging from performances to tours and suitable for a variety of ages. Parking and accessibility will vary from venue to venue. Tuesday, September 22 5-5:30pm Newton Recreation Centre Core of Four Instagram @coreoffourband Thursday, September 24 4:30-6pm Guildford Recreation Centre Core of Four Instagram @coreoffourband Jingyan Mei Bir Btaalvi Instagram: @btal_v Suhavi Kaur Friday, September 25 12-1pm Cloverdale Recreation Centre Hendrix Tacuycuy Youtube: @funtimewithhendrix Saturday, September 26 6-7pm Surrey Arts Centre Royal Canadian Theatre Company Instagram: @rctheatreco Friday, October 2 6:30-7:30pm South Surrey Recreation and Arts Centre Monica Gregory Friday, October 2 6:30-7:30pm Surrey Arts Centre Donne Ao-Asen For a full list of activities visit, www.culturedays.com .",
+      "category": "Arts & culture",
+      "sourceCategories": "Arts & Culture Community Art Heritage Music",
+      "price": "Free!",
       "isFree": true
     },
     {
@@ -143,22 +143,6 @@
       "isFree": false
     },
     {
-      "id": "056df0f136eadb98",
-      "city": "Surrey",
-      "title": "City of Parks",
-      "url": "https://www.surrey.ca/news-events/events/city-of-parks",
-      "dateLabel": "September 23, 2026",
-      "startDate": "2026-09-23",
-      "endDate": "2026-09-23",
-      "time": "6:30pm - 7:30pm",
-      "location": "Surrey Nature Centre, 14225 Green Timbers Way, Surrey, BC",
-      "description": "Explore the history of Surrey's parks! Join Surrey Archives and Surrey Nature Centre to delve into iconic urban forests, green spaces, and nature trails through photos, oral histories and more.",
-      "category": "Nature & outdoors",
-      "sourceCategories": "Whalley and City Centre Heritage Parks & Environment Surrey Nature Centre",
-      "price": "Free please call the Surrey Nature Centre to register",
-      "isFree": true
-    },
-    {
       "id": "0fd55d70664fa31f",
       "city": "Surrey",
       "title": "Focus on Seniors Webinar Series",
@@ -191,6 +175,22 @@
       "isFree": true
     },
     {
+      "id": "23aae09c40952064",
+      "city": "Surrey",
+      "title": "Culture Days",
+      "url": "https://www.surrey.ca/news-events/events/culture-days",
+      "dateLabel": "September 24, 2026",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-24",
+      "time": "4:30pm - 6:00pm",
+      "location": "Various",
+      "description": "Culture Days is a national celebration of arts and culture. Events in Surrey include a range of free activities and events. There will be in person and virtual events for your enjoyment ranging from performances to tours and suitable for a variety of ages. Parking and accessibility will vary from venue to venue. Tuesday, September 22 5-5:30pm Newton Recreation Centre Core of Four Instagram @coreoffourband Thursday, September 24 4:30-6pm Guildford Recreation Centre Core of Four Instagram @coreoffourband Jingyan Mei Bir Btaalvi Instagram: @btal_v Suhavi Kaur Friday, September 25 12-1pm Cloverdale Recreation Centre Hendrix Tacuycuy Youtube: @funtimewithhendrix Saturday, September 26 6-7pm Surrey Arts Centre Royal Canadian Theatre Company Instagram: @rctheatreco Friday, October 2 6:30-7:30pm South Surrey Recreation and Arts Centre Monica Gregory Friday, October 2 6:30-7:30pm Surrey Arts Centre Donne Ao-Asen For a full list of activities visit, www.culturedays.com .",
+      "category": "Arts & culture",
+      "sourceCategories": "Arts & Culture Community Art Heritage Music",
+      "price": "Free!",
+      "isFree": true
+    },
+    {
       "id": "b1e3f9f9722b69b7",
       "city": "Surrey",
       "title": "Make Your Own Emergency Kit Workshop (55+)",
@@ -220,6 +220,22 @@
       "category": "Community & festivals",
       "sourceCategories": "Whalley and City Centre Our City",
       "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "d0126a620f5aa100",
+      "city": "Surrey",
+      "title": "Culture Days",
+      "url": "https://www.surrey.ca/news-events/events/culture-days",
+      "dateLabel": "September 25, 2026",
+      "startDate": "2026-09-25",
+      "endDate": "2026-09-25",
+      "time": "12:00pm - 1:00pm",
+      "location": "Various",
+      "description": "Culture Days is a national celebration of arts and culture. Events in Surrey include a range of free activities and events. There will be in person and virtual events for your enjoyment ranging from performances to tours and suitable for a variety of ages. Parking and accessibility will vary from venue to venue. Tuesday, September 22 5-5:30pm Newton Recreation Centre Core of Four Instagram @coreoffourband Thursday, September 24 4:30-6pm Guildford Recreation Centre Core of Four Instagram @coreoffourband Jingyan Mei Bir Btaalvi Instagram: @btal_v Suhavi Kaur Friday, September 25 12-1pm Cloverdale Recreation Centre Hendrix Tacuycuy Youtube: @funtimewithhendrix Saturday, September 26 6-7pm Surrey Arts Centre Royal Canadian Theatre Company Instagram: @rctheatreco Friday, October 2 6:30-7:30pm South Surrey Recreation and Arts Centre Monica Gregory Friday, October 2 6:30-7:30pm Surrey Arts Centre Donne Ao-Asen For a full list of activities visit, www.culturedays.com .",
+      "category": "Arts & culture",
+      "sourceCategories": "Arts & Culture Community Art Heritage Music",
+      "price": "Free!",
       "isFree": true
     },
     {
@@ -332,6 +348,22 @@
       "category": "Nature & outdoors",
       "sourceCategories": "Parks & Environment",
       "price": "Free, drop-in.",
+      "isFree": true
+    },
+    {
+      "id": "2ce7ea8bc9da2d53",
+      "city": "Surrey",
+      "title": "Culture Days",
+      "url": "https://www.surrey.ca/news-events/events/culture-days",
+      "dateLabel": "September 26, 2026",
+      "startDate": "2026-09-26",
+      "endDate": "2026-09-26",
+      "time": "6:00pm - 7:00pm",
+      "location": "Various",
+      "description": "Culture Days is a national celebration of arts and culture. Events in Surrey include a range of free activities and events. There will be in person and virtual events for your enjoyment ranging from performances to tours and suitable for a variety of ages. Parking and accessibility will vary from venue to venue. Tuesday, September 22 5-5:30pm Newton Recreation Centre Core of Four Instagram @coreoffourband Thursday, September 24 4:30-6pm Guildford Recreation Centre Core of Four Instagram @coreoffourband Jingyan Mei Bir Btaalvi Instagram: @btal_v Suhavi Kaur Friday, September 25 12-1pm Cloverdale Recreation Centre Hendrix Tacuycuy Youtube: @funtimewithhendrix Saturday, September 26 6-7pm Surrey Arts Centre Royal Canadian Theatre Company Instagram: @rctheatreco Friday, October 2 6:30-7:30pm South Surrey Recreation and Arts Centre Monica Gregory Friday, October 2 6:30-7:30pm Surrey Arts Centre Donne Ao-Asen For a full list of activities visit, www.culturedays.com .",
+      "category": "Arts & culture",
+      "sourceCategories": "Arts & Culture Community Art Heritage Music",
+      "price": "Free!",
       "isFree": true
     },
     {
@@ -575,6 +607,22 @@
       "isFree": true
     },
     {
+      "id": "18b2463f6140333a",
+      "city": "Surrey",
+      "title": "Culture Days",
+      "url": "https://www.surrey.ca/news-events/events/culture-days",
+      "dateLabel": "October 2, 2026",
+      "startDate": "2026-10-02",
+      "endDate": "2026-10-02",
+      "time": "6:30pm - 7:30pm",
+      "location": "Various",
+      "description": "Culture Days is a national celebration of arts and culture. Events in Surrey include a range of free activities and events. There will be in person and virtual events for your enjoyment ranging from performances to tours and suitable for a variety of ages. Parking and accessibility will vary from venue to venue. Tuesday, September 22 5-5:30pm Newton Recreation Centre Core of Four Instagram @coreoffourband Thursday, September 24 4:30-6pm Guildford Recreation Centre Core of Four Instagram @coreoffourband Jingyan Mei Bir Btaalvi Instagram: @btal_v Suhavi Kaur Friday, September 25 12-1pm Cloverdale Recreation Centre Hendrix Tacuycuy Youtube: @funtimewithhendrix Saturday, September 26 6-7pm Surrey Arts Centre Royal Canadian Theatre Company Instagram: @rctheatreco Friday, October 2 6:30-7:30pm South Surrey Recreation and Arts Centre Monica Gregory Friday, October 2 6:30-7:30pm Surrey Arts Centre Donne Ao-Asen For a full list of activities visit, www.culturedays.com .",
+      "category": "Arts & culture",
+      "sourceCategories": "Arts & Culture Community Art Heritage Music",
+      "price": "Free!",
+      "isFree": true
+    },
+    {
       "id": "f3ce9c8cba710518",
       "city": "Surrey",
       "title": "Epidermis Circus",
@@ -775,7 +823,7 @@
       "startDate": "2026-10-05",
       "endDate": "2026-10-05",
       "time": "7:00pm - 10:00pm",
-      "location": "Online and in-person at City Hall, 13450 - 104 Avenue",
+      "location": "Online and in-person at City Hall, 13450 - 104 Avenue, Surrey, BC",
       "description": "Learn how to attend and participate in Council Meetings , or view the livestream from home. To find out what will be discussed at the meeting, see our list of upcoming Council Meeting Public Hearing Items . Council meetings are held every other Monday evening at City Hall, with some exceptions. See the Council Meeting Schedule for full details.",
       "category": "Community & festivals",
       "sourceCategories": "Public Meetings & Open Houses",
@@ -797,22 +845,6 @@
       "sourceCategories": "Recreation",
       "price": "Use your Recreation Surrey pass or pay for a drop-in admission .",
       "isFree": false
-    },
-    {
-      "id": "29dbcf18c7eaaa14",
-      "city": "Surrey",
-      "title": "Cricbees Youth Cricket Program (Indoor) - South Surrey",
-      "url": "https://www.surrey.ca/news-events/events/cricbees-youth-cricket-program-indoor-south-surrey",
-      "dateLabel": "October 6, 2026",
-      "startDate": "2026-10-06",
-      "endDate": "2026-10-06",
-      "time": "6:00pm - 7:00pm",
-      "location": "Semiahmoo Trail Elementary School, 3040 145a St, Surrey, BC",
-      "description": "The Cricbees Youth Cricket Program is a structured and exciting development program designed for young players to learn cricket skills in a positive, active, and inclusive environment. Led by certified coaches, the program is recommended for girls and boys aged 5–13 years old, from beginners to developing players. Our sessions focus not only on cricket fundamentals such as batting, bowling, catching, throwing, and fielding, but also on developing physical coordination, hand-eye coordination, balance, movement, teamwork, communication, and confidence. Through age-appropriate drills, activities, and mini-games, children develop their skills while staying active and having fun. Our coaches are gearing up for another exciting season, giving every child the opportunity to learn, play, compete, make friends, and grow in confidence — both as an individual and as part of a team. This cohort includes 18 weekly sessions. Learn more",
-      "category": "Community & festivals",
-      "sourceCategories": "South Surrey Community-Hosted",
-      "price": "$325 per player (financial aid available for eligible families) First drop-in is free for new players. Registration required.",
-      "isFree": true
     },
     {
       "id": "1044938ae2472aa3",
@@ -1469,6 +1501,22 @@
       "sourceCategories": "Parks & Environment",
       "price": "Drop-in",
       "isFree": false
+    },
+    {
+      "id": "6bc332f3b8663909",
+      "city": "Surrey",
+      "title": "Regular Council Meeting - Public Hearing",
+      "url": "https://www.surrey.ca/news-events/events/regular-council-meeting-public-hearing",
+      "dateLabel": "November 9, 2026",
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-09",
+      "time": "7:00pm - 10:00pm",
+      "location": "Online and in-person at City Hall, 13450 - 104 Avenue, Surrey, BC",
+      "description": "Learn how to attend and participate in Council Meetings , or view the livestream from home. To find out what will be discussed at the meeting, see our list of upcoming Council Meeting Public Hearing Items . Council meetings are held every other Monday evening at City Hall, with some exceptions. See the Council Meeting Schedule for full details.",
+      "category": "Community & festivals",
+      "sourceCategories": "Public Meetings & Open Houses",
+      "price": "Free",
+      "isFree": true
     },
     {
       "id": "788db8a2cbb3459b",
