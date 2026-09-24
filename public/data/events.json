@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-23T10:52:27-07:00",
+  "updatedAt": "2026-09-24T10:52:48-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-09-23T10:52:27-07:00",
+      "updatedAt": "2026-09-24T10:52:48-07:00",
       "status": "ok",
-      "count": 170
+      "count": 172
     },
     "Richmond": {
-      "updatedAt": "2026-09-23T10:52:27-07:00",
+      "updatedAt": "2026-09-24T10:52:48-07:00",
       "status": "ok",
       "count": 14
     }
@@ -92,22 +92,6 @@
       "category": "Arts & culture",
       "sourceCategories": "Arts & Culture Community Art Heritage Music",
       "price": "Free!",
-      "isFree": true
-    },
-    {
-      "id": "0fd55d70664fa31f",
-      "city": "Surrey",
-      "title": "Focus on Seniors Webinar Series",
-      "url": "https://www.surrey.ca/news-events/events/focus-on-seniors-webinar-series",
-      "dateLabel": "September 23, 2026",
-      "startDate": "2026-09-23",
-      "endDate": "2026-09-23",
-      "time": "11:00am - 12:00pm",
-      "location": "Online",
-      "description": "Join us for free informative online sessions for seniors, their families and caregivers. As part of Surrey's Age Friendly Strategy for Seniors , these webinars feature guest presenters to provide resources to ensure Surrey's seniors are supported and can remain actively engaged and safe in our community. Upcoming webinars Introduction to Brain Health September 23, 11am-12pm It’s never too late to make changes for a healthier brain. Learn how to maintain or improve your brain health by exploring topics including natural aging changes, dementia, risk reduction, memory, brain training and more. This webinar will be presented in Punjabi. Register",
-      "category": "Community & festivals",
-      "sourceCategories": "Seniors",
-      "price": "Free",
       "isFree": true
     },
     {
@@ -703,6 +687,22 @@
       "isFree": true
     },
     {
+      "id": "53ac3f813de62c81",
+      "city": "Surrey",
+      "title": "KPU Open House 2026",
+      "url": "https://www.surrey.ca/news-events/events/kpu-open-house-2026",
+      "dateLabel": "October 3, 2026",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-03",
+      "time": "11:00am - 2:00pm",
+      "location": "KPU Surrey Campus, 12666 72 Ave, Surrey, BC",
+      "description": "Join KPU for its Open House and discover everything Kwantlen Polytechnic University has to offer. KPU is home to many programs and courses you won’t find at other institutions. Visit the Surrey campus and meet faculty, students and staff through hands-on demonstrations, engaging stories and helpful tips for getting the most out of the student experience at KPU. Representatives from the Future Students’ Office and KPU International will also be available to answer questions and provide help with applications. Registered guests will be entered to win prizes, including free tuition.",
+      "category": "Community & festivals",
+      "sourceCategories": "Newton Community-Hosted",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "b40a4fcdecd1ef72",
       "city": "Surrey",
       "title": "Once Upon A Time Gala 2026",
@@ -975,6 +975,22 @@
       "isFree": true
     },
     {
+      "id": "4705eb358e698a98",
+      "city": "Surrey",
+      "title": "Global Dance Festival 2026 - Fusion of Diversity",
+      "url": "https://www.surrey.ca/news-events/events/global-dance-festival-2026-fusion-of-diversity",
+      "dateLabel": "October 10, 2026",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "time": "4:30pm - 8:00pm",
+      "location": "Main Stage at Surrey Arts Centre, 13750 88 Ave, Surrey, BC",
+      "description": "Experience the magic of Global Dance Festival 2026: Fusion of Diversity on Saturday, October 10, 2026, at Surrey Arts Centre. This vibrant, family-friendly celebration brings together talented performers showcasing dance forms from multiple countries and cultures—all on one spectacular stage. From Indigenous, Hawaiian, Afro-Hiphop and Salsa to Chinese and Venezuelan dances, along with a variety of Indian classical, folk, Bollywood, Kuthu and contemporary dance forms—and many more—audiences will enjoy an unforgettable evening filled with colour, rhythm, creativity, and cultural unity. Join us as we celebrate diversity, inclusion, and the universal language of dance! Learn more",
+      "category": "Community & festivals",
+      "sourceCategories": "Whalley and City Centre Community-Hosted",
+      "price": "Platinum: Adults $40 | Children $35 Gold: Adults $35 | Children $30 Regular: Adults $28 | Children $23",
+      "isFree": false
+    },
+    {
       "id": "954cdf9200518c8b",
       "city": "Surrey",
       "title": "Make a Juniper Bonsai",
@@ -1147,6 +1163,22 @@
       "description": "Discover what makes Surrey’s seniors programs and spaces vibrant hubs for community and creativity. Join us for Open House events at six locations – featuring activities, refreshments, entertainment, and opportunities to shape future programs and services. Upcoming open houses: September 11, 2026 Newton Seniors Centre 13775 70 Ave Surrey, BC 11:30am-1:30pm October 6, 2026 Cloverdale Recreation Centre 6188 - 176th Street Surrey, BC 1:00pm-3:00pm October 21, 2026 Chuck Bailey Recreation Centre 13458 107A Avenue Surrey, BC 11:00am-1:00pm October 27, 2026 South Surrey Recreation & Arts Centre 14601 - 20 Avenue Surrey, BC 11:30am-1:00pm November 12, 2026 Guildford Recreation Centre 15105 - 105 Avenue Surrey, BC 12:00pm-2:00pm November 17, 2026 Fleetwood Community Centre 15996 - 84 Avenue Surrey, BC 12:00pm-2:00pm",
       "category": "Community & festivals",
       "sourceCategories": "Guildford Seniors",
+      "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "8e76ca2ba7b6e9f3",
+      "city": "Surrey",
+      "title": "Speaker Series – Learning and Unlearning the Sikh Practice of Keeping Kesh",
+      "url": "https://www.surrey.ca/arts-culture/museum-of-surrey/whats-on/speaker-series-learning-and-unlearning-sikh-practice-of-keeping-kesh",
+      "dateLabel": "October 21, 2026",
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-21",
+      "time": "12:00pm - 1:00pm",
+      "location": "Virtual via Microsoft Teams",
+      "description": "Dr. Sharanjit Kaur Sandhra, co-author of Challenging Racist BC: 150 Years and Counting , will speak to and beyond the Sikh perspective. Enter a place of learning and openness as Sharn unpacks harmful misinformation. Register",
+      "category": "Arts & culture",
+      "sourceCategories": "Cloverdale Museum of Surrey",
       "price": "Free",
       "isFree": true
     },
@@ -1784,7 +1816,7 @@
       "endDate": "2026-11-20",
       "time": "6:00pm - 9:00pm",
       "location": "Clayton Community Centre, 7155 187A Street, Surrey, BC",
-      "description": "Calling all film lovers! The City of Surrey invites filmmakers, animators, video artists, content creators, vloggers, directors, producers, writers, costume and makeup artists, and other screen-based creatives to participate in Screen Connects Surrey. Screen Connects is a 2-day event designed to showcase local films, connect artists with industry professionals, and help shape the future of screen arts programming in our city. Screen Connects includes two events. Participate in one or both – the choice is yours! Day 1 – Screening Friday, November 20, 6 – 9pm Be a part of Day 1’s film screening as an audience member, or as a filmmaker showcasing your work. Submit a video All submissions must be suitable for general audiences. Submissions are due by October 1, 2026 . To attend the film screening, a free ticket is required. Filmmakers with a selected submission do not need to reserve a ticket. Reserve a ticket Day 2 – Forum Saturday, November 21, time TBD Day 2 of Screen Connects will feature workshops, guest speakers, and industry insights tailored to the interests of our local creative community. To help us shape the day, we’d love your input! Let us know what you want to do by registering for your free spot before September 30, 2026. Register now The Forum schedule will be released by October 31, 2026.",
+      "description": "Calling all film lovers! The City of Surrey invites filmmakers, animators, video artists, content creators, vloggers, directors, producers, writers, costume and makeup artists, and other screen-based creatives to participate in Screen Connects Surrey. Screen Connects is a 2-day event designed to showcase local films, connect artists with industry professionals, and help shape the future of screen arts programming in our city. Screen Connects includes two events. Participate in one or both – the choice is yours! Day 1 – Screening Friday, November 20, 6 – 9pm Be a part of Day 1’s film screening as an audience member, or as a filmmaker showcasing your work. Submit a video All submissions must be suitable for general audiences. Submissions are due by October 23, 2026 . To attend the film screening, a free ticket is required. Filmmakers with a selected submission do not need to reserve a ticket. Reserve a ticket Day 2 – Forum Saturday, November 21, time TBD Day 2 of Screen Connects will feature workshops, guest speakers, and industry insights tailored to the interests of our local creative community. To help us shape the day, we’d love your input! Let us know what you want to do by registering for your free spot before October 23, 2026. Register now The Forum schedule will be released by October 31, 2026.",
       "category": "Arts & culture",
       "sourceCategories": "Cloverdale Arts & Culture Community Art",
       "price": "Free",
@@ -1848,7 +1880,7 @@
       "endDate": "2026-11-21",
       "time": "Time not published — check event link",
       "location": "Clayton Community Centre, 7155 187A Street, Surrey, BC",
-      "description": "Calling all film lovers! The City of Surrey invites filmmakers, animators, video artists, content creators, vloggers, directors, producers, writers, costume and makeup artists, and other screen-based creatives to participate in Screen Connects Surrey. Screen Connects is a 2-day event designed to showcase local films, connect artists with industry professionals, and help shape the future of screen arts programming in our city. Screen Connects includes two events. Participate in one or both – the choice is yours! Day 1 – Screening Friday, November 20, 6 – 9pm Be a part of Day 1’s film screening as an audience member, or as a filmmaker showcasing your work. Submit a video All submissions must be suitable for general audiences. Submissions are due by October 1, 2026 . To attend the film screening, a free ticket is required. Filmmakers with a selected submission do not need to reserve a ticket. Reserve a ticket Day 2 – Forum Saturday, November 21, time TBD Day 2 of Screen Connects will feature workshops, guest speakers, and industry insights tailored to the interests of our local creative community. To help us shape the day, we’d love your input! Let us know what you want to do by registering for your free spot before September 30, 2026. Register now The Forum schedule will be released by October 31, 2026.",
+      "description": "Calling all film lovers! The City of Surrey invites filmmakers, animators, video artists, content creators, vloggers, directors, producers, writers, costume and makeup artists, and other screen-based creatives to participate in Screen Connects Surrey. Screen Connects is a 2-day event designed to showcase local films, connect artists with industry professionals, and help shape the future of screen arts programming in our city. Screen Connects includes two events. Participate in one or both – the choice is yours! Day 1 – Screening Friday, November 20, 6 – 9pm Be a part of Day 1’s film screening as an audience member, or as a filmmaker showcasing your work. Submit a video All submissions must be suitable for general audiences. Submissions are due by October 23, 2026 . To attend the film screening, a free ticket is required. Filmmakers with a selected submission do not need to reserve a ticket. Reserve a ticket Day 2 – Forum Saturday, November 21, time TBD Day 2 of Screen Connects will feature workshops, guest speakers, and industry insights tailored to the interests of our local creative community. To help us shape the day, we’d love your input! Let us know what you want to do by registering for your free spot before October 23, 2026. Register now The Forum schedule will be released by October 31, 2026.",
       "category": "Arts & culture",
       "sourceCategories": "Cloverdale Arts & Culture Community Art",
       "price": "Free",
