@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-24T10:52:48-07:00",
+  "updatedAt": "2026-09-25T10:59:31-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-09-24T10:52:48-07:00",
+      "updatedAt": "2026-09-25T10:59:31-07:00",
       "status": "ok",
-      "count": 172
+      "count": 173
     },
     "Richmond": {
-      "updatedAt": "2026-09-24T10:52:48-07:00",
+      "updatedAt": "2026-09-25T10:59:31-07:00",
       "status": "ok",
       "count": 14
     }
@@ -92,54 +92,6 @@
       "category": "Arts & culture",
       "sourceCategories": "Arts & Culture Community Art Heritage Music",
       "price": "Free!",
-      "isFree": true
-    },
-    {
-      "id": "de503306dbd7eb26",
-      "city": "Richmond",
-      "title": "Belong Here: Newcomer Welcome Fair",
-      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19119",
-      "dateLabel": "Thursday, Sep 24, 2026",
-      "startDate": "2026-09-24",
-      "endDate": "2026-09-24",
-      "time": "4:00pm - 7:30pm",
-      "location": "7700 Minoru Gate",
-      "description": "Belong Here: Newcomer Welcome Fair invites newcomers to Richmond to connect with local services and programs to help you thrive in your community. Connect with others | Participate in tours & workshops | Foster belonging More Information This event is for All Ages. This is an accessible site. This event is free.",
-      "category": "Community & festivals",
-      "sourceCategories": "Special Events - General Social / Community Event",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "23aae09c40952064",
-      "city": "Surrey",
-      "title": "Culture Days",
-      "url": "https://www.surrey.ca/news-events/events/culture-days",
-      "dateLabel": "September 24, 2026",
-      "startDate": "2026-09-24",
-      "endDate": "2026-09-24",
-      "time": "4:30pm - 6:00pm",
-      "location": "Various",
-      "description": "Culture Days is a national celebration of arts and culture. Events in Surrey include a range of free activities and events. There will be in person and virtual events for your enjoyment ranging from performances to tours and suitable for a variety of ages. Parking and accessibility will vary from venue to venue. Tuesday, September 22 5:00-5:30pm Newton Recreation Centre Core of Four Instagram @coreoffourband Thursday, September 24 4:30-6:00pm Guildford Recreation Centre Core of Four Instagram @coreoffourband Jingyan Mei Bir Btaalvi Instagram: @btal_v Suhavi Kaur Friday, September 25 12-1pm Cloverdale Recreation Centre Hendrix Tacuycuy Youtube: @funtimewithhendrix Saturday, September 26 6-7pm Surrey Arts Centre Royal Canadian Theatre Company Instagram: @rctheatreco Friday, October 2 6:30-7:30pm South Surrey Recreation and Arts Centre Monica Gregory Friday, October 2 6:30-7:30pm Surrey Arts Centre Donne Ao-Asen Instagram: @altafangs For a full list of activities visit, www.culturedays.com .",
-      "category": "Arts & culture",
-      "sourceCategories": "Arts & Culture Community Art Heritage Music",
-      "price": "Free!",
-      "isFree": true
-    },
-    {
-      "id": "b1e3f9f9722b69b7",
-      "city": "Surrey",
-      "title": "Make Your Own Emergency Kit Workshop (55+)",
-      "url": "https://www.surrey.ca/news-events/events/make-your-own-emergency-kit-workshop-55",
-      "dateLabel": "September 24, 2026",
-      "startDate": "2026-09-24",
-      "endDate": "2026-09-24",
-      "time": "2:00pm - 5:00pm",
-      "location": "Various locations",
-      "description": "This hands-on session will empower you with the knowledge and tools to stay safe and prepared in case of an emergency. Fraser Heights Recreation Centre Date: September 24, 2026 Time: 2-5pm Room: Multipurpose room 3 Address: 10588 160 St, Surrey, BC V4N 0A1 Register South Surrey Recreation and Arts Centre Date: October 27, 2026 Time: 2-5pm Room: Multipurpose room 1 Address: 14601 20 Ave, Surrey, BC V4A 9P5 Register",
-      "category": "Learn & create",
-      "sourceCategories": "Seniors",
-      "price": "Free",
       "isFree": true
     },
     {
@@ -1359,6 +1311,22 @@
       "isFree": true
     },
     {
+      "id": "8117c77470f82e98",
+      "city": "Richmond",
+      "title": "Halloween Hoot",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19129",
+      "dateLabel": "Saturday, Oct 24, 2026 Saturday, Oct 24, 2026",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "time": "10am - 4pm",
+      "location": "11851 Westminster Hwy",
+      "description": "Drop in to the Richmond Nature Park to explore Halloween decorations along the Pond Trail! More than 30 inflatables, 10 nature-themed art installations and a tickle tunnel will be on display daily from October 19 to 27, 10:00 am to 4:00 pm. Pumpkins will be available for purchase during this family-friendly event, which runs rain or shine. Admission is by donation, with proceeds supporting the Richmond Nature Park Society’s nature education programs. The Richmond Nature Park is located at 11851 Westminster Highway, at No. 5 Road. Onsite parking is limited. For more information, call 604-238-6188. More Information This event is for All Ages. This is an accessible site. This event is free.",
+      "category": "Arts & culture",
+      "sourceCategories": "Culture Days Social / Community Event",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "a9bb4ec01cc41081",
       "city": "Surrey",
       "title": "Metro Vancouver Black Business Expo 2026",
@@ -1679,6 +1647,22 @@
       "isFree": true
     },
     {
+      "id": "8cefc1ae1cb43105",
+      "city": "Surrey",
+      "title": "Playful Palettes For the Love Of the Art Gala",
+      "url": "https://www.surrey.ca/news-events/events/playful-palettes-love-of-art-gala",
+      "dateLabel": "November 13, 2026",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "time": "8:00pm - 11:00pm",
+      "location": "Bayside Rugby Clubhouse, 14600 20 Ave, Surrey BC",
+      "description": "Step into the spotlight for an evening of arts and entertainment at the 2nd Annual Playful Palette Foundation Gala. This year’s gala brings the spirit of cabaret to South Surrey with live jazz, performances, food and opportunities to connect. Dress up, grab a drink, meet new people, catch up with friends and enjoy an evening celebrating the arts and the community that makes this work possible. Whether you're looking to connect with others, enjoy the entertainment, support a great cause or simply have a fun night out, there’s something for everyone. Celebrate “For the Love of the Arts” while supporting opportunities for children and youth to experience and participate in the arts. Get tickets",
+      "category": "Arts & culture",
+      "sourceCategories": "South Surrey Community-Hosted",
+      "price": "$75",
+      "isFree": false
+    },
+    {
       "id": "b282e1fc7e8b567a",
       "city": "Surrey",
       "title": "The Dreamboats",
@@ -1816,7 +1800,7 @@
       "endDate": "2026-11-20",
       "time": "6:00pm - 9:00pm",
       "location": "Clayton Community Centre, 7155 187A Street, Surrey, BC",
-      "description": "Calling all film lovers! The City of Surrey invites filmmakers, animators, video artists, content creators, vloggers, directors, producers, writers, costume and makeup artists, and other screen-based creatives to participate in Screen Connects Surrey. Screen Connects is a 2-day event designed to showcase local films, connect artists with industry professionals, and help shape the future of screen arts programming in our city. Screen Connects includes two events. Participate in one or both – the choice is yours! Day 1 – Screening Friday, November 20, 6 – 9pm Be a part of Day 1’s film screening as an audience member, or as a filmmaker showcasing your work. Submit a video All submissions must be suitable for general audiences. Submissions are due by October 23, 2026 . To attend the film screening, a free ticket is required. Filmmakers with a selected submission do not need to reserve a ticket. Reserve a ticket Day 2 – Forum Saturday, November 21, time TBD Day 2 of Screen Connects will feature workshops, guest speakers, and industry insights tailored to the interests of our local creative community. To help us shape the day, we’d love your input! Let us know what you want to do by registering for your free spot before October 23, 2026. Register now The Forum schedule will be released by October 31, 2026.",
+      "description": "Calling all film lovers! The City of Surrey invites filmmakers, animators, video artists, content creators, vloggers, directors, producers, writers, costume and makeup artists, and other screen-based creatives to participate in Screen Connects Surrey. Screen Connects is a 2-day event designed to showcase local films, connect artists with industry professionals, and help shape the future of screen arts programming in our city. Screen Connects includes two events. Participate in one or both – the choice is yours! Day 1 – Screening Friday, November 20, 6 – 9pm Be a part of Day 1’s film screening as an audience member, or as a filmmaker showcasing your work. Submit a video All submissions must be suitable for general audiences. Submissions are due by October 23, 2026 . To attend the film screening, a free ticket is required. Filmmakers with a selected submission do not need to reserve a ticket. Reserve a ticket Day 2 – Forum Saturday, November 21, time TBD Day 2 of Screen Connects will feature workshops, guest speakers, and industry insights tailored to the interests of our local creative community. To help us shape the day, we’d love your input! Let us know what you want to do by registering for your free spot before October 23, 2026. Register now The Forum schedule will be released by November 15, 2026.",
       "category": "Arts & culture",
       "sourceCategories": "Cloverdale Arts & Culture Community Art",
       "price": "Free",
@@ -1880,7 +1864,7 @@
       "endDate": "2026-11-21",
       "time": "Time not published — check event link",
       "location": "Clayton Community Centre, 7155 187A Street, Surrey, BC",
-      "description": "Calling all film lovers! The City of Surrey invites filmmakers, animators, video artists, content creators, vloggers, directors, producers, writers, costume and makeup artists, and other screen-based creatives to participate in Screen Connects Surrey. Screen Connects is a 2-day event designed to showcase local films, connect artists with industry professionals, and help shape the future of screen arts programming in our city. Screen Connects includes two events. Participate in one or both – the choice is yours! Day 1 – Screening Friday, November 20, 6 – 9pm Be a part of Day 1’s film screening as an audience member, or as a filmmaker showcasing your work. Submit a video All submissions must be suitable for general audiences. Submissions are due by October 23, 2026 . To attend the film screening, a free ticket is required. Filmmakers with a selected submission do not need to reserve a ticket. Reserve a ticket Day 2 – Forum Saturday, November 21, time TBD Day 2 of Screen Connects will feature workshops, guest speakers, and industry insights tailored to the interests of our local creative community. To help us shape the day, we’d love your input! Let us know what you want to do by registering for your free spot before October 23, 2026. Register now The Forum schedule will be released by October 31, 2026.",
+      "description": "Calling all film lovers! The City of Surrey invites filmmakers, animators, video artists, content creators, vloggers, directors, producers, writers, costume and makeup artists, and other screen-based creatives to participate in Screen Connects Surrey. Screen Connects is a 2-day event designed to showcase local films, connect artists with industry professionals, and help shape the future of screen arts programming in our city. Screen Connects includes two events. Participate in one or both – the choice is yours! Day 1 – Screening Friday, November 20, 6 – 9pm Be a part of Day 1’s film screening as an audience member, or as a filmmaker showcasing your work. Submit a video All submissions must be suitable for general audiences. Submissions are due by October 23, 2026 . To attend the film screening, a free ticket is required. Filmmakers with a selected submission do not need to reserve a ticket. Reserve a ticket Day 2 – Forum Saturday, November 21, time TBD Day 2 of Screen Connects will feature workshops, guest speakers, and industry insights tailored to the interests of our local creative community. To help us shape the day, we’d love your input! Let us know what you want to do by registering for your free spot before October 23, 2026. Register now The Forum schedule will be released by November 15, 2026.",
       "category": "Arts & culture",
       "sourceCategories": "Cloverdale Arts & Culture Community Art",
       "price": "Free",
