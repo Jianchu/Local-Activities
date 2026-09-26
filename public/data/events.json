@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-25T10:59:31-07:00",
+  "updatedAt": "2026-09-26T10:15:53-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-09-25T10:59:31-07:00",
+      "updatedAt": "2026-09-26T10:15:53-07:00",
       "status": "ok",
       "count": 173
     },
     "Richmond": {
-      "updatedAt": "2026-09-25T10:59:31-07:00",
+      "updatedAt": "2026-09-26T10:15:53-07:00",
       "status": "ok",
       "count": 14
     }
@@ -93,54 +93,6 @@
       "sourceCategories": "Arts & Culture Community Art Heritage Music",
       "price": "Free!",
       "isFree": true
-    },
-    {
-      "id": "d0126a620f5aa100",
-      "city": "Surrey",
-      "title": "Culture Days",
-      "url": "https://www.surrey.ca/news-events/events/culture-days",
-      "dateLabel": "September 25, 2026",
-      "startDate": "2026-09-25",
-      "endDate": "2026-09-25",
-      "time": "12:00pm - 1:00pm",
-      "location": "Various",
-      "description": "Culture Days is a national celebration of arts and culture. Events in Surrey include a range of free activities and events. There will be in person and virtual events for your enjoyment ranging from performances to tours and suitable for a variety of ages. Parking and accessibility will vary from venue to venue. Tuesday, September 22 5:00-5:30pm Newton Recreation Centre Core of Four Instagram @coreoffourband Thursday, September 24 4:30-6:00pm Guildford Recreation Centre Core of Four Instagram @coreoffourband Jingyan Mei Bir Btaalvi Instagram: @btal_v Suhavi Kaur Friday, September 25 12-1pm Cloverdale Recreation Centre Hendrix Tacuycuy Youtube: @funtimewithhendrix Saturday, September 26 6-7pm Surrey Arts Centre Royal Canadian Theatre Company Instagram: @rctheatreco Friday, October 2 6:30-7:30pm South Surrey Recreation and Arts Centre Monica Gregory Friday, October 2 6:30-7:30pm Surrey Arts Centre Donne Ao-Asen Instagram: @altafangs For a full list of activities visit, www.culturedays.com .",
-      "category": "Arts & culture",
-      "sourceCategories": "Arts & Culture Community Art Heritage Music",
-      "price": "Free!",
-      "isFree": true
-    },
-    {
-      "id": "c65f8cb44c29c96a",
-      "city": "Surrey",
-      "title": "Murder for Two",
-      "url": "https://www.surrey.ca/news-events/events/murder-two",
-      "dateLabel": "September 25, 2026",
-      "startDate": "2026-09-25",
-      "endDate": "2026-09-25",
-      "time": "7:30pm - 9:00pm",
-      "location": "Surrey Arts Centre, 13750 88 Ave, Surrey, BC",
-      "description": "Audience advisory: Some foul language Murder for Two is the story of a disastrous surprise birthday party for novelist Arthur Whitney. The big surprise was that one of the guests murdered the novelist because he had the habit of revealing his friends darkest, naughtiest secrets in his novels. First on the scene is small town cop Marcus Moscowicz, who has dreams of becoming a big city detective, and solving this case in record time could be his ticket to the big time. There are 13 suspects and they all have good reason to want Whitney dead and buried, so Moscowicz has his job cut out for him. Thirteen characters, two performers, one shared piano and a mystery to solve! Murder For Two is the perfect blend of music, mayhem and murder! In this hilarious 90-minute show, the detective and the suspects share the stage – and the piano – in a witty and winking homage to old-fashioned murder mysteries. You won't want to miss this killer musical comedy! For accessible seating, please call the box office at 604-501-5580 . Learn more",
-      "category": "Community & festivals",
-      "sourceCategories": "Whalley and City Centre Community-Hosted",
-      "price": "$18.75-38.75",
-      "isFree": false
-    },
-    {
-      "id": "a9e19075c1d54b97",
-      "city": "Surrey",
-      "title": "Surrey Youth Stewardship Squad",
-      "url": "https://www.surrey.ca/news-events/events/surrey-youth-stewardship-squad",
-      "dateLabel": "September 25, 2026",
-      "startDate": "2026-09-25",
-      "endDate": "2026-09-25",
-      "time": "11:00am",
-      "location": "Serpentine Heights Park, 16151 92 Ave Meet at the last soccer field by the school",
-      "description": "Volunteer in parks with other youth Remove invasive plants, plant trees and shrubs, clean up litter, and enhance habitat within Surrey parks. Tools and training are provided. Bring your friends - all youth aged 13 to 18 are welcome! No experience is required. Important information Dress for the weather and bring water. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Fri. Sep 25 Tree and shrub planting 11:00am 1:00pm Serpentine Heights Park 16151 92 Ave Meet at the last soccer field by the school Fri. Oct 23 Tree and shrub planting 12:30pm 2:30pm Serpentine Heights Park 16151 92 Ave Meet at the last soccer field by the school Sat. Nov 14 Invasive plant removal 1:00pm 3:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Additional opportunities are shared online for registered Surrey Youth Stewardship Squad volunteers. Sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
-      "category": "Nature & outdoors",
-      "sourceCategories": "Parks & Environment Youth",
-      "price": "Drop-in",
-      "isFree": false
     },
     {
       "id": "9d587597b56a23b9",
@@ -703,22 +655,6 @@
       "isFree": true
     },
     {
-      "id": "6550d388deddda6a",
-      "city": "Surrey",
-      "title": "White Rock & South Surrey Culture Crawl",
-      "url": "https://www.surrey.ca/news-events/events/white-rock-south-surrey-culture-crawl",
-      "dateLabel": "October 3, 2026 - October 4, 2026",
-      "startDate": "2026-10-03",
-      "endDate": "2026-10-04",
-      "time": "Time not published — check event link",
-      "location": "Venues throughout Surrey and White Rock",
-      "description": "Celebrate the vibrant arts, culture, and heritage of the Semiahmoo Peninsula during the White Rock & Surrey Culture Crawl , happening this fall over two exciting days. On October 3 and 4, 2026, explore local creativity through art exhibits, live music, heritage displays, theatre, guided tours, and more—all hosted at venues across the community. This self-guided cultural experience invites residents and visitors alike to discover the people, stories, and spaces that shape our region’s creative identity. Learn more",
-      "category": "Arts & culture",
-      "sourceCategories": "South Surrey Arts & Culture Community Art",
-      "price": "Free",
-      "isFree": true
-    },
-    {
       "id": "d9b186c78c36060c",
       "city": "Surrey",
       "title": "Woven Tenderly Art Party",
@@ -1068,6 +1004,22 @@
       "category": "Nature & outdoors",
       "sourceCategories": "Parks & Environment",
       "price": "Drop-in",
+      "isFree": false
+    },
+    {
+      "id": "7b7cdd6469089f8b",
+      "city": "Surrey",
+      "title": "Bingo Night for the Cats - A Surrey CATS Fundraiser",
+      "url": "https://www.surrey.ca/news-events/events/bingo-night-cats-surrey-cats-fundraiser",
+      "dateLabel": "October 18, 2026",
+      "startDate": "2026-10-18",
+      "endDate": "2026-10-18",
+      "time": "7:00pm - 9:00pm",
+      "location": "Elgin Hall, 14250 Crescent Rd, Surrey, BC",
+      "description": "Surrey CATS is hosting a night of bingo, prizes and fun in support of cats and kittens in the community. This fundraiser will help fund subsidized spay and neuter surgeries for low-income pet owners, helping to prevent unwanted litters and keep cats out of shelters and in loving homes. An optional donation can be added at checkout. Additional donations will automatically receive a charitable tax receipt by email through Zeffy. Get tickets Tickets Tickets are $25 and are required for entry. Each ticket includes: 20 bingo sheets, with two sheets per game across 10 games Three cards per sheet, for a total of 60 cards to play throughout the evening Opportunities to win cash prizes, hotel getaways and local gift baskets Free coffee, tea and water The following will also be available for purchase on-site: Extra bingo cards 50/50 raffle tickets Cat-themed merchandise Pop, snacks and treats Prizes Prizes include: Two $250 cash prizes Hotel stays with breakfast vouchers Experiences, gift cards and gift baskets from local businesses Attendees are encouraged to bring cash where possible, as this helps Surrey CATS direct more of the funds raised toward its work supporting cats in the community. Sponsors Event sponsors include: Airbnb Ocean Park Browns Social House Hilton Hotel Kooky Kat Nip Locality Brewing Meowbox Pet Solutions Salt Wellness Centre Skoah Surrey Arts Centre White Rock Gift Baskets White Spot Morgan Crossing Everything Wine Morgan Crossing Gate 22 Winery Otter Trail Winery The sponsor list is continuing to grow. New sponsors and prize donors are welcome. Funds raised through the event will support Surrey CATS programs that help keep cats safe, cared for and with the families who love them.",
+      "category": "Community & festivals",
+      "sourceCategories": "South Surrey Community-Hosted",
+      "price": "$25",
       "isFree": false
     },
     {
