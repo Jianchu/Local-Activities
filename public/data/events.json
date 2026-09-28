@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-27T10:48:28-07:00",
+  "updatedAt": "2026-09-28T13:09:06-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-09-27T10:48:28-07:00",
+      "updatedAt": "2026-09-28T13:09:06-07:00",
       "status": "ok",
-      "count": 165
+      "count": 163
     },
     "Richmond": {
-      "updatedAt": "2026-09-27T10:48:28-07:00",
+      "updatedAt": "2026-09-28T13:09:06-07:00",
       "status": "ok",
-      "count": 11
+      "count": 10
     }
   },
   "events": [
@@ -95,86 +95,6 @@
       "isFree": true
     },
     {
-      "id": "f3b6c7a5d125404e",
-      "city": "Richmond",
-      "title": "Celebrate the Mid-Autumn Festival at Lansdowne Centre",
-      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19123",
-      "dateLabel": "Saturday, Sep 26, 2026 Sunday, Sep 27, 2026",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-27",
-      "time": "Official Celebration: September 26: 11:00am-4:00pm Arts & Crafts and Artisan Market September 26: 10:00am-8:00pm September 27: 10:00am-7:00pm",
-      "location": "5300 No. 3 Rd",
-      "description": "Join Lansdowne Centre for a weekend of Mid-Autumn festivities on September 26 and 27. On September 26, hop into the festivities with an adorable interactive bunny yoga experience, where you can stretch, relax and enjoy the company of some furry friends. Next, meet the bunnies up close during the interactive bunny meet and treat experience. Learn the traditional lantern making and take home your very own bunny lantern that brings back childhood memories. Throughout the weekend, continue the celebration by exploring the artisan market, solving festive riddles and getting creative with arts and crafts activities. There will also be plenty of Instagrammable moments to capture. Bring your family and friends and celebrate the Mid-Autumn Festival at Lansdowne Centre. Location: Lansdowne Centre (Centre Court & Kiosk Court) Bunny Yoga Registration Link: https://www.eventbrite.ca/e/moon-rabbit-bunny-yoga-tickets-1998506765534 Website: https://lansdowne-centre.com/mid-autumn-festival-2026/ More Information This event is for All Ages. This is an accessible site. This event is free.",
-      "category": "Arts & culture",
-      "sourceCategories": "Culture & Heritage Events Art",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "fe24bbfe588664f1",
-      "city": "Surrey",
-      "title": "Engage with Artist in Residence Mariel Nelms",
-      "url": "https://www.surrey.ca/news-events/events/engage-artist-residence-mariel-nelms",
-      "dateLabel": "September 27, 2026",
-      "startDate": "2026-09-27",
-      "endDate": "2026-09-27",
-      "time": "Time not published — check event link",
-      "location": "Clayton Community Centre, 7155 187a St, Surrey, BC",
-      "description": "Clayton Community Centre's Artist in Residence, Mariel Nelms’ project Future Archives , invites community members to be co-authors of Surrey’s next chapter by exploring the influential individuals that have come before and considering our roles in the future. Nelms invites community members to participate in free portrait sessions, creative workshops, and meaningful conversations. Come out to one or all of the sessions listed, and visit Artists in Residence for more about the project and the exciting end result! Pop-Up portrait studio Come get your professional photo taken for the project. September 13, 10am-2pm September 18, 5-9pm September 27, 10am-2pm Weaving workshops Learn to upcycle recycled materials into woven textiles. October 11, 10am-2pm October 25, 10am-2pm December 5, 10am-2pm Opening of Future Archives Unveiling of final artwork and community celebration. January 16, 3-5pm",
-      "category": "Arts & culture",
-      "sourceCategories": "Cloverdale Arts & Culture Community Art",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "c024bca85f45e5f9",
-      "city": "Surrey",
-      "title": "Family Scavenger Hunt at Darts Hill",
-      "url": "https://www.surrey.ca/news-events/events/family-scavenger-hunt-darts-hill",
-      "dateLabel": "September 27, 2026",
-      "startDate": "2026-09-27",
-      "endDate": "2026-09-27",
-      "time": "10:00am - 4:00pm",
-      "location": "Darts Hill Garden Park, 1633 - 170 St, Surrey, BC",
-      "description": "Explore, discover, and play together at Darts Hill Garden Park with our family scavenger hunts! Offered the last Sunday of each month. Follow winding paths and hidden garden corners as you learn about the plants found in the garden. It’s a playful way for all ages to connect with nature, learn something new and enjoy the beauty of the garden as a team.",
-      "category": "Nature & outdoors",
-      "sourceCategories": "South Surrey Children Parks & Environment",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "e10cd26932570c8f",
-      "city": "Surrey",
-      "title": "Love Chaos Kin Film Screening",
-      "url": "https://www.surrey.ca/news-events/events/love-chaos-kin-film-screening",
-      "dateLabel": "September 27, 2026",
-      "startDate": "2026-09-27",
-      "endDate": "2026-09-27",
-      "time": "2:00pm - 4:00pm",
-      "location": "Landmark Cinemas Guildford (Theater #11), 15051 101 Ave, Surrey, BC",
-      "description": "Experience Love Chaos Kin , an intimate, patient and humorous documentary exploring family, identity and belonging across cultures and generations. When an Indian immigrant mother decides her adopted children deserve to know their full story, their family grows to include their white birth mother, Navajo father and the complicated truths that connect them. Filmed over 12 years, Love Chaos Kin follows a transracial adoptive family as they navigate relationships, culture and what it means to belong. This film screening is presented as part of iSAFF 2026 . Get tickets",
-      "category": "Community & festivals",
-      "sourceCategories": "Guildford Community-Hosted",
-      "price": "$15",
-      "isFree": false
-    },
-    {
-      "id": "82518a0f98095a76",
-      "city": "Surrey",
-      "title": "Murder for Two",
-      "url": "https://www.surrey.ca/news-events/events/murder-two",
-      "dateLabel": "September 27, 2026",
-      "startDate": "2026-09-27",
-      "endDate": "2026-09-27",
-      "time": "2:00pm - 3:30pm",
-      "location": "Surrey Arts Centre, 13750 88 Ave, Surrey, BC",
-      "description": "Audience advisory: Some foul language Murder for Two is the story of a disastrous surprise birthday party for novelist Arthur Whitney. The big surprise was that one of the guests murdered the novelist because he had the habit of revealing his friends darkest, naughtiest secrets in his novels. First on the scene is small town cop Marcus Moscowicz, who has dreams of becoming a big city detective, and solving this case in record time could be his ticket to the big time. There are 13 suspects and they all have good reason to want Whitney dead and buried, so Moscowicz has his job cut out for him. Thirteen characters, two performers, one shared piano and a mystery to solve! Murder For Two is the perfect blend of music, mayhem and murder! In this hilarious 90-minute show, the detective and the suspects share the stage – and the piano – in a witty and winking homage to old-fashioned murder mysteries. You won't want to miss this killer musical comedy! For accessible seating, please call the box office at 604-501-5580 . Learn more",
-      "category": "Community & festivals",
-      "sourceCategories": "Whalley and City Centre Community-Hosted",
-      "price": "$18.75-38.75",
-      "isFree": false
-    },
-    {
       "id": "5a1d561b0748de99",
       "city": "Richmond",
       "title": "National Seniors Day",
@@ -223,10 +143,10 @@
       "isFree": true
     },
     {
-      "id": "c8c57e0990f38da1",
+      "id": "566e6ed5b765725f",
       "city": "Surrey",
-      "title": "Our City Wrap Up Event: Barrier Painting",
-      "url": "https://www.surrey.ca/news-events/events/our-city-wrap-event-barrier-painting",
+      "title": "Our City Wrap Up: Barrier Painting",
+      "url": "https://www.surrey.ca/news-events/events/our-city-wrap-barrier-painting",
       "dateLabel": "October 1, 2026",
       "startDate": "2026-10-01",
       "endDate": "2026-10-01",
@@ -623,6 +543,22 @@
       "isFree": true
     },
     {
+      "id": "0c10574f9e835d89",
+      "city": "Surrey",
+      "title": "Municipal Election: Advance Voting",
+      "url": "https://www.surrey.ca/news-events/events/municipal-election-advance-voting",
+      "dateLabel": "October 7, 2026",
+      "startDate": "2026-10-07",
+      "endDate": "2026-10-07",
+      "time": "Time not published — check event link",
+      "location": "Various: see list below",
+      "description": "Eligible voters will cast their ballot to elect one (1) mayor, eight (8) councillors and six (6) school trustees. Advance voting locations Kwantlen Park Secondary: 10441 132 Street Guildford Recreation Centre: 15105 105 Avenue Fraser Heights Recreation Centre: 10588 160 Street Fleetwood Community Centre: 15996 84 Avenue Frank Hurt Secondary: 13940 77 Avenue Princess Margaret Secondary: 12870 72 Avenue École Panorama Ridge Secondary: 13220 64 Avenue Cloverdale Recreation Centre: 6188 176 Street Semiahmoo Secondary: 1785 148 Street Earl Marriott Secondary: 15751 16 Avenue Advance voting days October 7 October 10 October 14 October 15 Before you vote Ensure you are eligible to vote . Learn who is running for office . If you are registered, a voter card will be mailed to your household in late September or early October. Bring the voter card with your name listed and one (1) piece of acceptable identification. If you are updating your personal information on your voter card, bring acceptable identification showing the updated information. If one piece of identification shows the change, a second piece is not required. When you arrive to vote After being greeted at the voting location, you will be directed to the first available election official to show your voter card and one (1) piece of acceptable identification and asked to sign the voting book declaration to receive your ballot. If you are not on the list of registered voters, you will need two (2) pieces of acceptable identification . Continue to the voting booth where you will have privacy to mark your ballot. Finally, proceed to the voting machine where you will feed the ballot into the tabulator.",
+      "category": "Community & festivals",
+      "sourceCategories": "",
+      "price": "",
+      "isFree": false
+    },
+    {
       "id": "97794dfd144bc3c1",
       "city": "Surrey",
       "title": "Coffee Concert: Fantasies for Two",
@@ -687,6 +623,22 @@
       "isFree": false
     },
     {
+      "id": "3f7bc57cbc54a558",
+      "city": "Surrey",
+      "title": "Municipal Election: Advance Voting",
+      "url": "https://www.surrey.ca/news-events/events/municipal-election-advance-voting",
+      "dateLabel": "October 10, 2026",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "time": "Time not published — check event link",
+      "location": "Various: see list below",
+      "description": "Eligible voters will cast their ballot to elect one (1) mayor, eight (8) councillors and six (6) school trustees. Advance voting locations Kwantlen Park Secondary: 10441 132 Street Guildford Recreation Centre: 15105 105 Avenue Fraser Heights Recreation Centre: 10588 160 Street Fleetwood Community Centre: 15996 84 Avenue Frank Hurt Secondary: 13940 77 Avenue Princess Margaret Secondary: 12870 72 Avenue École Panorama Ridge Secondary: 13220 64 Avenue Cloverdale Recreation Centre: 6188 176 Street Semiahmoo Secondary: 1785 148 Street Earl Marriott Secondary: 15751 16 Avenue Advance voting days October 7 October 10 October 14 October 15 Before you vote Ensure you are eligible to vote . Learn who is running for office . If you are registered, a voter card will be mailed to your household in late September or early October. Bring the voter card with your name listed and one (1) piece of acceptable identification. If you are updating your personal information on your voter card, bring acceptable identification showing the updated information. If one piece of identification shows the change, a second piece is not required. When you arrive to vote After being greeted at the voting location, you will be directed to the first available election official to show your voter card and one (1) piece of acceptable identification and asked to sign the voting book declaration to receive your ballot. If you are not on the list of registered voters, you will need two (2) pieces of acceptable identification . Continue to the voting booth where you will have privacy to mark your ballot. Finally, proceed to the voting machine where you will feed the ballot into the tabulator.",
+      "category": "Community & festivals",
+      "sourceCategories": "",
+      "price": "",
+      "isFree": false
+    },
+    {
       "id": "0e6c43dcbac6dfe0",
       "city": "Surrey",
       "title": "Engage with Artist in Residence Mariel Nelms",
@@ -699,6 +651,22 @@
       "description": "Clayton Community Centre's Artist in Residence, Mariel Nelms’ project Future Archives , invites community members to be co-authors of Surrey’s next chapter by exploring the influential individuals that have come before and considering our roles in the future. Nelms invites community members to participate in free portrait sessions, creative workshops, and meaningful conversations. Come out to one or all of the sessions listed, and visit Artists in Residence for more about the project and the exciting end result! Pop-Up portrait studio Come get your professional photo taken for the project. September 13, 10am-2pm September 18, 5-9pm September 27, 10am-2pm Weaving workshops Learn to upcycle recycled materials into woven textiles. October 11, 10am-2pm October 25, 10am-2pm December 5, 10am-2pm Opening of Future Archives Unveiling of final artwork and community celebration. January 16, 3-5pm",
       "category": "Arts & culture",
       "sourceCategories": "Cloverdale Arts & Culture Community Art",
+      "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "049b2b5f6de817a9",
+      "city": "Surrey",
+      "title": "Focus on Seniors Webinar Series",
+      "url": "https://www.surrey.ca/news-events/events/focus-on-seniors-webinar-series",
+      "dateLabel": "October 14, 2026",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-14",
+      "time": "11:00am - 12:00pm",
+      "location": "Online",
+      "description": "Join us for free informative online sessions for seniors, their families and caregivers. As part of Surrey's Age Friendly Strategy for Seniors , these webinars feature guest presenters to provide resources to ensure Surrey's seniors are supported and can remain actively engaged and safe in our community. Upcoming webinars Spotlight on Ageism: Reframing the Way We Think About Ageing October 14, 11am-12pm Ageing brings both joys and challenges, but how much of our experience is influenced by the messages we receive about getting older? This engaging and interactive workshop explores ageism, the assumptions and stereotypes we hold about ageing, and how these beliefs can influence our health, well-being, relationships and sense of self. Participants will be invited to challenge ageist thinking, reflect on their own attitudes toward ageing, and explore ways to embrace resilience, wisdom, connection and purpose throughout life's later chapters. Let's move beyond simply growing older and explore what it means to age well. Register",
+      "category": "Community & festivals",
+      "sourceCategories": "Seniors",
       "price": "Free",
       "isFree": true
     },
@@ -719,6 +687,22 @@
       "isFree": false
     },
     {
+      "id": "c8da90e7086e21c0",
+      "city": "Surrey",
+      "title": "Municipal Election: Advance Voting",
+      "url": "https://www.surrey.ca/news-events/events/municipal-election-advance-voting",
+      "dateLabel": "October 14, 2026",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-14",
+      "time": "Time not published — check event link",
+      "location": "Various: see list below",
+      "description": "Eligible voters will cast their ballot to elect one (1) mayor, eight (8) councillors and six (6) school trustees. Advance voting locations Kwantlen Park Secondary: 10441 132 Street Guildford Recreation Centre: 15105 105 Avenue Fraser Heights Recreation Centre: 10588 160 Street Fleetwood Community Centre: 15996 84 Avenue Frank Hurt Secondary: 13940 77 Avenue Princess Margaret Secondary: 12870 72 Avenue École Panorama Ridge Secondary: 13220 64 Avenue Cloverdale Recreation Centre: 6188 176 Street Semiahmoo Secondary: 1785 148 Street Earl Marriott Secondary: 15751 16 Avenue Advance voting days October 7 October 10 October 14 October 15 Before you vote Ensure you are eligible to vote . Learn who is running for office . If you are registered, a voter card will be mailed to your household in late September or early October. Bring the voter card with your name listed and one (1) piece of acceptable identification. If you are updating your personal information on your voter card, bring acceptable identification showing the updated information. If one piece of identification shows the change, a second piece is not required. When you arrive to vote After being greeted at the voting location, you will be directed to the first available election official to show your voter card and one (1) piece of acceptable identification and asked to sign the voting book declaration to receive your ballot. If you are not on the list of registered voters, you will need two (2) pieces of acceptable identification . Continue to the voting booth where you will have privacy to mark your ballot. Finally, proceed to the voting machine where you will feed the ballot into the tabulator.",
+      "category": "Community & festivals",
+      "sourceCategories": "",
+      "price": "",
+      "isFree": false
+    },
+    {
       "id": "9116a852cf1be02c",
       "city": "Surrey",
       "title": "Sensory Friendly Skates",
@@ -732,6 +716,22 @@
       "category": "Sports & wellness",
       "sourceCategories": "South Surrey Recreation",
       "price": "Use your Recreation Surrey pass or pay for a drop-in admission .",
+      "isFree": false
+    },
+    {
+      "id": "152a7b2f007aba57",
+      "city": "Surrey",
+      "title": "Municipal Election: Advance Voting",
+      "url": "https://www.surrey.ca/news-events/events/municipal-election-advance-voting",
+      "dateLabel": "October 15, 2026",
+      "startDate": "2026-10-15",
+      "endDate": "2026-10-15",
+      "time": "Time not published — check event link",
+      "location": "Various: see list below",
+      "description": "Eligible voters will cast their ballot to elect one (1) mayor, eight (8) councillors and six (6) school trustees. Advance voting locations Kwantlen Park Secondary: 10441 132 Street Guildford Recreation Centre: 15105 105 Avenue Fraser Heights Recreation Centre: 10588 160 Street Fleetwood Community Centre: 15996 84 Avenue Frank Hurt Secondary: 13940 77 Avenue Princess Margaret Secondary: 12870 72 Avenue École Panorama Ridge Secondary: 13220 64 Avenue Cloverdale Recreation Centre: 6188 176 Street Semiahmoo Secondary: 1785 148 Street Earl Marriott Secondary: 15751 16 Avenue Advance voting days October 7 October 10 October 14 October 15 Before you vote Ensure you are eligible to vote . Learn who is running for office . If you are registered, a voter card will be mailed to your household in late September or early October. Bring the voter card with your name listed and one (1) piece of acceptable identification. If you are updating your personal information on your voter card, bring acceptable identification showing the updated information. If one piece of identification shows the change, a second piece is not required. When you arrive to vote After being greeted at the voting location, you will be directed to the first available election official to show your voter card and one (1) piece of acceptable identification and asked to sign the voting book declaration to receive your ballot. If you are not on the list of registered voters, you will need two (2) pieces of acceptable identification . Continue to the voting booth where you will have privacy to mark your ballot. Finally, proceed to the voting machine where you will feed the ballot into the tabulator.",
+      "category": "Community & festivals",
+      "sourceCategories": "",
+      "price": "",
       "isFree": false
     },
     {
@@ -1309,6 +1309,22 @@
       "sourceCategories": "South Surrey Community-Hosted",
       "price": "$40",
       "isFree": false
+    },
+    {
+      "id": "d813ab99bed79f9f",
+      "city": "Surrey",
+      "title": "Inouye Park Heritage Unveiling",
+      "url": "https://www.surrey.ca/news-events/events/inouye-park-heritage-unveiling",
+      "dateLabel": "November 7, 2026",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "time": "10:30am - 12:00pm",
+      "location": "Inouye Park, 9158 134 Street, Surrey",
+      "description": "More than a mailbox Join us in Inouye Park as we unveil a new heritage feature recognizing the experiences and contributions of early Japanese Canadian residents in Surrey. The new feature includes the artwork “Konjou” by artist Kellen Hatanaka and interpretive features that share the story of Zennosuke Inouye. The unveiling marks the first of a three-point public heritage project that also includes a commemorative feature in RA Nicholson Park, and a permanent large-scale photo display at the Strawberry Hill Hall. Together they highlight the significant contributions of early Japanese Canadians in Surrey, as well as the injustice of their dispossession and internment during and after World War II. We gratefully acknowledge support from the Japanese Canadian Legacies Society About the artwork: Konjou Meaning perseverance in Japanese, “Konjou” honours the history and legacy of Zennosuke Inouye in the form of a mailbox. After being interned, Mr. Inouye fought to reclaim his property through a personal letter writing campaign. The mailbox symbolizes home and land ownership and represents the rural farming community that existed in the Strawberry Hill area. Accompanying the mailbox is a Japanese rock garden, honouring the history of Japanese Canadians utilizing stones to create monuments inspired by Japanese garden design. About the artist: Kellen Hatanaka A Japanese Canadian multidisciplinary artist, Kellen Hatanaka works in a variety of mediums, including painting, sculpture and public art. His work considers race, tradition, and heritage as he explores personal and collective identity and the nuances of the Japanese Canadian experience through sport, design, history and culture. Who was Zennosuke Inouye? Zennosuke Inouye and his family owned a successful farm in Strawberry Hill until, in 1942, the Canadian government forced all people of Japanese ancestry to leave the west coast. They later sold Japanese Canadian possessions without permission from the owners. After writing dozens of letters to government officials reminding them of his service to Canada in WW1, the government returned his land to him in 1949. Of the 60 interned families in the area, the Inouye's were the only one to have their land returned. Photo credit: Zennosuke Inouye Farm; Surrey, BC. Ca. 1930. Beverly Inouye Collection. Nikkei National Museum & Cultural Centre 1994.83.8.",
+      "category": "Arts & culture",
+      "sourceCategories": "Newton Arts & Culture Heritage",
+      "price": "Free",
+      "isFree": true
     },
     {
       "id": "1d0c01a983ba140e",
