@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-29T11:41:08-07:00",
+  "updatedAt": "2026-09-30T11:29:10-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-09-29T11:41:08-07:00",
+      "updatedAt": "2026-09-30T11:29:10-07:00",
       "status": "ok",
-      "count": 164
+      "count": 167
     },
     "Richmond": {
-      "updatedAt": "2026-09-29T11:41:08-07:00",
+      "updatedAt": "2026-09-30T11:29:10-07:00",
       "status": "ok",
-      "count": 10
+      "count": 9
     }
   },
   "events": [
@@ -59,22 +59,6 @@
       "description": "Displaying vibrant, colourful, dreamy, playful and at times absurd art works, Ongoing / Pacific Crossings highlights the eclectic range of contemporary art practices from Tokyo that examine new possibilities for “alternativeness”—in both art and life. The exhibition is the culmination of a seven-year cultural exchange between Richmond Art Gallery, independent curator Makiko Hara and Nozomu Ogawa, Director of Art Center Ongoing. Since its founding in 2008, Art Center Ongoing has provided a vital platform for fostering alternative and experimental contemporary art practices in the Tokyo art scene. The exhibition presents works by eleven Japanese artists affiliated with Art Centre Ongoing, and Vancouver-based artist Karilynn Ming Ho. More Information This event is for All Ages. This is an accessible site. This event is free.",
       "category": "Arts & culture",
       "sourceCategories": "Gallery & Museum RAG Exhibit",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "a985ae4ec10e5947",
-      "city": "Richmond",
-      "title": "A Life in Plein Air - New Landscape Paintings by Junyi Ji",
-      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19118",
-      "dateLabel": "Tuesday, Sep 01, 2026 - Tuesday, Sep 29, 2026",
-      "startDate": "2026-09-01",
-      "endDate": "2026-09-29",
-      "time": "Mon-Fri, 11:00am-5:00pm (or by appointment). (Closed on Sep 7, Labour Day.)",
-      "location": "4211 No. 3 Road",
-      "description": "A solo exhibition featuring the latest works of accomplished Richmond-based oil painter Junyi Ji. Through masterful technique and a deep connection to nature, Ji captures the beauty of Vancouver’s landscapes, inviting viewers to slow down and rediscover the poetry of the everyday world. Opening Reception & Artist Talk Saturday September 5, 7:00-9:00pm (free event) Lipont Gallery Room 218 (no elevator), 4211 No. 3 Rd Richmond BC Canada V6X 2C3 Free parking on south side of the building only. In an age where digital images can effortlessly reproduce the visible world, artist Junyi Ji advocates for the irreplaceable value of painting from life. Over the past year, Ji has traveled extensively throughout Vancouver and its surrounding areas to document coastlines, forests, parks, city streets and mountains. Working without rehearsal or repetition, every brushstroke responds to a moment that exists only once. “Plein air painting is a dialogue with time,” says Ji. “Each work is created on location, shaped by changing weather, shifting light and the fleeting rhythm of the day. For me, it is not simply an act of copying nature, but a continual process of observation and understanding.” Ji’s paintings seek to capture more than just visual accuracy; they preserve the atmosphere, temperature and emotion of a specific time and place. As sunlight moves across a façade, or the shadows of trees slowly drift, the canvas preserves the quiet presence of Vancouver’s bays, bridges, churches, harbours and cherry blossoms as lived experiences. About Artist Junyi Ji An accomplished oil painter, Junyi Ji holds degrees from the Tianjin Academy of Fine Arts, where he studied under the renowned artist Professor Yu Xiaodong. Known for his superb realistic skills and unique artistic perspective, Ji creates emotionally charged landscapes that capture the diverse beauty of nature through careful detailing and the clever use of colour. Since moving to Canada in 2022, he has established art studios in Richmond and West Vancouver, and to date, has held four solo exhibitions in the Metro Vancouver area. More Information This event is for All Ages. This is not an accessible site. This event is free.",
-      "category": "Arts & culture",
-      "sourceCategories": "Culture Days Art",
       "price": "Free",
       "isFree": true
     },
@@ -668,6 +652,22 @@
       "category": "Community & festivals",
       "sourceCategories": "",
       "price": "",
+      "isFree": false
+    },
+    {
+      "id": "d88f179e6f5e97b2",
+      "city": "Surrey",
+      "title": "Shred-A-Thon by Rotary Club of Surrey",
+      "url": "https://www.surrey.ca/news-events/events/shred-thon-rotary-club-of-surrey",
+      "dateLabel": "October 10, 2026",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "time": "10:00am - 2:00pm",
+      "location": "North Surrey Secondary School Parking Lot, 15945 96 Ave, Surrey, BC",
+      "description": "The Rotary Club of Surrey invites you to its upcoming Shred-A-Thon on Saturday, October 10, 2026, 10am- 2pm, at North Surrey Secondary School. Bring your confidential documents for secure shredding while supporting a great cause in the community. All proceeds from the event will support Rotary community projects, including the Starfish Pack Program, which provides food packs to vulnerable students and their families facing food insecurity. Shred documents. Support local families. Make a difference. Learn more Donations: Suggested minimum donation: $20 Cash or credit card accepted Contacts and sponsorship inquiries: Dianna: 604-323-4143 Charlie: 778-291-0992 Email: [email protected]",
+      "category": "Community & festivals",
+      "sourceCategories": "Fleetwood Community-Hosted",
+      "price": "Suggested minimum donation of $20 per bankers box",
       "isFree": false
     },
     {
@@ -1324,6 +1324,38 @@
       "category": "Nature & outdoors",
       "sourceCategories": "Whalley and City Centre Festivals Parks & Environment",
       "price": "Free. Tickets are required for entry.",
+      "isFree": true
+    },
+    {
+      "id": "838afc333ee95f16",
+      "city": "Surrey",
+      "title": "Surrey Kids Conference",
+      "url": "https://www.surrey.ca/news-events/events/surrey-kids-conference",
+      "dateLabel": "November 6, 2026",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "time": "8:30am - 12:00pm",
+      "location": "Fleetwood Community Centre",
+      "description": "How to register Registration opens at 9pm on Sunday October 4 Online By phone at 604-501-5100 In person at any recreation facility Morning workshops 8:30am-12:00pm (ages 6-9 only) Package name Event ID # Package details Ages 6-9 Package A 540929 Be You Cookie Creations Yoga A Space to Create: Musical Drawings & Wearables Ages 6-9 Package B 540940 A Space to Create: Musical Drawings & Wearables Love Yourself: Vision Board Workshop Line Dance Ages 6-9 Package C 540943 Yoga A Space to Create: Musical Drawings & Wearables Love Yourself: Vision Board Workshop Ages 6-9 Package D 540945 Love Yourself: Vision Board Workshop Line Dance Be You Cookie Creations Afternoon workshops 12:30pm-3:30pm (ages 10-12 only) Package Name Event ID # Package Details Ages 10-12 Package A 540949 Love Yourself: Vision Board Workshop Be You Cookie Creations Line Dance Ages 10-12 Package B 540950 Building a Happy Community A Space to Create: Musical Drawings & Wearables Line Dance Ages 10-12 Package C 540956 A Space to Create: Musical Drawings & Wearables Love Yourself: Vision Board Workshop Line Dance Ages 10-12 Package D 541033 Be You Cookie Creations Building a Happy Community Line Dance Workshop details A Space to Create: Musical Drawings & Wearables Presented by City of Surrey’s Community Art team Step into a space where creativity comes to life! Express yourself, explore your imagination and connect with others through fun, hands-on art-making. Be You Cookie Creations Presented by City of Surrey’s Recreation Services team Get creative and decorate a cookie face that expresses YOU! Choose your own hair, eyes, expression and special details while celebrating what makes each of us unique. Building a Happy Community Presented by City of Surrey’s Youth Event Squad (YES) Share your ideas and creativity while imagining what makes a community happy and healthy! Participants will work together, express what is important to them and build confidence, communication skills and a sense of belonging. Love Yourself: Vision Board Workshop Presented by City of Surrey’s Recreation Services team Celebrate what makes you unique! Through creative vision board activities, participants will explore their strengths, build confidence, and set positive goals for the future. Children will leave with a personalized vision board that inspires self-love and growth. Line Dance Presented by City of Surrey’s Recreation Services team Get ready to move, groove and have fun! Participants will learn easy-to-follow line dance steps and routines while moving together to catchy music. No experience is needed, just bring your energy and get ready to build confidence, coordination and teamwork while having a blast! Yoga Presented by City of Surrey’s Recreation Services team Move, breathe and be YOU! Participants will try fun yoga poses, breathing exercises and relaxation activities designed to build confidence, calm and connection.",
+      "category": "Sports & wellness",
+      "sourceCategories": "Fleetwood Children Recreation",
+      "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "33ca5e36d25ad4f2",
+      "city": "Surrey",
+      "title": "Surrey Kids Conference",
+      "url": "https://www.surrey.ca/news-events/events/surrey-kids-conference",
+      "dateLabel": "November 6, 2026",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "time": "12:30pm - 3:30pm",
+      "location": "Fleetwood Community Centre",
+      "description": "How to register Registration opens at 9pm on Sunday October 4 Online By phone at 604-501-5100 In person at any recreation facility Morning workshops 8:30am-12:00pm (ages 6-9 only) Package name Event ID # Package details Ages 6-9 Package A 540929 Be You Cookie Creations Yoga A Space to Create: Musical Drawings & Wearables Ages 6-9 Package B 540940 A Space to Create: Musical Drawings & Wearables Love Yourself: Vision Board Workshop Line Dance Ages 6-9 Package C 540943 Yoga A Space to Create: Musical Drawings & Wearables Love Yourself: Vision Board Workshop Ages 6-9 Package D 540945 Love Yourself: Vision Board Workshop Line Dance Be You Cookie Creations Afternoon workshops 12:30pm-3:30pm (ages 10-12 only) Package Name Event ID # Package Details Ages 10-12 Package A 540949 Love Yourself: Vision Board Workshop Be You Cookie Creations Line Dance Ages 10-12 Package B 540950 Building a Happy Community A Space to Create: Musical Drawings & Wearables Line Dance Ages 10-12 Package C 540956 A Space to Create: Musical Drawings & Wearables Love Yourself: Vision Board Workshop Line Dance Ages 10-12 Package D 541033 Be You Cookie Creations Building a Happy Community Line Dance Workshop details A Space to Create: Musical Drawings & Wearables Presented by City of Surrey’s Community Art team Step into a space where creativity comes to life! Express yourself, explore your imagination and connect with others through fun, hands-on art-making. Be You Cookie Creations Presented by City of Surrey’s Recreation Services team Get creative and decorate a cookie face that expresses YOU! Choose your own hair, eyes, expression and special details while celebrating what makes each of us unique. Building a Happy Community Presented by City of Surrey’s Youth Event Squad (YES) Share your ideas and creativity while imagining what makes a community happy and healthy! Participants will work together, express what is important to them and build confidence, communication skills and a sense of belonging. Love Yourself: Vision Board Workshop Presented by City of Surrey’s Recreation Services team Celebrate what makes you unique! Through creative vision board activities, participants will explore their strengths, build confidence, and set positive goals for the future. Children will leave with a personalized vision board that inspires self-love and growth. Line Dance Presented by City of Surrey’s Recreation Services team Get ready to move, groove and have fun! Participants will learn easy-to-follow line dance steps and routines while moving together to catchy music. No experience is needed, just bring your energy and get ready to build confidence, coordination and teamwork while having a blast! Yoga Presented by City of Surrey’s Recreation Services team Move, breathe and be YOU! Participants will try fun yoga poses, breathing exercises and relaxation activities designed to build confidence, calm and connection.",
+      "category": "Sports & wellness",
+      "sourceCategories": "Fleetwood Children Recreation",
+      "price": "Free",
       "isFree": true
     },
     {
