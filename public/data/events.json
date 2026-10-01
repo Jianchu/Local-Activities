@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-30T11:29:10-07:00",
+  "updatedAt": "2026-10-01T11:56:00-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-09-30T11:29:10-07:00",
+      "updatedAt": "2026-10-01T11:56:00-07:00",
       "status": "ok",
       "count": 167
     },
     "Richmond": {
-      "updatedAt": "2026-09-30T11:29:10-07:00",
+      "updatedAt": "2026-10-01T11:56:00-07:00",
       "status": "ok",
-      "count": 9
+      "count": 10
     }
   },
   "events": [
@@ -363,6 +363,22 @@
       "description": "Take in the following exhibits at the fall opening: Farheen Haq and Russna Kaur: In the Folds of Memory tender threads S F Ho: TRIPLE BURNER FLOWER FIELD Marking the Seasons Making Connections The evening will begin with a conversation between exhibiting artists Farheen Haq and Russna Kaur with Associate Curator of Engagement Jas Lally. After, join exhibiting artist S F Ho in dialogue with Curatorial Assistant Zoe Yang. Enjoy artmaking with saga shop artist Fiadh of Foxy Verve Atelier .",
       "category": "Arts & culture",
       "sourceCategories": "Whalley and City Centre Arts & Culture Surrey Art Gallery",
+      "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "2881eb90141b4c89",
+      "city": "Richmond",
+      "title": "Writers for Readers 2026: Bill Arnott",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19147",
+      "dateLabel": "Saturday, Oct 03, 2026",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-03",
+      "time": "12:00-1:00pm",
+      "location": "100 - 7700 Minoru Gate",
+      "description": "Bestselling author Bill Arnott is pleased to be Richmond Public Library's keynote speaker at the Writers for Readers event. This will be an interactive presentation, welcoming questions from readers and writers and will focus on where we live, the stories we coax from our surroundings, the writerly journey and process, pushing creativity, selling books and having fun too. More Information This event is for Youth (Ages 13-18), Adult (Ages 18+) & 55+ (Ages 55 and over) This is an accessible site. This event is free.",
+      "category": "Arts & culture",
+      "sourceCategories": "Culture & Heritage Events Literary / Library",
       "price": "Free",
       "isFree": true
     },
