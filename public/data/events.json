@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-01T11:56:00-07:00",
+  "updatedAt": "2026-10-02T11:30:43-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-10-01T11:56:00-07:00",
+      "updatedAt": "2026-10-02T11:30:43-07:00",
       "status": "ok",
-      "count": 167
+      "count": 165
     },
     "Richmond": {
-      "updatedAt": "2026-10-01T11:56:00-07:00",
+      "updatedAt": "2026-10-02T11:30:43-07:00",
       "status": "ok",
-      "count": 10
+      "count": 8
     }
   },
   "events": [
@@ -76,86 +76,6 @@
       "category": "Arts & culture",
       "sourceCategories": "Arts & Culture Community Art Heritage Music",
       "price": "Free!",
-      "isFree": true
-    },
-    {
-      "id": "5a1d561b0748de99",
-      "city": "Richmond",
-      "title": "National Seniors Day",
-      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=18660",
-      "dateLabel": "Thursday, Oct 01, 2026",
-      "startDate": "2026-10-01",
-      "endDate": "2026-10-01",
-      "time": "Various",
-      "location": "7191 Granville Avenue",
-      "description": "The City of Richmond annually celebrates National Seniors Day and the International Day of Older Persons with free or low-cost community activities for residents 55+ years. More Information This event is for 55+ (Ages 55 and over) This is an accessible site. Free - $12.75",
-      "category": "Community & festivals",
-      "sourceCategories": "Special Events - General Social / Community Event",
-      "price": "",
-      "isFree": false
-    },
-    {
-      "id": "6e07fa78e78dfbdb",
-      "city": "Richmond",
-      "title": "National Seniors Day - Laughter Yoga - 55+",
-      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19120",
-      "dateLabel": "Thursday, Oct 01, 2026",
-      "startDate": "2026-10-01",
-      "endDate": "2026-10-01",
-      "time": "3:00-4:30pm",
-      "location": "7191 Granville Avenue",
-      "description": "Experience this fun and interactive session that includes a series of movement and breathing exercises to promote deliberate laughter. Refreshments included. Registration required. More Information This event is for 55+ (Ages 55 and over) This is an accessible site. This event is free.",
-      "category": "Sports & wellness",
-      "sourceCategories": "Meetings / Conventions / Lectures / Workshops Workshops",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "43d78ce2c2c55931",
-      "city": "Richmond",
-      "title": "National Seniors Day - Swim, Splash and Relax - 55+",
-      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19115",
-      "dateLabel": "Thursday, Oct 01, 2026",
-      "startDate": "2026-10-01",
-      "endDate": "2026-10-01",
-      "time": "1:00-2:30pm",
-      "location": "7191 Granville Avenue",
-      "description": "Join this facilitated swimming pool orientation and have fun splashing around in the leisure pool, relaxing in the hot tub and recharging with a dip in the cold plunge pool. Registration required. Visit richmond.ca/PositiveAging for all programs offered. Event ID 00430910 3 ways to register: Online: www.richmond.ca/register Phone: 604-276-4300, Mon-Fri, 8:30am-5:00pm In-person More Information This event is for 55+ (Ages 55 and over) This is an accessible site. This event is free.",
-      "category": "Sports & wellness",
-      "sourceCategories": "Special Events - General Social / Community Event",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "566e6ed5b765725f",
-      "city": "Surrey",
-      "title": "Our City Wrap Up: Barrier Painting",
-      "url": "https://www.surrey.ca/news-events/events/our-city-wrap-barrier-painting",
-      "dateLabel": "October 1, 2026",
-      "startDate": "2026-10-01",
-      "endDate": "2026-10-01",
-      "time": "4:30pm - 6:30pm",
-      "location": "Central Avenue Walkway (between University Drive and 133A Street), Surrey, BC",
-      "description": "Due to rain in the forecast, the Our City Wrap-Up Event has been rescheduled to Thursday, October 1 . Please check the event webpage for the latest updates, as event activities may be adjusted based on weather conditions. Join us as we celebrate the end of another successful summer beautifying Our City. Volunteers will be painting a colourful mural on concrete barriers along the Central Avenue walkway, transforming the space into a more vibrant and welcoming part of City Centre. Everyone is welcome to stop by, pick up a paintbrush, and contribute to the mural. Whether you stay for a few minutes or the entire event, your contribution will help leave a lasting mark on the neighbourhood. Come lend a hand, connect with your neighbours, and help create a brighter, more welcoming community. Location map",
-      "category": "Community & festivals",
-      "sourceCategories": "Whalley and City Centre Our City",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "ec3509270cef5e90",
-      "city": "Surrey",
-      "title": "Thursday Artist Talk: Jess Rice, “Watercolour Captures”",
-      "url": "https://www.surrey.ca/news-events/events/thursday-artist-talk-jess-rice-watercolour-captures",
-      "dateLabel": "October 1, 2026",
-      "startDate": "2026-10-01",
-      "endDate": "2026-10-01",
-      "time": "7:00pm - 8:30pm",
-      "location": "Surrey Art Gallery - 13750 88 Ave, Surrey, BC",
-      "description": "Join exhibiting artist Jess Rice for a fun and informative watercolour demonstration inspired by Marking the Seasons , the current exhibition by the South Surrey and White Rock Art Society. Rice will share simple tips for painting nature in watercolour, along with stories and insights from the exhibition on view until November 1. About the artist Jess Rice grew up on a ranch in Montana and now lives on the West Coast, and both settings have influenced his work. He paints bright, bold paintings which lean towards romantic realism. About Surrey Art Gallery Association Surrey Art Gallery Association (SAGA) is a non-profit society that offers its members the opportunity to participate in and respond to contemporary art and be part of a community that actively supports Surrey Art Gallery.",
-      "category": "Arts & culture",
-      "sourceCategories": "Whalley and City Centre Arts & Culture Surrey Art Gallery",
-      "price": "Free",
       "isFree": true
     },
     {
@@ -1103,16 +1023,16 @@
       "isFree": true
     },
     {
-      "id": "8117c77470f82e98",
+      "id": "88367edb8d363170",
       "city": "Richmond",
       "title": "Halloween Hoot",
       "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19129",
-      "dateLabel": "Saturday, Oct 24, 2026 Saturday, Oct 24, 2026",
+      "dateLabel": "Saturday, Oct 24, 2026 - Sunday, Nov 01, 2026",
       "startDate": "2026-10-24",
-      "endDate": "2026-10-24",
-      "time": "10am - 4pm",
+      "endDate": "2026-11-01",
+      "time": "10:00am-4:00pm",
       "location": "11851 Westminster Hwy",
-      "description": "Drop in to the Richmond Nature Park to explore Halloween decorations along the Pond Trail! More than 30 inflatables, 10 nature-themed art installations and a tickle tunnel will be on display daily from October 19 to 27, 10:00 am to 4:00 pm. Pumpkins will be available for purchase during this family-friendly event, which runs rain or shine. Admission is by donation, with proceeds supporting the Richmond Nature Park Society’s nature education programs. The Richmond Nature Park is located at 11851 Westminster Highway, at No. 5 Road. Onsite parking is limited. For more information, call 604-238-6188. More Information This event is for All Ages. This is an accessible site. This event is free.",
+      "description": "Drop-in to the Richmond Nature Park to view Halloween decorations along the Pond Trail. Over 35 inflatables, 10 unique nature-themed art installations and a tickle tunnel will be displayed daily. Pumpkins are available for purchase during this family-friendly event that runs rain or shine. Admission is by donation, with proceeds supporting the Richmond Nature Park Society’s nature education programs. The Richmond Nature Park is located at 11851 Westminster Highway, at No. 5 Road. Onsite parking is limited. For more information, call 604-238-6188. More Information This event is for All Ages. This is an accessible site. This event is free.",
       "category": "Arts & culture",
       "sourceCategories": "Culture Days Social / Community Event",
       "price": "Free",
@@ -1292,6 +1212,22 @@
       "category": "Nature & outdoors",
       "sourceCategories": "Parks & Environment",
       "price": "Free, drop-in.",
+      "isFree": true
+    },
+    {
+      "id": "92396f02460c786c",
+      "city": "Richmond",
+      "title": "Minoru Halloween Fireworks Festival",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19146",
+      "dateLabel": "Saturday, Oct 31, 2026",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "time": "6:30 p.m. - 9:15 p.m.",
+      "location": "7191 Granville Avenue",
+      "description": "40th Annual Halloween Festival – Alien Invasion Edition Richmond proudly continues its tradition as one of the few municipalities in the Lower Mainland to host a free fireworks display on Halloween night. Now in its 40th year, this exciting annual celebration will take place at Minoru Park Track (7191 Granville Avenue). Date & Time: Saturday, October 31st 6:30pm – 9:15pm This year’s theme is “Alien Invasion”, and families are invited to enter an out-of-this-world Halloween experience filled with intergalactic fun, eerie encounters, and cosmic creatures. Guests will enjoy a live stage performance the singing and dancing group, The Showstoppers, while fire performers and acrobats will deliver high-energy spectacles that are sure to amaze. Throughout the park, roving performers and stilt walkers will also bring the festival atmosphere to life, Families can take part in carnival-style games, and marvel at the artistry of professional pumpkin carvers. A giant pumpkin display from KPU will be featured, offering a perfect photo opportunity. To satisfy every craving, a variety of food trucks will be on-site serving up delicious eats. Kids (and kids at heart!) can look forward to over 10,000 pieces of candy being handed out throughout the evening. The night will conclude with a spectacular fireworks finale at 9:00pm, lighting up the sky above Minoru Park. This free, family-friendly event is suitable for all ages. Costumes are encouraged, so dress in your best alien, astronaut, or space-inspired costume and join us for a Halloween celebration that is truly out of this world! More Information This event is for All Ages. This is an accessible site. This event is free.",
+      "category": "Arts & culture",
+      "sourceCategories": "Culture Days Social / Community Event",
+      "price": "Free",
       "isFree": true
     },
     {
