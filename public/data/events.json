@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-05T14:18:45-07:00",
+  "updatedAt": "2026-10-06T11:56:33-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-10-05T14:18:45-07:00",
+      "updatedAt": "2026-10-06T11:56:33-07:00",
       "status": "ok",
-      "count": 149
+      "count": 153
     },
     "Richmond": {
-      "updatedAt": "2026-10-05T14:18:45-07:00",
+      "updatedAt": "2026-10-06T11:56:33-07:00",
       "status": "ok",
       "count": 6
     }
@@ -45,38 +45,6 @@
       "sourceCategories": "Meetings / Conventions / Lectures / Workshops Workshops",
       "price": "Free",
       "isFree": true
-    },
-    {
-      "id": "a8a427469284af91",
-      "city": "Surrey",
-      "title": "Regular Council Meeting - Public Hearing",
-      "url": "https://www.surrey.ca/news-events/events/regular-council-meeting-public-hearing",
-      "dateLabel": "October 5, 2026",
-      "startDate": "2026-10-05",
-      "endDate": "2026-10-05",
-      "time": "7:00pm - 10:00pm",
-      "location": "Online and in-person at City Hall, 13450 - 104 Avenue, Surrey, BC",
-      "description": "Learn how to attend and participate in Council Meetings , or view the livestream from home. To find out what will be discussed at the meeting, see our list of upcoming Council Meeting Public Hearing Items . Council meetings are held every other Monday evening at City Hall, with some exceptions. See the Council Meeting Schedule for full details.",
-      "category": "Community & festivals",
-      "sourceCategories": "Public Meetings & Open Houses",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "3ed60691c325e497",
-      "city": "Surrey",
-      "title": "Sensory Friendly Swims",
-      "url": "https://www.surrey.ca/news-events/events/sensory-friendly-swims",
-      "dateLabel": "October 5, 2026",
-      "startDate": "2026-10-05",
-      "endDate": "2026-10-05",
-      "time": "12:00pm - 2:00pm",
-      "location": "Various locations",
-      "description": "Sensory friendly swims are inclusive swim times for individuals and families looking for an environment with reduced noise. They are available for those who are autistic, have anxiety or other sensory processing needs, or anyone who feels they would benefit from a more supportive environment. There will be: Reduced noise & water features. No background music. No speaker announcements (whistles used only for emergencies). Encouraged use of paper towels instead of hand dryers using signage. Designated sensory friendly break rooms. Set clear times and transition warnings. Additional staff available for support. Schedule Guildford Recreation Centre Wednesday, November 18, 1pm to 3pm Wednesday, December 16, 1pm to 3pm Newton Recreation Centre Wednesday, October 28, 1pm to 3pm Wednesday, November 25, 1pm to 3pm Tuesday, December 22, 1pm to 3pm South Surrey Indoor Pool Saturday, November 7, 12pm to 2pm Saturday, December 5, 12pm to 2pm Surrey Sport & Leisure Complex Monday, October 5, 12pm to 2pm Monday, November 9, 12pm to 2pm Monday, December 14, 12pm to 2pm Borrow a sensory friendly kit Kits include: Noise-cancelling headphones, communication cards, fidget toys, ear plugs and sunglasses. Ask a staff member to borrow one. Learn more The City of Surrey is committed to providing a safe and welcoming environment for patrons with sensory sensitivities to continue recreating and participating in activities. Learn more about the City of Surrey's initiatives to enhance accessibility, remove barriers, and create a more inclusive community .",
-      "category": "Sports & wellness",
-      "sourceCategories": "Recreation",
-      "price": "Use your Recreation Surrey pass or pay for a drop-in admission .",
-      "isFree": false
     },
     {
       "id": "29dbcf18c7eaaa14",
@@ -575,6 +543,22 @@
       "isFree": true
     },
     {
+      "id": "756367bd18e617c0",
+      "city": "Surrey",
+      "title": "DIVERSEcity Entrepreneur & Small Business Fair",
+      "url": "https://www.surrey.ca/news-events/events/diversecity-entrepreneur-small-business-fair",
+      "dateLabel": "October 22, 2026",
+      "startDate": "2026-10-22",
+      "endDate": "2026-10-22",
+      "time": "3:00pm - 7:00pm",
+      "location": "Sheraton Vancouver Guildford Hotel, 15269 104 Ave, Surrey, BC",
+      "description": "Celebrate Small Business Week at the 10th annual DIVERSEcity Entrepreneur & Small Business Fair. Small business owners, emerging entrepreneurs and organizations that support entrepreneurs are invited to connect, learn and share ideas. Meet local exhibitors, hear from guest speakers and network with entrepreneurs from across the region. The free event includes a tradeshow and marketplace, complimentary refreshments, a fireside chat with the founders of Safe Sweat and a live Dragons’ Den-style business pitch competition. Learn more Event schedule 3–5pm Tradeshow, marketplace, networking and complimentary refreshments. 5–6pm Welcome speakers and fireside chat with the founders of Safe Sweat. 6–7pm Live business pitch competition.",
+      "category": "Community & festivals",
+      "sourceCategories": "Guildford Community-Hosted",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "e9158545de966cc2",
       "city": "Surrey",
       "title": "Memory Map Session",
@@ -783,6 +767,22 @@
       "isFree": true
     },
     {
+      "id": "88e1fec6100f7357",
+      "city": "Surrey",
+      "title": "Spooktacular Newton",
+      "url": "https://www.surrey.ca/news-events/events/spooktacular-newton",
+      "dateLabel": "October 24, 2026",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "time": "11:00am - 4:00pm",
+      "location": "7380 King George Blvd, Surrey, BC",
+      "description": "Spooktacular Newton returns this year for another spook-filled day. Prepare for a day of activities, trick-or-treating, and entertainment! Don't forget to grab a pumpkin, by donation to Surrey Food Bank! Spooktacular Newton is Surrey's only free, family-friendly Halloween street festival; join us on October 24 and be sure to come in your costume! Learn more",
+      "category": "Community & festivals",
+      "sourceCategories": "Newton Community-Hosted",
+      "price": "Free!",
+      "isFree": true
+    },
+    {
       "id": "4a3c519b47787b85",
       "city": "Surrey",
       "title": "Engage with Artist in Residence Mariel Nelms",
@@ -856,7 +856,7 @@
       "endDate": "2026-10-28",
       "time": "1:00pm - 3:00pm",
       "location": "Various locations",
-      "description": "Sensory friendly swims are inclusive swim times for individuals and families looking for an environment with reduced noise. They are available for those who are autistic, have anxiety or other sensory processing needs, or anyone who feels they would benefit from a more supportive environment. There will be: Reduced noise & water features. No background music. No speaker announcements (whistles used only for emergencies). Encouraged use of paper towels instead of hand dryers using signage. Designated sensory friendly break rooms. Set clear times and transition warnings. Additional staff available for support. Schedule Guildford Recreation Centre Wednesday, November 18, 1pm to 3pm Wednesday, December 16, 1pm to 3pm Newton Recreation Centre Wednesday, October 28, 1pm to 3pm Wednesday, November 25, 1pm to 3pm Tuesday, December 22, 1pm to 3pm South Surrey Indoor Pool Saturday, November 7, 12pm to 2pm Saturday, December 5, 12pm to 2pm Surrey Sport & Leisure Complex Monday, October 5, 12pm to 2pm Monday, November 9, 12pm to 2pm Monday, December 14, 12pm to 2pm Borrow a sensory friendly kit Kits include: Noise-cancelling headphones, communication cards, fidget toys, ear plugs and sunglasses. Ask a staff member to borrow one. Learn more The City of Surrey is committed to providing a safe and welcoming environment for patrons with sensory sensitivities to continue recreating and participating in activities. Learn more about the City of Surrey's initiatives to enhance accessibility, remove barriers, and create a more inclusive community .",
+      "description": "Sensory friendly swims are inclusive swim times for individuals and families looking for an environment with reduced noise. They are available for those who are autistic, have anxiety or other sensory processing needs, or anyone who feels they would benefit from a more supportive environment. There will be: Reduced noise & water features. No background music. No speaker announcements (whistles used only for emergencies). Encouraged use of paper towels instead of hand dryers using signage. Designated sensory friendly break rooms. Set clear times and transition warnings. Additional staff available for support. Schedule Guildford Recreation Centre Wednesday, November 18, 1pm to 3pm Wednesday, December 16, 1pm to 3pm Newton Recreation Centre Wednesday, October 28, 1pm to 3pm Wednesday, November 25, 1pm to 3pm Tuesday, December 22, 1pm to 3pm South Surrey Indoor Pool Saturday, November 7, 12pm to 2pm Saturday, December 5, 12pm to 2pm Surrey Sport & Leisure Complex Monday, November 9, 12pm to 2pm Monday, December 14, 12pm to 2pm Borrow a sensory friendly kit Kits include: Noise-cancelling headphones, communication cards, fidget toys, ear plugs and sunglasses. Ask a staff member to borrow one. Learn more The City of Surrey is committed to providing a safe and welcoming environment for patrons with sensory sensitivities to continue recreating and participating in activities. Learn more about the City of Surrey's initiatives to enhance accessibility, remove barriers, and create a more inclusive community .",
       "category": "Sports & wellness",
       "sourceCategories": "Recreation",
       "price": "Use your Recreation Surrey pass or pay for a drop-in admission .",
@@ -888,7 +888,7 @@
       "endDate": "2026-10-30",
       "time": "6:00pm - 8:00pm",
       "location": "Clayton Community Centre, 7155 187A Street, Surrey, BC",
-      "description": "Enjoy a free cinematic experience with your loved ones! View family favourites in the Performing Arts Theatre – don’t forget to wear your pyjamas! Movie screening schedule Date Movie September 18 Sing October 30 Hotel Transylvania December 18 The Muppet Christmas Carol",
+      "description": "Enjoy a free cinematic experience with your loved ones! View family favourites in the Performing Arts Theatre – don’t forget to wear your pyjamas! Movie screening schedule Date Movie September 18 Sing October 30 Hotel Transylvania November 13 Sing 2 December 18 The Muppet Christmas Carol",
       "category": "Arts & culture",
       "sourceCategories": "Cloverdale Arts & Culture Community Art",
       "price": "Free",
@@ -1096,7 +1096,7 @@
       "endDate": "2026-11-07",
       "time": "12:00pm - 2:00pm",
       "location": "Various locations",
-      "description": "Sensory friendly swims are inclusive swim times for individuals and families looking for an environment with reduced noise. They are available for those who are autistic, have anxiety or other sensory processing needs, or anyone who feels they would benefit from a more supportive environment. There will be: Reduced noise & water features. No background music. No speaker announcements (whistles used only for emergencies). Encouraged use of paper towels instead of hand dryers using signage. Designated sensory friendly break rooms. Set clear times and transition warnings. Additional staff available for support. Schedule Guildford Recreation Centre Wednesday, November 18, 1pm to 3pm Wednesday, December 16, 1pm to 3pm Newton Recreation Centre Wednesday, October 28, 1pm to 3pm Wednesday, November 25, 1pm to 3pm Tuesday, December 22, 1pm to 3pm South Surrey Indoor Pool Saturday, November 7, 12pm to 2pm Saturday, December 5, 12pm to 2pm Surrey Sport & Leisure Complex Monday, October 5, 12pm to 2pm Monday, November 9, 12pm to 2pm Monday, December 14, 12pm to 2pm Borrow a sensory friendly kit Kits include: Noise-cancelling headphones, communication cards, fidget toys, ear plugs and sunglasses. Ask a staff member to borrow one. Learn more The City of Surrey is committed to providing a safe and welcoming environment for patrons with sensory sensitivities to continue recreating and participating in activities. Learn more about the City of Surrey's initiatives to enhance accessibility, remove barriers, and create a more inclusive community .",
+      "description": "Sensory friendly swims are inclusive swim times for individuals and families looking for an environment with reduced noise. They are available for those who are autistic, have anxiety or other sensory processing needs, or anyone who feels they would benefit from a more supportive environment. There will be: Reduced noise & water features. No background music. No speaker announcements (whistles used only for emergencies). Encouraged use of paper towels instead of hand dryers using signage. Designated sensory friendly break rooms. Set clear times and transition warnings. Additional staff available for support. Schedule Guildford Recreation Centre Wednesday, November 18, 1pm to 3pm Wednesday, December 16, 1pm to 3pm Newton Recreation Centre Wednesday, October 28, 1pm to 3pm Wednesday, November 25, 1pm to 3pm Tuesday, December 22, 1pm to 3pm South Surrey Indoor Pool Saturday, November 7, 12pm to 2pm Saturday, December 5, 12pm to 2pm Surrey Sport & Leisure Complex Monday, November 9, 12pm to 2pm Monday, December 14, 12pm to 2pm Borrow a sensory friendly kit Kits include: Noise-cancelling headphones, communication cards, fidget toys, ear plugs and sunglasses. Ask a staff member to borrow one. Learn more The City of Surrey is committed to providing a safe and welcoming environment for patrons with sensory sensitivities to continue recreating and participating in activities. Learn more about the City of Surrey's initiatives to enhance accessibility, remove barriers, and create a more inclusive community .",
       "category": "Sports & wellness",
       "sourceCategories": "Recreation",
       "price": "Use your Recreation Surrey pass or pay for a drop-in admission .",
@@ -1117,6 +1117,22 @@
       "sourceCategories": "Public Meetings & Open Houses",
       "price": "Free",
       "isFree": true
+    },
+    {
+      "id": "4a69a8ce9758651c",
+      "city": "Surrey",
+      "title": "Sensory Friendly Swims",
+      "url": "https://www.surrey.ca/news-events/events/sensory-friendly-swims",
+      "dateLabel": "November 9, 2026",
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-09",
+      "time": "12:00pm - 2:00pm",
+      "location": "Various locations",
+      "description": "Sensory friendly swims are inclusive swim times for individuals and families looking for an environment with reduced noise. They are available for those who are autistic, have anxiety or other sensory processing needs, or anyone who feels they would benefit from a more supportive environment. There will be: Reduced noise & water features. No background music. No speaker announcements (whistles used only for emergencies). Encouraged use of paper towels instead of hand dryers using signage. Designated sensory friendly break rooms. Set clear times and transition warnings. Additional staff available for support. Schedule Guildford Recreation Centre Wednesday, November 18, 1pm to 3pm Wednesday, December 16, 1pm to 3pm Newton Recreation Centre Wednesday, October 28, 1pm to 3pm Wednesday, November 25, 1pm to 3pm Tuesday, December 22, 1pm to 3pm South Surrey Indoor Pool Saturday, November 7, 12pm to 2pm Saturday, December 5, 12pm to 2pm Surrey Sport & Leisure Complex Monday, November 9, 12pm to 2pm Monday, December 14, 12pm to 2pm Borrow a sensory friendly kit Kits include: Noise-cancelling headphones, communication cards, fidget toys, ear plugs and sunglasses. Ask a staff member to borrow one. Learn more The City of Surrey is committed to providing a safe and welcoming environment for patrons with sensory sensitivities to continue recreating and participating in activities. Learn more about the City of Surrey's initiatives to enhance accessibility, remove barriers, and create a more inclusive community .",
+      "category": "Sports & wellness",
+      "sourceCategories": "Recreation",
+      "price": "Use your Recreation Surrey pass or pay for a drop-in admission .",
+      "isFree": false
     },
     {
       "id": "788db8a2cbb3459b",
@@ -1151,14 +1167,30 @@
       "isFree": true
     },
     {
-      "id": "ee93a836d76cdb59",
+      "id": "4b026b6ceda498df",
+      "city": "Surrey",
+      "title": "Family Movie Nights",
+      "url": "https://www.surrey.ca/news-events/events/family-movie-nights",
+      "dateLabel": "November 13, 2026",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "time": "7:00pm - 9:00pm",
+      "location": "Clayton Community Centre, 7155 187A Street, Surrey, BC",
+      "description": "Enjoy a free cinematic experience with your loved ones! View family favourites in the Performing Arts Theatre – don’t forget to wear your pyjamas! Movie screening schedule Date Movie September 18 Sing October 30 Hotel Transylvania November 13 Sing 2 December 18 The Muppet Christmas Carol",
+      "category": "Arts & culture",
+      "sourceCategories": "Cloverdale Arts & Culture Community Art",
+      "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "61c5970aa167c5d0",
       "city": "Surrey",
       "title": "Karaoke Nights",
       "url": "https://www.surrey.ca/news-events/events/karaoke-nights",
       "dateLabel": "November 13, 2026",
       "startDate": "2026-11-13",
       "endDate": "2026-11-13",
-      "time": "6:00pm - 8:00pm",
+      "time": "5:00pm - 7:00pm",
       "location": "Clayton Community Centre, 7155 187A Street, Surrey, BC",
       "description": "Sing your heart out at our free monthly karaoke night! Step into the spotlight and enjoy an evening of music and fun in our state-of-the-art Performing Arts Theatre.",
       "category": "Arts & culture",
@@ -1759,6 +1791,22 @@
       "isFree": true
     },
     {
+      "id": "5e7525ecd21dc14e",
+      "city": "Surrey",
+      "title": "Winter Ice Palace",
+      "url": "https://www.surrey.ca/news-events/events/winter-ice-palace",
+      "dateLabel": "December 12, 2026 - January 3, 2027",
+      "startDate": "2026-12-12",
+      "endDate": "2027-01-03",
+      "time": "Time not published — check event link",
+      "location": "Cloverdale Arena, 6090 176 Street, Surrey, BC",
+      "description": "It's that time of year again where Cloverdale Arena transforms into a winter wonderland with festive lights twinkling, seasonal decorations everywhere you look and lively music filling the air! This popular, traditional event is an unforgettable skating experience and is the perfect way to spend time with your loved ones during this holiday season. Sign up 72 hours in advance Early sign up opens 72 hours in advance of skating session times. Participants must register at least one hour in advance of their desired session time to secure their spot. Each participant must sign up for a spot to be guaranteed entry. Sign up one of three ways: Register online By phone: 604-501-5100 or any recreation facility In-person at any recreation facility For private facility rentals, email [email protected] . Dates & times Date Time Saturday, December 12 1:00–2:30pm 3:00–4:30pm Sunday, December 13 No public skates Monday, December 14 No public skates Tuesday, December 15 No public skates Wednesday, December 16 3:30–5:00pm 5:30–7:00pm Thursday, December 17 5:30–7:00pm Friday, December 18 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm 7:30–9:00pm Saturday, December 19 1:30–3:00pm – Santa Skate 3:30–5:00pm – Santa Skate 5:30–7:00pm – Santa Skate 7:30–9:00pm Sunday, December 20 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Monday, December 21 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Tuesday, December 22 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Wednesday, December 23 9:30–11:00am 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm Thursday, December 24 9:30–11:00am 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm Friday, December 25 Closed Saturday, December 26 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Sunday, December 27 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Monday, December 28 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Tuesday, December 29 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Wednesday, December 30 9:30–11:00am 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm Thursday, December 31 9:30–11:00am 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm – New Year’s Eve Skate Friday, January 1 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm Saturday, January 2 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm 7:30–9:00pm Sunday, January 3 11:30am–1:00pm 1:30–3:00pm What to expect when you arrive Arrive early to complete the check in process. Doors will open 30 minutes before your session start time. Spot(s) will be held for 30 minutes after your session start time. Dress for the weather as the check-in process is outside. A staff member will verify your registration and give you a wristband. Go to the skate shop to rent skates and/or a helmet (if needed). Lace up your skates , put on your gear and get ready to skate! After 90 minutes when your session is over, please exit promptly so the next session can enter. Remove your equipment, return your rentals (if needed) and exit the building. Important information For your safety Doors will open 30 minutes before each session's scheduled start time to facilitate ice resurfacing, equipment rental restocking and adequate cleaning of the arena. Helmets are mandatory for children ages 12 and under. Although, we highly encourage people of all ages to wear one. Leave your valuables at home. Cubbies are available to store shoes and other small items during sessions. A limited number of skating aids will be available for those that wish to use them. Family and friends are permitted to watch (no registration or payment required). Don't waste your space With limited capacity and no waitlist available, please cancel your booking if you cannot attend , so that others may participate. Cancel your booking by calling 604-501-5100 (Monday–Friday, 8:30am–4:30pm) or in-person at any Surrey recreation facility.",
+      "category": "Sports & wellness",
+      "sourceCategories": "Cloverdale Recreation",
+      "price": "$5.25 per person. Free with an Annual Recreation Pass . Rent skates for $3.75 and a helmet for $2.00 when you arrive. We expect high demand for rentals, so bring your own equipment if possible.",
+      "isFree": true
+    },
+    {
       "id": "9c986b89956f3d84",
       "city": "Surrey",
       "title": "Homemade Holidays Christmas Drop-In",
@@ -1784,7 +1832,7 @@
       "endDate": "2026-12-18",
       "time": "6:00pm - 8:00pm",
       "location": "Clayton Community Centre, 7155 187A Street, Surrey, BC",
-      "description": "Enjoy a free cinematic experience with your loved ones! View family favourites in the Performing Arts Theatre – don’t forget to wear your pyjamas! Movie screening schedule Date Movie September 18 Sing October 30 Hotel Transylvania December 18 The Muppet Christmas Carol",
+      "description": "Enjoy a free cinematic experience with your loved ones! View family favourites in the Performing Arts Theatre – don’t forget to wear your pyjamas! Movie screening schedule Date Movie September 18 Sing October 30 Hotel Transylvania November 13 Sing 2 December 18 The Muppet Christmas Carol",
       "category": "Arts & culture",
       "sourceCategories": "Cloverdale Arts & Culture Community Art",
       "price": "Free",
