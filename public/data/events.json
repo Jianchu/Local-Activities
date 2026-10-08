@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-07T12:24:00-07:00",
+  "updatedAt": "2026-10-08T12:18:48-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-10-07T12:24:00-07:00",
+      "updatedAt": "2026-10-08T12:18:48-07:00",
       "status": "ok",
-      "count": 151
+      "count": 152
     },
     "Richmond": {
-      "updatedAt": "2026-10-07T12:24:00-07:00",
+      "updatedAt": "2026-10-08T12:18:48-07:00",
       "status": "ok",
-      "count": 6
+      "count": 9
     }
   },
   "events": [
@@ -45,38 +45,6 @@
       "sourceCategories": "Meetings / Conventions / Lectures / Workshops Workshops",
       "price": "Free",
       "isFree": true
-    },
-    {
-      "id": "c06fa884ad77195f",
-      "city": "Surrey",
-      "title": "Cricbees Youth Cricket Program (Indoor) - Cloverdale",
-      "url": "https://www.surrey.ca/news-events/events/cricbees-youth-cricket-program-indoor-cloverdale",
-      "dateLabel": "October 7, 2026",
-      "startDate": "2026-10-07",
-      "endDate": "2026-10-07",
-      "time": "6:00pm - 7:00pm",
-      "location": "Hillcrest Elementary School, 18599 65 Ave, Surrey, BC",
-      "description": "The Cricbees Youth Cricket Program is a structured and exciting development program designed for young players to learn cricket skills in a positive, active, and inclusive environment. Led by certified coaches, the program is recommended for girls and boys aged 5–13 years old, from beginners to developing players. Our sessions focus not only on cricket fundamentals such as batting, bowling, catching, throwing, and fielding, but also on developing physical coordination, hand-eye coordination, balance, movement, teamwork, communication, and confidence. Through age-appropriate drills, activities, and mini-games, children develop their skills while staying active and having fun. Our coaches are gearing up for another exciting season, giving every child the opportunity to learn, play, compete, make friends, and grow in confidence — both as an individual and as part of a team. This cohort includes 18 weekly sessions. Learn more",
-      "category": "Community & festivals",
-      "sourceCategories": "Cloverdale Community-Hosted",
-      "price": "$325 per player (financial aid available for eligible families) First drop-in is free for new players. Registration required.",
-      "isFree": true
-    },
-    {
-      "id": "0c10574f9e835d89",
-      "city": "Surrey",
-      "title": "Municipal Election: Advance Voting",
-      "url": "https://www.surrey.ca/news-events/events/municipal-election-advance-voting",
-      "dateLabel": "October 7, 2026",
-      "startDate": "2026-10-07",
-      "endDate": "2026-10-07",
-      "time": "Time not published — check event link",
-      "location": "Various: see list below",
-      "description": "Eligible voters will cast their ballot to elect one (1) mayor, eight (8) councillors and six (6) school trustees. Advance voting locations Kwantlen Park Secondary: 10441 132 Street Guildford Recreation Centre: 15105 105 Avenue Fraser Heights Recreation Centre: 10588 160 Street Fleetwood Community Centre: 15996 84 Avenue Frank Hurt Secondary: 13940 77 Avenue Princess Margaret Secondary: 12870 72 Avenue École Panorama Ridge Secondary: 13220 64 Avenue Cloverdale Recreation Centre: 6188 176 Street Semiahmoo Secondary: 1785 148 Street Earl Marriott Secondary: 15751 16 Avenue Advance voting days October 7 October 10 October 14 October 15 Before you vote Ensure you are eligible to vote . Learn who is running for office . If you are registered, a voter card will be mailed to your household in late September or early October. Bring the voter card with your name listed and one (1) piece of acceptable identification. If you are updating your personal information on your voter card, bring acceptable identification showing the updated information. If one piece of identification shows the change, a second piece is not required. When you arrive to vote After being greeted at the voting location, you will be directed to the first available election official to show your voter card and one (1) piece of acceptable identification and asked to sign the voting book declaration to receive your ballot. If you are not on the list of registered voters, you will need two (2) pieces of acceptable identification . Continue to the voting booth where you will have privacy to mark your ballot. Finally, proceed to the voting machine where you will feed the ballot into the tabulator.",
-      "category": "Community & festivals",
-      "sourceCategories": "",
-      "price": "",
-      "isFree": false
     },
     {
       "id": "97794dfd144bc3c1",
@@ -223,6 +191,22 @@
       "isFree": true
     },
     {
+      "id": "6f6aa24ac0f949c9",
+      "city": "Surrey",
+      "title": "Spectral Stories: A Christmas Carol",
+      "url": "https://www.surrey.ca/news-events/events/spectral-stories-christmas-carol",
+      "dateLabel": "October 11, 2026",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-11",
+      "time": "8:00pm - 9:00pm",
+      "location": "Historic Stewart Farm, 13723 Crescent Road, Surrey, BC",
+      "description": "A unique holiday experience Enjoy a dramatic reading of the Charles Dickens Victorian classic in the festively decorated farmhouse with a cup of mulled wine and homemade figgy pudding. For ages 19+. Presented by Historic Stewart Farm and The Re-enactors . Get your tickets before they sell out! Call 604-501-5100 or purchase online. Tickets for the 6:30-7:30pm session Tickets for the 8-9pm session",
+      "category": "Arts & culture",
+      "sourceCategories": "South Surrey Arts & Culture Heritage Stewart Farm",
+      "price": "$29.50 per person",
+      "isFree": false
+    },
+    {
       "id": "5683da55aa41503f",
       "city": "Surrey",
       "title": "Positively Parenting Workshop Series",
@@ -331,6 +315,22 @@
       "description": "Sing your heart out at our free monthly karaoke night! Step into the spotlight and enjoy an evening of music and fun in our state-of-the-art Performing Arts Theatre.",
       "category": "Arts & culture",
       "sourceCategories": "Cloverdale Arts & Culture Community Art",
+      "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "b0ae82e4bb2aa030",
+      "city": "Richmond",
+      "title": "A Story in Every Bead — Jewellery Viewing and Open Studio",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19150",
+      "dateLabel": "Saturday, Oct 17, 2026",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-17",
+      "time": "1:00-6:00pm",
+      "location": "Location not published — check event link",
+      "description": "Join October Studio for an afternoon exploring antique beads and contemporary Chinese-inspired jewellery. Discover different beads and materials, see how they are reimagined into modern jewellery, try on finished pieces and create your own bead jewellery in the studio. Drop in anytime during opening hours. Please contact October Studio in advance if you plan to visit. The exact address will be provided after confirmation. Private studio in Richmond Free parking available More Information This event is for All Ages. This is not an accessible site. Free admission. Jewellery and optional D.I.Y. activities available for purchase.",
+      "category": "Arts & culture",
+      "sourceCategories": "Culture & Heritage Events Art",
       "price": "Free",
       "isFree": true
     },
@@ -509,6 +509,22 @@
       "sourceCategories": "Guildford Community-Hosted",
       "price": "Free",
       "isFree": true
+    },
+    {
+      "id": "5890760930d565aa",
+      "city": "Richmond",
+      "title": "Howloween 2026 – Project: Chimera",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19152",
+      "dateLabel": "Thursday, Oct 22, 2026 - Sunday, Oct 25, 2026",
+      "startDate": "2026-10-22",
+      "endDate": "2026-10-25",
+      "time": "Starts: October 22 - 10:00am Ends: October 25 - 5:00pm",
+      "location": "7311 Westminster Hwy",
+      "description": "Howloween is a four-day Halloween furry convention. Now in its 24th year, Howloween brings together furries and friends for a weekend of spooky fun, community and entertainment. The event features a full Dealers Den showcasing furry artists and vendors, dances hosted by DJs, fursuit games and activities, art games, game shows, panels and plenty of space to socialize and meet others. Costumes are encouraged, but not required—everyone is welcome to enjoy the festivities, whether you're a longtime member of the furry community or attending your first furry event. Our full schedule can be seen on our website at https://howloween.ca/ Howloween is proud to partner with the Access 2 Card program to help make the event more accessible and welcoming for guests with disabilities. Access 2 Card holders may attend with a support person at no additional admission cost, in accordance with the program's guidelines. More Information This event is for All Ages. This is an accessible site. Prorated prices: Thu $105, Fri $85, Sat $60, Sun $30 and Kids 0-12 are free.",
+      "category": "Learn & create",
+      "sourceCategories": "Meetings / Conventions / Lectures / Workshops Conferences",
+      "price": "",
+      "isFree": false
     },
     {
       "id": "e9158545de966cc2",
@@ -895,6 +911,22 @@
       "isFree": true
     },
     {
+      "id": "4ca3d0eb6763e918",
+      "city": "Richmond",
+      "title": "Eastern Masquerade — Halloween Open House at October Studio",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19151",
+      "dateLabel": "Saturday, Oct 31, 2026",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "time": "1:00-5:00pm",
+      "location": "Location not published — check event link",
+      "description": "Join October Studio for a Halloween open house inspired by Chinese aesthetics and traditional dress. Enjoy an in-studio Hanfu dress-up experience, take photos, have tea and explore Chinese-inspired clothing, antique beads and jewellery in a relaxed studio setting. Hanfu will be provided for guests to wear inside the studio for dress-up and photos only and may not be taken off-site. More Information This event is for Adult (Ages 18+) This is not an accessible site. $20 per person",
+      "category": "Community & festivals",
+      "sourceCategories": "Special Events - General Open House",
+      "price": "",
+      "isFree": false
+    },
+    {
       "id": "92396f02460c786c",
       "city": "Richmond",
       "title": "Minoru Halloween Fireworks Festival",
@@ -920,7 +952,7 @@
       "endDate": "2026-11-04",
       "time": "8:30am - 3:00pm",
       "location": "Various locations",
-      "description": "This one day event is for youth ages 13 to 14. Students must be in grade 9 to register for one of the three different streams available to choose from depending on the student's interests. Join the City of Surrey's Park, Recreation and Culture team for Take Our Kids To Work Day for residents in our city who are unable to take their own kids to certain professional atmospheres. Groups of students will experience a sample workday and explore diverse career paths including outdoor recreation, event planning, cultural programming and volunteer opportunities. All interested students must register by October 30 and bring a signed permission slip. Don't miss out on this unique opportunity to discover the world of work with us! Parks Grade 9 students who love nature and protecting the environment won’t want to miss this! The day will include hands-on stewardship activities and demonstrations. Taking place at the Surrey Nature Centre; dress for the weather, some activities take place outdoors (rain or shine). Location: Surrey Nature Centre - Forest Room Course ID: 00546257 Register Now Recreation Grade 9 students can explore the world of recreation through a hands-on learning experience. Engaging in fitness fundamentals, day camp activities, and arena operations, students will gain practical skills and insights into the importance of recreational services and how to keep their community active and engaged. Location: Newton Recreation Centre - Room 2 Course ID: 00546035 Register Now Arts & Culture Grade 9 students will discover volunteer and career opportunities in arts and culture while learning about programming, exhibitions, and special events. Participants will also enjoy a behind-the-scenes tour of the facility and gain insight into the many roles that support arts and cultural experiences in Surrey. Location: Surrey Arts Centre -Theatre Course ID: 00546254 Register Now For more information, call 604-501-5566 .",
+      "description": "This one day event is for youth ages 13 to 14. Students must be in grade 9 to register for one of the three different streams available to choose from depending on the student's interests. Join the City of Surrey's Park, Recreation and Culture team for Take Our Kids To Work Day for residents in our city who are unable to take their own kids to certain professional atmospheres. Groups of students will experience a sample workday and explore diverse career paths including outdoor recreation, event planning, cultural programming and volunteer opportunities. All interested students must register by October 30 and bring a signed permission slip. Don't miss out on this unique opportunity to discover the world of work with us! Parks Grade 9 students who love nature and protecting the environment won’t want to miss this! The day will include hands-on stewardship activities and demonstrations. Taking place at the Surrey Nature Centre; dress for the weather, some activities take place outdoors (rain or shine). Location: Surrey Nature Centre - Forest Room Course ID: 00546257 Register Now Recreation Grade 9 students can explore the world of recreation through a hands-on learning experience. Engaging in fitness fundamentals, day camp activities, and aquatic operations, students will gain practical skills and insights into the importance of recreational services and how to keep their community active and engaged. Location: Newton Recreation Centre - Room 2 Course ID: 00546035 Register Now Arts & Culture Grade 9 students will discover volunteer and career opportunities in arts and culture while learning about programming, exhibitions, and special events. Participants will also enjoy a behind-the-scenes tour of the facility and gain insight into the many roles that support arts and cultural experiences in Surrey. Location: Surrey Arts Centre -Theatre Course ID: 00546254 Register Now For more information, call 604-501-5566 .",
       "category": "Nature & outdoors",
       "sourceCategories": "Arts & Culture Parks & Environment Recreation Youth",
       "price": "Free",
@@ -1178,7 +1210,7 @@
       "location": "Main Stage at Surrey Arts Centre, 13750 88 Avenue, Surrey, BC",
       "description": "Get ready to fall in love with rock 'n' roll all over again! With electrifying energy, slick musicianship and timeless style, The Dreamboats deliver a night packed with the biggest hits of the ’50s and ’60s. Get tickets About the Dreamboats From performing at the legendary Cavern Club in Liverpool—the very stage where The Beatles cut their teeth—to hearing first-hand rock ’n’ roll history from the iconic Ronnie Hawkins and even swimming in Elvis Presley’s pool, this quartet lives and breathes the era they represent. This isn’t just a tribute; it’s a revival led by four Canadian boys who transport audiences back to rock 'n' roll's golden age.",
       "category": "Arts & culture",
-      "sourceCategories": "Whalley and City Centre Arts & Culture Surrey Civic Theatres Music",
+      "sourceCategories": "Whalley and City Centre Arts & Culture Music Surrey Civic Theatres",
       "price": "Zone A: $69 Zone B: $59 Zone C: $49",
       "isFree": false
     },
@@ -1592,7 +1624,7 @@
       "endDate": "2026-12-05",
       "time": "12:00pm - 4:30pm",
       "location": "Historic Stewart Farm, 13723 Crescent Road, Surrey, BC",
-      "description": "Let's get festive! What is it about decorating for Christmas that just feels so cozy and warm?! Step inside the farmhouse to see our classic holiday decor. Then stay a while for a free afternoon of decking the halls. Tour & Explore: Walk through the beautifully decorated farmhouse and take on a Victorian Christmas Scavenger Hunt. Kitchen Treats & Demos: See a live chestnut roasting demonstration, taste a mini cookie and learn to make popcorn strings and decorative pomanders. Holiday Crafting: Head to Stewart Hall to create your own paper Santa ornaments, tissue paper wreaths and/ or Christmas cards. Festive Extras: Sip a coffee or tea and check out the gift shop in the Welcome Centre. Finish your visit with at the holiday photo opp in the barn. A different theme each weekend Each weekend highlights a classic element of the holidays. Snack on woodstove baked treats, take in the holiday décor and watch some holiday heritage demonstrations. With a new theme each weekend, you can visit multiple times to fill your holiday cup!",
+      "description": "Let's get festive! What is it about decorating for Christmas that just feels so cozy and warm?! Step inside the farmhouse to see our classic holiday decor. Then stay a while for a free afternoon of decking the halls. Tour & Explore: Walk through the beautifully decorated farmhouse and take on a Victorian Christmas Scavenger Hunt. Kitchen Treats & Demos: See a live chestnut roasting demonstration, taste a mini cookie and learn to make popcorn strings and decorative pomanders. Holiday Crafting: Head to Stewart Hall to create your own paper Santa ornaments, tissue paper wreaths and/ or Christmas cards. Festive Extras: Sip a coffee or tea and check out the gift shop in the Welcome Centre. Finish your visit with at the holiday photo opp in the barn. Additional holiday dates Can't make it to All the Trimmings? The Christmas events at Historic Stewart Farm are bountiful! Mark your calendar for: Victorian Christmas Evening | December 5 from 4-7pm Sleighing the DIY | December 12 & 13 from 12-4:30pm Jolly Jamboree | December 19 & 20 from 12-4:30pm",
       "category": "Arts & culture",
       "sourceCategories": "South Surrey Arts & Culture Heritage Stewart Farm",
       "price": "Free",
@@ -1688,7 +1720,7 @@
       "endDate": "2026-12-06",
       "time": "12:00pm - 4:30pm",
       "location": "Historic Stewart Farm, 13723 Crescent Road, Surrey, BC",
-      "description": "Let's get festive! What is it about decorating for Christmas that just feels so cozy and warm?! Step inside the farmhouse to see our classic holiday decor. Then stay a while for a free afternoon of decking the halls. Tour & Explore: Walk through the beautifully decorated farmhouse and take on a Victorian Christmas Scavenger Hunt. Kitchen Treats & Demos: See a live chestnut roasting demonstration, taste a mini cookie and learn to make popcorn strings and decorative pomanders. Holiday Crafting: Head to Stewart Hall to create your own paper Santa ornaments, tissue paper wreaths and/ or Christmas cards. Festive Extras: Sip a coffee or tea and check out the gift shop in the Welcome Centre. Finish your visit with at the holiday photo opp in the barn. A different theme each weekend Each weekend highlights a classic element of the holidays. Snack on woodstove baked treats, take in the holiday décor and watch some holiday heritage demonstrations. With a new theme each weekend, you can visit multiple times to fill your holiday cup!",
+      "description": "Let's get festive! What is it about decorating for Christmas that just feels so cozy and warm?! Step inside the farmhouse to see our classic holiday decor. Then stay a while for a free afternoon of decking the halls. Tour & Explore: Walk through the beautifully decorated farmhouse and take on a Victorian Christmas Scavenger Hunt. Kitchen Treats & Demos: See a live chestnut roasting demonstration, taste a mini cookie and learn to make popcorn strings and decorative pomanders. Holiday Crafting: Head to Stewart Hall to create your own paper Santa ornaments, tissue paper wreaths and/ or Christmas cards. Festive Extras: Sip a coffee or tea and check out the gift shop in the Welcome Centre. Finish your visit with at the holiday photo opp in the barn. Additional holiday dates Can't make it to All the Trimmings? The Christmas events at Historic Stewart Farm are bountiful! Mark your calendar for: Victorian Christmas Evening | December 5 from 4-7pm Sleighing the DIY | December 12 & 13 from 12-4:30pm Jolly Jamboree | December 19 & 20 from 12-4:30pm",
       "category": "Arts & culture",
       "sourceCategories": "South Surrey Arts & Culture Heritage Stewart Farm",
       "price": "Free",
@@ -1725,6 +1757,22 @@
       "sourceCategories": "Cloverdale Arts & Culture Community Art",
       "price": "Free",
       "isFree": true
+    },
+    {
+      "id": "63f468db1b5d1ac7",
+      "city": "Surrey",
+      "title": "Spectral Stories: A Christmas Carol",
+      "url": "https://www.surrey.ca/news-events/events/spectral-stories-christmas-carol",
+      "dateLabel": "December 11, 2026",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-11",
+      "time": "6:30pm - 7:30pm",
+      "location": "Historic Stewart Farm, 13723 Crescent Road, Surrey, BC",
+      "description": "A unique holiday experience Enjoy a dramatic reading of the Charles Dickens Victorian classic in the festively decorated farmhouse with a cup of mulled wine and homemade figgy pudding. For ages 19+. Presented by Historic Stewart Farm and The Re-enactors . Get your tickets before they sell out! Call 604-501-5100 or purchase online. Tickets for the 6:30-7:30pm session Tickets for the 8-9pm session",
+      "category": "Arts & culture",
+      "sourceCategories": "South Surrey Arts & Culture Heritage Stewart Farm",
+      "price": "$29.50 per person",
+      "isFree": false
     },
     {
       "id": "ed4e42293540fdef",
