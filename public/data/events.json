@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-08T12:18:48-07:00",
+  "updatedAt": "2026-10-09T11:51:39-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-10-08T12:18:48-07:00",
+      "updatedAt": "2026-10-09T11:51:39-07:00",
       "status": "ok",
-      "count": 152
+      "count": 151
     },
     "Richmond": {
-      "updatedAt": "2026-10-08T12:18:48-07:00",
+      "updatedAt": "2026-10-09T11:51:39-07:00",
       "status": "ok",
       "count": 9
     }
@@ -45,22 +45,6 @@
       "sourceCategories": "Meetings / Conventions / Lectures / Workshops Workshops",
       "price": "Free",
       "isFree": true
-    },
-    {
-      "id": "97794dfd144bc3c1",
-      "city": "Surrey",
-      "title": "Coffee Concert: Fantasies for Two",
-      "url": "https://www.surrey.ca/news-events/events/coffee-concert-fantasies-two",
-      "dateLabel": "October 8, 2026",
-      "startDate": "2026-10-08",
-      "endDate": "2026-10-08",
-      "time": "11:00am - 12:30pm",
-      "location": "Main Stage at Surrey Arts Centre 13750 88 Ave",
-      "description": "The Bergmann Duo is delighted to return to Surrey with the captivating programme Fantasies for Two . This special concert showcases some of their favourite works from the piano four-hands repertoire on two pianos. The programme features the magnificent and deeply moving Fantasy in F minor by Franz Schubert, alongside Marcel Bergmann’s own imaginative Fantasy on Gershwin’s Porgy and Bess , inspired by the music of George Gershwin. Get tickets About the Bergmann Duo The Bergmann Duo’s dynamic and energetic performances of uniquely eclectic programmes, which include numerous own arrangements and compositions, have inspired audiences internationally. They have performed in concert and with orchestra in: Canada, the USA, Italy, Germany, The Netherlands, Spain, Portugal, France, Macedonia, Greece and China. The duo has appeared at the: Festival of the Sound, Ottawa International Chamber Music Festival, Abbey Bach Festival,Tuckamore Festival, Ohrid Summer Festival, Zodiac Festival, San Francisco International Music Festival, MusicFest Vancouver, Gilmore International Keyboard Festival, Banff Arts Festival, Royal Bank Calgary International Organ Festival and Competition, Festival Miami, Tage für Neue Musik, Darmstadt, Braunschweiger Kammermusik Podium, and EXPO 2000, Hannover. They have made recordings for the CBC, ARD(in Germany) and for National Public Radio and have recorded several CDs (CordAria, Arktos, Koch International Classics, Naxos, ARS and Brilliant Classics labels). The married couple received first prize at the International Chamber Music Competition in Caltanissetta, Italy, were laureates of The 4th Murray Dranoff International Two Piano Competition and have performed extensively in Germany as members of the young artists’ roster of Yehudi Menuhin-Live Music Now. The duo studied with Arie Vardi at the Hochschule für Musik und Theater, Hannover and with Jean-Eudes Vaillancourt at the Université de Montréal. Elizabeth is Artistic Director of Concerts at the Langley Community Music School and both are Artistic Directors of White Rock Concerts.",
-      "category": "Arts & culture",
-      "sourceCategories": "Arts & Culture Music Seniors Surrey Civic Theatres",
-      "price": "Tickets: $39–$45 Part of the Coffee Concert Series. Concert begins at 11am. Social hour begins at 10am.",
-      "isFree": false
     },
     {
       "id": "ed1c9356f48f5477",
@@ -189,22 +173,6 @@
       "sourceCategories": "Cloverdale Arts & Culture Community Art",
       "price": "Free",
       "isFree": true
-    },
-    {
-      "id": "6f6aa24ac0f949c9",
-      "city": "Surrey",
-      "title": "Spectral Stories: A Christmas Carol",
-      "url": "https://www.surrey.ca/news-events/events/spectral-stories-christmas-carol",
-      "dateLabel": "October 11, 2026",
-      "startDate": "2026-10-11",
-      "endDate": "2026-10-11",
-      "time": "8:00pm - 9:00pm",
-      "location": "Historic Stewart Farm, 13723 Crescent Road, Surrey, BC",
-      "description": "A unique holiday experience Enjoy a dramatic reading of the Charles Dickens Victorian classic in the festively decorated farmhouse with a cup of mulled wine and homemade figgy pudding. For ages 19+. Presented by Historic Stewart Farm and The Re-enactors . Get your tickets before they sell out! Call 604-501-5100 or purchase online. Tickets for the 6:30-7:30pm session Tickets for the 8-9pm session",
-      "category": "Arts & culture",
-      "sourceCategories": "South Surrey Arts & Culture Heritage Stewart Farm",
-      "price": "$29.50 per person",
-      "isFree": false
     },
     {
       "id": "5683da55aa41503f",
@@ -600,7 +568,7 @@
       "endDate": "2026-10-23",
       "time": "6:00pm - 7:00pm",
       "location": "Performing Arts Studio at Clayton Community Centre, 7155 187a St, Surrey, BC V4N 6L9",
-      "description": "The Clayton Coffee House is a monthly performance opportunity for both aspiring and established poets, spoken-word artists, novelists, musicians, improvisers or comedians to share their work with the community. Attend for free Come out and cheer on local artists at these all-ages, drop-in events. Admission is free Capacity is limited Sign up to perform Are you an artist interested in performing at this event? Fill out our form with your contact information and a brief description of your act. Performers are given 5–8 minutes, with limited drop-in spots available on show day. Applications for October 23 are due October 11. sign up Clayton Coffee House 2026 schedule Performance date Applications due October 23 October 11 November 27 November 15 This event is organized by the City's Community Art team.",
+      "description": "The Clayton Coffee House is a monthly performance opportunity for both aspiring and established poets, spoken-word artists, novelists, musicians, improvisers or comedians to share their work with the community. Attend for free Come out and cheer on local artists at these all-ages, drop-in events. Admission is free Capacity is limited Sign up to perform Are you an artist interested in performing at this event? Fill out our form with your contact information and a brief description of your act. Performers are given 5–8 minutes, with limited drop-in spots available on show day. Applications for October 23 are due October 11. A new registration format will be introduced after the October application deadline. Stay tuned for more details coming soon! sign up Clayton Coffee House 2026 schedule Performance date Applications due October 23 October 11 This event is organized by the City's Community Art team.",
       "category": "Arts & culture",
       "sourceCategories": "Arts & Culture Community Art Music",
       "price": "Free",
@@ -1496,7 +1464,7 @@
       "endDate": "2026-11-27",
       "time": "6:00pm - 7:30pm",
       "location": "Performing Arts Studio at Clayton Community Centre, 7155 187a St, Surrey, BC V4N 6L9",
-      "description": "The Clayton Coffee House is a monthly performance opportunity for both aspiring and established poets, spoken-word artists, novelists, musicians, improvisers or comedians to share their work with the community. Attend for free Come out and cheer on local artists at these all-ages, drop-in events. Admission is free Capacity is limited Sign up to perform Are you an artist interested in performing at this event? Fill out our form with your contact information and a brief description of your act. Performers are given 5–8 minutes, with limited drop-in spots available on show day. Applications for October 23 are due October 11. sign up Clayton Coffee House 2026 schedule Performance date Applications due October 23 October 11 November 27 November 15 This event is organized by the City's Community Art team.",
+      "description": "The Clayton Coffee House is a monthly performance opportunity for both aspiring and established poets, spoken-word artists, novelists, musicians, improvisers or comedians to share their work with the community. Attend for free Come out and cheer on local artists at these all-ages, drop-in events. Admission is free Capacity is limited Sign up to perform Are you an artist interested in performing at this event? Fill out our form with your contact information and a brief description of your act. Performers are given 5–8 minutes, with limited drop-in spots available on show day. Applications for October 23 are due October 11. A new registration format will be introduced after the October application deadline. Stay tuned for more details coming soon! sign up Clayton Coffee House 2026 schedule Performance date Applications due October 23 October 11 This event is organized by the City's Community Art team.",
       "category": "Arts & culture",
       "sourceCategories": "Arts & Culture Community Art Music",
       "price": "Free",
@@ -1775,6 +1743,22 @@
       "isFree": false
     },
     {
+      "id": "81c027a6425248f4",
+      "city": "Surrey",
+      "title": "Spectral Stories: A Christmas Carol",
+      "url": "https://www.surrey.ca/news-events/events/spectral-stories-christmas-carol",
+      "dateLabel": "December 11, 2026",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-11",
+      "time": "8:00pm - 9:00pm",
+      "location": "Historic Stewart Farm, 13723 Crescent Road, Surrey, BC",
+      "description": "A unique holiday experience Enjoy a dramatic reading of the Charles Dickens Victorian classic in the festively decorated farmhouse with a cup of mulled wine and homemade figgy pudding. For ages 19+. Presented by Historic Stewart Farm and The Re-enactors . Get your tickets before they sell out! Call 604-501-5100 or purchase online. Tickets for the 6:30-7:30pm session Tickets for the 8-9pm session",
+      "category": "Arts & culture",
+      "sourceCategories": "South Surrey Arts & Culture Heritage Stewart Farm",
+      "price": "$29.50 per person",
+      "isFree": false
+    },
+    {
       "id": "ed4e42293540fdef",
       "city": "Surrey",
       "title": "Sleighing the DIY",
@@ -1800,7 +1784,7 @@
       "endDate": "2027-01-03",
       "time": "Time not published — check event link",
       "location": "Cloverdale Arena, 6090 176 Street, Surrey, BC",
-      "description": "It's that time of year again where Cloverdale Arena transforms into a winter wonderland with festive lights twinkling, seasonal decorations everywhere you look and lively music filling the air! This popular, traditional event is an unforgettable skating experience and is the perfect way to spend time with your loved ones during this holiday season. Sign up 72 hours in advance Early sign up opens 72 hours in advance of skating session times. Participants must register at least one hour in advance of their desired session time to secure their spot. Each participant must sign up for a spot to be guaranteed entry. Sign up one of three ways: Register online By phone: 604-501-5100 or any recreation facility In-person at any recreation facility For private facility rentals, email [email protected] . Dates & times Date Time Saturday, December 12 1:00–2:30pm 3:00–4:30pm Sunday, December 13 No public skates Monday, December 14 No public skates Tuesday, December 15 No public skates Wednesday, December 16 3:30–5:00pm 5:30–7:00pm Thursday, December 17 5:30–7:00pm Friday, December 18 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm 7:30–9:00pm Saturday, December 19 1:30–3:00pm – Santa Skate 3:30–5:00pm – Santa Skate 5:30–7:00pm – Santa Skate 7:30–9:00pm Sunday, December 20 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Monday, December 21 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Tuesday, December 22 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Wednesday, December 23 9:30–11:00am 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm Thursday, December 24 9:30–11:00am 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm Friday, December 25 Closed Saturday, December 26 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Sunday, December 27 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Monday, December 28 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Tuesday, December 29 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Wednesday, December 30 9:30–11:00am 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm Thursday, December 31 9:30–11:00am 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm – New Year’s Eve Skate Friday, January 1 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm Saturday, January 2 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm 7:30–9:00pm Sunday, January 3 11:30am–1:00pm 1:30–3:00pm What to expect when you arrive Arrive early to complete the check in process. Doors will open 30 minutes before your session start time. Spot(s) will be held for 30 minutes after your session start time. Dress for the weather as the check-in process is outside. A staff member will verify your registration and give you a wristband. Go to the skate shop to rent skates and/or a helmet (if needed). Lace up your skates , put on your gear and get ready to skate! After 90 minutes when your session is over, please exit promptly so the next session can enter. Remove your equipment, return your rentals (if needed) and exit the building. Important information For your safety Doors will open 30 minutes before each session's scheduled start time to facilitate ice resurfacing, equipment rental restocking and adequate cleaning of the arena. Helmets are mandatory for children ages 12 and under. Although, we highly encourage people of all ages to wear one. Leave your valuables at home. Cubbies are available to store shoes and other small items during sessions. A limited number of skating aids will be available for those that wish to use them. Family and friends are permitted to watch (no registration or payment required). Don't waste your space With limited capacity and no waitlist available, please cancel your booking if you cannot attend , so that others may participate. Cancel your booking by calling 604-501-5100 (Monday–Friday, 8:30am–4:30pm) or in-person at any Surrey recreation facility.",
+      "description": "It's that time of year again where Cloverdale Arena transforms into a winter wonderland with festive lights twinkling, seasonal decorations everywhere you look and lively music filling the air! This popular, traditional event is an unforgettable skating experience and is the perfect way to spend time with your loved ones during this holiday season. Sign up 72 hours in advance Early sign up opens 72 hours in advance of skating session times. Participants must register at least one hour in advance of their desired session time to secure their spot. Each participant must sign up for a spot to be guaranteed entry. Sign up one of three ways: Register online By phone: 604-501-5100 or any recreation facility In-person at any recreation facility For private facility rentals, email [email protected] . Dates & times Date Time Saturday, December 12 1:00–2:30pm 3:00–4:30pm Sunday, December 13 No public skates Monday, December 14 No public skates Tuesday, December 15 No public skates Wednesday, December 16 3:30–5:00pm 5:30–7:00pm Thursday, December 17 5:30–7:00pm Friday, December 18 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm 7:30–9:00pm Saturday, December 19 1:30–3:00pm – Santa Skate (registration required) 3:30–5:00pm – Santa Skate (registration required) 5:30–7:00pm – Santa Skate (registration required) 7:30–9:00pm Sunday, December 20 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Monday, December 21 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Tuesday, December 22 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Wednesday, December 23 9:30–11:00am 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm Thursday, December 24 9:30–11:00am 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm Friday, December 25 Closed Saturday, December 26 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Sunday, December 27 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Monday, December 28 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Tuesday, December 29 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Wednesday, December 30 9:30–11:00am 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm Thursday, December 31 9:30–11:00am 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm – New Year’s Eve Skate Friday, January 1 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm Saturday, January 2 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm 7:30–9:00pm Sunday, January 3 11:30am–1:00pm 1:30–3:00pm What to expect when you arrive Arrive early to complete the check in process. Doors will open 30 minutes before your session start time. Spot(s) will be held for 30 minutes after your session start time. Dress for the weather as the check-in process is outside. A staff member will verify your registration and give you a wristband. Go to the skate shop to rent skates and/or a helmet (if needed). Lace up your skates , put on your gear and get ready to skate! After 90 minutes when your session is over, please exit promptly so the next session can enter. Remove your equipment, return your rentals (if needed) and exit the building. Important information For your safety Doors will open 30 minutes before each session's scheduled start time to facilitate ice resurfacing, equipment rental restocking and adequate cleaning of the arena. Helmets are mandatory for children ages 12 and under. Although, we highly encourage people of all ages to wear one. Leave your valuables at home. Cubbies are available to store shoes and other small items during sessions. A limited number of skating aids will be available for those that wish to use them. Family and friends are permitted to watch (no registration or payment required). Don't waste your space With limited capacity and no waitlist available, please cancel your booking if you cannot attend , so that others may participate. Cancel your booking by calling 604-501-5100 (Monday–Friday, 8:30am–4:30pm) or in-person at any Surrey recreation facility.",
       "category": "Sports & wellness",
       "sourceCategories": "Cloverdale Recreation",
       "price": "$5.25 per person. Free with an Annual Recreation Pass . Rent skates for $3.75 and a helmet for $2.00 when you arrive. We expect high demand for rentals, so bring your own equipment if possible.",
