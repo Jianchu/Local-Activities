@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-09T11:51:39-07:00",
+  "updatedAt": "2026-10-10T10:53:53-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-10-09T11:51:39-07:00",
+      "updatedAt": "2026-10-10T10:53:53-07:00",
       "status": "ok",
-      "count": 151
+      "count": 150
     },
     "Richmond": {
-      "updatedAt": "2026-10-09T11:51:39-07:00",
+      "updatedAt": "2026-10-10T10:53:53-07:00",
       "status": "ok",
-      "count": 9
+      "count": 10
     }
   },
   "events": [
@@ -43,38 +43,6 @@
       "description": "Lansdowne Centre Food Garden Now entering its sixth year, the Lansdowne Centre Food Garden program continues to support the local community by growing fresh fruits, vegetables and herbs that are donated to local community organizations and the Richmond Food Bank Society, helping address food insecurity in Richmond. The program also offers free weekly gardening workshops, where participants can learn practical gardening skills and growing techniques from local experts. Since launching in 2021, the Food Garden program has donated nearly 3,000 pounds of fresh produce to local organizations serving families in need. It is also a great opportunity for children to learn where the food comes from. Workshop Schedule: https://lansdowne-centre.com/food-garden-event-schedule/ Location: Southeast parking lot at Lansdowne Centre (close to T&T Supermarket) More Information This event is for All Ages. This is an accessible site. This event is free.",
       "category": "Nature & outdoors",
       "sourceCategories": "Meetings / Conventions / Lectures / Workshops Workshops",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "ed1c9356f48f5477",
-      "city": "Surrey",
-      "title": "Secrets of the Haunted Bog at Guildford Town Centre",
-      "url": "https://www.surrey.ca/news-events/events/secrets-of-haunted-bog-guildford-town-centre",
-      "dateLabel": "October 9, 2026 - October 31, 2026",
-      "startDate": "2026-10-09",
-      "endDate": "2026-10-31",
-      "time": "Time not published — check event link",
-      "location": "Guildford Town Centre, 10355 152 St, Surrey, BC",
-      "description": "Step inside Secrets of the Haunted Bog, a free, family-friendly Halloween experience at Guildford Town Centre. Make your way through an immersive haunted bog filled with eerie scenes, spooky surprises, low-light areas, haunted haze, animatronics and mysterious creatures lurking around every corner. Guests are encouraged to bring a non-perishable food item to support the Surrey Food Bank. Please note: While this experience is family-friendly, some elements may be frightening for children under five.",
-      "category": "Community & festivals",
-      "sourceCategories": "Guildford Community-Hosted",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "8b2ddd19148175e2",
-      "city": "Surrey",
-      "title": "Stories from the Land 2026",
-      "url": "https://www.surrey.ca/news-events/events/stories-land-2026",
-      "dateLabel": "October 9, 2026",
-      "startDate": "2026-10-09",
-      "endDate": "2026-10-09",
-      "time": "5:30pm - 8:00pm",
-      "location": "Museum of Surrey, 17710 56a Ave, Surrey, BC",
-      "description": "Join Surrey Local Immigration Partnership (LIP) for the 5th Annual Stories from the Land, where Indigenous, newcomer and long-time resident community members come together to learn about each other's cultures and about reconciliation. At this event, you can: Hear drumming from Kwantlen, Katzie, Semiahmoo, Pow Wow, African and South Asian traditions See performances by Edward Sembatya of Mdundo Arts and Sunny Uppal of Dhol Nation Listen to stories from Indigenous knowledge keepers Share a free Coast Salish meal The project was developed with local First Nations and Indigenous knowledge keepers. Its goal is to help Indigenous and newcomer communities get to know each other, learn more about Indigenous histories and cultures, and take part in reconciliation. This event is free and family friendly. Registration is required and space is limited. Some transportation support is available. Presented in partnership with Surrey Local Immigration Partnership.",
-      "category": "Community & festivals",
-      "sourceCategories": "Cloverdale Community-Hosted",
       "price": "Free",
       "isFree": true
     },
@@ -157,6 +125,22 @@
       "sourceCategories": "Fleetwood Community-Hosted",
       "price": "Suggested minimum donation of $20 per bankers box",
       "isFree": false
+    },
+    {
+      "id": "09bb3c2dbb64d3ac",
+      "city": "Surrey",
+      "title": "Surrey's Green Halloween Challenge",
+      "url": "https://www.surrey.ca/news-events/events/surreys-green-halloween-challenge",
+      "dateLabel": "October 10, 2026 - October 25, 2026",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-25",
+      "time": "Time not published — check event link",
+      "location": "South Surrey Recreation & Arts Centre, 14601 20 Ave, Surrey, BC",
+      "description": "Join us for the Surrey Green Halloween Challenge! This youth-led initiative was created by a Surrey youth to make Halloween more sustainable and accessible for local families. Help reduce waste by donating or choosing a gently used Halloween costume through this community costume exchange. How it works Part 1 - Donate a costume October 10-23 Bring your gently used Halloween costumes to the South Surrey Recreation & Arts Centre and place them in the collection bin located in the lobby during facility operating hours. Donations should be clean and in good condition so another community member can enjoy them this Halloween season. Part 2 - Choose a costume October 24-25 (1-4 pm) Browse the collection of donated costumes at the South Surrey Recreation & Arts Centre during 1-4 pm and find a free Halloween costume. Instead of buying new, choose a pre-loved costume and help give it a second life. Why participate? Reduce textile waste and keep costumes out of the landfill. Save money on Halloween costumes. Support a community-driven sustainability initiative. Inspire reuse, creativity, and upcycling. Help create a greener Halloween in Surrey. Important information: Created by a Surrey youth to promote sustainability and costume reuse in the community. Costumes are available on a first-come, first-served basis while supplies last. Donations should be gently used, suitable for reuse, and appropriate. Costumes for all ages are welcome. No registration is required. Questions? For more information, contact the Youth Team at South Surrey Recreation & Arts Centre: Andre Conde: [email protected] Erin Pourfallah: [email protected]",
+      "category": "Sports & wellness",
+      "sourceCategories": "South Surrey Children Recreation Youth",
+      "price": "Free",
+      "isFree": true
     },
     {
       "id": "0e6c43dcbac6dfe0",
@@ -797,6 +781,22 @@
       "sourceCategories": "Recreation",
       "price": "Use your Recreation Surrey pass or pay for a drop-in admission .",
       "isFree": false
+    },
+    {
+      "id": "1b1aa88a0b0c9096",
+      "city": "Richmond",
+      "title": "Performance and Discussion: Katie Ward x Lam Tung Pang",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19153",
+      "dateLabel": "Thursday, Oct 29, 2026",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "time": "6:30-8:30pm",
+      "location": "7700 Minoru Gate",
+      "description": "In Response: Katie Ward x Lam Tung Pang Experience a one-night-only live performance by Montréal-based choreographer and dancer Katie Ward in response to Lam Tung Pang’s exhibition at Richmond Art Gallery. Inspired by Lam’s visual language and themes, Ward will activate his site-specific installation through movement. After the performance, Ward will be joined by the artist to discuss the intersection of their respective practices. Curator Zoë Chan will moderate. Limited spaces, RSVP required. More Information This event is for Child (Ages 6-12), Youth (Ages 13-18), Adult (Ages 18+) & 55+ (Ages 55 and over) This is an accessible site. This event is free.",
+      "category": "Arts & culture",
+      "sourceCategories": "Culture & Heritage Events Dance",
+      "price": "Free",
+      "isFree": true
     },
     {
       "id": "3cbcccaa03e5134d",
@@ -1855,16 +1855,16 @@
       "isFree": false
     },
     {
-      "id": "b935fed316cd1a1b",
+      "id": "bce6b64cc3c281ba",
       "city": "Surrey",
-      "title": "Let's Celebrate Christmas Drop-In",
-      "url": "https://www.surrey.ca/news-events/events/lets-celebrate-christmas-drop",
+      "title": "Jolly Jamboree",
+      "url": "https://www.surrey.ca/news-events/events/jolly-jamboree",
       "dateLabel": "December 19, 2026",
       "startDate": "2026-12-19",
       "endDate": "2026-12-19",
       "time": "12:00pm - 4:30pm",
       "location": "Historic Stewart Farm, 13723 Crescent Road, Surrey, BC",
-      "description": "Back-to-basics Christmas It is almost Christmas—let's make merry! Stop by Historic Stewart Farm to celebrate the holidays as the Stewarts did, try your hand at some popular Victorian parlour games and make your own heritage craft to take home. A different theme each weekend Each weekend highlights a classic element of the holidays. Snack on woodstove baked treats, take in the holiday décor and watch some holiday heritage demonstrations. With a new theme each weekend, you can visit multiple times to fill your holiday",
+      "description": "Let the festivities begin! With the big day just one week away, the countdown is on and the party has begun. Join us for games, cookies, crafts and that all-round cozy Christmas feeling. Tour & Explore: Walk through the beautifully decorated farmhouse and take on a Victorian Christmas Scavenger Hunt. Play some old-fashioned parlour games too! Kitchen Treats & Demos: See a live chestnut roasting demonstration, taste a mini cookie and learn to make popcorn strings and decorative pomanders. Holiday Crafting: Head to Stewart Hall to create your own Christmas cracker, gift tags, or cards. Festive Extras: Sip a coffee or tea and check out the gift shop in the Welcome Centre. Finish your visit with the holiday photo opp in the barn. Additional holiday dates Can't make Jolly Jamboree? The Christmas events at Historic Stewart Farm are bountiful! Mark your calendar for: All the Trimmings | December 5 & 6 from 12-4:30pm Victorian Christmas Evening | December 5 from 4-7pm Spectral Stories: A Christmas Carol | December 11 from Time: 6:30-7:30pm & 8-9pm | Registration required | $29.50/ person | 19+ Sleighin the DIY | December 12 & 13 from 12-4:30pm",
       "category": "Arts & culture",
       "sourceCategories": "South Surrey Arts & Culture Heritage Stewart Farm",
       "price": "Free",
@@ -1919,16 +1919,16 @@
       "isFree": false
     },
     {
-      "id": "43fdd92115163394",
+      "id": "149394ce644971c4",
       "city": "Surrey",
-      "title": "Let's Celebrate Christmas Drop-In",
-      "url": "https://www.surrey.ca/news-events/events/lets-celebrate-christmas-drop",
+      "title": "Jolly Jamboree",
+      "url": "https://www.surrey.ca/news-events/events/jolly-jamboree",
       "dateLabel": "December 20, 2026",
       "startDate": "2026-12-20",
       "endDate": "2026-12-20",
       "time": "12:00pm - 4:30pm",
       "location": "Historic Stewart Farm, 13723 Crescent Road, Surrey, BC",
-      "description": "Back-to-basics Christmas It is almost Christmas—let's make merry! Stop by Historic Stewart Farm to celebrate the holidays as the Stewarts did, try your hand at some popular Victorian parlour games and make your own heritage craft to take home. A different theme each weekend Each weekend highlights a classic element of the holidays. Snack on woodstove baked treats, take in the holiday décor and watch some holiday heritage demonstrations. With a new theme each weekend, you can visit multiple times to fill your holiday",
+      "description": "Let the festivities begin! With the big day just one week away, the countdown is on and the party has begun. Join us for games, cookies, crafts and that all-round cozy Christmas feeling. Tour & Explore: Walk through the beautifully decorated farmhouse and take on a Victorian Christmas Scavenger Hunt. Play some old-fashioned parlour games too! Kitchen Treats & Demos: See a live chestnut roasting demonstration, taste a mini cookie and learn to make popcorn strings and decorative pomanders. Holiday Crafting: Head to Stewart Hall to create your own Christmas cracker, gift tags, or cards. Festive Extras: Sip a coffee or tea and check out the gift shop in the Welcome Centre. Finish your visit with the holiday photo opp in the barn. Additional holiday dates Can't make Jolly Jamboree? The Christmas events at Historic Stewart Farm are bountiful! Mark your calendar for: All the Trimmings | December 5 & 6 from 12-4:30pm Victorian Christmas Evening | December 5 from 4-7pm Spectral Stories: A Christmas Carol | December 11 from Time: 6:30-7:30pm & 8-9pm | Registration required | $29.50/ person | 19+ Sleighin the DIY | December 12 & 13 from 12-4:30pm",
       "category": "Arts & culture",
       "sourceCategories": "South Surrey Arts & Culture Heritage Stewart Farm",
       "price": "Free",
