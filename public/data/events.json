@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-11T11:09:31-07:00",
+  "updatedAt": "2026-10-12T14:46:14-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-10-11T11:09:31-07:00",
+      "updatedAt": "2026-10-12T14:46:14-07:00",
       "status": "ok",
       "count": 146
     },
     "Richmond": {
-      "updatedAt": "2026-10-11T11:09:31-07:00",
+      "updatedAt": "2026-10-12T14:46:14-07:00",
       "status": "ok",
       "count": 10
     }
@@ -43,22 +43,6 @@
       "description": "Lansdowne Centre Food Garden Now entering its sixth year, the Lansdowne Centre Food Garden program continues to support the local community by growing fresh fruits, vegetables and herbs that are donated to local community organizations and the Richmond Food Bank Society, helping address food insecurity in Richmond. The program also offers free weekly gardening workshops, where participants can learn practical gardening skills and growing techniques from local experts. Since launching in 2021, the Food Garden program has donated nearly 3,000 pounds of fresh produce to local organizations serving families in need. It is also a great opportunity for children to learn where the food comes from. Workshop Schedule: https://lansdowne-centre.com/food-garden-event-schedule/ Location: Southeast parking lot at Lansdowne Centre (close to T&T Supermarket) More Information This event is for All Ages. This is an accessible site. This event is free.",
       "category": "Nature & outdoors",
       "sourceCategories": "Meetings / Conventions / Lectures / Workshops Workshops",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "0e6c43dcbac6dfe0",
-      "city": "Surrey",
-      "title": "Engage with Artist in Residence Mariel Nelms",
-      "url": "https://www.surrey.ca/news-events/events/engage-artist-residence-mariel-nelms",
-      "dateLabel": "October 11, 2026",
-      "startDate": "2026-10-11",
-      "endDate": "2026-10-11",
-      "time": "Time not published — check event link",
-      "location": "Clayton Community Centre, 7155 187a St, Surrey, BC",
-      "description": "Clayton Community Centre's Artist in Residence, Mariel Nelms’ project Future Archives , invites community members to be co-authors of Surrey’s next chapter by exploring the influential individuals that have come before and considering our roles in the future. Nelms invites community members to participate in free portrait sessions, creative workshops, and meaningful conversations. Come out to one or all of the sessions listed, and visit Artists in Residence for more about the project and the exciting end result! Pop-Up portrait studio Come get your professional photo taken for the project. September 13, 10am-2pm September 18, 5-9pm September 27, 10am-2pm Weaving workshops Learn to upcycle recycled materials into woven textiles. October 11, 10am-2pm October 25, 10am-2pm December 5, 10am-2pm Opening of Future Archives Unveiling of final artwork and community celebration. January 16, 3-5pm",
-      "category": "Arts & culture",
-      "sourceCategories": "Cloverdale Arts & Culture Community Art",
       "price": "Free",
       "isFree": true
     },
