@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-12T14:46:14-07:00",
+  "updatedAt": "2026-10-13T12:54:11-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-10-12T14:46:14-07:00",
+      "updatedAt": "2026-10-13T12:54:11-07:00",
       "status": "ok",
-      "count": 146
+      "count": 147
     },
     "Richmond": {
-      "updatedAt": "2026-10-12T14:46:14-07:00",
+      "updatedAt": "2026-10-13T12:54:11-07:00",
       "status": "ok",
       "count": 10
     }
@@ -95,16 +95,16 @@
       "isFree": false
     },
     {
-      "id": "c8da90e7086e21c0",
+      "id": "8760ca3cdbd31ebc",
       "city": "Surrey",
       "title": "Municipal Election: Advance Voting",
       "url": "https://www.surrey.ca/news-events/events/municipal-election-advance-voting",
       "dateLabel": "October 14, 2026",
       "startDate": "2026-10-14",
       "endDate": "2026-10-14",
-      "time": "Time not published — check event link",
+      "time": "8:00am - 8:00pm",
       "location": "Various: see list below",
-      "description": "Eligible voters will cast their ballot to elect one (1) mayor, eight (8) councillors and six (6) school trustees. Advance voting locations Kwantlen Park Secondary: 10441 132 Street Guildford Recreation Centre: 15105 105 Avenue Fraser Heights Recreation Centre: 10588 160 Street Fleetwood Community Centre: 15996 84 Avenue Frank Hurt Secondary: 13940 77 Avenue Princess Margaret Secondary: 12870 72 Avenue École Panorama Ridge Secondary: 13220 64 Avenue Cloverdale Recreation Centre: 6188 176 Street Semiahmoo Secondary: 1785 148 Street Earl Marriott Secondary: 15751 16 Avenue Advance voting days October 7 October 10 October 14 October 15 Before you vote Ensure you are eligible to vote . Learn who is running for office . If you are registered, a voter card will be mailed to your household in late September or early October. Bring the voter card with your name listed and one (1) piece of acceptable identification. If you are updating your personal information on your voter card, bring acceptable identification showing the updated information. If one piece of identification shows the change, a second piece is not required. When you arrive to vote After being greeted at the voting location, you will be directed to the first available election official to show your voter card and one (1) piece of acceptable identification and asked to sign the voting book declaration to receive your ballot. If you are not on the list of registered voters, you will need two (2) pieces of acceptable identification . Continue to the voting booth where you will have privacy to mark your ballot. Finally, proceed to the voting machine where you will feed the ballot into the tabulator.",
+      "description": "Eligible voters will cast their ballot to elect one (1) mayor, eight (8) councillors and six (6) school trustees. Advance voting locations Vote from 8am to 8pm at any of these locations: Kwantlen Park Secondary: 10441 132 Street Guildford Recreation Centre: 15105 105 Avenue Fraser Heights Recreation Centre: 10588 160 Street Fleetwood Community Centre: 15996 84 Avenue Frank Hurt Secondary: 13940 77 Avenue Princess Margaret Secondary: 12870 72 Avenue École Panorama Ridge Secondary: 13220 64 Avenue Cloverdale Recreation Centre: 6188 176 Street Semiahmoo Secondary: 1785 148 Street Earl Marriott Secondary: 15751 16 Avenue Advance voting days October 7 October 10 October 14 October 15 Before you vote Ensure you are eligible to vote . Learn who is running for office . If you are registered, a voter card will be mailed to your household in late September or early October. Bring the voter card with your name listed and one (1) piece of acceptable identification. If you are updating your personal information on your voter card, bring acceptable identification showing the updated information. If one piece of identification shows the change, a second piece is not required. When you arrive to vote After being greeted at the voting location, you will be directed to the first available election official to show your voter card and one (1) piece of acceptable identification and asked to sign the voting book declaration to receive your ballot. If you are not on the list of registered voters, you will need two (2) pieces of acceptable identification . Continue to the voting booth where you will have privacy to mark your ballot. Finally, proceed to the voting machine where you will feed the ballot into the tabulator.",
       "category": "Community & festivals",
       "sourceCategories": "",
       "price": "",
@@ -127,16 +127,16 @@
       "isFree": false
     },
     {
-      "id": "152a7b2f007aba57",
+      "id": "8bbb56a763f11e44",
       "city": "Surrey",
       "title": "Municipal Election: Advance Voting",
       "url": "https://www.surrey.ca/news-events/events/municipal-election-advance-voting",
       "dateLabel": "October 15, 2026",
       "startDate": "2026-10-15",
       "endDate": "2026-10-15",
-      "time": "Time not published — check event link",
+      "time": "8:00am - 8:00pm",
       "location": "Various: see list below",
-      "description": "Eligible voters will cast their ballot to elect one (1) mayor, eight (8) councillors and six (6) school trustees. Advance voting locations Kwantlen Park Secondary: 10441 132 Street Guildford Recreation Centre: 15105 105 Avenue Fraser Heights Recreation Centre: 10588 160 Street Fleetwood Community Centre: 15996 84 Avenue Frank Hurt Secondary: 13940 77 Avenue Princess Margaret Secondary: 12870 72 Avenue École Panorama Ridge Secondary: 13220 64 Avenue Cloverdale Recreation Centre: 6188 176 Street Semiahmoo Secondary: 1785 148 Street Earl Marriott Secondary: 15751 16 Avenue Advance voting days October 7 October 10 October 14 October 15 Before you vote Ensure you are eligible to vote . Learn who is running for office . If you are registered, a voter card will be mailed to your household in late September or early October. Bring the voter card with your name listed and one (1) piece of acceptable identification. If you are updating your personal information on your voter card, bring acceptable identification showing the updated information. If one piece of identification shows the change, a second piece is not required. When you arrive to vote After being greeted at the voting location, you will be directed to the first available election official to show your voter card and one (1) piece of acceptable identification and asked to sign the voting book declaration to receive your ballot. If you are not on the list of registered voters, you will need two (2) pieces of acceptable identification . Continue to the voting booth where you will have privacy to mark your ballot. Finally, proceed to the voting machine where you will feed the ballot into the tabulator.",
+      "description": "Eligible voters will cast their ballot to elect one (1) mayor, eight (8) councillors and six (6) school trustees. Advance voting locations Vote from 8am to 8pm at any of these locations: Kwantlen Park Secondary: 10441 132 Street Guildford Recreation Centre: 15105 105 Avenue Fraser Heights Recreation Centre: 10588 160 Street Fleetwood Community Centre: 15996 84 Avenue Frank Hurt Secondary: 13940 77 Avenue Princess Margaret Secondary: 12870 72 Avenue École Panorama Ridge Secondary: 13220 64 Avenue Cloverdale Recreation Centre: 6188 176 Street Semiahmoo Secondary: 1785 148 Street Earl Marriott Secondary: 15751 16 Avenue Advance voting days October 7 October 10 October 14 October 15 Before you vote Ensure you are eligible to vote . Learn who is running for office . If you are registered, a voter card will be mailed to your household in late September or early October. Bring the voter card with your name listed and one (1) piece of acceptable identification. If you are updating your personal information on your voter card, bring acceptable identification showing the updated information. If one piece of identification shows the change, a second piece is not required. When you arrive to vote After being greeted at the voting location, you will be directed to the first available election official to show your voter card and one (1) piece of acceptable identification and asked to sign the voting book declaration to receive your ballot. If you are not on the list of registered voters, you will need two (2) pieces of acceptable identification . Continue to the voting booth where you will have privacy to mark your ballot. Finally, proceed to the voting machine where you will feed the ballot into the tabulator.",
       "category": "Community & festivals",
       "sourceCategories": "",
       "price": "",
@@ -1423,6 +1423,22 @@
       "isFree": true
     },
     {
+      "id": "3785b264eac176ae",
+      "city": "Surrey",
+      "title": "Youth Winter Holiday Dinner",
+      "url": "https://www.surrey.ca/news-events/events/youth-winter-holiday-dinner",
+      "dateLabel": "November 28, 2026",
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-28",
+      "time": "4:00pm - 8:00pm",
+      "location": "13775 70 Ave, Surrey, BC V3W 0E1",
+      "description": "Youth ages 10-18 are invited to join us at Newton Recreation Centre for a community dinner, a free evening of great food, fun activities, live music, and opportunities to connect with other young people in the community. Hosted in partnership with youth-led organization The Loose Leaf Project , this event is all about bringing youth together in a welcoming and inclusive space. Whether you want to hang out with friends, meet new people, enjoy a free meal, play games, or get involved in your community, there's something for everyone. Whether you're looking to meet new people, spend time with friends, or enjoy a great meal, there's something for everyone. Registration will open on October 28. Event ID: 00554040",
+      "category": "Community & festivals",
+      "sourceCategories": "Youth",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "d2ca68dafd771f7d",
       "city": "Surrey",
       "title": "Family Art Party",
@@ -1464,7 +1480,7 @@
       "endDate": "2026-12-04",
       "time": "7:00pm - 9:00pm",
       "location": "Surrey City Hall, 13450 104 Ave, Surrey, BC V3T 1V8",
-      "description": "The SASSY Awards (Service Above Self Surrey Youth) is Semiahmoo Rotary’s celebration and recognition of the fantastic youth who live, work, volunteer, and learn in Surrey and White Rock. Recognizing and engaging exceptional youth in our community honours the core Rotarian values of Service, Fellowship, Diversity, Integrity and Leadership. Finalists will be selected in each of four categories Community Leadership and Service Diversity, Equity, and Inclusion Leadership and Service Beyond Adversity School Leadership and Service This year, for the first time, each of the four categories will have both Junior (Grade 11 and under) and Senior (Grade 12 and up) divisions. The award recipients of each category will receive a cash award along with a donation that they will present to a charity of their choice: Senior $1000 award $100 donation SASSY Awards Trophy Junior $750 award $100 donation SASSY Awards Trophy Finalists in each category will receive: Senior (2 Finalists) $750 award $100 donation Junior (1 Finalist) $500 award $100 donation The awards will be presented at the Awards Show on Friday, December 4, 2026, at Surrey City Hall. Nominations are now being accepted! Nominate a youth aged 15 to 21 living, studying, or working in Surrey or White Rock. 2026 Sassy nominations will be open until October 11, 2026. Nominate a young leader For more information, contact [email protected] and check for updates on the SASSY Awards pages.",
+      "description": "The SASSY Awards (Service Above Self Surrey Youth) is Semiahmoo Rotary’s celebration and recognition of the fantastic youth who live, work, volunteer, and learn in Surrey and White Rock. Recognizing and engaging exceptional youth in our community honours the core Rotarian values of Service, Fellowship, Diversity, Integrity and Leadership. Finalists will be selected in each of four categories Community Leadership and Service Diversity, Equity, and Inclusion Leadership and Service Beyond Adversity School Leadership and Service This year, for the first time, each of the four categories will have both Junior (Grade 11 and under) and Senior (Grade 12 and up) divisions. The award recipients of each category will receive a cash award along with a donation that they will present to a charity of their choice: Senior $1000 award $100 donation SASSY Awards Trophy Junior $750 award $100 donation SASSY Awards Trophy Finalists in each category will receive: Senior (2 Finalists) $750 award $100 donation Junior (1 Finalist) $500 award $100 donation The awards will be presented at the Awards Show on Friday, December 4, 2026, at Surrey City Hall. Nominations are now being accepted! Nominate a youth aged 15 to 21 living, studying, or working in Surrey or White Rock. 2026 Sassy nominations will be open until October18, 2026. Nominate a young leader For more information, contact [email protected] and check for updates on the SASSY Awards pages.",
       "category": "Sports & wellness",
       "sourceCategories": "Recreation Youth",
       "price": "Free",
