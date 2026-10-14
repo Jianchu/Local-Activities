@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-13T12:54:11-07:00",
+  "updatedAt": "2026-10-14T11:03:21-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-10-13T12:54:11-07:00",
+      "updatedAt": "2026-10-14T11:03:21-07:00",
       "status": "ok",
       "count": 147
     },
     "Richmond": {
-      "updatedAt": "2026-10-13T12:54:11-07:00",
+      "updatedAt": "2026-10-14T11:03:21-07:00",
       "status": "ok",
       "count": 10
     }
@@ -44,22 +44,6 @@
       "category": "Nature & outdoors",
       "sourceCategories": "Meetings / Conventions / Lectures / Workshops Workshops",
       "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "5683da55aa41503f",
-      "city": "Surrey",
-      "title": "Positively Parenting Workshop Series",
-      "url": "https://www.surrey.ca/news-events/events/positively-parenting-workshop-series",
-      "dateLabel": "October 13, 2026",
-      "startDate": "2026-10-13",
-      "endDate": "2026-10-13",
-      "time": "6:00pm - 7:30pm",
-      "location": "South Surrey Recreation and Arts Center, 14601 20 Avenue, Surrey, BC",
-      "description": "Positively Parenting is an interactive and informative series for parents and caregivers of children 5 to 12 years old. The 4-week series offers an opportunity to explore the power of connection and how it can support in day-to-day parenting. Over the course of the series, topics reviewed include: Keeping in Connection at All Ages Making Sense of Behaviours Feelings and the Brain Problem Solving Approaches This series aims to provide practical strategies and helpful resources to support learning and thinking about parenting today. How to register To register or for more information, call Alex Neighbourhood House at 778-239-5960 or email [email protected] . Limited childminding spots are available. Please enquire during registration.",
-      "category": "Learn & create",
-      "sourceCategories": "South Surrey",
-      "price": "Free, registration required.",
       "isFree": true
     },
     {
@@ -268,6 +252,22 @@
       "category": "Nature & outdoors",
       "sourceCategories": "Parks & Environment Seniors Youth",
       "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "cd81652227c0c466",
+      "city": "Surrey",
+      "title": "Positively Parenting Workshop Series",
+      "url": "https://www.surrey.ca/news-events/events/positively-parenting-workshop-series",
+      "dateLabel": "October 20, 2026",
+      "startDate": "2026-10-20",
+      "endDate": "2026-10-20",
+      "time": "6:00pm - 7:30pm",
+      "location": "South Surrey Recreation and Arts Center, 14601 20 Avenue, Surrey, BC",
+      "description": "Positively Parenting is an interactive and informative series for parents and caregivers of children 5 to 12 years old. The 4-week series offers an opportunity to explore the power of connection and how it can support in day-to-day parenting. Over the course of the series, topics reviewed include: Keeping in Connection at All Ages Making Sense of Behaviours Feelings and the Brain Problem Solving Approaches This series aims to provide practical strategies and helpful resources to support learning and thinking about parenting today. How to register To register or for more information, call Alex Neighbourhood House at 778-239-5960 or email [email protected] . Limited childminding spots are available. Please enquire during registration.",
+      "category": "Learn & create",
+      "sourceCategories": "South Surrey",
+      "price": "Free, registration required.",
       "isFree": true
     },
     {
