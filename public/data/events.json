@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-14T11:03:21-07:00",
+  "updatedAt": "2026-10-15T10:48:14-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-10-14T11:03:21-07:00",
+      "updatedAt": "2026-10-15T10:48:14-07:00",
       "status": "ok",
-      "count": 147
+      "count": 145
     },
     "Richmond": {
-      "updatedAt": "2026-10-14T11:03:21-07:00",
+      "updatedAt": "2026-10-15T10:48:14-07:00",
       "status": "ok",
-      "count": 10
+      "count": 12
     }
   },
   "events": [
@@ -45,70 +45,6 @@
       "sourceCategories": "Meetings / Conventions / Lectures / Workshops Workshops",
       "price": "Free",
       "isFree": true
-    },
-    {
-      "id": "049b2b5f6de817a9",
-      "city": "Surrey",
-      "title": "Focus on Seniors Webinar Series",
-      "url": "https://www.surrey.ca/news-events/events/focus-on-seniors-webinar-series",
-      "dateLabel": "October 14, 2026",
-      "startDate": "2026-10-14",
-      "endDate": "2026-10-14",
-      "time": "11:00am - 12:00pm",
-      "location": "Online",
-      "description": "Join us for free informative online sessions for seniors, their families and caregivers. As part of Surrey's Age Friendly Strategy for Seniors , these webinars feature guest presenters to provide resources to ensure Surrey's seniors are supported and can remain actively engaged and safe in our community. Upcoming webinars Spotlight on Ageism: Reframing the Way We Think About Ageing October 14, 11am-12pm Ageing brings both joys and challenges, but how much of our experience is influenced by the messages we receive about getting older? This engaging and interactive workshop explores ageism, the assumptions and stereotypes we hold about ageing, and how these beliefs can influence our health, well-being, relationships and sense of self. Participants will be invited to challenge ageist thinking, reflect on their own attitudes toward ageing, and explore ways to embrace resilience, wisdom, connection and purpose throughout life's later chapters. Let's move beyond simply growing older and explore what it means to age well. Register",
-      "category": "Community & festivals",
-      "sourceCategories": "Seniors",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "ecd08507c0aae4cd",
-      "city": "Surrey",
-      "title": "Mom's the Word: Talkin' Turkey",
-      "url": "https://www.surrey.ca/news-events/events/moms-word-talkin-turkey",
-      "dateLabel": "October 14, 2026 - October 24, 2026",
-      "startDate": "2026-10-14",
-      "endDate": "2026-10-24",
-      "time": "Time not published — check event link",
-      "location": "Main Stage at Surrey Arts Centre, 13750 88 Ave, Surrey, BC",
-      "description": "“Hallmark has nothing on this genuinely heartwarming show”—STIR Vancouver An Arts Club Theatre Company Production Created by the Mom’s the Word Collective (Jill Daum, Alison Kelly, Robin Nichol, Barbara Pollard & Deborah Williams) The moms are back in the creative kitchen and ready to turn the “season of giving” into the “season of forgiving.” Enjoy a theatrical feast flavoured with big Santa belly laughs, stuffed with dysfunction, and topped with a soupçon of sarcasm—all served on a platter of naked truth. Using their special recipe of raw humour and humanity, the moms prove that the holidays really are about family, however you define it. Get tickets This production contains coarse language and mature content, and may not be suitable for children. It includes theatrical devices such as strobe lighting and water-based fog. Programming, casting, dates, and prices are subject to change. Prices include taxes and facility fees. Showtimes Wednesday October 14 7:30pm Thursday October 15 7:30pm Friday October 16 7:30pm Saturday October 17 2pm & 7:30pm The 2pm matinee is a Paint at the Play show! Drop off your 6–11-year-old child for an art camp while you enjoy the show! Call the box office at 604-501-5580 to register. Sunday October 18 2pm Tuesday October 20 7:30pm Wednesday October 21 7:30pm Thursday October 22 7:30pm This performance includes a post-show chat with the actors! Friday October 23 7:30pm Saturday October 24 2pm & 7:30pm The 2pm matinee performance includes VocalEye Audio description for patrons who are blind or partially sighted. About the Arts Club The Arts Club is one of the largest not-for-profit theatre organizations in the country and is the principal gathering place for the theatrical arts in British Columbia. Comprising three unique venues across Vancouver, the Arts Club welcomes more than a quarter million guests annually, tours provincially and nationally, and engages students and artists alike through educational and professional programs. Above all, the Arts Club is dedicated to the advancement of local artists telling stories from around the globe and, in particular, those of our region. From this, we believe that culture expands, an understanding of differences is nurtured, and art bursts forth. The Arts Club was founded in 1964 and is currently led by Artistic Director Ashlie Corcoran and Executive Director Peter Cathie White.",
-      "category": "Arts & culture",
-      "sourceCategories": "Arts & Culture Surrey Civic Theatres",
-      "price": "Individual tickets Zone A: $65 Zone B: $55 Zone C: $34 For Arts Club On Tour subscriptions click here",
-      "isFree": false
-    },
-    {
-      "id": "8760ca3cdbd31ebc",
-      "city": "Surrey",
-      "title": "Municipal Election: Advance Voting",
-      "url": "https://www.surrey.ca/news-events/events/municipal-election-advance-voting",
-      "dateLabel": "October 14, 2026",
-      "startDate": "2026-10-14",
-      "endDate": "2026-10-14",
-      "time": "8:00am - 8:00pm",
-      "location": "Various: see list below",
-      "description": "Eligible voters will cast their ballot to elect one (1) mayor, eight (8) councillors and six (6) school trustees. Advance voting locations Vote from 8am to 8pm at any of these locations: Kwantlen Park Secondary: 10441 132 Street Guildford Recreation Centre: 15105 105 Avenue Fraser Heights Recreation Centre: 10588 160 Street Fleetwood Community Centre: 15996 84 Avenue Frank Hurt Secondary: 13940 77 Avenue Princess Margaret Secondary: 12870 72 Avenue École Panorama Ridge Secondary: 13220 64 Avenue Cloverdale Recreation Centre: 6188 176 Street Semiahmoo Secondary: 1785 148 Street Earl Marriott Secondary: 15751 16 Avenue Advance voting days October 7 October 10 October 14 October 15 Before you vote Ensure you are eligible to vote . Learn who is running for office . If you are registered, a voter card will be mailed to your household in late September or early October. Bring the voter card with your name listed and one (1) piece of acceptable identification. If you are updating your personal information on your voter card, bring acceptable identification showing the updated information. If one piece of identification shows the change, a second piece is not required. When you arrive to vote After being greeted at the voting location, you will be directed to the first available election official to show your voter card and one (1) piece of acceptable identification and asked to sign the voting book declaration to receive your ballot. If you are not on the list of registered voters, you will need two (2) pieces of acceptable identification . Continue to the voting booth where you will have privacy to mark your ballot. Finally, proceed to the voting machine where you will feed the ballot into the tabulator.",
-      "category": "Community & festivals",
-      "sourceCategories": "",
-      "price": "",
-      "isFree": false
-    },
-    {
-      "id": "9116a852cf1be02c",
-      "city": "Surrey",
-      "title": "Sensory Friendly Skates",
-      "url": "https://www.surrey.ca/news-events/events/sensory-friendly-skates",
-      "dateLabel": "October 14, 2026",
-      "startDate": "2026-10-14",
-      "endDate": "2026-10-14",
-      "time": "11:45am - 1:45pm",
-      "location": "South Surrey Arena",
-      "description": "Sensory Friendly Skates are inclusive skating sessions for individuals and families seeking an environment with reduced sensory stimuli. These sessions are designed for those who are autistic, have anxiety or other sensory processing needs or anyone who feels they would benefit from a calmer, more supportive environment. During sensory friendly skates, the environment includes: Reduced noise and no background music Reduced lighting in the lobby Encouraged use of paper towels instead of hand dryers, indicated with signage Designated sensory friendly dressing rooms Clear session times with transition warnings Additional staff available to support Sensory friendly kits available for use while at the facility Signage during sessions include: “Sensory friendly skate happening now” “Sensory Friendly Kits available” “Quiet space” and “Noisy space” “Please use paper towel” “10 minutes remaining” Schedule South Surrey Arena Wednesday, October 14, 11:45am to 1:45pm Wednesday, December 9, 11:45am to 1:45pm Borrow a sensory friendly kit Kits include: Noise-cancelling headphones, communication cards, fidget toys, ear plugs and sunglasses. Ask a staff member to borrow one. Learn more The City of Surrey is committed to providing a safe and welcoming environment for patrons with sensory sensitivities to continue recreating and participating in activities. Learn more about the City of Surrey's initiatives to enhance accessibility, remove barriers, and create a more inclusive community .",
-      "category": "Sports & wellness",
-      "sourceCategories": "South Surrey Recreation",
-      "price": "Use your Recreation Surrey pass or pay for a drop-in admission .",
-      "isFree": false
     },
     {
       "id": "8bbb56a763f11e44",
@@ -943,6 +879,22 @@
       "isFree": false
     },
     {
+      "id": "15e9beb74ad5dff6",
+      "city": "Richmond",
+      "title": "Money in the Digital World",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19156",
+      "dateLabel": "Sunday, Nov 08, 2026",
+      "startDate": "2026-11-08",
+      "endDate": "2026-11-08",
+      "time": "1:30-4:00pm",
+      "location": "Richmond Cultural Centre Annex, 7660 Minoru Gate, Richmond BC V6Y",
+      "description": "For many kids, money is already more than cash and credit cards. They buy Robux and V-Bucks and are growing up in a world where money increasingly moves digitally, but using digital currencies and understanding how they work are not the same thing. This is a free, hands-on workshop for kids aged 10-12. Through a story and team games, kids learn what digital money is, why people use it and how to use it safely. No prior knowledge is needed. Parents and guardians don't stay during the session. Only 30 spots available, so be sure to secure your ticket early at https://unicodemy-kids-digital-money.eventbrite.com/?aff=socialmedia More Information This event is for Child (Ages 6-12) This is an accessible site. This event is free.",
+      "category": "Learn & create",
+      "sourceCategories": "Meetings / Conventions / Lectures / Workshops Workshops",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "6bc332f3b8663909",
       "city": "Surrey",
       "title": "Regular Council Meeting - Public Hearing",
@@ -975,6 +927,22 @@
       "isFree": false
     },
     {
+      "id": "33a93991141c3152",
+      "city": "Richmond",
+      "title": "The Guild presents an Afternoon at the Sherman Armoury Museum",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19158",
+      "dateLabel": "Tuesday, Nov 10, 2026",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-10",
+      "time": "3 p.m. - 6 p.m.",
+      "location": "5500 No. 4 Rd",
+      "description": "The Guild presents an Afternoon at the Sherman Armoury Museum. Visit the the museum and learn about the history and operations of Richmond's Army reserve Unit, 39 Service Battalion and our Cadets corps. Share your support to the youth, citizen soldiers and military families based in Richmond More Information This event is for All Ages. This is an accessible site. This event is free.",
+      "category": "Arts & culture",
+      "sourceCategories": "Gallery & Museum Museum / Heritage Exhibit",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "788db8a2cbb3459b",
       "city": "Surrey",
       "title": "Cloverdale Indoor Soccer Tournament",
@@ -988,6 +956,22 @@
       "category": "Sports & wellness",
       "sourceCategories": "Cloverdale Recreation",
       "price": "$150 per team",
+      "isFree": false
+    },
+    {
+      "id": "6c8812c877a1baf1",
+      "city": "Surrey",
+      "title": "Remembrance Day Ceremonies",
+      "url": "https://www.surrey.ca/news-events/events/remembrance-day-ceremonies",
+      "dateLabel": "November 11, 2026",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-11",
+      "time": "Time not published — check event link",
+      "location": "Various",
+      "description": "On November 11, several events will be taking place across Surrey in honour of Remembrance Day. Arrive early to find parking, or consider walking, biking, or taking transit. Events will take place rain or shine. Join your community for Remembrance Day ceremonies happening at the following locations: Surrey Centre Cemetery 16670 60 Avenue Family event from 10:45am to 1:00pm Service begins at 10:45am Event organizer: City of Surrey, Cemetery Services Veterans Square 17710 56A Avenue Procession to Veterans Square begins at 10:00am Service begins at 10:25am The ceremony will be live streamed on the City of Surrey Facebook page Event organizer: Royal Canadian Legion, Cloverdale Branch #6 Crescent Legion 2643 128 Street Procession begins at 10:00am Service begins at 10:25am Event organizer: Royal Canadian Legion, Crescent Branch #240 Whalley Legion 10626 City Parkway Procession begins at 10:00am Service begins at 10:25am Event organizer: Royal Canadian Legion, Whalley Branch #229 Port Kells Community Hall 18918 88 Avenue Service begins at 10:30am Event organizer: Port Kells Community Association Newton Senior Centre 13775 70A Avenue Service begins at 10:30am Event organizer: Girl Guides of Canada Contact [email protected] 604-591-4011",
+      "category": "Arts & culture",
+      "sourceCategories": "Heritage Museum of Surrey",
+      "price": "",
       "isFree": false
     },
     {
@@ -1608,7 +1592,7 @@
       "endDate": "2026-12-09",
       "time": "11:45am - 1:45pm",
       "location": "South Surrey Arena",
-      "description": "Sensory Friendly Skates are inclusive skating sessions for individuals and families seeking an environment with reduced sensory stimuli. These sessions are designed for those who are autistic, have anxiety or other sensory processing needs or anyone who feels they would benefit from a calmer, more supportive environment. During sensory friendly skates, the environment includes: Reduced noise and no background music Reduced lighting in the lobby Encouraged use of paper towels instead of hand dryers, indicated with signage Designated sensory friendly dressing rooms Clear session times with transition warnings Additional staff available to support Sensory friendly kits available for use while at the facility Signage during sessions include: “Sensory friendly skate happening now” “Sensory Friendly Kits available” “Quiet space” and “Noisy space” “Please use paper towel” “10 minutes remaining” Schedule South Surrey Arena Wednesday, October 14, 11:45am to 1:45pm Wednesday, December 9, 11:45am to 1:45pm Borrow a sensory friendly kit Kits include: Noise-cancelling headphones, communication cards, fidget toys, ear plugs and sunglasses. Ask a staff member to borrow one. Learn more The City of Surrey is committed to providing a safe and welcoming environment for patrons with sensory sensitivities to continue recreating and participating in activities. Learn more about the City of Surrey's initiatives to enhance accessibility, remove barriers, and create a more inclusive community .",
+      "description": "Sensory Friendly Skates are inclusive skating sessions for individuals and families seeking an environment with reduced sensory stimuli. These sessions are designed for those who are autistic, have anxiety or other sensory processing needs or anyone who feels they would benefit from a calmer, more supportive environment. During sensory friendly skates, the environment includes: Reduced noise and no background music Reduced lighting in the lobby Encouraged use of paper towels instead of hand dryers, indicated with signage Designated sensory friendly dressing rooms Clear session times with transition warnings Additional staff available to support Sensory friendly kits available for use while at the facility Signage during sessions include: “Sensory friendly skate happening now” “Sensory Friendly Kits available” “Quiet space” and “Noisy space” “Please use paper towel” “10 minutes remaining” Schedule South Surrey Arena Wednesday, December 9, 11:45am to 1:45pm Borrow a sensory friendly kit Kits include: Noise-cancelling headphones, communication cards, fidget toys, ear plugs and sunglasses. Ask a staff member to borrow one. Learn more The City of Surrey is committed to providing a safe and welcoming environment for patrons with sensory sensitivities to continue recreating and participating in activities. Learn more about the City of Surrey's initiatives to enhance accessibility, remove barriers, and create a more inclusive community .",
       "category": "Sports & wellness",
       "sourceCategories": "South Surrey Recreation",
       "price": "Use your Recreation Surrey pass or pay for a drop-in admission .",
