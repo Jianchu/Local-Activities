@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-15T10:48:14-07:00",
+  "updatedAt": "2026-10-16T10:30:46-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-10-15T10:48:14-07:00",
+      "updatedAt": "2026-10-16T10:30:46-07:00",
       "status": "ok",
-      "count": 145
+      "count": 142
     },
     "Richmond": {
-      "updatedAt": "2026-10-15T10:48:14-07:00",
+      "updatedAt": "2026-10-16T10:30:46-07:00",
       "status": "ok",
       "count": 12
     }
@@ -45,22 +45,6 @@
       "sourceCategories": "Meetings / Conventions / Lectures / Workshops Workshops",
       "price": "Free",
       "isFree": true
-    },
-    {
-      "id": "8bbb56a763f11e44",
-      "city": "Surrey",
-      "title": "Municipal Election: Advance Voting",
-      "url": "https://www.surrey.ca/news-events/events/municipal-election-advance-voting",
-      "dateLabel": "October 15, 2026",
-      "startDate": "2026-10-15",
-      "endDate": "2026-10-15",
-      "time": "8:00am - 8:00pm",
-      "location": "Various: see list below",
-      "description": "Eligible voters will cast their ballot to elect one (1) mayor, eight (8) councillors and six (6) school trustees. Advance voting locations Vote from 8am to 8pm at any of these locations: Kwantlen Park Secondary: 10441 132 Street Guildford Recreation Centre: 15105 105 Avenue Fraser Heights Recreation Centre: 10588 160 Street Fleetwood Community Centre: 15996 84 Avenue Frank Hurt Secondary: 13940 77 Avenue Princess Margaret Secondary: 12870 72 Avenue École Panorama Ridge Secondary: 13220 64 Avenue Cloverdale Recreation Centre: 6188 176 Street Semiahmoo Secondary: 1785 148 Street Earl Marriott Secondary: 15751 16 Avenue Advance voting days October 7 October 10 October 14 October 15 Before you vote Ensure you are eligible to vote . Learn who is running for office . If you are registered, a voter card will be mailed to your household in late September or early October. Bring the voter card with your name listed and one (1) piece of acceptable identification. If you are updating your personal information on your voter card, bring acceptable identification showing the updated information. If one piece of identification shows the change, a second piece is not required. When you arrive to vote After being greeted at the voting location, you will be directed to the first available election official to show your voter card and one (1) piece of acceptable identification and asked to sign the voting book declaration to receive your ballot. If you are not on the list of registered voters, you will need two (2) pieces of acceptable identification . Continue to the voting booth where you will have privacy to mark your ballot. Finally, proceed to the voting machine where you will feed the ballot into the tabulator.",
-      "category": "Community & festivals",
-      "sourceCategories": "",
-      "price": "",
-      "isFree": false
     },
     {
       "id": "629b5dd8be5ba51f",
@@ -376,7 +360,7 @@
       "endDate": "2026-10-23",
       "time": "6:00pm - 7:00pm",
       "location": "Performing Arts Studio at Clayton Community Centre, 7155 187a St, Surrey, BC V4N 6L9",
-      "description": "The Clayton Coffee House is a monthly performance opportunity for both aspiring and established poets, spoken-word artists, novelists, musicians, improvisers or comedians to share their work with the community. Attend for free Come out and cheer on local artists at these all-ages, drop-in events. Admission is free Capacity is limited Sign up to perform Are you an artist interested in performing at this event? Fill out our form with your contact information and a brief description of your act. Performers are given 5–8 minutes, with limited drop-in spots available on show day. Applications for October 23 are due October 11. A new registration format will be introduced after the October application deadline. Stay tuned for more details coming soon! sign up Clayton Coffee House 2026 schedule Performance date Applications due October 23 October 11 This event is organized by the City's Community Art team.",
+      "description": "Frequently asked questions How do I sign up The Coffee House has now moved to a first-come, first-served format. When you arrive, please add your name to an available spot on the sign-up sheet. Performers will be scheduled in the order they sign up. How long do I have to perform To give as many people as possible the opportunity to perform, please keep your set to 5 minutes or less. How does the audio work You can bring any device that has your audio or tracks but the device needs to have a headphone jack output. We will not be providing any backline. Should I bring an instrument We will be able to connect two instruments with a 1/4 inch or xlr input. You can bring your own guitar and amp. There will be a piano and mics available onsite. Do I have to sing No. The Coffee House is a welcoming space for all ages and all kinds of performances and creative expression. Whether you’d like to share a poem, read a piece of writing, sing a song, perform a scene, play an instrument, or showcase something else you’ve been working on, we’d love to see you there Do I need to be a trained or a professional Not at all! This event is just for fun and it’s open to everyone in the community and for all ages. We look forward to seeing you at the next Coffee House November 27! Come out and cheer on local artists at these all-ages, drop-in events. Admission is free Capacity is limited This event is organized by Surrey Civic Theatres .",
       "category": "Arts & culture",
       "sourceCategories": "Arts & Culture Community Art Music",
       "price": "Free",
@@ -968,7 +952,7 @@
       "endDate": "2026-11-11",
       "time": "Time not published — check event link",
       "location": "Various",
-      "description": "On November 11, several events will be taking place across Surrey in honour of Remembrance Day. Arrive early to find parking, or consider walking, biking, or taking transit. Events will take place rain or shine. Join your community for Remembrance Day ceremonies happening at the following locations: Surrey Centre Cemetery 16670 60 Avenue Family event from 10:45am to 1:00pm Service begins at 10:45am Event organizer: City of Surrey, Cemetery Services Veterans Square 17710 56A Avenue Procession to Veterans Square begins at 10:00am Service begins at 10:25am The ceremony will be live streamed on the City of Surrey Facebook page Event organizer: Royal Canadian Legion, Cloverdale Branch #6 Crescent Legion 2643 128 Street Procession begins at 10:00am Service begins at 10:25am Event organizer: Royal Canadian Legion, Crescent Branch #240 Whalley Legion 10626 City Parkway Procession begins at 10:00am Service begins at 10:25am Event organizer: Royal Canadian Legion, Whalley Branch #229 Port Kells Community Hall 18918 88 Avenue Service begins at 10:30am Event organizer: Port Kells Community Association Newton Senior Centre 13775 70A Avenue Service begins at 10:30am Event organizer: Girl Guides of Canada Contact [email protected] 604-591-4011",
+      "description": "On November 11, several events will be taking place across Surrey in honour of Remembrance Day. Arrive early to find parking, or consider walking, biking, or taking transit. Events will take place rain or shine. Join your community for Remembrance Day ceremonies happening at the following locations: Veterans Square 17710 56A Avenue Procession to Veterans Square begins at 10:00am Service begins at 10:25am The ceremony will be live streamed on the City of Surrey Facebook page Event organizer: Royal Canadian Legion, Cloverdale Branch #6 Surrey Centre Cemetery 16670 60 Avenue Family event from 10:45am to 1:00pm Service begins at 10:45am Event organizer: City of Surrey, Cemetery Services Crescent Legion 2643 128 Street Procession begins at 10:00am Service begins at 10:25am Event organizer: Royal Canadian Legion, Crescent Branch #240 Whalley Legion 10626 City Parkway Procession begins at 10:00am Service begins at 10:25am Event organizer: Royal Canadian Legion, Whalley Branch #229 Port Kells Community Hall 18918 88 Avenue Service begins at 10:30am Event organizer: Port Kells Community Association Newton Senior Centre 13775 70A Avenue Service begins at 10:30am Event organizer: Girl Guides of Canada Contact [email protected] 604-591-4011",
       "category": "Arts & culture",
       "sourceCategories": "Heritage Museum of Surrey",
       "price": "",
@@ -1167,6 +1151,22 @@
       "isFree": true
     },
     {
+      "id": "6d457488337abce7",
+      "city": "Surrey",
+      "title": "Focus on Seniors Webinar Series",
+      "url": "https://www.surrey.ca/news-events/events/focus-on-seniors-webinar-series",
+      "dateLabel": "November 18, 2026",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-18",
+      "time": "11:00am - 12:00pm",
+      "location": "Online",
+      "description": "Join us for free informative online sessions for seniors, their families and caregivers. As part of Surrey's Age Friendly Strategy for Seniors , these webinars feature guest presenters to provide resources to ensure Surrey's seniors are supported and can remain actively engaged and safe in our community. Upcoming webinars Government Benefits for Seniors in Canada: What you need to know November 18 at 11am-12pm Join us for an informative session on the government benefits and services available to seniors. Topics include the Canada Pension Plan (CPP), Old Age Security (OAS), the Canadian Dental Care Plan (CDCP), BC Housing assistance programs, the BC Senior Bus Pass, and other helpful community resources available to seniors. Register There won't be any webinars in December 2026. We will regroup again in January 2027.",
+      "category": "Community & festivals",
+      "sourceCategories": "Seniors",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "1da99920b424440c",
       "city": "Surrey",
       "title": "Memory Map Session",
@@ -1336,7 +1336,7 @@
       "endDate": "2026-11-27",
       "time": "6:00pm - 7:30pm",
       "location": "Performing Arts Studio at Clayton Community Centre, 7155 187a St, Surrey, BC V4N 6L9",
-      "description": "The Clayton Coffee House is a monthly performance opportunity for both aspiring and established poets, spoken-word artists, novelists, musicians, improvisers or comedians to share their work with the community. Attend for free Come out and cheer on local artists at these all-ages, drop-in events. Admission is free Capacity is limited Sign up to perform Are you an artist interested in performing at this event? Fill out our form with your contact information and a brief description of your act. Performers are given 5–8 minutes, with limited drop-in spots available on show day. Applications for October 23 are due October 11. A new registration format will be introduced after the October application deadline. Stay tuned for more details coming soon! sign up Clayton Coffee House 2026 schedule Performance date Applications due October 23 October 11 This event is organized by the City's Community Art team.",
+      "description": "Frequently asked questions How do I sign up The Coffee House has now moved to a first-come, first-served format. When you arrive, please add your name to an available spot on the sign-up sheet. Performers will be scheduled in the order they sign up. How long do I have to perform To give as many people as possible the opportunity to perform, please keep your set to 5 minutes or less. How does the audio work You can bring any device that has your audio or tracks but the device needs to have a headphone jack output. We will not be providing any backline. Should I bring an instrument We will be able to connect two instruments with a 1/4 inch or xlr input. You can bring your own guitar and amp. There will be a piano and mics available onsite. Do I have to sing No. The Coffee House is a welcoming space for all ages and all kinds of performances and creative expression. Whether you’d like to share a poem, read a piece of writing, sing a song, perform a scene, play an instrument, or showcase something else you’ve been working on, we’d love to see you there Do I need to be a trained or a professional Not at all! This event is just for fun and it’s open to everyone in the community and for all ages. We look forward to seeing you at the next Coffee House November 27! Come out and cheer on local artists at these all-ages, drop-in events. Admission is free Capacity is limited This event is organized by Surrey Civic Theatres .",
       "category": "Arts & culture",
       "sourceCategories": "Arts & Culture Community Art Music",
       "price": "Free",
@@ -1432,7 +1432,7 @@
       "endDate": "2026-11-29",
       "time": "1:00pm - 5:00pm",
       "location": "Surrey Art Gallery - 13750 88 Ave, Surrey, BC",
-      "description": "Get creative with artmaking activities inspired by these exhibits: Farheen Haq and Russna Kaur: In the Folds of Memory tender threads SF Ho: Triple Burner Flower Field Create with Gallery artist-educators in the studio, investigate the exhibitions with your own Art Monster activity book with the Youth Docents, or take a quiet moment in the sensory space. All are welcome. Children must be accompanied by an adult.",
+      "description": "Get creative with artmaking activities inspired by these exhibits: Farheen Haq and Russna Kaur: In the Folds of Memory tender threads S F Ho: TRIPLE BURNER FLOWER FIELD Make art with Gallery artist-educators in the studio. Try-out a layered drawing project, create a calligraphed character, and craft your own album of memories. Explore the exhibitions and collect the workshop stamps in your Art Monster activity book with the Youth Docents. Take a quiet moment in the sensory space to regroup and recharge between activities. All are welcome. Children must be accompanied by an adult.",
       "category": "Arts & culture",
       "sourceCategories": "Whalley and City Centre Arts & Culture Children Seniors Surrey Art Gallery",
       "price": "Free",
