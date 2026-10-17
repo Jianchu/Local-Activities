@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-16T10:30:46-07:00",
+  "updatedAt": "2026-10-17T09:29:48-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-10-16T10:30:46-07:00",
+      "updatedAt": "2026-10-17T09:29:48-07:00",
       "status": "ok",
       "count": 142
     },
     "Richmond": {
-      "updatedAt": "2026-10-16T10:30:46-07:00",
+      "updatedAt": "2026-10-17T09:29:48-07:00",
       "status": "ok",
-      "count": 12
+      "count": 13
     }
   },
   "events": [
@@ -43,22 +43,6 @@
       "description": "Lansdowne Centre Food Garden Now entering its sixth year, the Lansdowne Centre Food Garden program continues to support the local community by growing fresh fruits, vegetables and herbs that are donated to local community organizations and the Richmond Food Bank Society, helping address food insecurity in Richmond. The program also offers free weekly gardening workshops, where participants can learn practical gardening skills and growing techniques from local experts. Since launching in 2021, the Food Garden program has donated nearly 3,000 pounds of fresh produce to local organizations serving families in need. It is also a great opportunity for children to learn where the food comes from. Workshop Schedule: https://lansdowne-centre.com/food-garden-event-schedule/ Location: Southeast parking lot at Lansdowne Centre (close to T&T Supermarket) More Information This event is for All Ages. This is an accessible site. This event is free.",
       "category": "Nature & outdoors",
       "sourceCategories": "Meetings / Conventions / Lectures / Workshops Workshops",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "629b5dd8be5ba51f",
-      "city": "Surrey",
-      "title": "Karaoke Nights",
-      "url": "https://www.surrey.ca/news-events/events/karaoke-nights",
-      "dateLabel": "October 16, 2026",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "time": "6:00pm - 8:00pm",
-      "location": "Clayton Community Centre, 7155 187A Street, Surrey, BC",
-      "description": "Sing your heart out at our free monthly karaoke night! Step into the spotlight and enjoy an evening of music and fun in our state-of-the-art Performing Arts Theatre.",
-      "category": "Arts & culture",
-      "sourceCategories": "Cloverdale Arts & Culture Community Art",
       "price": "Free",
       "isFree": true
     },
@@ -733,6 +717,22 @@
       "sourceCategories": "Arts & Culture Parks & Environment Recreation Youth",
       "price": "Free",
       "isFree": true
+    },
+    {
+      "id": "67b60348df6c7d08",
+      "city": "Richmond",
+      "title": "RAG Collage Club: November Session",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19160",
+      "dateLabel": "Thursday, Nov 05, 2026",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-05",
+      "time": "6:30-8:30pm",
+      "location": "7700 Minoru Gate",
+      "description": "Looking for a fun, inspiring night out? Join Richmond Art Gallery's Collage Club for Adults—a relaxed, social evening dedicated to collage artmaking in a welcoming environment. No artistic experience required; just bring your imagination! Hosted in the Creativity Lab at the Richmond Cultural Centre Annex. This month's theme: Outer Space As you collage, enjoy a specially curated space-themed music video playlist, featuring cosmic visuals to help fuel your imagination. We’ll also have tea available to keep you cozy, and digital tools courtesy of our partner, Richmond Media Lab. Whether you’re an experienced artist or simply looking for a fun and relaxing creative activity, Collage Club is a welcoming space to experiment, make art and connect with others. Ages 16+yrs $5 per person • All supplies included Registration required due to limited seats. More Information This event is for Adult (Ages 18+) & 55+ (Ages 55 and over) This is an accessible site. $5.00",
+      "category": "Learn & create",
+      "sourceCategories": "Meetings / Conventions / Lectures / Workshops Workshops",
+      "price": "",
+      "isFree": false
     },
     {
       "id": "cff97e96dd0f79fe",
