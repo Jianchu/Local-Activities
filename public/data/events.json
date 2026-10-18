@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-17T09:29:48-07:00",
+  "updatedAt": "2026-10-18T09:35:45-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-10-17T09:29:48-07:00",
+      "updatedAt": "2026-10-18T09:35:45-07:00",
       "status": "ok",
-      "count": 142
+      "count": 141
     },
     "Richmond": {
-      "updatedAt": "2026-10-17T09:29:48-07:00",
+      "updatedAt": "2026-10-18T09:35:45-07:00",
       "status": "ok",
-      "count": 13
+      "count": 11
     }
   },
   "events": [
@@ -45,86 +45,6 @@
       "sourceCategories": "Meetings / Conventions / Lectures / Workshops Workshops",
       "price": "Free",
       "isFree": true
-    },
-    {
-      "id": "b0ae82e4bb2aa030",
-      "city": "Richmond",
-      "title": "A Story in Every Bead — Jewellery Viewing and Open Studio",
-      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19150",
-      "dateLabel": "Saturday, Oct 17, 2026",
-      "startDate": "2026-10-17",
-      "endDate": "2026-10-17",
-      "time": "1:00-6:00pm",
-      "location": "Location not published — check event link",
-      "description": "Join October Studio for an afternoon exploring antique beads and contemporary Chinese-inspired jewellery. Discover different beads and materials, see how they are reimagined into modern jewellery, try on finished pieces and create your own bead jewellery in the studio. Drop in anytime during opening hours. Please contact October Studio in advance if you plan to visit. The exact address will be provided after confirmation. Private studio in Richmond Free parking available More Information This event is for All Ages. This is not an accessible site. Free admission. Jewellery and optional D.I.Y. activities available for purchase.",
-      "category": "Arts & culture",
-      "sourceCategories": "Culture & Heritage Events Art",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "0fdedf5caa24401a",
-      "city": "Surrey",
-      "title": "Community Tree Planting",
-      "url": "https://www.surrey.ca/news-events/events/community-tree-planting",
-      "dateLabel": "October 17, 2026",
-      "startDate": "2026-10-17",
-      "endDate": "2026-10-17",
-      "time": "10am-12pm",
-      "location": "Fraser Heights Park | 10588 160 Street",
-      "description": "Upcoming dates & locations Date Time Location Saturday, October 3 10am-12pm Chantrell Creek Park | 13741 24 Avenue *parking available at Chantrell Creek Elementary Saturday, October 10 10am-12pm William Beagle Park | 12944 92A Avenue *parking available at David Brankin Elementary Saturday, October 17 10am-12pm Fraser Heights Park | 10588 160 Street Saturday, October 31 10am-12pm Clayton Park | 18513 70 Avenue Halloween in the Urban Forest* *Celebrate Halloween by planting native trees and shrubs to create habitats for bats, owls and other wildlife. Wear your costume and enjoy some Halloween-themed fun in the urban forest. Our October 31 planting is sponsored by Plan your visit Location Planting sites should be easy to spot when you enter the park. If you don’t see it right away, look for signs directing you to the planting area. Sites are typically just a short walk from the parking lot or park entrance. Time Plantings are drop-in so join us anytime! We’ll have a limited number of plants available, and quantities may run out before the event ends. Parks are open from dawn to dusk, so feel free to explore before or after—and ask us for ideas and resources to help guide your exploration. Everyone is welcome Plantings are public events, and everyone is welcome! If you’re part of a community group planning to attend, please reach out to our team ahead of time so we can plan for your group. We have a limited number of trees and shrubs to plant, and connecting with us in advance helps ensure there’s something for everyone who comes out to participate. Seating Relax at one of the park’s picnic tables, shelters or benches. You’re welcome to bring your own blanket or lawn chair too. Washrooms Washrooms are available during the plantings and are just a short walk from the planting site. Parking Parking is available at or near all planting sites. Depending on the location, you may find street or park parking nearby. Where on-site parking isn’t available, we’ve identified convenient nearby options and will have clear signage to help you find your way. Pets Leashed dogs are welcome in most Surrey parks. Please come prepared to clean up after your dog. Accessibility Accessible washrooms are available at all planting sites. Most planting sites are accessible via paved or gravel paths. Service animals are welcome. If you have questions about accessibility at a specific planting site, please reach out to our team in advance and we’ll be happy to help. Food & drink Snacks, water and warm beverages are available for planters – consider bringing a reusable water bottle or travel mug. Bringing your own picnic? Please remember to pack it in and pack it out. Alcohol is not permitted in unlicensed public spaces. Tips Plantings take place rain or shine and are only canceled in extreme weather, such as snow, high winds, or lightning. All tools & training are provided. Dress for the weather, plan to get dirty & wear sturdy closed-toe shoes.",
-      "category": "Nature & outdoors",
-      "sourceCategories": "Parks & Environment",
-      "price": "Free, drop-in.",
-      "isFree": true
-    },
-    {
-      "id": "7ae851ee22b8e61e",
-      "city": "Surrey",
-      "title": "Elder Abuse Awareness Forum",
-      "url": "https://www.surrey.ca/news-events/events/elder-abuse-awareness-forum",
-      "dateLabel": "October 17, 2026",
-      "startDate": "2026-10-17",
-      "endDate": "2026-10-17",
-      "time": "9:00am - 1:15pm",
-      "location": "Newton Seniors Centre, 13775 70 Ave, Surrey, BC",
-      "description": "Join us for a knowledge-sharing session on elder abuse awareness. Learn about frauds and scams, financial abuse, and available supports while connecting with community resources. The event will also celebrate National Seniors Day through a reflection on the Faces of Surrey Seniors campaign, highlighting the contributions of seniors across Surrey. Presentations on frauds & scams, understanding elder abuse, and financial abuse Faces of Surrey Seniors campaign reflection and National Seniors Day celebration Resources and information booth Complimentary morning refreshments and lunch Door prizes Register In partnership with:",
-      "category": "Community & festivals",
-      "sourceCategories": "Seniors",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "21eb4d3b0d3a9813",
-      "city": "Richmond",
-      "title": "Friends of the Richmond Library October Mini-Sale",
-      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19149",
-      "dateLabel": "Saturday, Oct 17, 2026",
-      "startDate": "2026-10-17",
-      "endDate": "2026-10-17",
-      "time": "10:00am-4:00pm",
-      "location": "150 - 11590 Cambie Rd",
-      "description": "Come and browse from a wide selection of gently used and some unopened quality English and Chinese books including fiction, classics and literature, children’s and many non-fiction topics. Books are offered at remarkably low prices with all proceeds from the sale directly benefitting Richmond public libraries. Please bring cash and your own bags and boxes to fill up your favourite reads. Looking for more great deals – check out our used bookstore nearby at Unit 130. Donations of used books in good condition are gratefully accepted at this location during store hours (Wednesdays, 10:00am-8:00pm and Saturdays, 10:00-4:00pm). More Information This event is for All Ages. This is an accessible site. This event is free.",
-      "category": "Community & festivals",
-      "sourceCategories": "Special Events - General Social / Community Event",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "84b290d2e826526a",
-      "city": "Surrey",
-      "title": "Nature Work Parties",
-      "url": "https://www.surrey.ca/news-events/events/nature-work-parties",
-      "dateLabel": "October 17, 2026",
-      "startDate": "2026-10-17",
-      "endDate": "2026-10-17",
-      "time": "1:00pm",
-      "location": "Fraser Heights Park, 10588 - 160 St Meet between the two soccer fields behind the recreation centre",
-      "description": "Join us in caring for Surrey parks Remove invasive plants, plant native trees and shrubs, clean up litter, and enhance habitat within the park. Tools and training are provided. Bring your family and friends—all ages are welcome! Important information Dress for the weather and bring water. Drop in at one of two start times. Staggered start times help us give you a great orientation. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to strong winds or extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Sat. Oct 17 Tree and shrub planting 1:00pm 3:00pm Fraser Heights Park 10588 - 160 St Meet between the two soccer fields behind the recreation centre Sat. Nov 7 Tree and shrub planting 10:00am 12:00pm Robertson Drive Park 12714 - 92 Ave Meet near playground located off Robertson Drive Sat. Nov 14 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Feel free to drop in, or sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
-      "category": "Nature & outdoors",
-      "sourceCategories": "Parks & Environment",
-      "price": "Drop-in",
-      "isFree": false
     },
     {
       "id": "7b7cdd6469089f8b",
