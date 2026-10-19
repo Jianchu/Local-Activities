@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-18T09:35:45-07:00",
+  "updatedAt": "2026-10-19T12:22:13-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-10-18T09:35:45-07:00",
+      "updatedAt": "2026-10-19T12:22:13-07:00",
       "status": "ok",
-      "count": 141
+      "count": 140
     },
     "Richmond": {
-      "updatedAt": "2026-10-18T09:35:45-07:00",
+      "updatedAt": "2026-10-19T12:22:13-07:00",
       "status": "ok",
       "count": 11
     }
@@ -45,22 +45,6 @@
       "sourceCategories": "Meetings / Conventions / Lectures / Workshops Workshops",
       "price": "Free",
       "isFree": true
-    },
-    {
-      "id": "7b7cdd6469089f8b",
-      "city": "Surrey",
-      "title": "Bingo Night for the Cats - A Surrey CATS Fundraiser",
-      "url": "https://www.surrey.ca/news-events/events/bingo-night-cats-surrey-cats-fundraiser",
-      "dateLabel": "October 18, 2026",
-      "startDate": "2026-10-18",
-      "endDate": "2026-10-18",
-      "time": "7:00pm - 9:00pm",
-      "location": "Elgin Hall, 14250 Crescent Rd, Surrey, BC",
-      "description": "Surrey CATS is hosting a night of bingo, prizes and fun in support of cats and kittens in the community. This fundraiser will help fund subsidized spay and neuter surgeries for low-income pet owners, helping to prevent unwanted litters and keep cats out of shelters and in loving homes. An optional donation can be added at checkout. Additional donations will automatically receive a charitable tax receipt by email through Zeffy. Get tickets Tickets Tickets are $25 and are required for entry. Each ticket includes: 20 bingo sheets, with two sheets per game across 10 games Three cards per sheet, for a total of 60 cards to play throughout the evening Opportunities to win cash prizes, hotel getaways and local gift baskets Free coffee, tea and water The following will also be available for purchase on-site: Extra bingo cards 50/50 raffle tickets Cat-themed merchandise Pop, snacks and treats Prizes Prizes include: Two $250 cash prizes Hotel stays with breakfast vouchers Experiences, gift cards and gift baskets from local businesses Attendees are encouraged to bring cash where possible, as this helps Surrey CATS direct more of the funds raised toward its work supporting cats in the community. Sponsors Event sponsors include: Airbnb Ocean Park Browns Social House Hilton Hotel Kooky Kat Nip Locality Brewing Meowbox Pet Solutions Salt Wellness Centre Skoah Surrey Arts Centre White Rock Gift Baskets White Spot Morgan Crossing Everything Wine Morgan Crossing Gate 22 Winery Otter Trail Winery The sponsor list is continuing to grow. New sponsors and prize donors are welcome. Funds raised through the event will support Surrey CATS programs that help keep cats safe, cared for and with the families who love them.",
-      "category": "Community & festivals",
-      "sourceCategories": "South Surrey Community-Hosted",
-      "price": "$25",
-      "isFree": false
     },
     {
       "id": "8ab8f2f187d88691",
@@ -1000,7 +984,7 @@
       "endDate": "2026-11-14",
       "time": "12:00pm - 4:00pm",
       "location": "Surrey Arts Centre - 13750 88 Ave, Surrey, BC",
-      "description": "More than 30 artists, including current saga shop artists as well as artists from communities in Surrey, will be showcasing their incredible handmade works. Browse ceramics, jewellery, art cards, paintings, stickers, books for children and adults, linocuts, and more! Shop for works by Foxy Verve Atelier , Blooming Onion, and By the Sea Jewellery, to name a few. All saga shop artists and market vendors are members of the Surrey Art Gallery Association (SAGA). Another artist who will be there is long-standing saga shop artist and Gallery artist-educator Murray Sanders. In addition to selling his functional ceramic pieces, Murray will be demonstrating pottery wheel throwing throughout the weekend. Hosted with the Gallery, this annual market has been supporting the creativity and ingenuity of local artists since 2002. About Surrey Art Gallery Association Surrey Art Gallery Association (SAGA) is a non-profit society that offers its members the opportunity to participate in and respond to contemporary art and be part of a community that actively supports Surrey Art Gallery.",
+      "description": "Dozens of artists, including current saga shop artists as well as artists from communities in Surrey, will be showcasing their incredible handmade works. Browse ceramics, jewellery, art cards, paintings, stickers, books for children and adults, linocuts, and more! Shop for works by Foxy Verve Atelier , Blooming Onion, and By the Sea Jewellery, to name a few. All saga shop artists and market vendors are members of the Surrey Art Gallery Association (SAGA). Another artist who will be there is long-standing saga shop artist and Gallery artist-educator Murray Sanders. In addition to selling his functional ceramic pieces, Murray will be demonstrating pottery wheel throwing throughout the weekend. Hosted with the Gallery, this annual market has been supporting the creativity and ingenuity of local artists since 2002. About Surrey Art Gallery Association Surrey Art Gallery Association (SAGA) is a non-profit society that offers its members the opportunity to participate in and respond to contemporary art and be part of a community that actively supports Surrey Art Gallery.",
       "category": "Arts & culture",
       "sourceCategories": "Whalley and City Centre Arts & Culture Seniors Surrey Art Gallery Youth",
       "price": "Free",
@@ -1048,7 +1032,7 @@
       "endDate": "2026-11-15",
       "time": "12:00pm - 4:00pm",
       "location": "Surrey Arts Centre - 13750 88 Ave, Surrey, BC",
-      "description": "More than 30 artists, including current saga shop artists as well as artists from communities in Surrey, will be showcasing their incredible handmade works. Browse ceramics, jewellery, art cards, paintings, stickers, books for children and adults, linocuts, and more! Shop for works by Foxy Verve Atelier , Blooming Onion, and By the Sea Jewellery, to name a few. All saga shop artists and market vendors are members of the Surrey Art Gallery Association (SAGA). Another artist who will be there is long-standing saga shop artist and Gallery artist-educator Murray Sanders. In addition to selling his functional ceramic pieces, Murray will be demonstrating pottery wheel throwing throughout the weekend. Hosted with the Gallery, this annual market has been supporting the creativity and ingenuity of local artists since 2002. About Surrey Art Gallery Association Surrey Art Gallery Association (SAGA) is a non-profit society that offers its members the opportunity to participate in and respond to contemporary art and be part of a community that actively supports Surrey Art Gallery.",
+      "description": "Dozens of artists, including current saga shop artists as well as artists from communities in Surrey, will be showcasing their incredible handmade works. Browse ceramics, jewellery, art cards, paintings, stickers, books for children and adults, linocuts, and more! Shop for works by Foxy Verve Atelier , Blooming Onion, and By the Sea Jewellery, to name a few. All saga shop artists and market vendors are members of the Surrey Art Gallery Association (SAGA). Another artist who will be there is long-standing saga shop artist and Gallery artist-educator Murray Sanders. In addition to selling his functional ceramic pieces, Murray will be demonstrating pottery wheel throwing throughout the weekend. Hosted with the Gallery, this annual market has been supporting the creativity and ingenuity of local artists since 2002. About Surrey Art Gallery Association Surrey Art Gallery Association (SAGA) is a non-profit society that offers its members the opportunity to participate in and respond to contemporary art and be part of a community that actively supports Surrey Art Gallery.",
       "category": "Arts & culture",
       "sourceCategories": "Whalley and City Centre Arts & Culture Seniors Surrey Art Gallery Youth",
       "price": "Free",
@@ -1183,14 +1167,14 @@
       "isFree": true
     },
     {
-      "id": "e806988c64714ea0",
+      "id": "d427b05e42e834bf",
       "city": "Surrey",
       "title": "Weaving with Memories: Media Arts Symposium",
       "url": "https://www.surrey.ca/news-events/events/weaving-memories-media-arts-symposium",
       "dateLabel": "November 21, 2026",
       "startDate": "2026-11-21",
       "endDate": "2026-11-21",
-      "time": "1:00pm - 5:00pm",
+      "time": "1:00pm - 4:00pm",
       "location": "Surrey Art Gallery, 13750 88 Ave, Surrey, BC",
       "description": "Join us for engaging dialogue and inspiring artmaking in connection with the exhibits Farheen Haq and Russna Kaur: In the Folds of Memory and tender threads , co-convened by Manjot Bains. Farheen Haq will share a new media work based on a ghazal that incorporates text and moving images alongside a poetic recitation. Jonathan Alfaro and Sena Cleave of tender threads will help participants create their own artworks using found fabric and materials.",
       "category": "Arts & culture",
