@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-19T12:22:13-07:00",
+  "updatedAt": "2026-10-20T11:01:00-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-10-19T12:22:13-07:00",
+      "updatedAt": "2026-10-20T11:01:00-07:00",
       "status": "ok",
-      "count": 140
+      "count": 154
     },
     "Richmond": {
-      "updatedAt": "2026-10-19T12:22:13-07:00",
+      "updatedAt": "2026-10-20T11:01:00-07:00",
       "status": "ok",
-      "count": 11
+      "count": 13
     }
   },
   "events": [
@@ -559,6 +559,22 @@
       "isFree": true
     },
     {
+      "id": "e27bd9dd9f0eee35",
+      "city": "Richmond",
+      "title": "2026 Trick or Trail XC Race",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19161",
+      "dateLabel": "Saturday, Oct 31, 2026",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "time": "09:00am - 12pm",
+      "location": "12011 7th Avenue",
+      "description": "We have a vibrant social media campaign for our event which are being distributed throughout lower mainland. BC Athletics our provincial sport organisation is also promoting the event through their website as one of the lower mainland cross country series of 8 races in the season. Posters have been distributed in person and through Richmond School District portal for sharing with all elementary and high schools in the district. More Information This event is for All Ages. This is an accessible site. $35 entry fee average",
+      "category": "Sports & wellness",
+      "sourceCategories": "Culture Days Fitness & Wellness Event",
+      "price": "",
+      "isFree": false
+    },
+    {
       "id": "47ce73a8aba0d5c0",
       "city": "Surrey",
       "title": "Community Tree Planting",
@@ -664,10 +680,26 @@
       "endDate": "2026-11-20",
       "time": "Time not published — check event link",
       "location": "13750 88 Avenue",
-      "description": "Join in on this fall tradition at Bear Creek Park! For over a decade this event has been a source of lasting memories for its visitors. Book your free ticket Tickets become available October 20 at 10am. See nature shine Step into a world of wonder at Bear Creek Park! Celebrate the beauty of nature at night at our 14th annual Bear Creek Lights event. Enjoy the safe, accessible, family-friendly light display through the park's one-kilometer garden walking loop. Plan your visit Dates November 6-20 Closed November 11 for Remembrance Day Hours Open 5-9pm every night Contact [email protected] 604-501-5100",
+      "description": "Join in on this fall tradition at Bear Creek Park! For over a decade this event has been a source of lasting memories for its visitors. Book your free ticket Online Buy Tickets By phone Call our call centre at 604-501-5100 , Monday to Friday, 8:30am to 4:30pm. See nature shine Step into a world of wonder at Bear Creek Park! Celebrate the beauty of nature at night at our 14th annual Bear Creek Lights event. Enjoy the safe, accessible, family-friendly light display through the park's one-kilometer garden walking loop. Plan your visit Dates November 6-20 Closed November 11 for Remembrance Day Hours Open 5-9pm every night Contact [email protected] 604-501-5100",
       "category": "Nature & outdoors",
       "sourceCategories": "Whalley and City Centre Festivals Parks & Environment",
       "price": "Free. Tickets are required for entry.",
+      "isFree": true
+    },
+    {
+      "id": "1a52aea9fa0d6e4d",
+      "city": "Surrey",
+      "title": "Live Music at Bear Creek Lights",
+      "url": "https://www.surrey.ca/news-events/events/live-music-bear-creek-lights",
+      "dateLabel": "November 6, 2026",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "time": "Time not published — check event link",
+      "location": "13750 - 88 Avenue, Surrey, BC",
+      "description": "Enjoy live music and performances by local artists at Bear Creek Lights. Day Date Artist Friday Nov 6 Amy Van Bergen Ragamuffin Productions Kiara Dokaj Saturday Nov 7 Surrey Jazz Nights Kiara Dokaj Sunday Nov 8 Kiara Dokaj Ranj Singh Colin Sankey Friday Nov 13 Amy Van Bergen , Fraser Valley Musical Theatre Kiara Dokaj Colin Sankey Saturday Nov 14 Fraser Valley Musical Theatre Cedar Hills Caledonia Pipe Band Kiara Dokaj Colin Sankey Sunday Nov 15 Kiara Dokaj Surrey Jazz Nights Colin Sankey Friday Nov 20 Amy Van Bergen Kiara Dokaj Colin Sankey Things to know Performances will be held within in the tent in the plaza in the garden which is part of the ticketed event area. Music in Surrey Surrey is Canada's up and coming music city. Take a look through the musician directory and find out how the Surrey Music Strategy is guiding Surrey in becoming a music industry leader that supports musician development and a thriving music economy. LEARN about music in surrey",
+      "category": "Nature & outdoors",
+      "sourceCategories": "Whalley and City Centre Music Parks & Environment",
+      "price": "Free, drop-in",
       "isFree": true
     },
     {
@@ -735,6 +767,22 @@
       "isFree": true
     },
     {
+      "id": "937e76630a6d86b0",
+      "city": "Surrey",
+      "title": "Live Music at Bear Creek Lights",
+      "url": "https://www.surrey.ca/news-events/events/live-music-bear-creek-lights",
+      "dateLabel": "November 7, 2026",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "time": "Time not published — check event link",
+      "location": "13750 - 88 Avenue, Surrey, BC",
+      "description": "Enjoy live music and performances by local artists at Bear Creek Lights. Day Date Artist Friday Nov 6 Amy Van Bergen Ragamuffin Productions Kiara Dokaj Saturday Nov 7 Surrey Jazz Nights Kiara Dokaj Sunday Nov 8 Kiara Dokaj Ranj Singh Colin Sankey Friday Nov 13 Amy Van Bergen , Fraser Valley Musical Theatre Kiara Dokaj Colin Sankey Saturday Nov 14 Fraser Valley Musical Theatre Cedar Hills Caledonia Pipe Band Kiara Dokaj Colin Sankey Sunday Nov 15 Kiara Dokaj Surrey Jazz Nights Colin Sankey Friday Nov 20 Amy Van Bergen Kiara Dokaj Colin Sankey Things to know Performances will be held within in the tent in the plaza in the garden which is part of the ticketed event area. Music in Surrey Surrey is Canada's up and coming music city. Take a look through the musician directory and find out how the Surrey Music Strategy is guiding Surrey in becoming a music industry leader that supports musician development and a thriving music economy. LEARN about music in surrey",
+      "category": "Nature & outdoors",
+      "sourceCategories": "Whalley and City Centre Music Parks & Environment",
+      "price": "Free, drop-in",
+      "isFree": true
+    },
+    {
       "id": "1d0c01a983ba140e",
       "city": "Surrey",
       "title": "Nature Work Parties",
@@ -765,6 +813,22 @@
       "sourceCategories": "Recreation",
       "price": "Use your Recreation Surrey pass or pay for a drop-in admission .",
       "isFree": false
+    },
+    {
+      "id": "7db5382c29fca505",
+      "city": "Surrey",
+      "title": "Live Music at Bear Creek Lights",
+      "url": "https://www.surrey.ca/news-events/events/live-music-bear-creek-lights",
+      "dateLabel": "November 8, 2026",
+      "startDate": "2026-11-08",
+      "endDate": "2026-11-08",
+      "time": "Time not published — check event link",
+      "location": "13750 - 88 Avenue, Surrey, BC",
+      "description": "Enjoy live music and performances by local artists at Bear Creek Lights. Day Date Artist Friday Nov 6 Amy Van Bergen Ragamuffin Productions Kiara Dokaj Saturday Nov 7 Surrey Jazz Nights Kiara Dokaj Sunday Nov 8 Kiara Dokaj Ranj Singh Colin Sankey Friday Nov 13 Amy Van Bergen , Fraser Valley Musical Theatre Kiara Dokaj Colin Sankey Saturday Nov 14 Fraser Valley Musical Theatre Cedar Hills Caledonia Pipe Band Kiara Dokaj Colin Sankey Sunday Nov 15 Kiara Dokaj Surrey Jazz Nights Colin Sankey Friday Nov 20 Amy Van Bergen Kiara Dokaj Colin Sankey Things to know Performances will be held within in the tent in the plaza in the garden which is part of the ticketed event area. Music in Surrey Surrey is Canada's up and coming music city. Take a look through the musician directory and find out how the Surrey Music Strategy is guiding Surrey in becoming a music industry leader that supports musician development and a thriving music economy. LEARN about music in surrey",
+      "category": "Nature & outdoors",
+      "sourceCategories": "Whalley and City Centre Music Parks & Environment",
+      "price": "Free, drop-in",
+      "isFree": true
     },
     {
       "id": "15e9beb74ad5dff6",
@@ -815,6 +879,22 @@
       "isFree": false
     },
     {
+      "id": "75227f89de013b64",
+      "city": "Surrey",
+      "title": "Nature at Night Walk at Bear Creek Lights",
+      "url": "https://www.surrey.ca/news-events/events/nature-night-walk-bear-creek-lights",
+      "dateLabel": "November 10, 2026",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-10",
+      "time": "Time not published — check event link",
+      "location": "13750 - 88 Avenue, Surrey, BC",
+      "description": "Explore the urban forest after dark! Discover how plants, wildlife and soil work together to keep our city cool, our air clean and our parks full of life. Learn what the urban forest needs to thrive and how you can help. Things to know Drop-in, spaces are limited All ages All children must be accompanied by an adult Meet in the program tent, located in the plaza of the garden. Program runs rain or shine and does not guarantee wildlife sightings!",
+      "category": "Nature & outdoors",
+      "sourceCategories": "Newton Parks & Environment",
+      "price": "Free, drop-in.",
+      "isFree": true
+    },
+    {
       "id": "33a93991141c3152",
       "city": "Richmond",
       "title": "The Guild presents an Afternoon at the Sherman Armoury Museum",
@@ -863,6 +943,22 @@
       "isFree": false
     },
     {
+      "id": "96d83d74bff87b34",
+      "city": "Surrey",
+      "title": "Nature at Night Walk at Bear Creek Lights",
+      "url": "https://www.surrey.ca/news-events/events/nature-night-walk-bear-creek-lights",
+      "dateLabel": "November 12, 2026",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "time": "Time not published — check event link",
+      "location": "13750 - 88 Avenue, Surrey, BC",
+      "description": "Explore the urban forest after dark! Discover how plants, wildlife and soil work together to keep our city cool, our air clean and our parks full of life. Learn what the urban forest needs to thrive and how you can help. Things to know Drop-in, spaces are limited All ages All children must be accompanied by an adult Meet in the program tent, located in the plaza of the garden. Program runs rain or shine and does not guarantee wildlife sightings!",
+      "category": "Nature & outdoors",
+      "sourceCategories": "Newton Parks & Environment",
+      "price": "Free, drop-in.",
+      "isFree": true
+    },
+    {
       "id": "19c3a55338aca6b5",
       "city": "Surrey",
       "title": "Seniors Open Houses",
@@ -908,6 +1004,22 @@
       "category": "Arts & culture",
       "sourceCategories": "Cloverdale Arts & Culture Community Art",
       "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "695a69389a334eb1",
+      "city": "Surrey",
+      "title": "Live Music at Bear Creek Lights",
+      "url": "https://www.surrey.ca/news-events/events/live-music-bear-creek-lights",
+      "dateLabel": "November 13, 2026",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "time": "Time not published — check event link",
+      "location": "13750 - 88 Avenue, Surrey, BC",
+      "description": "Enjoy live music and performances by local artists at Bear Creek Lights. Day Date Artist Friday Nov 6 Amy Van Bergen Ragamuffin Productions Kiara Dokaj Saturday Nov 7 Surrey Jazz Nights Kiara Dokaj Sunday Nov 8 Kiara Dokaj Ranj Singh Colin Sankey Friday Nov 13 Amy Van Bergen , Fraser Valley Musical Theatre Kiara Dokaj Colin Sankey Saturday Nov 14 Fraser Valley Musical Theatre Cedar Hills Caledonia Pipe Band Kiara Dokaj Colin Sankey Sunday Nov 15 Kiara Dokaj Surrey Jazz Nights Colin Sankey Friday Nov 20 Amy Van Bergen Kiara Dokaj Colin Sankey Things to know Performances will be held within in the tent in the plaza in the garden which is part of the ticketed event area. Music in Surrey Surrey is Canada's up and coming music city. Take a look through the musician directory and find out how the Surrey Music Strategy is guiding Surrey in becoming a music industry leader that supports musician development and a thriving music economy. LEARN about music in surrey",
+      "category": "Nature & outdoors",
+      "sourceCategories": "Whalley and City Centre Music Parks & Environment",
+      "price": "Free, drop-in",
       "isFree": true
     },
     {
@@ -984,10 +1096,26 @@
       "endDate": "2026-11-14",
       "time": "12:00pm - 4:00pm",
       "location": "Surrey Arts Centre - 13750 88 Ave, Surrey, BC",
-      "description": "Dozens of artists, including current saga shop artists as well as artists from communities in Surrey, will be showcasing their incredible handmade works. Browse ceramics, jewellery, art cards, paintings, stickers, books for children and adults, linocuts, and more! Shop for works by Foxy Verve Atelier , Blooming Onion, and By the Sea Jewellery, to name a few. All saga shop artists and market vendors are members of the Surrey Art Gallery Association (SAGA). Another artist who will be there is long-standing saga shop artist and Gallery artist-educator Murray Sanders. In addition to selling his functional ceramic pieces, Murray will be demonstrating pottery wheel throwing throughout the weekend. Hosted with the Gallery, this annual market has been supporting the creativity and ingenuity of local artists since 2002. About Surrey Art Gallery Association Surrey Art Gallery Association (SAGA) is a non-profit society that offers its members the opportunity to participate in and respond to contemporary art and be part of a community that actively supports Surrey Art Gallery.",
+      "description": "Dozens of artists, including current saga shop artists as well as artists from communities in Surrey, will be showcasing their incredible handmade works. Browse ceramics, jewellery, art cards, paintings, photographs, stickers, books for children and adults, linocuts, and more! All saga shop artists and market vendors are members of the Surrey Art Gallery Association (SAGA). I'm so grateful for the opportunity to showcase my work at the saga shop, share it with others, and be part of such a wonderful community of artists. I'm really looking forward to the Heart to Home Holiday Market. It's another opportunity to be part of this incredible and inclusive community and to share what I love doing with others. -Dunia Tozy Longstanding saga shop artist and Gallery artist-educator Murray Sanders will be demonstrating pottery wheel throwing throughout the weekend and also have a table of his pottery for sale. Hosted with the Gallery, this annual market has been supporting the creativity and ingenuity of local artists since 2002. Vendor Types of Art Karen Bosanac Jewellery Asma Burney Paintings Jasmina Charleston Graphic art & illustration cards, stickers, textiles Terry Cummings Jewellery & ceramic sculptures Marian De Gier Jewellery Foxy Verve Atelier Jewellery, fibre arts, prints Katina Giesbrecht Paintings, monoprints, design Karen Kroeker Fibre arts By the Sea Jewellery Jewellery Gordon Rebelato Photographs Sapphorica Creation s Graphic art & illustration cards, stickers Murray Sanders Functional ceramics Wendy Schmidt Wildlife paintings Stephanie Shields Bobbin lace jewellery Dunia Tozy & Ella Davidson Paintings, colouring books, & jewellery Lyn Verra-Lay Fibre arts Nancy Wright Paintings & clocks Ramona Radu Watercolour paintings Sharon Doucette Photographs, cyanotypes Alanna Edwards Jewellery & beading Atheana Picha Weavings, prints, paintings About Surrey Art Gallery Association Surrey Art Gallery Association (SAGA) is a non-profit society that offers its members the opportunity to participate in and respond to contemporary art and be part of a community that actively supports Surrey Art Gallery.",
       "category": "Arts & culture",
       "sourceCategories": "Whalley and City Centre Arts & Culture Seniors Surrey Art Gallery Youth",
       "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "daccde6547184423",
+      "city": "Surrey",
+      "title": "Live Music at Bear Creek Lights",
+      "url": "https://www.surrey.ca/news-events/events/live-music-bear-creek-lights",
+      "dateLabel": "November 14, 2026",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-14",
+      "time": "Time not published — check event link",
+      "location": "13750 - 88 Avenue, Surrey, BC",
+      "description": "Enjoy live music and performances by local artists at Bear Creek Lights. Day Date Artist Friday Nov 6 Amy Van Bergen Ragamuffin Productions Kiara Dokaj Saturday Nov 7 Surrey Jazz Nights Kiara Dokaj Sunday Nov 8 Kiara Dokaj Ranj Singh Colin Sankey Friday Nov 13 Amy Van Bergen , Fraser Valley Musical Theatre Kiara Dokaj Colin Sankey Saturday Nov 14 Fraser Valley Musical Theatre Cedar Hills Caledonia Pipe Band Kiara Dokaj Colin Sankey Sunday Nov 15 Kiara Dokaj Surrey Jazz Nights Colin Sankey Friday Nov 20 Amy Van Bergen Kiara Dokaj Colin Sankey Things to know Performances will be held within in the tent in the plaza in the garden which is part of the ticketed event area. Music in Surrey Surrey is Canada's up and coming music city. Take a look through the musician directory and find out how the Surrey Music Strategy is guiding Surrey in becoming a music industry leader that supports musician development and a thriving music economy. LEARN about music in surrey",
+      "category": "Nature & outdoors",
+      "sourceCategories": "Whalley and City Centre Music Parks & Environment",
+      "price": "Free, drop-in",
       "isFree": true
     },
     {
@@ -1005,6 +1133,22 @@
       "sourceCategories": "Parks & Environment",
       "price": "Drop-in",
       "isFree": false
+    },
+    {
+      "id": "5343ae267bcc2ea0",
+      "city": "Surrey",
+      "title": "Seniors Forum: Keeping Up with a Digital Healthcare System",
+      "url": "https://www.surrey.ca/news-events/events/seniors-forum-keeping-digital-healthcare-system",
+      "dateLabel": "November 14, 2026",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-14",
+      "time": "10:00am - 2:30pm",
+      "location": "Newton Seniors Centre, 13775 70 Ave, Surrey, BC",
+      "description": "The Access to Health Project is a community education initiative that helps Surrey seniors better understand and navigate the healthcare system. Through a series of forums and learning opportunities, participants will gain practical knowledge and tools to access healthcare services, make informed decisions, and confidently use digital health resources. Join us for the first forum in the series, focused on navigating today's digital healthcare system. What you'll learn How to stay safe online and protect your privacy How to identify legitimate healthcare providers and virtual care services How to recognize legitimate pharmacy text and email notifications Choosing the right healthcare service for your needs Understanding Urgent and Primary Care Centres (UPCCs) and HealthLink BC 8-1-1 Accessing your personal health information online Setting up and using Health Gateway Protecting your personal health information online Event features Resource tables and information booths Complimentary refreshments and lunch Door prizes Register In partnership with:",
+      "category": "Community & festivals",
+      "sourceCategories": "Newton Seniors",
+      "price": "Free",
+      "isFree": true
     },
     {
       "id": "7f86362613bc740b",
@@ -1032,10 +1176,42 @@
       "endDate": "2026-11-15",
       "time": "12:00pm - 4:00pm",
       "location": "Surrey Arts Centre - 13750 88 Ave, Surrey, BC",
-      "description": "Dozens of artists, including current saga shop artists as well as artists from communities in Surrey, will be showcasing their incredible handmade works. Browse ceramics, jewellery, art cards, paintings, stickers, books for children and adults, linocuts, and more! Shop for works by Foxy Verve Atelier , Blooming Onion, and By the Sea Jewellery, to name a few. All saga shop artists and market vendors are members of the Surrey Art Gallery Association (SAGA). Another artist who will be there is long-standing saga shop artist and Gallery artist-educator Murray Sanders. In addition to selling his functional ceramic pieces, Murray will be demonstrating pottery wheel throwing throughout the weekend. Hosted with the Gallery, this annual market has been supporting the creativity and ingenuity of local artists since 2002. About Surrey Art Gallery Association Surrey Art Gallery Association (SAGA) is a non-profit society that offers its members the opportunity to participate in and respond to contemporary art and be part of a community that actively supports Surrey Art Gallery.",
+      "description": "Dozens of artists, including current saga shop artists as well as artists from communities in Surrey, will be showcasing their incredible handmade works. Browse ceramics, jewellery, art cards, paintings, photographs, stickers, books for children and adults, linocuts, and more! All saga shop artists and market vendors are members of the Surrey Art Gallery Association (SAGA). I'm so grateful for the opportunity to showcase my work at the saga shop, share it with others, and be part of such a wonderful community of artists. I'm really looking forward to the Heart to Home Holiday Market. It's another opportunity to be part of this incredible and inclusive community and to share what I love doing with others. -Dunia Tozy Longstanding saga shop artist and Gallery artist-educator Murray Sanders will be demonstrating pottery wheel throwing throughout the weekend and also have a table of his pottery for sale. Hosted with the Gallery, this annual market has been supporting the creativity and ingenuity of local artists since 2002. Vendor Types of Art Karen Bosanac Jewellery Asma Burney Paintings Jasmina Charleston Graphic art & illustration cards, stickers, textiles Terry Cummings Jewellery & ceramic sculptures Marian De Gier Jewellery Foxy Verve Atelier Jewellery, fibre arts, prints Katina Giesbrecht Paintings, monoprints, design Karen Kroeker Fibre arts By the Sea Jewellery Jewellery Gordon Rebelato Photographs Sapphorica Creation s Graphic art & illustration cards, stickers Murray Sanders Functional ceramics Wendy Schmidt Wildlife paintings Stephanie Shields Bobbin lace jewellery Dunia Tozy & Ella Davidson Paintings, colouring books, & jewellery Lyn Verra-Lay Fibre arts Nancy Wright Paintings & clocks Ramona Radu Watercolour paintings Sharon Doucette Photographs, cyanotypes Alanna Edwards Jewellery & beading Atheana Picha Weavings, prints, paintings About Surrey Art Gallery Association Surrey Art Gallery Association (SAGA) is a non-profit society that offers its members the opportunity to participate in and respond to contemporary art and be part of a community that actively supports Surrey Art Gallery.",
       "category": "Arts & culture",
       "sourceCategories": "Whalley and City Centre Arts & Culture Seniors Surrey Art Gallery Youth",
       "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "2cd53c2be0ad59e0",
+      "city": "Surrey",
+      "title": "Live Music at Bear Creek Lights",
+      "url": "https://www.surrey.ca/news-events/events/live-music-bear-creek-lights",
+      "dateLabel": "November 15, 2026",
+      "startDate": "2026-11-15",
+      "endDate": "2026-11-15",
+      "time": "Time not published — check event link",
+      "location": "13750 - 88 Avenue, Surrey, BC",
+      "description": "Enjoy live music and performances by local artists at Bear Creek Lights. Day Date Artist Friday Nov 6 Amy Van Bergen Ragamuffin Productions Kiara Dokaj Saturday Nov 7 Surrey Jazz Nights Kiara Dokaj Sunday Nov 8 Kiara Dokaj Ranj Singh Colin Sankey Friday Nov 13 Amy Van Bergen , Fraser Valley Musical Theatre Kiara Dokaj Colin Sankey Saturday Nov 14 Fraser Valley Musical Theatre Cedar Hills Caledonia Pipe Band Kiara Dokaj Colin Sankey Sunday Nov 15 Kiara Dokaj Surrey Jazz Nights Colin Sankey Friday Nov 20 Amy Van Bergen Kiara Dokaj Colin Sankey Things to know Performances will be held within in the tent in the plaza in the garden which is part of the ticketed event area. Music in Surrey Surrey is Canada's up and coming music city. Take a look through the musician directory and find out how the Surrey Music Strategy is guiding Surrey in becoming a music industry leader that supports musician development and a thriving music economy. LEARN about music in surrey",
+      "category": "Nature & outdoors",
+      "sourceCategories": "Whalley and City Centre Music Parks & Environment",
+      "price": "Free, drop-in",
+      "isFree": true
+    },
+    {
+      "id": "dbbd82aa381cfea5",
+      "city": "Surrey",
+      "title": "Nature at Night Walk at Bear Creek Lights",
+      "url": "https://www.surrey.ca/news-events/events/nature-night-walk-bear-creek-lights",
+      "dateLabel": "November 17, 2026",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-17",
+      "time": "Time not published — check event link",
+      "location": "13750 - 88 Avenue, Surrey, BC",
+      "description": "Explore the urban forest after dark! Discover how plants, wildlife and soil work together to keep our city cool, our air clean and our parks full of life. Learn what the urban forest needs to thrive and how you can help. Things to know Drop-in, spaces are limited All ages All children must be accompanied by an adult Meet in the program tent, located in the plaza of the garden. Program runs rain or shine and does not guarantee wildlife sightings!",
+      "category": "Nature & outdoors",
+      "sourceCategories": "Newton Parks & Environment",
+      "price": "Free, drop-in.",
       "isFree": true
     },
     {
@@ -1071,6 +1247,22 @@
       "isFree": true
     },
     {
+      "id": "fd3d5c823df1ced4",
+      "city": "Richmond",
+      "title": "Reel Rock 20 Richmond",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19154",
+      "dateLabel": "Wednesday, Nov 18, 2026",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-18",
+      "time": "7:00-9:30pm",
+      "location": "14211 Entertainment Way",
+      "description": "Big sends, bigger stories. The world's most exciting climbers rewrite history at Reel Rock 20. Journey behind the scenes of Janja Garnbret's historic ascent of Bibliographie and Colin Haley's legendary solo winter ascent of Cerro Torre, then reach new heights in adaptive climbing with Ben Mayforth and sending both 5.15 and V15 with Michaela Kiersch. More Information This event is for Adult (Ages 18+) This is an accessible site. $32",
+      "category": "Arts & culture",
+      "sourceCategories": "Culture & Heritage Events Film",
+      "price": "",
+      "isFree": false
+    },
+    {
       "id": "1da99920b424440c",
       "city": "Surrey",
       "title": "Memory Map Session",
@@ -1084,6 +1276,38 @@
       "category": "Arts & culture",
       "sourceCategories": "Newton Heritage Seniors",
       "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "3a740c774d7bfa78",
+      "city": "Surrey",
+      "title": "Nature at Night Walk at Bear Creek Lights",
+      "url": "https://www.surrey.ca/news-events/events/nature-night-walk-bear-creek-lights",
+      "dateLabel": "November 19, 2026",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-19",
+      "time": "Time not published — check event link",
+      "location": "13750 - 88 Avenue, Surrey, BC",
+      "description": "Explore the urban forest after dark! Discover how plants, wildlife and soil work together to keep our city cool, our air clean and our parks full of life. Learn what the urban forest needs to thrive and how you can help. Things to know Drop-in, spaces are limited All ages All children must be accompanied by an adult Meet in the program tent, located in the plaza of the garden. Program runs rain or shine and does not guarantee wildlife sightings!",
+      "category": "Nature & outdoors",
+      "sourceCategories": "Newton Parks & Environment",
+      "price": "Free, drop-in.",
+      "isFree": true
+    },
+    {
+      "id": "0dc36c18cc0c981e",
+      "city": "Surrey",
+      "title": "Live Music at Bear Creek Lights",
+      "url": "https://www.surrey.ca/news-events/events/live-music-bear-creek-lights",
+      "dateLabel": "November 20, 2026",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-20",
+      "time": "Time not published — check event link",
+      "location": "13750 - 88 Avenue, Surrey, BC",
+      "description": "Enjoy live music and performances by local artists at Bear Creek Lights. Day Date Artist Friday Nov 6 Amy Van Bergen Ragamuffin Productions Kiara Dokaj Saturday Nov 7 Surrey Jazz Nights Kiara Dokaj Sunday Nov 8 Kiara Dokaj Ranj Singh Colin Sankey Friday Nov 13 Amy Van Bergen , Fraser Valley Musical Theatre Kiara Dokaj Colin Sankey Saturday Nov 14 Fraser Valley Musical Theatre Cedar Hills Caledonia Pipe Band Kiara Dokaj Colin Sankey Sunday Nov 15 Kiara Dokaj Surrey Jazz Nights Colin Sankey Friday Nov 20 Amy Van Bergen Kiara Dokaj Colin Sankey Things to know Performances will be held within in the tent in the plaza in the garden which is part of the ticketed event area. Music in Surrey Surrey is Canada's up and coming music city. Take a look through the musician directory and find out how the Surrey Music Strategy is guiding Surrey in becoming a music industry leader that supports musician development and a thriving music economy. LEARN about music in surrey",
+      "category": "Nature & outdoors",
+      "sourceCategories": "Whalley and City Centre Music Parks & Environment",
+      "price": "Free, drop-in",
       "isFree": true
     },
     {
@@ -1368,7 +1592,7 @@
       "endDate": "2026-12-04",
       "time": "7:00pm - 9:00pm",
       "location": "Surrey City Hall, 13450 104 Ave, Surrey, BC V3T 1V8",
-      "description": "The SASSY Awards (Service Above Self Surrey Youth) is Semiahmoo Rotary’s celebration and recognition of the fantastic youth who live, work, volunteer, and learn in Surrey and White Rock. Recognizing and engaging exceptional youth in our community honours the core Rotarian values of Service, Fellowship, Diversity, Integrity and Leadership. Finalists will be selected in each of four categories Community Leadership and Service Diversity, Equity, and Inclusion Leadership and Service Beyond Adversity School Leadership and Service This year, for the first time, each of the four categories will have both Junior (Grade 11 and under) and Senior (Grade 12 and up) divisions. The award recipients of each category will receive a cash award along with a donation that they will present to a charity of their choice: Senior $1000 award $100 donation SASSY Awards Trophy Junior $750 award $100 donation SASSY Awards Trophy Finalists in each category will receive: Senior (2 Finalists) $750 award $100 donation Junior (1 Finalist) $500 award $100 donation The awards will be presented at the Awards Show on Friday, December 4, 2026, at Surrey City Hall. Nominations are now being accepted! Nominate a youth aged 15 to 21 living, studying, or working in Surrey or White Rock. 2026 Sassy nominations will be open until October18, 2026. Nominate a young leader For more information, contact [email protected] and check for updates on the SASSY Awards pages.",
+      "description": "The SASSY Awards (Service Above Self Surrey Youth) is Semiahmoo Rotary’s celebration and recognition of the fantastic youth who live, work, volunteer, and learn in Surrey and White Rock. Recognizing and engaging exceptional youth in our community honours the core Rotarian values of Service, Fellowship, Diversity, Integrity and Leadership. Finalists will be selected in each of four categories Community Leadership and Service Diversity, Equity, and Inclusion Leadership and Service Beyond Adversity School Leadership and Service This year, for the first time, each of the four categories will have both Junior (Grade 11 and under) and Senior (Grade 12 and up) divisions. The award recipients of each category will receive a cash award along with a donation that they will present to a charity of their choice: Senior $1000 award $100 donation SASSY Awards Trophy Junior $750 award $100 donation SASSY Awards Trophy Finalists in each category will receive: Senior (2 Finalists) $750 award $100 donation Junior (1 Finalist) $500 award $100 donation The awards will be presented at the Awards Show on Friday, December 4, 2026, at Surrey City Hall. Nominations are now closed! For more information, contact [email protected] and check for updates on the SASSY Awards pages.",
       "category": "Sports & wellness",
       "sourceCategories": "Recreation Youth",
       "price": "Free",
@@ -1597,6 +1821,22 @@
       "sourceCategories": "South Surrey Arts & Culture Heritage Stewart Farm",
       "price": "Free",
       "isFree": true
+    },
+    {
+      "id": "da243d26e36f861d",
+      "city": "Surrey",
+      "title": "Holiday Spectacular",
+      "url": "https://www.surrey.ca/news-events/events/holiday-spectacular",
+      "dateLabel": "December 17, 2026",
+      "startDate": "2026-12-17",
+      "endDate": "2026-12-17",
+      "time": "7:30pm - 9:30pm",
+      "location": "Bell Performing Arts Centre, 6250 144 St, Surrey, BC",
+      "description": "Produced by Vancouver's Alan Corbishley and Frédérik Robert, this 90-minute holiday spectacular brings together talented musical theatre performers and recording artists for an unforgettable celebration of seasonal favourites. The first half of the show features a mix of timeless Christmas classics and contemporary hits, including We Need a Little Christmas , O Holy Night , and holiday favourites from Stevie Wonder, Elton John and Ed Sheeran. The second half brings even more festive cheer with Mariah Carey's All I Want for Christmas Is You , followed by an interactive holiday sing-along featuring beloved songs such as Let It Snow , Deck the Halls and Have Yourself a Merry Little Christmas . Bring your family and friends, sing along to your favourite holiday tunes, and enjoy an evening filled with music, nostalgia and holiday spirit. Learn more",
+      "category": "Community & festivals",
+      "sourceCategories": "Newton Community-Hosted",
+      "price": "$50-65 (plus fees and taxes)",
+      "isFree": false
     },
     {
       "id": "3ed494e05d8b919e",
