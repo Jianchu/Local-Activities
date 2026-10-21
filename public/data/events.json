@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-20T11:01:00-07:00",
+  "updatedAt": "2026-10-21T11:07:11-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-10-20T11:01:00-07:00",
+      "updatedAt": "2026-10-21T11:07:11-07:00",
       "status": "ok",
-      "count": 154
+      "count": 157
     },
     "Richmond": {
-      "updatedAt": "2026-10-20T11:01:00-07:00",
+      "updatedAt": "2026-10-21T11:07:11-07:00",
       "status": "ok",
       "count": 13
     }
@@ -44,38 +44,6 @@
       "category": "Nature & outdoors",
       "sourceCategories": "Meetings / Conventions / Lectures / Workshops Workshops",
       "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "8ab8f2f187d88691",
-      "city": "Surrey",
-      "title": "Garden Work Parties",
-      "url": "https://www.surrey.ca/news-events/events/garden-work-parties",
-      "dateLabel": "October 20, 2026",
-      "startDate": "2026-10-20",
-      "endDate": "2026-10-20",
-      "time": "10:00am - 12:00pm",
-      "location": "Glades Woodland Garden, 457 172 Street (Main welcome area)",
-      "description": "Join us in caring for gardens in Surrey Help with the care and maintenance of Surrey's beautiful gardens. Learn horticultural skills like pruning and weeding directly from our head gardeners! Tools and training provided. Program is best suited for 16 years old and up. Important information Sign up as a Garden Work Party volunteer to get all the details you need to attend! Dress for the weather and bring water Wear sturdy shoes Programs may be cancelled due to strong winds or extreme weather Upcoming dates Date Start time End time Location Address Tue. Sept 22 10:00am 12:00pm Glades Woodland Garden 457 172 Street (Main welcome area) Tues. Oct 6 10:00am 12:00pm Darts Hill Garden Park 1680 168 Street (Volunteer/gravel parking lot) Tues. Oct 20 10:00am 12:00pm Glades Woodland Garden 457 172 Street (Main welcome area) Tues. Nov 24 10:00am 12:00pm Darts Hill Garden Park 1680 168 Street (Volunteer/gravel parking lot) Please sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours. Opportunities are posted approximately one month prior to session.",
-      "category": "Nature & outdoors",
-      "sourceCategories": "Parks & Environment Seniors Youth",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "cd81652227c0c466",
-      "city": "Surrey",
-      "title": "Positively Parenting Workshop Series",
-      "url": "https://www.surrey.ca/news-events/events/positively-parenting-workshop-series",
-      "dateLabel": "October 20, 2026",
-      "startDate": "2026-10-20",
-      "endDate": "2026-10-20",
-      "time": "6:00pm - 7:30pm",
-      "location": "South Surrey Recreation and Arts Center, 14601 20 Avenue, Surrey, BC",
-      "description": "Positively Parenting is an interactive and informative series for parents and caregivers of children 5 to 12 years old. The 4-week series offers an opportunity to explore the power of connection and how it can support in day-to-day parenting. Over the course of the series, topics reviewed include: Keeping in Connection at All Ages Making Sense of Behaviours Feelings and the Brain Problem Solving Approaches This series aims to provide practical strategies and helpful resources to support learning and thinking about parenting today. How to register To register or for more information, call Alex Neighbourhood House at 778-239-5960 or email [email protected] . Limited childminding spots are available. Please enquire during registration.",
-      "category": "Learn & create",
-      "sourceCategories": "South Surrey",
-      "price": "Free, registration required.",
       "isFree": true
     },
     {
@@ -447,6 +415,22 @@
       "isFree": true
     },
     {
+      "id": "13c6aa560edf9847",
+      "city": "Surrey",
+      "title": "Positively Parenting Workshop Series",
+      "url": "https://www.surrey.ca/news-events/events/positively-parenting-workshop-series",
+      "dateLabel": "October 27, 2026",
+      "startDate": "2026-10-27",
+      "endDate": "2026-10-27",
+      "time": "6:00pm - 7:30pm",
+      "location": "South Surrey Recreation and Arts Center, 14601 20 Avenue, Surrey, BC",
+      "description": "Positively Parenting is an interactive and informative series for parents and caregivers of children 5 to 12 years old. The 4-week series offers an opportunity to explore the power of connection and how it can support in day-to-day parenting. Over the course of the series, topics reviewed include: Keeping in Connection at All Ages Making Sense of Behaviours Feelings and the Brain Problem Solving Approaches This series aims to provide practical strategies and helpful resources to support learning and thinking about parenting today. How to register To register or for more information, call Alex Neighbourhood House at 778-239-5960 or email [email protected] . Limited childminding spots are available. Please enquire during registration.",
+      "category": "Learn & create",
+      "sourceCategories": "South Surrey",
+      "price": "Free, registration required.",
+      "isFree": true
+    },
+    {
       "id": "942781173ffafaf2",
       "city": "Surrey",
       "title": "Seniors Open Houses",
@@ -572,6 +556,22 @@
       "category": "Sports & wellness",
       "sourceCategories": "Culture Days Fitness & Wellness Event",
       "price": "",
+      "isFree": false
+    },
+    {
+      "id": "11f07b742e63de4c",
+      "city": "Surrey",
+      "title": "Candlelight Cemetery Tour",
+      "url": "https://www.surrey.ca/arts-culture/museum-of-surrey/whats-on/candlelight-cemetery-tour",
+      "dateLabel": "October 31, 2026",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "time": "2:00pm - 4:00pm",
+      "location": "17710 56a Ave, Surrey, BC",
+      "description": "This Halloween, bundle up for a candlelight tour of the 143-year-old Surrey Centre Cemetery. Discover fascinating stories dating back to the 1800s as you explore this historic site by lantern light. Lanterns and hot chocolate provided. Register today!",
+      "category": "Arts & culture",
+      "sourceCategories": "Cloverdale Museum of Surrey",
+      "price": "$15.80",
       "isFree": false
     },
     {
@@ -1263,6 +1263,22 @@
       "isFree": false
     },
     {
+      "id": "466ffa3722679469",
+      "city": "Surrey",
+      "title": "Surrey Jazz Nights Presents: Jenna Alamwala Trio",
+      "url": "https://www.surrey.ca/news-events/events/surrey-jazz-nights-presents-jenna-alamwala-trio",
+      "dateLabel": "November 18, 2026",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-18",
+      "time": "6:30pm - 7:30pm",
+      "location": "Blenz Coffee in Sullivan Heights, 14330 64 Ave (Unit #108), Surrey, BC",
+      "description": "Swing by Blenz Coffee in Sullivan Heights to hear the Jenna Alamwala Trio on Wednesday November 18! Musicians Jenna Alamwala - Voice Bea Mondido- Bass Brandon On - Piano",
+      "category": "Community & festivals",
+      "sourceCategories": "Newton Community-Hosted",
+      "price": "Free/Pay what you wish",
+      "isFree": true
+    },
+    {
       "id": "1da99920b424440c",
       "city": "Surrey",
       "title": "Memory Map Session",
@@ -1403,6 +1419,22 @@
       "description": "Join us for engaging dialogue and inspiring artmaking in connection with the exhibits Farheen Haq and Russna Kaur: In the Folds of Memory and tender threads , co-convened by Manjot Bains. Farheen Haq will share a new media work based on a ghazal that incorporates text and moving images alongside a poetic recitation. Jonathan Alfaro and Sena Cleave of tender threads will help participants create their own artworks using found fabric and materials.",
       "category": "Arts & culture",
       "sourceCategories": "Whalley and City Centre Arts & Culture Surrey Art Gallery",
+      "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "49b40f12c2a7803d",
+      "city": "Surrey",
+      "title": "Surrey Jazz Nights Presents: Understanding Jazz Leadsheets Workshop",
+      "url": "https://www.surrey.ca/news-events/events/surrey-jazz-nights-presents-understanding-jazz-leadsheets-workshop",
+      "dateLabel": "November 22, 2026",
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-22",
+      "time": "2:00pm - 4:00pm",
+      "location": "Strawberry Hill Library, 7399 122 St, Surrey, BC",
+      "description": "Sign up for Surrey Jazz Nights next workshop with local Surrey jazz trumpeter and pianist Julian Borkowksi on Sunday, November 22, from 2-4pm at the Surrey Libraries Strawberry Hill Branch. While a lead sheet might look simple, it contains all kinds of information that a jazz musician needs to be able to recognize. This workshop will cover what your particular instrument is responsible for when reading a lead sheet, basic to intermediate chord analysis, and how to turn a lead sheet into a full performance of a jazz piece. Sign up",
+      "category": "Learn & create",
+      "sourceCategories": "Newton Community-Hosted",
       "price": "Free",
       "isFree": true
     },
