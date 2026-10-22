@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-21T11:07:11-07:00",
+  "updatedAt": "2026-10-22T11:02:20-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-10-21T11:07:11-07:00",
+      "updatedAt": "2026-10-22T11:02:20-07:00",
       "status": "ok",
-      "count": 157
+      "count": 158
     },
     "Richmond": {
-      "updatedAt": "2026-10-21T11:07:11-07:00",
+      "updatedAt": "2026-10-22T11:02:20-07:00",
       "status": "ok",
-      "count": 13
+      "count": 14
     }
   },
   "events": [
@@ -43,54 +43,6 @@
       "description": "Lansdowne Centre Food Garden Now entering its sixth year, the Lansdowne Centre Food Garden program continues to support the local community by growing fresh fruits, vegetables and herbs that are donated to local community organizations and the Richmond Food Bank Society, helping address food insecurity in Richmond. The program also offers free weekly gardening workshops, where participants can learn practical gardening skills and growing techniques from local experts. Since launching in 2021, the Food Garden program has donated nearly 3,000 pounds of fresh produce to local organizations serving families in need. It is also a great opportunity for children to learn where the food comes from. Workshop Schedule: https://lansdowne-centre.com/food-garden-event-schedule/ Location: Southeast parking lot at Lansdowne Centre (close to T&T Supermarket) More Information This event is for All Ages. This is an accessible site. This event is free.",
       "category": "Nature & outdoors",
       "sourceCategories": "Meetings / Conventions / Lectures / Workshops Workshops",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "fe14c67aa2545243",
-      "city": "Surrey",
-      "title": "Art Connects: Community Engaged Practice",
-      "url": "https://www.surrey.ca/news-events/events/art-connects-community-engaged-practice",
-      "dateLabel": "October 21, 2026",
-      "startDate": "2026-10-21",
-      "endDate": "2026-10-21",
-      "time": "6:00pm - 8:00pm",
-      "location": "Surrey Libraries - City Centre Branch (Room 401), 10350 University Drive, Surrey, BC",
-      "description": "About the event Do you have experience working with the community? Are you curious what this could look like? This event will focus on the joys of welcoming other people into your artistic practice, as well as the ethics and logistics of working with community members. Artists Joan Williams, Mariel Nels, and Carmen Rosen will discuss how they each engage with community to produce artwork and build relationships. No matter what artistic practice you engage in—visual art, performing art, storytelling, photography, etc.—bring your insights and questions; let's talk about what it means to engage with community-led practices! About the speakers Joan Williams is a contemporary Indigenous artist and member of the Semiahmoo First Nation who studied at the Art Institute of Vancouver. Her multidisciplinary practice spans weaving, drawing, and digital arts, blending traditional Coast Salish motifs with modern techniques. Her expansive practice regulary incorporates community engagement. Mariel Nelms works at the intersection of participatory art, visual storytelling, photography, and material exploration. Her practice centers on creating accessible, collaborative art experiences that invite people to engage in making as a way of connecting. Carmen Rosen is an artist, singer, community organizer, and Founding Artistic Director of Still Moon Arts Society. Her creative projects are focused on the Still Creek Watershed in her Renfrew-Collingwood neighbourhood and work within themes of nature, environmental sustainability and the love of working with people and community. What to expect Opportunity to connect with fellow Surrey artists of all disciplines. Meet and interact with community-engaged creatives. Meet City staff from our Civic Theatres and Community Arts teams. Learn about artist opportunities and spaces offered by the City.",
-      "category": "Arts & culture",
-      "sourceCategories": "Whalley and City Centre Arts & Culture Community Art",
-      "price": "Free Space is limted, please RSVP to secure your spot! RSVP",
-      "isFree": true
-    },
-    {
-      "id": "e7a9fb709ddece2d",
-      "city": "Surrey",
-      "title": "Seniors Open Houses",
-      "url": "https://www.surrey.ca/news-events/events/seniors-open-houses",
-      "dateLabel": "October 21, 2026",
-      "startDate": "2026-10-21",
-      "endDate": "2026-10-21",
-      "time": "11:00am - 1:00pm",
-      "location": "Various locations",
-      "description": "Discover what makes Surrey’s seniors programs and spaces vibrant hubs for community and creativity. Join us for Open House events at six locations – featuring activities, refreshments, entertainment, and opportunities to shape future programs and services. Upcoming open houses: September 11, 2026 Newton Seniors Centre 13775 70 Ave Surrey, BC 11:30am-1:30pm October 6, 2026 Cloverdale Recreation Centre 6188 - 176th Street Surrey, BC 1:00pm-3:00pm October 21, 2026 Chuck Bailey Recreation Centre 13458 107A Avenue Surrey, BC 11:00am-1:00pm October 27, 2026 South Surrey Recreation & Arts Centre 14601 - 20 Avenue Surrey, BC 11:30am-1:00pm November 12, 2026 Guildford Recreation Centre 15105 - 105 Avenue Surrey, BC 12:00pm-2:00pm November 17, 2026 Fleetwood Community Centre 15996 - 84 Avenue Surrey, BC 12:00pm-2:00pm",
-      "category": "Community & festivals",
-      "sourceCategories": "Guildford Seniors",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "8e76ca2ba7b6e9f3",
-      "city": "Surrey",
-      "title": "Speaker Series – Learning and Unlearning the Sikh Practice of Keeping Kesh",
-      "url": "https://www.surrey.ca/arts-culture/museum-of-surrey/whats-on/speaker-series-learning-and-unlearning-sikh-practice-of-keeping-kesh",
-      "dateLabel": "October 21, 2026",
-      "startDate": "2026-10-21",
-      "endDate": "2026-10-21",
-      "time": "12:00pm - 1:00pm",
-      "location": "Virtual via Microsoft Teams",
-      "description": "Dr. Sharanjit Kaur Sandhra, co-author of Challenging Racist BC: 150 Years and Counting , will speak to and beyond the Sikh perspective. Enter a place of learning and openness as Sharn unpacks harmful misinformation. Register",
-      "category": "Arts & culture",
-      "sourceCategories": "Cloverdale Museum of Surrey",
       "price": "Free",
       "isFree": true
     },
@@ -351,22 +303,6 @@
       "isFree": true
     },
     {
-      "id": "88e1fec6100f7357",
-      "city": "Surrey",
-      "title": "Spooktacular Newton",
-      "url": "https://www.surrey.ca/news-events/events/spooktacular-newton",
-      "dateLabel": "October 24, 2026",
-      "startDate": "2026-10-24",
-      "endDate": "2026-10-24",
-      "time": "11:00am - 4:00pm",
-      "location": "7380 King George Blvd, Surrey, BC",
-      "description": "Spooktacular Newton returns this year for another spook-filled day. Prepare for a day of activities, trick-or-treating, and entertainment! Don't forget to grab a pumpkin, by donation to Surrey Food Bank! Spooktacular Newton is Surrey's only free, family-friendly Halloween street festival; join us on October 24 and be sure to come in your costume! Learn more",
-      "category": "Community & festivals",
-      "sourceCategories": "Newton Community-Hosted",
-      "price": "Free!",
-      "isFree": true
-    },
-    {
       "id": "4a3c519b47787b85",
       "city": "Surrey",
       "title": "Engage with Artist in Residence Mariel Nelms",
@@ -619,6 +555,38 @@
       "description": "40th Annual Halloween Festival – Alien Invasion Edition Richmond proudly continues its tradition as one of the few municipalities in the Lower Mainland to host a free fireworks display on Halloween night. Now in its 40th year, this exciting annual celebration will take place at Minoru Park Track (7191 Granville Avenue). Date & Time: Saturday, October 31st 6:30pm – 9:15pm This year’s theme is “Alien Invasion”, and families are invited to enter an out-of-this-world Halloween experience filled with intergalactic fun, eerie encounters, and cosmic creatures. Guests will enjoy a live stage performance the singing and dancing group, The Showstoppers, while fire performers and acrobats will deliver high-energy spectacles that are sure to amaze. Throughout the park, roving performers and stilt walkers will also bring the festival atmosphere to life, Families can take part in carnival-style games, and marvel at the artistry of professional pumpkin carvers. A giant pumpkin display from KPU will be featured, offering a perfect photo opportunity. To satisfy every craving, a variety of food trucks will be on-site serving up delicious eats. Kids (and kids at heart!) can look forward to over 10,000 pieces of candy being handed out throughout the evening. The night will conclude with a spectacular fireworks finale at 9:00pm, lighting up the sky above Minoru Park. This free, family-friendly event is suitable for all ages. Costumes are encouraged, so dress in your best alien, astronaut, or space-inspired costume and join us for a Halloween celebration that is truly out of this world! More Information This event is for All Ages. This is an accessible site. This event is free.",
       "category": "Arts & culture",
       "sourceCategories": "Culture Days Social / Community Event",
+      "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "531bec54e75a7d44",
+      "city": "Surrey",
+      "title": "Tommie’s 4th Annual Trunk or Treat",
+      "url": "https://www.surrey.ca/news-events/events/tommies-4th-annual-trunk-or-treat",
+      "dateLabel": "October 31, 2026",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "time": "1:00pm - 4:00pm",
+      "location": "Canadian Tire Parking Lot, 7599 King George Blvd, Surrey, BC",
+      "description": "Get ready for a spooktacular celebration at Tommie’s 4th Annual Trunk or Treat! Bring the whole family for Halloween fun featuring creatively decorated cars, candy, spooky music and activities for all ages. Enjoy face painting, glitter tattoos, magic and plenty of festive entertainment. Whether you're stopping by for treats or taking part in the Halloween activities, there's something for everyone to enjoy!",
+      "category": "Sports & wellness",
+      "sourceCategories": "Newton Community-Hosted",
+      "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "30910a805a58f66c",
+      "city": "Richmond",
+      "title": "Community Conversations: The Scientific Case for Climate Courage",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19162",
+      "dateLabel": "Tuesday, Nov 03, 2026",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-03",
+      "time": "7:00-8:30pm",
+      "location": "7700 Minoru Gate",
+      "description": "In this talk, Simon Donner, Professor and interdisciplinary climate scientist at the University of British Columbia and Director of the university's Climate Solutions Research Collective, will discuss the latest climate data, the solutions to climate change and how we find the courage to take action. More Information This event is for Youth (Ages 13-18), Adult (Ages 18+) & 55+ (Ages 55 and over) This is an accessible site. This event is free.",
+      "category": "Arts & culture",
+      "sourceCategories": "Gallery & Museum Talk / Tour / Lecture",
       "price": "Free",
       "isFree": true
     },
@@ -1423,6 +1391,22 @@
       "isFree": true
     },
     {
+      "id": "0cbdcb2d5a7f1045",
+      "city": "Surrey",
+      "title": "WinterFest at MOS",
+      "url": "https://www.surrey.ca/arts-culture/museum-of-surrey/whats-on/winterfest-mos",
+      "dateLabel": "November 21, 2026 - December 19, 2026",
+      "startDate": "2026-11-21",
+      "endDate": "2026-12-19",
+      "time": "Time not published — check event link",
+      "location": "17710 56a Ave, Surrey, BC",
+      "description": "Celebrate the magic of the holiday season at WinterFest at Museum of Surrey! Bring your family and friends for festive fun, creative activities and special experiences that bring our community together. From holiday traditions and Indigenous programming to hands-on crafts and sensory-friendly experiences, there are plenty of ways to make meaningful memories this season. Explore the WinterFest events November 21 – Christmas Tree Fest Get into the holiday spirit at Christmas Tree Fest! Vote for your favourite Christmas tree and enter for a chance to win a holiday prize. November 28 – Sensory Santa Meet Santa in a calm, sensory-friendly environment designed for neurodiverse children and their families. Enjoy a more comfortable and inclusive holiday experience together. December 5 – stɑl’əw̓ Craft Fair Celebrate Indigenous creativity and culture through Indigenous programming, and browse the artisan market for unique, handcrafted treasures. December 12 – Merry Makers Get creative with holiday crafts, search for Santa and his elves, and explore fun, hands-on STEAM activities for the whole family. Whether you're starting a new holiday tradition, discovering local artistry or enjoying creative activities with the kids, WinterFest offers something special for everyone. Make Museum of Surrey part of your holiday plans and celebrate the season with us! Thank you to our media sponsor Bell Media.",
+      "category": "Arts & culture",
+      "sourceCategories": "Cloverdale Children Festivals Museum of Surrey",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "49b40f12c2a7803d",
       "city": "Surrey",
       "title": "Surrey Jazz Nights Presents: Understanding Jazz Leadsheets Workshop",
@@ -1599,6 +1583,22 @@
       "isFree": true
     },
     {
+      "id": "b00690596e0e039b",
+      "city": "Surrey",
+      "title": "Sensory Santa",
+      "url": "https://www.surrey.ca/arts-culture/museum-of-surrey/whats-on/sensory-santa",
+      "dateLabel": "November 29, 2026",
+      "startDate": "2026-11-29",
+      "endDate": "2026-11-29",
+      "time": "10:00am - 12:00pm",
+      "location": "17710 56a Ave, Surrey, BC",
+      "description": "Join us for a calm and inclusive holiday experience designed for neurodivergent kids and families. Meet Santa at your scheduled appointment time, complete a festive craft, and enjoy a relaxed, low-sensory environment, no long lines or overwhelming crowds. Registration is required, please email [email protected] .",
+      "category": "Arts & culture",
+      "sourceCategories": "Cloverdale Children Museum of Surrey",
+      "price": "$20 per family",
+      "isFree": false
+    },
+    {
       "id": "9d1a9aa9438c36c6",
       "city": "Surrey",
       "title": "Thursday Artist Talk: Anoop Dhaliwal, “Mindfulness. Material. Making.”",
@@ -1723,6 +1723,22 @@
       "description": "Join us to celebrate with your neighbours at this free community event filled with fun, connection, and community spirit!",
       "category": "Arts & culture",
       "sourceCategories": "Cloverdale Arts & Culture Community Art",
+      "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "71f01e2b79713872",
+      "city": "Surrey",
+      "title": "stɑl̓əw̓ Craft Fair",
+      "url": "https://www.surrey.ca/arts-culture/museum-of-surrey/whats-on/stalw-craft-fair",
+      "dateLabel": "December 5, 2026",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "time": "10:00am - 4:00pm",
+      "location": "17710 56a Ave, Surrey, BC",
+      "description": "Join us for a day filled with incredible vendors, showcasing unique handmade goods perfect for holiday gifting! Visit the wide variety of vendors Experience Indigenous programming Visit Santa from 11am to 1pm. Vendors Spring Salmon Studio Elinor Atkins Art sxwnem Una-Ann Moyer Sandra's Métis Creations Patti Williams Lucia-Rose Métis/Cree Artisans Tina Taphouse Creative Hazel Gludo stɑl̓əw̓ Arts & Cultural Society Salish Hause 41 Nicimos Designs A Piece of Me by JudyG Sheila-Rae Designs B’n Crafty Thelildragonstudio Spirit Bear Designs Hazel Gludo & Walter Knott Made and Found Hawk Lace Dark Laydee Designs Marisa Crafts Things white rabbit Métis Artisan Bcbuttonandbeads Unseeded Beading Sashs Ribbon Creations Sage+Solstice Haisla Dreams Creations Blue Sky Native Artisan Shining Bear Designs Elena's Regal Knits Urban Temple Wellness Anishinaababe x",
+      "category": "Arts & culture",
+      "sourceCategories": "Cloverdale Arts & Culture Museum of Surrey",
       "price": "Free",
       "isFree": true
     },
