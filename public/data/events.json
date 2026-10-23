@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-22T11:02:20-07:00",
+  "updatedAt": "2026-10-23T10:53:47-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-10-22T11:02:20-07:00",
+      "updatedAt": "2026-10-23T10:53:47-07:00",
       "status": "ok",
       "count": 158
     },
     "Richmond": {
-      "updatedAt": "2026-10-22T11:02:20-07:00",
+      "updatedAt": "2026-10-23T10:53:47-07:00",
       "status": "ok",
-      "count": 14
+      "count": 17
     }
   },
   "events": [
@@ -47,38 +47,6 @@
       "isFree": true
     },
     {
-      "id": "3ca1cc209588c576",
-      "city": "Surrey",
-      "title": "Community Weaving with Farheen Haq",
-      "url": "https://www.surrey.ca/news-events/events/community-weaving-farheen-haq",
-      "dateLabel": "October 22, 2026",
-      "startDate": "2026-10-22",
-      "endDate": "2026-10-22",
-      "time": "7:00pm - 8:30pm",
-      "location": "Surrey Art Gallery, 13750 88 Ave, Surrey, BC",
-      "description": "Join exhibiting artist Farheen Haq for a collective weaving gathering where stories, memories, and threads come together. Guided by Haq, participants are invited to slow down, weave alongside one another, and contribute to a growing communal artwork, part of In the Folds of Memory .",
-      "category": "Arts & culture",
-      "sourceCategories": "Whalley and City Centre Arts & Culture Seniors Surrey Art Gallery Youth",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "756367bd18e617c0",
-      "city": "Surrey",
-      "title": "DIVERSEcity Entrepreneur & Small Business Fair",
-      "url": "https://www.surrey.ca/news-events/events/diversecity-entrepreneur-small-business-fair",
-      "dateLabel": "October 22, 2026",
-      "startDate": "2026-10-22",
-      "endDate": "2026-10-22",
-      "time": "3:00pm - 7:00pm",
-      "location": "Sheraton Vancouver Guildford Hotel, 15269 104 Ave, Surrey, BC",
-      "description": "Celebrate Small Business Week at the 10th annual DIVERSEcity Entrepreneur & Small Business Fair. Small business owners, emerging entrepreneurs and organizations that support entrepreneurs are invited to connect, learn and share ideas. Meet local exhibitors, hear from guest speakers and network with entrepreneurs from across the region. The free event includes a tradeshow and marketplace, complimentary refreshments, a fireside chat with the founders of Safe Sweat and a live Dragons’ Den-style business pitch competition. Learn more Event schedule 3–5pm Tradeshow, marketplace, networking and complimentary refreshments. 5–6pm Welcome speakers and fireside chat with the founders of Safe Sweat. 6–7pm Live business pitch competition.",
-      "category": "Community & festivals",
-      "sourceCategories": "Guildford Community-Hosted",
-      "price": "Free",
-      "isFree": true
-    },
-    {
       "id": "5890760930d565aa",
       "city": "Richmond",
       "title": "Howloween 2026 – Project: Chimera",
@@ -92,38 +60,6 @@
       "category": "Learn & create",
       "sourceCategories": "Meetings / Conventions / Lectures / Workshops Conferences",
       "price": "",
-      "isFree": false
-    },
-    {
-      "id": "e9158545de966cc2",
-      "city": "Surrey",
-      "title": "Memory Map Session",
-      "url": "https://www.surrey.ca/news-events/events/memory-map-session",
-      "dateLabel": "October 22, 2026",
-      "startDate": "2026-10-22",
-      "endDate": "2026-10-22",
-      "time": "10:00am - 11:00am",
-      "location": "Newton Seniors Centre, 13775 70 Avenue, Surrey, BC",
-      "description": "Share your memories The Community Heritage Team is seeking stories about Surrey’s past – happy, challenging and everything in between. The Team is adding these to the Memory Map, an online tool for people to read untold local history. It preserves memories and creates a picture of our community’s heritage for the future. Join others in sharing stories and memories of the places that matter to you. You write down your memories and our team will add them to the map for you. To RSVP for the free session, call Newton Seniors Centre at 604-501-5010 .",
-      "category": "Arts & culture",
-      "sourceCategories": "Newton Heritage Seniors",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "af99af22ed5df9fe",
-      "city": "Surrey",
-      "title": "This is Adele - A Tribute to Adele",
-      "url": "https://www.surrey.ca/news-events/events/adele-tribute-adele",
-      "dateLabel": "October 22, 2026",
-      "startDate": "2026-10-22",
-      "endDate": "2026-10-22",
-      "time": "7:30pm - 9:30pm",
-      "location": "Bell Performing Arts Centre, 6250 144 St, Surrey, BC",
-      "description": "Following sold-out performances and standing ovations across British Columbia, this acclaimed concert experience celebrates the music of Adele with powerful vocals, heartfelt storytelling and live musicianship. Featuring beloved hits including Hello , Rolling in the Deep , Someone Like You , Easy on Me and more, the show captures the emotion and elegance that have made Adele one of the world’s most celebrated artists. Amanda Bentley brings years of experience as a touring vocalist, songwriter and multi-instrumentalist to the stage for this tribute to Adele. Backed by a six-piece band hand-selected for the show, Bentley draws on her songwriting and performance experience in Vancouver, Toronto and the Okanagan Valley to connect with Adele’s music and bring it to life on stage. More than an impersonation, this is a live concert experience for longtime Adele fans and anyone who enjoys exceptional live music.",
-      "category": "Community & festivals",
-      "sourceCategories": "Newton Community-Hosted",
-      "price": "$65",
       "isFree": false
     },
     {
@@ -300,6 +236,22 @@
       "category": "Community & festivals",
       "sourceCategories": "Whalley and City Centre Community-Hosted",
       "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "88e1fec6100f7357",
+      "city": "Surrey",
+      "title": "Spooktacular Newton",
+      "url": "https://www.surrey.ca/news-events/events/spooktacular-newton",
+      "dateLabel": "October 24, 2026",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "time": "11:00am - 4:00pm",
+      "location": "7380 King George Blvd, Surrey, BC",
+      "description": "Spooktacular Newton returns this year for another spook-filled day. Prepare for a day of activities, trick-or-treating, and entertainment! Don't forget to grab a pumpkin, by donation to Surrey Food Bank! Spooktacular Newton is Surrey's only free, family-friendly Halloween street festival; join us on October 24 and be sure to come in your costume! Learn more",
+      "category": "Community & festivals",
+      "sourceCategories": "Newton Community-Hosted",
+      "price": "Free!",
       "isFree": true
     },
     {
@@ -575,6 +527,22 @@
       "isFree": true
     },
     {
+      "id": "3466fde07a582a29",
+      "city": "Surrey",
+      "title": "Inauguration of Mayor & Council",
+      "url": "https://www.surrey.ca/news-events/events/inauguration-of-mayor-council",
+      "dateLabel": "November 2, 2026",
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-02",
+      "time": "7:00pm - 8:00pm",
+      "location": "Online and in-person at City Hall, 13450 - 104 Avenue, Surrey, BC",
+      "description": "Every four years, a newly elected Mayor & Council are sworn into office with an official ceremony. Watch as Mayor-elect Doug McCallum and the Councillors-elect are sworn in at Surrey City Hall. Council's first regular council meeting will take place after the ceremony. Schedule Welcome Honour guard Mayor & councillors take oath of office Inaugural address Regular council meeting The livestream will start at 7pm. View Livestream Mayor-elect Doug McCallum Councillors-elect Harry Bains Cheney Cloke Doug Elford Meera Gill Suhana Gill Laurie Guerra Mandeep Nagra Allison Patton",
+      "category": "Community & festivals",
+      "sourceCategories": "Whalley and City Centre Public Meetings & Open Houses",
+      "price": "",
+      "isFree": false
+    },
+    {
       "id": "30910a805a58f66c",
       "city": "Richmond",
       "title": "Community Conversations: The Scientific Case for Climate Courage",
@@ -699,6 +667,22 @@
       "description": "How to register Registration opens at 9pm on Sunday October 4 Online By phone at 604-501-5100 In person at any recreation facility Morning workshops 8:30am-12:00pm (ages 6-9 only) Package name Event ID # Package details Ages 6-9 Package A 540929 Be You Cookie Creations Yoga A Space to Create: Musical Drawings & Wearables Ages 6-9 Package B 540940 A Space to Create: Musical Drawings & Wearables Love Yourself: Vision Board Workshop Line Dance Ages 6-9 Package C 540943 Yoga A Space to Create: Musical Drawings & Wearables Love Yourself: Vision Board Workshop Ages 6-9 Package D 540945 Love Yourself: Vision Board Workshop Line Dance Be You Cookie Creations Afternoon workshops 12:30pm-3:30pm (ages 10-12 only) Package Name Event ID # Package Details Ages 10-12 Package A 540949 Love Yourself: Vision Board Workshop Be You Cookie Creations Line Dance Ages 10-12 Package B 540950 Building a Happy Community A Space to Create: Musical Drawings & Wearables Line Dance Ages 10-12 Package C 540956 A Space to Create: Musical Drawings & Wearables Love Yourself: Vision Board Workshop Line Dance Ages 10-12 Package D 541033 Be You Cookie Creations Building a Happy Community Line Dance Workshop details A Space to Create: Musical Drawings & Wearables Presented by City of Surrey’s Community Art team Step into a space where creativity comes to life! Express yourself, explore your imagination and connect with others through fun, hands-on art-making. Be You Cookie Creations Presented by City of Surrey’s Recreation Services team Get creative and decorate a cookie face that expresses YOU! Choose your own hair, eyes, expression and special details while celebrating what makes each of us unique. Building a Happy Community Presented by City of Surrey’s Youth Event Squad (YES) Share your ideas and creativity while imagining what makes a community happy and healthy! Participants will work together, express what is important to them and build confidence, communication skills and a sense of belonging. Love Yourself: Vision Board Workshop Presented by City of Surrey’s Recreation Services team Celebrate what makes you unique! Through creative vision board activities, participants will explore their strengths, build confidence, and set positive goals for the future. Children will leave with a personalized vision board that inspires self-love and growth. Line Dance Presented by City of Surrey’s Recreation Services team Get ready to move, groove and have fun! Participants will learn easy-to-follow line dance steps and routines while moving together to catchy music. No experience is needed, just bring your energy and get ready to build confidence, coordination and teamwork while having a blast! Yoga Presented by City of Surrey’s Recreation Services team Move, breathe and be YOU! Participants will try fun yoga poses, breathing exercises and relaxation activities designed to build confidence, calm and connection.",
       "category": "Sports & wellness",
       "sourceCategories": "Fleetwood Children Recreation",
+      "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "76cceaef38bd3567",
+      "city": "Richmond",
+      "title": "Creative Connections",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19164",
+      "dateLabel": "Saturday, Nov 07, 2026",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "time": "10:00am-2:00pm",
+      "location": "8771 Lansdowne Road",
+      "description": "Your Creative Path. See It In Person. Explore KPU's creative programs in the Faculty of Arts and Wilson School of Design through a variety of activities and interactive experiences. From info sessions and campus tours to workshops, portfolio reviews and an alumni showcase, you’ll have plenty of opportunities to learn and ask questions. More Information This event is for Youth (Ages 13-18) & Adult (Ages 18+) This is an accessible site. This event is free.",
+      "category": "Community & festivals",
+      "sourceCategories": "Special Events - General Open House",
       "price": "Free",
       "isFree": true
     },
@@ -1064,7 +1048,7 @@
       "endDate": "2026-11-14",
       "time": "12:00pm - 4:00pm",
       "location": "Surrey Arts Centre - 13750 88 Ave, Surrey, BC",
-      "description": "Dozens of artists, including current saga shop artists as well as artists from communities in Surrey, will be showcasing their incredible handmade works. Browse ceramics, jewellery, art cards, paintings, photographs, stickers, books for children and adults, linocuts, and more! All saga shop artists and market vendors are members of the Surrey Art Gallery Association (SAGA). I'm so grateful for the opportunity to showcase my work at the saga shop, share it with others, and be part of such a wonderful community of artists. I'm really looking forward to the Heart to Home Holiday Market. It's another opportunity to be part of this incredible and inclusive community and to share what I love doing with others. -Dunia Tozy Longstanding saga shop artist and Gallery artist-educator Murray Sanders will be demonstrating pottery wheel throwing throughout the weekend and also have a table of his pottery for sale. Hosted with the Gallery, this annual market has been supporting the creativity and ingenuity of local artists since 2002. Vendor Types of Art Karen Bosanac Jewellery Asma Burney Paintings Jasmina Charleston Graphic art & illustration cards, stickers, textiles Terry Cummings Jewellery & ceramic sculptures Marian De Gier Jewellery Foxy Verve Atelier Jewellery, fibre arts, prints Katina Giesbrecht Paintings, monoprints, design Karen Kroeker Fibre arts By the Sea Jewellery Jewellery Gordon Rebelato Photographs Sapphorica Creation s Graphic art & illustration cards, stickers Murray Sanders Functional ceramics Wendy Schmidt Wildlife paintings Stephanie Shields Bobbin lace jewellery Dunia Tozy & Ella Davidson Paintings, colouring books, & jewellery Lyn Verra-Lay Fibre arts Nancy Wright Paintings & clocks Ramona Radu Watercolour paintings Sharon Doucette Photographs, cyanotypes Alanna Edwards Jewellery & beading Atheana Picha Weavings, prints, paintings About Surrey Art Gallery Association Surrey Art Gallery Association (SAGA) is a non-profit society that offers its members the opportunity to participate in and respond to contemporary art and be part of a community that actively supports Surrey Art Gallery.",
+      "description": "Dozens of local and BC artists, including current saga shop artists, will be showcasing their incredible handmade works. Browse ceramics, jewellery, art cards, paintings, photographs, stickers, books for children and adults, linocuts, and more! Plus, purchase a limited-edition tote bag by Atheana Picha inspired by West Coast baskets and knitting patterns with all proceeds going to Surrey Art Gallery Association (SAGA). All saga shop artists and market vendors are members of Surrey Art Gallery Association. SAGA members receive a 10% discount, and if visitors are not a member already, they can become one onsite. I'm so grateful for the opportunity to showcase my work at the saga shop, share it with others, and be part of such a wonderful community of artists. I'm really looking forward to the Heart to Home Holiday Market. It's another opportunity to be part of this incredible and inclusive community and to share what I love doing with others. -Dunia Tozy Longstanding saga shop artist and Gallery artist-educator Murray Sanders will be demonstrating pottery wheel throwing throughout the weekend and also have a table of his pottery for sale. Hosted with the Gallery, this annual market has been supporting the creativity and ingenuity of local artists since 2002. Vendor Types of Art Karen Bosanac Jewellery Asma Burney Paintings Jasmina Charleston Graphic art & illustration cards, stickers, textiles Terry Cummings Jewellery & ceramic sculptures Marian De Gier Jewellery Foxy Verve Atelier Jewellery, fibre arts, prints Katina Giesbrecht Paintings, monoprints, design Karen Kroeker Fibre arts By the Sea Jewellery Jewellery Gordon Rebelato Photographs Sapphorica Creation s Graphic art & illustration cards, stickers Murray Sanders Functional ceramics Wendy Schmidt Wildlife paintings Stephanie Shields Bobbin lace jewellery Dunia Tozy & Ella Davidson Paintings, colouring books, & jewellery Lyn Verra-Lay Fibre arts Nancy Wright Paintings & clocks Ramona Radu Watercolour paintings Sharon Doucette Photographs, cyanotypes Alanna Edwards Jewellery & beading Atheana Picha Weavings, prints, paintings About Surrey Art Gallery Association Surrey Art Gallery Association (SAGA) is a non-profit society that offers its members the opportunity to participate in and respond to contemporary art and be part of a community that actively supports Surrey Art Gallery.",
       "category": "Arts & culture",
       "sourceCategories": "Whalley and City Centre Arts & Culture Seniors Surrey Art Gallery Youth",
       "price": "Free",
@@ -1100,6 +1084,22 @@
       "category": "Nature & outdoors",
       "sourceCategories": "Parks & Environment",
       "price": "Drop-in",
+      "isFree": false
+    },
+    {
+      "id": "17a4bc086173cd3b",
+      "city": "Richmond",
+      "title": "Science World's \"On the Road\" Steam Quest Discovery Session - Adult and Child",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19163",
+      "dateLabel": "Saturday, Nov 14, 2026",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-14",
+      "time": "2:30-4:00pm",
+      "location": "9180 No. 1 Rd",
+      "description": "Spark curiosity about STEAM in this interactive session with demonstrations and hands-on activities that make science fun, accessible and relevant to everyday life. Build confidence, explore new ideas and inspire future innovators in this family learning experience. Presented by Science World. Adult participation and registration required for children and adults. More Information This event is for Preschool (Ages 5 and under) & Child (Ages 6-12) This is an accessible site. $18.90",
+      "category": "Learn & create",
+      "sourceCategories": "Meetings / Conventions / Lectures / Workshops Workshops",
+      "price": "",
       "isFree": false
     },
     {
@@ -1144,7 +1144,7 @@
       "endDate": "2026-11-15",
       "time": "12:00pm - 4:00pm",
       "location": "Surrey Arts Centre - 13750 88 Ave, Surrey, BC",
-      "description": "Dozens of artists, including current saga shop artists as well as artists from communities in Surrey, will be showcasing their incredible handmade works. Browse ceramics, jewellery, art cards, paintings, photographs, stickers, books for children and adults, linocuts, and more! All saga shop artists and market vendors are members of the Surrey Art Gallery Association (SAGA). I'm so grateful for the opportunity to showcase my work at the saga shop, share it with others, and be part of such a wonderful community of artists. I'm really looking forward to the Heart to Home Holiday Market. It's another opportunity to be part of this incredible and inclusive community and to share what I love doing with others. -Dunia Tozy Longstanding saga shop artist and Gallery artist-educator Murray Sanders will be demonstrating pottery wheel throwing throughout the weekend and also have a table of his pottery for sale. Hosted with the Gallery, this annual market has been supporting the creativity and ingenuity of local artists since 2002. Vendor Types of Art Karen Bosanac Jewellery Asma Burney Paintings Jasmina Charleston Graphic art & illustration cards, stickers, textiles Terry Cummings Jewellery & ceramic sculptures Marian De Gier Jewellery Foxy Verve Atelier Jewellery, fibre arts, prints Katina Giesbrecht Paintings, monoprints, design Karen Kroeker Fibre arts By the Sea Jewellery Jewellery Gordon Rebelato Photographs Sapphorica Creation s Graphic art & illustration cards, stickers Murray Sanders Functional ceramics Wendy Schmidt Wildlife paintings Stephanie Shields Bobbin lace jewellery Dunia Tozy & Ella Davidson Paintings, colouring books, & jewellery Lyn Verra-Lay Fibre arts Nancy Wright Paintings & clocks Ramona Radu Watercolour paintings Sharon Doucette Photographs, cyanotypes Alanna Edwards Jewellery & beading Atheana Picha Weavings, prints, paintings About Surrey Art Gallery Association Surrey Art Gallery Association (SAGA) is a non-profit society that offers its members the opportunity to participate in and respond to contemporary art and be part of a community that actively supports Surrey Art Gallery.",
+      "description": "Dozens of local and BC artists, including current saga shop artists, will be showcasing their incredible handmade works. Browse ceramics, jewellery, art cards, paintings, photographs, stickers, books for children and adults, linocuts, and more! Plus, purchase a limited-edition tote bag by Atheana Picha inspired by West Coast baskets and knitting patterns with all proceeds going to Surrey Art Gallery Association (SAGA). All saga shop artists and market vendors are members of Surrey Art Gallery Association. SAGA members receive a 10% discount, and if visitors are not a member already, they can become one onsite. I'm so grateful for the opportunity to showcase my work at the saga shop, share it with others, and be part of such a wonderful community of artists. I'm really looking forward to the Heart to Home Holiday Market. It's another opportunity to be part of this incredible and inclusive community and to share what I love doing with others. -Dunia Tozy Longstanding saga shop artist and Gallery artist-educator Murray Sanders will be demonstrating pottery wheel throwing throughout the weekend and also have a table of his pottery for sale. Hosted with the Gallery, this annual market has been supporting the creativity and ingenuity of local artists since 2002. Vendor Types of Art Karen Bosanac Jewellery Asma Burney Paintings Jasmina Charleston Graphic art & illustration cards, stickers, textiles Terry Cummings Jewellery & ceramic sculptures Marian De Gier Jewellery Foxy Verve Atelier Jewellery, fibre arts, prints Katina Giesbrecht Paintings, monoprints, design Karen Kroeker Fibre arts By the Sea Jewellery Jewellery Gordon Rebelato Photographs Sapphorica Creation s Graphic art & illustration cards, stickers Murray Sanders Functional ceramics Wendy Schmidt Wildlife paintings Stephanie Shields Bobbin lace jewellery Dunia Tozy & Ella Davidson Paintings, colouring books, & jewellery Lyn Verra-Lay Fibre arts Nancy Wright Paintings & clocks Ramona Radu Watercolour paintings Sharon Doucette Photographs, cyanotypes Alanna Edwards Jewellery & beading Atheana Picha Weavings, prints, paintings About Surrey Art Gallery Association Surrey Art Gallery Association (SAGA) is a non-profit society that offers its members the opportunity to participate in and respond to contemporary art and be part of a community that actively supports Surrey Art Gallery.",
       "category": "Arts & culture",
       "sourceCategories": "Whalley and City Centre Arts & Culture Seniors Surrey Art Gallery Youth",
       "price": "Free",
@@ -1311,6 +1311,22 @@
       "isFree": true
     },
     {
+      "id": "195dba2214a8eec5",
+      "city": "Richmond",
+      "title": "12th Annual Richmond RCMP Toy Drive",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19157",
+      "dateLabel": "Saturday, Nov 21, 2026",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
+      "time": "9:00am-2:00pm",
+      "location": "5300 No. 3 Rd",
+      "description": "Powered by holiday magic and community spirit, this annual toy drive returns! As always, when you bring a new, unwrapped toy for the Richmond Christmas Fund, or make a minimum $10 donation, you'll receive a bag of Santa's favourite mini donuts. Just don't let him eat them all first! More Information This event is for All Ages. This is an accessible site. This event is free.",
+      "category": "Community & festivals",
+      "sourceCategories": "Christmas Events Social / Community Event",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "5c6f3cad02d61c0a",
       "city": "Surrey",
       "title": "Christmas Wreath Workshop",
@@ -1375,6 +1391,22 @@
       "isFree": true
     },
     {
+      "id": "14170afec7448ea5",
+      "city": "Surrey",
+      "title": "Surrey Tree Lighting Festival & Holiday Market 2026",
+      "url": "https://www.surrey.ca/news-events/events/surrey-tree-lighting-festival-holiday-market-2026",
+      "dateLabel": "November 21, 2026",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
+      "time": "12:00pm - 8:00pm",
+      "location": "Surrey Civic Plaza, 13450 104 Avenue, Surrey, BC",
+      "description": "The 16th annual Surrey Tree Lighting Festival & Holiday Market returns with free outdoor ice skating rink. Presented by Concord Pacific, the two-day celebration features free entertainment, family activities, and the season’s first tree lighting! The festival will feature a full lineup of free activities and attractions, including: • The official tree lighting ceremony at 6:30pm on November 21. • Photos with Santa on both days with online reservations opening in early November. • Family-friendly activities including letters to Santa, holiday crafts and ice skating with complementary skate and helmet rentals. • A Holiday Market featuring over 30 local vendors in the City Hall Atrium. • Live entertainment across four stages. • Ferris wheel and amusement rides. • A spectacular fire show on Sunday evening. For more information, visit surreytreelighting.ca",
+      "category": "Community & festivals",
+      "sourceCategories": "Whalley and City Centre Festivals",
+      "price": "Free!",
+      "isFree": true
+    },
+    {
       "id": "d427b05e42e834bf",
       "city": "Surrey",
       "title": "Weaving with Memories: Media Arts Symposium",
@@ -1420,6 +1452,22 @@
       "category": "Learn & create",
       "sourceCategories": "Newton Community-Hosted",
       "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "fdd97853e4d55857",
+      "city": "Surrey",
+      "title": "Surrey Tree Lighting Festival & Holiday Market 2026",
+      "url": "https://www.surrey.ca/news-events/events/surrey-tree-lighting-festival-holiday-market-2026",
+      "dateLabel": "November 22, 2026",
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-22",
+      "time": "12:00pm - 8:00pm",
+      "location": "Surrey Civic Plaza, 13450 104 Avenue, Surrey, BC",
+      "description": "The 16th annual Surrey Tree Lighting Festival & Holiday Market returns with free outdoor ice skating rink. Presented by Concord Pacific, the two-day celebration features free entertainment, family activities, and the season’s first tree lighting! The festival will feature a full lineup of free activities and attractions, including: • The official tree lighting ceremony at 6:30pm on November 21. • Photos with Santa on both days with online reservations opening in early November. • Family-friendly activities including letters to Santa, holiday crafts and ice skating with complementary skate and helmet rentals. • A Holiday Market featuring over 30 local vendors in the City Hall Atrium. • Live entertainment across four stages. • Ferris wheel and amusement rides. • A spectacular fire show on Sunday evening. For more information, visit surreytreelighting.ca",
+      "category": "Community & festivals",
+      "sourceCategories": "Whalley and City Centre Festivals",
+      "price": "Free!",
       "isFree": true
     },
     {
@@ -2311,22 +2359,6 @@
       "startDate": "2027-03-13",
       "endDate": "2027-03-13",
       "time": "3:30pm - 4:30pm",
-      "location": "Main Stage at Surrey Arts Centre 13750 88 Avenue",
-      "description": "By Carousel Theatre for Young People This is the endearing classic about a mild-mannered mouse named Stuart Little who is born into an ordinary New York family. All the charm and joy of the original book by E.B. White are captured in this adaptation for the stage by Joseph Robinette. With music, playful storytelling, and a versatile ensemble, you'll join Stuart Little on a charming adventure that celebrates courage, curiosity and the joy of finding your place in the world—no matter your size. For ages 3+. Get tickets About Carousel Theatre Carousel Theatre for Young People (est. 1976) empowers young people and families through playful, imaginative and accessible theatre experiences that develop emotional literacy. CTYP uses theatre arts to inspire, support and encourage the healthy development of young people in their journey to become healthy, confident, well rounded, compassionate human beings. We envision a community that empowers young people to be imaginative, expressive and engaged. Located on Granville Island, we are a gathering place for artists and young people at the crossroads of imagination and possibility.",
-      "category": "Arts & culture",
-      "sourceCategories": "Whalley and City Centre Arts & Culture Children Surrey Civic Theatres",
-      "price": "Tickets: $42 Buy four or more tickets to this performance and save 15% Get tickets",
-      "isFree": false
-    },
-    {
-      "id": "884605a23dc3fc6e",
-      "city": "Surrey",
-      "title": "Stuart Little",
-      "url": "https://www.surrey.ca/news-events/events/stuart-little",
-      "dateLabel": "March 13, 2027",
-      "startDate": "2027-03-13",
-      "endDate": "2027-03-13",
-      "time": "7:00pm - 8:00pm",
       "location": "Main Stage at Surrey Arts Centre 13750 88 Avenue",
       "description": "By Carousel Theatre for Young People This is the endearing classic about a mild-mannered mouse named Stuart Little who is born into an ordinary New York family. All the charm and joy of the original book by E.B. White are captured in this adaptation for the stage by Joseph Robinette. With music, playful storytelling, and a versatile ensemble, you'll join Stuart Little on a charming adventure that celebrates courage, curiosity and the joy of finding your place in the world—no matter your size. For ages 3+. Get tickets About Carousel Theatre Carousel Theatre for Young People (est. 1976) empowers young people and families through playful, imaginative and accessible theatre experiences that develop emotional literacy. CTYP uses theatre arts to inspire, support and encourage the healthy development of young people in their journey to become healthy, confident, well rounded, compassionate human beings. We envision a community that empowers young people to be imaginative, expressive and engaged. Located on Granville Island, we are a gathering place for artists and young people at the crossroads of imagination and possibility.",
       "category": "Arts & culture",
