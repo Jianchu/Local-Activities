@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-24T09:41:48-07:00",
+  "updatedAt": "2026-10-25T10:05:41-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-10-24T09:41:48-07:00",
+      "updatedAt": "2026-10-25T10:05:41-07:00",
       "status": "ok",
-      "count": 156
+      "count": 149
     },
     "Richmond": {
-      "updatedAt": "2026-10-24T09:41:48-07:00",
+      "updatedAt": "2026-10-25T10:05:41-07:00",
       "status": "ok",
-      "count": 17
+      "count": 16
     }
   },
   "events": [
@@ -63,86 +63,6 @@
       "isFree": false
     },
     {
-      "id": "ae928bfac3088d39",
-      "city": "Surrey",
-      "title": "BOO-seum Halloween Party",
-      "url": "https://www.surrey.ca/arts-culture/museum-of-surrey/whats-on/boo-seum-halloween-party",
-      "dateLabel": "October 24, 2026",
-      "startDate": "2026-10-24",
-      "endDate": "2026-10-24",
-      "time": "1:00pm - 4:00pm",
-      "location": "17710 56a Ave, Surrey, BC",
-      "description": "A spooky celebration! Get into the Halloween spirit at BOO-seum — a free family-friendly Halloween party! Event highlights: Snap a special Halloween photo with Klaro Phototainment Create two Halloween-themed crafts Play BOO Bingo Catch spooky performances by the Re-enactors in the theatre (select times between 1:00–3:30pm) Show off your best look in the Costume Parade and take pictures with special characters from Royal Court Princess Parties If you are looking for more of a quiet celebration, we will be hosting a Sensory Trick or Treat on Friday, October 30 from 4:00-8:00pm.",
-      "category": "Arts & culture",
-      "sourceCategories": "Cloverdale Children Museum of Surrey",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "25d29a22a9845f4d",
-      "city": "Surrey",
-      "title": "Bird Walks",
-      "url": "https://www.surrey.ca/news-events/events/bird-walks",
-      "dateLabel": "October 24, 2026",
-      "startDate": "2026-10-24",
-      "endDate": "2026-10-24",
-      "time": "8:30am - 10:30am",
-      "location": "Blackie Spit Park; 3136 McBride Ave, Surrey, BC",
-      "description": "What to expect Improve your bird identification skills Learn how to use iNaturalist as a data collection tool Discover how you can help protect wildlife in this park Come prepared Dress for the weather Bring a pair of binoculars or borrow one of ours Meet at the kiosk at the north end of the gravel parking lot Leave your dog at home Pre-registration required Upcoming adult walks Date Time Age group Sat, Oct 24 8:30-10:30am Ages 13+ Upcoming family-friendly, all ages walks Date Time Age group Sat, Oct 24 11am-12pm All ages Register",
-      "category": "Nature & outdoors",
-      "sourceCategories": "South Surrey Parks & Environment",
-      "price": "Free!",
-      "isFree": true
-    },
-    {
-      "id": "d238d669de5a97fa",
-      "city": "Surrey",
-      "title": "Bird Walks",
-      "url": "https://www.surrey.ca/news-events/events/bird-walks",
-      "dateLabel": "October 24, 2026",
-      "startDate": "2026-10-24",
-      "endDate": "2026-10-24",
-      "time": "11:00am - 12:00pm",
-      "location": "Blackie Spit Park; 3136 McBride Ave, Surrey, BC",
-      "description": "What to expect Improve your bird identification skills Learn how to use iNaturalist as a data collection tool Discover how you can help protect wildlife in this park Come prepared Dress for the weather Bring a pair of binoculars or borrow one of ours Meet at the kiosk at the north end of the gravel parking lot Leave your dog at home Pre-registration required Upcoming adult walks Date Time Age group Sat, Oct 24 8:30-10:30am Ages 13+ Upcoming family-friendly, all ages walks Date Time Age group Sat, Oct 24 11am-12pm All ages Register",
-      "category": "Nature & outdoors",
-      "sourceCategories": "South Surrey Parks & Environment",
-      "price": "Free!",
-      "isFree": true
-    },
-    {
-      "id": "b4ad89e090b835b4",
-      "city": "Surrey",
-      "title": "Family Halloween Event at Newton Seniors Centre",
-      "url": "https://www.surrey.ca/news-events/events/family-halloween-event-newton-seniors-centre",
-      "dateLabel": "October 24, 2026",
-      "startDate": "2026-10-24",
-      "endDate": "2026-10-24",
-      "time": "9:30am - 11:00am",
-      "location": "Newton Seniors Centre, 13775 70 Ave, Surrey, BC",
-      "description": "Join us for a family-friendly Halloween celebration filled with treats, arts and crafts, games, and more! Costumes are welcome and encouraged, so dress up and come ready for some Halloween fun. This free, drop-in event is open to all ages—no registration required. Families with little ones can also enjoy craft goodie bags and bouncy castles specially set up for children ages 1–5. Bring the whole family and celebrate Halloween with us! For questions or more information, please contact the Newton Recreation Centre at 604-501-5540 .",
-      "category": "Sports & wellness",
-      "sourceCategories": "Newton Children Recreation",
-      "price": "Free, drop-in.",
-      "isFree": true
-    },
-    {
-      "id": "11e6ab8cd40cc5c0",
-      "city": "Richmond",
-      "title": "Gallery of Horrors - Halloween Community Fundraiser",
-      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19148",
-      "dateLabel": "Saturday, Oct 24, 2026",
-      "startDate": "2026-10-24",
-      "endDate": "2026-10-24",
-      "time": "5:00-8:00pm",
-      "location": "Location not published — check event link",
-      "description": "The Arts Conservatory invites Richmond families and community members to come together for Gallery of Horrors, our annual family-friendly Halloween fundraiser in support of Jeremy’s Memorial Foundation. This year’s event brings our community together for an evening of Halloween fun while raising awareness and funds to support those affected by domestic violence. 100% of event proceeds will be donated to Jeremy’s Memorial Foundation, supporting its work with women’s shelters and helping provide essential resources to women and families seeking safety and a fresh start. Admission is free, and families of all ages are welcome to come in costume and enjoy trick-or-treating, Halloween arts and crafts, dancing and a photo booth at no cost. Additional activities include carnival games, face and airbrush art, balloons, food and refreshments available for purchase, as well as a haunted house by donation. Join us for an evening of community, giving and Halloween fun while helping support an important cause in our community. October 24, 5:00-8:00pm Free Admission All Ages Welcome 100% of proceeds benefit Jeremy’s Memorial Foundation. More Information This event is for Child (Ages 6-12) This is an accessible site. This event is free.",
-      "category": "Arts & culture",
-      "sourceCategories": "Halloween Events Social / Community Event",
-      "price": "Free",
-      "isFree": true
-    },
-    {
       "id": "88367edb8d363170",
       "city": "Richmond",
       "title": "Halloween Hoot",
@@ -156,38 +76,6 @@
       "category": "Arts & culture",
       "sourceCategories": "Culture Days Social / Community Event",
       "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "a9bb4ec01cc41081",
-      "city": "Surrey",
-      "title": "Metro Vancouver Black Business Expo 2026",
-      "url": "https://www.surrey.ca/news-events/events/metro-vancouver-black-business-expo-2026",
-      "dateLabel": "October 24, 2026",
-      "startDate": "2026-10-24",
-      "endDate": "2026-10-24",
-      "time": "12:00pm - 4:00pm",
-      "location": "Surrey City Hall, 13450 104 Ave, Surrey, BC",
-      "description": "Join us for the 5th Edition of the Metro Vancouver Black Business Expo on Saturday, October 24, 2026 at Surrey City Hall! Hosted by the Yoruba Social and Cultural Association of BC in partnership with the Surrey & White Rock Board of Trade, this annual event celebrates Black entrepreneurship, innovation, culture, and economic empowerment across British Columbia and beyond. The Expo provides an exciting platform for Black-owned businesses to showcase their products and services, connect with potential customers, build brand visibility, and network with entrepreneurs, community leaders, and organizations. Attendees will also learn about programs, resources, and services available to support Black-owned businesses and entrepreneurs. This family-friendly event will feature exhibitors, networking opportunities, community organizations, cultural showcases, business resources, and more. Admission is FREE and open to the public. Come celebrate entrepreneurship, community, diversity, and business excellence with us! Learn more",
-      "category": "Community & festivals",
-      "sourceCategories": "Whalley and City Centre Community-Hosted",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "88e1fec6100f7357",
-      "city": "Surrey",
-      "title": "Spooktacular Newton",
-      "url": "https://www.surrey.ca/news-events/events/spooktacular-newton",
-      "dateLabel": "October 24, 2026",
-      "startDate": "2026-10-24",
-      "endDate": "2026-10-24",
-      "time": "11:00am - 4:00pm",
-      "location": "7380 King George Blvd, Surrey, BC",
-      "description": "Spooktacular Newton returns this year for another spook-filled day. Prepare for a day of activities, trick-or-treating, and entertainment! Don't forget to grab a pumpkin, by donation to Surrey Food Bank! Spooktacular Newton is Surrey's only free, family-friendly Halloween street festival; join us on October 24 and be sure to come in your costume! Learn more",
-      "category": "Community & festivals",
-      "sourceCategories": "Newton Community-Hosted",
-      "price": "Free!",
       "isFree": true
     },
     {
@@ -1340,22 +1228,6 @@
       "category": "Community & festivals",
       "sourceCategories": "Whalley and City Centre Festivals",
       "price": "Free!",
-      "isFree": true
-    },
-    {
-      "id": "d427b05e42e834bf",
-      "city": "Surrey",
-      "title": "Weaving with Memories: Media Arts Symposium",
-      "url": "https://www.surrey.ca/news-events/events/weaving-memories-media-arts-symposium",
-      "dateLabel": "November 21, 2026",
-      "startDate": "2026-11-21",
-      "endDate": "2026-11-21",
-      "time": "1:00pm - 4:00pm",
-      "location": "Surrey Art Gallery, 13750 88 Ave, Surrey, BC",
-      "description": "Join us for engaging dialogue and inspiring artmaking in connection with the exhibits Farheen Haq and Russna Kaur: In the Folds of Memory and tender threads , co-convened by Manjot Bains. Farheen Haq will share a new media work based on a ghazal that incorporates text and moving images alongside a poetic recitation. Jonathan Alfaro and Sena Cleave of tender threads will help participants create their own artworks using found fabric and materials.",
-      "category": "Arts & culture",
-      "sourceCategories": "Whalley and City Centre Arts & Culture Surrey Art Gallery",
-      "price": "Free",
       "isFree": true
     },
     {
