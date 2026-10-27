@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-26T12:23:40-07:00",
+  "updatedAt": "2026-10-27T11:45:33-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-10-26T12:23:40-07:00",
+      "updatedAt": "2026-10-27T11:45:33-07:00",
       "status": "ok",
       "count": 159
     },
     "Richmond": {
-      "updatedAt": "2026-10-26T12:23:40-07:00",
+      "updatedAt": "2026-10-27T11:45:33-07:00",
       "status": "ok",
-      "count": 16
+      "count": 19
     }
   },
   "events": [
@@ -168,7 +168,7 @@
       "endDate": "2026-10-30",
       "time": "7:30pm - 9:00pm",
       "location": "Main Stage at Surrey Arts Centre, 13750 88 Avenue, Surrey. BC",
-      "description": "You know her and love her—it's Debra DiGiovanni! Enjoy a night to remember listening to her hilarious take on life. Sure to have you in stitches! Get tickets About Debra DiGiovanni A beloved multiple award-winning comedian who started her career in Toronto where she was a regular on MuchMusic's Video on Trial and The Debaters . Now based in Los Angeles she tours constantly and recently performed on The Tonight Show Starring Jimmy Fallon. She was a finalist on NBC's Last Comic Standing and has specials on Netflix, Amazon Prime and Crave.",
+      "description": "You know her and love her—it's Debra DiGiovanni! Enjoy a night to remember listening to her hilarious take on life. Sure to have you in stitches! Audience Advisory: strong language and mature content. Get tickets About Debra DiGiovanni A beloved multiple award-winning comedian who started her career in Toronto where she was a regular on MuchMusic's Video on Trial and The Debaters . Now based in Los Angeles she tours constantly and recently performed on The Tonight Show Starring Jimmy Fallon. She was a finalist on NBC's Last Comic Standing and has specials on Netflix, Amazon Prime and Crave.",
       "category": "Arts & culture",
       "sourceCategories": "Whalley and City Centre Arts & Culture Surrey Civic Theatres",
       "price": "Tickets: $50",
@@ -221,6 +221,22 @@
       "sourceCategories": "Cloverdale Children Museum of Surrey",
       "price": "Free",
       "isFree": true
+    },
+    {
+      "id": "58ac75015cfec4da",
+      "city": "Richmond",
+      "title": "Spooktacular Halloween Family Skate",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19166",
+      "dateLabel": "Friday, Oct 30, 2026",
+      "startDate": "2026-10-30",
+      "endDate": "2026-10-30",
+      "time": "6:45-8:00pm",
+      "location": "7551 Minoru Gate",
+      "description": "Drop in and glide to the beat with fun tunes - including spooky Halloween hits! Wear your costume and get free skate rentals. More Information This event is for All Ages. This is an accessible site. Regular admission rates. Wear a costume and receive free skate rentals.",
+      "category": "Community & festivals",
+      "sourceCategories": "Halloween Events Skating",
+      "price": "",
+      "isFree": false
     },
     {
       "id": "e27bd9dd9f0eee35",
@@ -303,6 +319,22 @@
       "isFree": false
     },
     {
+      "id": "02190627799b1250",
+      "city": "Richmond",
+      "title": "Spooktacular Halloween Family Skate",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19167",
+      "dateLabel": "Saturday, Oct 31, 2026",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "time": "2:00-5:00pm",
+      "location": "7551 Minoru Gate",
+      "description": "Drop in and glide to the beat with fun tunes - including spooky Halloween hits! Wear your costume and get free skate rentals. More Information This event is for All Ages. This is an accessible site. Regular admission rates. Wear a costume and get free skate rentals.",
+      "category": "Community & festivals",
+      "sourceCategories": "Halloween Events Skating",
+      "price": "",
+      "isFree": false
+    },
+    {
       "id": "0b038c58db050e20",
       "city": "Surrey",
       "title": "Tommie’s Jerk's 4th Annual Trunk or Treat",
@@ -317,6 +349,22 @@
       "sourceCategories": "Newton Community-Hosted",
       "price": "Free",
       "isFree": true
+    },
+    {
+      "id": "26ff01e40fbdb97d",
+      "city": "Richmond",
+      "title": "Spooktacular Halloween Family Skate",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19168",
+      "dateLabel": "Sunday, Nov 01, 2026",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-01",
+      "time": "2:00-5:00pm",
+      "location": "7551 Minoru Gate",
+      "description": "Drop in and glide to the beat with fun tunes - including spooky Halloween hits! Wear your costume and get free skate rentals. More Information This event is for All Ages. This is an accessible site. Regular admission rates. Wear a costume and a get free skate rentals.",
+      "category": "Community & festivals",
+      "sourceCategories": "Halloween Events Skating",
+      "price": "",
+      "isFree": false
     },
     {
       "id": "3466fde07a582a29",
