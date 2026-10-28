@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-27T11:45:33-07:00",
+  "updatedAt": "2026-10-28T11:55:16-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-10-27T11:45:33-07:00",
+      "updatedAt": "2026-10-28T11:55:16-07:00",
       "status": "ok",
       "count": 159
     },
     "Richmond": {
-      "updatedAt": "2026-10-27T11:45:33-07:00",
+      "updatedAt": "2026-10-28T11:55:16-07:00",
       "status": "ok",
       "count": 19
     }
@@ -77,54 +77,6 @@
       "sourceCategories": "Halloween Events Social / Community Event",
       "price": "",
       "isFree": false
-    },
-    {
-      "id": "12a2d5d4d6ad39fb",
-      "city": "Surrey",
-      "title": "Make Your Own Emergency Kit Workshop (55+)",
-      "url": "https://www.surrey.ca/news-events/events/make-your-own-emergency-kit-workshop-55",
-      "dateLabel": "October 27, 2026",
-      "startDate": "2026-10-27",
-      "endDate": "2026-10-27",
-      "time": "2:00pm - 5:00pm",
-      "location": "Various locations",
-      "description": "This hands-on session will empower you with the knowledge and tools to stay safe and prepared in case of an emergency. South Surrey Recreation and Arts Centre Date: October 27, 2026 Time: 2-4pm Room: Multipurpose room 1 Address: 14601 20 Ave, Surrey, BC V4A 9P5 Register",
-      "category": "Learn & create",
-      "sourceCategories": "Seniors",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "13c6aa560edf9847",
-      "city": "Surrey",
-      "title": "Positively Parenting Workshop Series",
-      "url": "https://www.surrey.ca/news-events/events/positively-parenting-workshop-series",
-      "dateLabel": "October 27, 2026",
-      "startDate": "2026-10-27",
-      "endDate": "2026-10-27",
-      "time": "6:00pm - 7:30pm",
-      "location": "South Surrey Recreation and Arts Center, 14601 20 Avenue, Surrey, BC",
-      "description": "Positively Parenting is an interactive and informative series for parents and caregivers of children 5 to 12 years old. The 4-week series offers an opportunity to explore the power of connection and how it can support in day-to-day parenting. Over the course of the series, topics reviewed include: Keeping in Connection at All Ages Making Sense of Behaviours Feelings and the Brain Problem Solving Approaches This series aims to provide practical strategies and helpful resources to support learning and thinking about parenting today. How to register To register or for more information, call Alex Neighbourhood House at 778-239-5960 or email [email protected] . Limited childminding spots are available. Please enquire during registration.",
-      "category": "Learn & create",
-      "sourceCategories": "South Surrey",
-      "price": "Free, registration required.",
-      "isFree": true
-    },
-    {
-      "id": "942781173ffafaf2",
-      "city": "Surrey",
-      "title": "Seniors Open Houses",
-      "url": "https://www.surrey.ca/news-events/events/seniors-open-houses",
-      "dateLabel": "October 27, 2026",
-      "startDate": "2026-10-27",
-      "endDate": "2026-10-27",
-      "time": "11:30am - 1:00pm",
-      "location": "Various locations",
-      "description": "Discover what makes Surrey’s seniors programs and spaces vibrant hubs for community and creativity. Join us for Open House events at six locations – featuring activities, refreshments, entertainment, and opportunities to shape future programs and services. Upcoming open houses: September 11, 2026 Newton Seniors Centre 13775 70 Ave Surrey, BC 11:30am-1:30pm October 6, 2026 Cloverdale Recreation Centre 6188 - 176th Street Surrey, BC 1:00pm-3:00pm October 21, 2026 Chuck Bailey Recreation Centre 13458 107A Avenue Surrey, BC 11:00am-1:00pm October 27, 2026 South Surrey Recreation & Arts Centre 14601 - 20 Avenue Surrey, BC 11:30am-1:00pm November 12, 2026 Guildford Recreation Centre 15105 - 105 Avenue Surrey, BC 12:00pm-2:00pm November 17, 2026 Fleetwood Community Centre 15996 - 84 Avenue Surrey, BC 12:00pm-2:00pm",
-      "category": "Community & festivals",
-      "sourceCategories": "Guildford Seniors",
-      "price": "Free",
-      "isFree": true
     },
     {
       "id": "43350dff49b16751",
@@ -623,6 +575,22 @@
       "isFree": true
     },
     {
+      "id": "90e6abddfcbeb445",
+      "city": "Surrey",
+      "title": "Artist in Residence Carving Open House",
+      "url": "https://www.surrey.ca/news-events/events/artist-residence-carving-open-house",
+      "dateLabel": "November 8, 2026",
+      "startDate": "2026-11-08",
+      "endDate": "2026-11-08",
+      "time": "11:00am - 4:00pm",
+      "location": "Totest Aleng: Indigenous Learning House, 13723 Crescent Road, Surrey, BC",
+      "description": "A unique carving experience Meet Totest Aleng’s Artist in Residence, James Groening (Blue Sky) , a Cree artist from Kahkewistahaw First Nation. Explore his vibrant paintings, carving projects, and works in progress as he explores connections between Cree and Coast Salish artistic traditions. Throughout the day, James will be joined by fellow Indigenous carvers he has invited to share in the experience, offering visitors the opportunity to witness carving demonstrations, engage with multiple artists, and learn through cultural knowledge sharing. Guest carvers Ryan Hughes - Ryan Hughes is an urban Indigenous youth in the City of Surrey and is from the Snuneymuxw Nation. He is an up-and-coming multi-hyphenate artist who is honing his skills in wood carving, digital art, shading and colouring, as well as some painting. Hughes is mentored by Chris Sparrow and John Velton who teaching him technical skills in wood carving and digital art. KC Hall - KC Hall was born in Bella Bella, BC, He is the grandson of hereditary Chief Irene (Wakas) Brown. In high school, KC developed a passion for handwriting, lettering, and graffiti. After graduating from high school, he began creating work on a larger scale. In 2012, KC studied with Nisga’a artist Robert Tait in the Northwest Coast Jewellery Arts Program at Native Education College in Vancouver. Chris Sparrow - Chris Sparrow is a Coast Salish artist from xʷməθkʷəy̓əm (Musqueam First Nation). He is renowned for his exceptional carving skills and dedication to preserving and sharing traditional Salish art. Born and raised in Vancouver, Chris learned the traditional art of carving—woodcarving, mask-making, and house posts—from his late father, master carver Irving Sparrow. He mastered many rare techniques, including carving delicate contours without splitting the wood, which requires anywhere from six months to a year to complete. Jay Simeon - Jay Simeon (born 1976 in Fort McLeod, Alberta) is of Blackfoot and Haida ancestry, belonging to the Kaawaas branch of the Sdast’a.aas Eagle clan. He began apprenticing with his aunt, renowned Haida artist Sharon Hitchcock, at age 14 and later learned jewellery-making from Dwayne Simeon while continuing his study of Northwest Coast design. Working across serigraphy, sculpture, masks, panels, and carving, Simeon has demonstrated exceptional versatility and skill. He is especially celebrated for his intricate jewellery in gold, silver, bone, and argillite, establishing himself as a leading figure in contemporary Northwest Coast design.",
+      "category": "Arts & culture",
+      "sourceCategories": "South Surrey Arts & Culture Heritage Totest Aleng",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "7db5382c29fca505",
       "city": "Surrey",
       "title": "Live Music at Bear Creek Lights",
@@ -952,7 +920,7 @@
       "endDate": "2026-11-14",
       "time": "12:00pm - 4:00pm",
       "location": "Surrey Arts Centre - 13750 88 Ave, Surrey, BC",
-      "description": "Dozens of local and BC artists, including current saga shop artists, will be showcasing their incredible handmade works. Browse ceramics, jewellery, art cards, paintings, photographs, stickers, books for children and adults, linocuts, and more! Plus, purchase a limited-edition tote bag by Atheana Picha inspired by West Coast baskets and knitting patterns with all proceeds going to Surrey Art Gallery Association (SAGA). All saga shop artists and market vendors are members of Surrey Art Gallery Association. SAGA members receive a 10% discount, and if visitors are not a member already, they can become one onsite. I'm so grateful for the opportunity to showcase my work at the saga shop, share it with others, and be part of such a wonderful community of artists. I'm really looking forward to the Heart to Home Holiday Market. It's another opportunity to be part of this incredible and inclusive community and to share what I love doing with others. -Dunia Tozy Longstanding saga shop artist and Gallery artist-educator Murray Sanders will be demonstrating pottery wheel throwing throughout the weekend and also have a table of his pottery for sale. Hosted with the Gallery, this annual market has been supporting the creativity and ingenuity of local artists since 2002. Vendor Types of Art Karen Bosanac Jewellery Asma Burney Paintings Jasmina Charleston Graphic art & illustration cards, stickers, textiles Terry Cummings Jewellery & ceramic sculptures Marian De Gier Jewellery Foxy Verve Atelier Jewellery, fibre arts, prints Katina Giesbrecht Paintings, monoprints, design Karen Kroeker Fibre arts By the Sea Jewellery Jewellery Gordon Rebelato Photographs Sapphorica Creation s Graphic art & illustration cards, stickers Murray Sanders Functional ceramics Wendy Schmidt Wildlife paintings Stephanie Shields Bobbin lace jewellery Dunia Tozy & Ella Davidson Paintings, colouring books, & jewellery Lyn Verra-Lay Fibre arts Nancy Wright Paintings & clocks Ramona Radu Watercolour paintings Sharon Doucette Photographs, cyanotypes Alanna Edwards Jewellery & beading Atheana Picha Weavings, prints, paintings About Surrey Art Gallery Association Surrey Art Gallery Association (SAGA) is a non-profit society that offers its members the opportunity to participate in and respond to contemporary art and be part of a community that actively supports Surrey Art Gallery.",
+      "description": "Dozens of local and BC artists, including current saga shop artists, will be showcasing their incredible handmade works. Browse ceramics, jewellery, art cards, paintings, photographs, stickers, books for children and adults, linocuts, and more! Plus, purchase a limited-edition tote bag by Atheana Picha inspired by West Coast baskets and knitting patterns with all proceeds going to Surrey Art Gallery Association (SAGA). All saga shop artists and market vendors are members of Surrey Art Gallery Association. SAGA members receive a 10% discount, and if visitors are not a member already, they can become one onsite. I'm so grateful for the opportunity to showcase my work at the saga shop, share it with others, and be part of such a wonderful community of artists. I'm really looking forward to the Heart to Home Holiday Market. It's another opportunity to be part of this incredible and inclusive community and to share what I love doing with others. -Dunia Tozy Longstanding saga shop artist and Gallery artist-educator Murray Sanders will be demonstrating pottery wheel throwing throughout the weekend and also have a table of his pottery for sale. Hosted with the Gallery, this annual market has been supporting the creativity and ingenuity of local artists since 2002. Vendor Types of Art Karen Bosanac Jewellery Asma Burney Paintings Jasmina Charleston Graphic art & illustration cards, stickers, textiles Terry Cummings Jewellery & ceramic sculptures Marian De Gier Jewellery Foxy Verve Atelier Jewellery, fibre arts, prints By the Sea Jewellery Jewellery Gordon Rebelato Photographs Sapphorica Creation s Graphic art & illustration cards, stickers Murray Sanders Functional ceramics Wendy Schmidt Wildlife paintings Stephanie Shields Bobbin lace jewellery Dunia Tozy & Ella Davidson Paintings, colouring books, & jewellery Lyn Verra-Lay Fibre arts Nancy Wright Paintings & clocks Ramona Radu Watercolour paintings Sharon Doucette Photographs, cyanotypes Alanna Edwards Jewellery & beading Atheana Picha Weavings, prints, paintings About Surrey Art Gallery Association Surrey Art Gallery Association (SAGA) is a non-profit society that offers its members the opportunity to participate in and respond to contemporary art and be part of a community that actively supports Surrey Art Gallery.",
       "category": "Arts & culture",
       "sourceCategories": "Whalley and City Centre Arts & Culture Seniors Surrey Art Gallery Youth",
       "price": "Free",
@@ -1055,6 +1023,22 @@
       "isFree": false
     },
     {
+      "id": "739a3b9143e0894f",
+      "city": "Surrey",
+      "title": "Diwali Fest's Diwali in Surrey",
+      "url": "https://www.surrey.ca/news-events/events/diwali-fests-diwali-surrey",
+      "dateLabel": "November 15, 2026",
+      "startDate": "2026-11-15",
+      "endDate": "2026-11-15",
+      "time": "2:00pm - 5:00pm",
+      "location": "Surrey City Hall, 13450 104 Ave, Surrey, BC",
+      "description": "Experience a unique fusion of classical and contemporary sounds, traditional and modern dance, and artistic performances that celebrate the beauty and diversity of South Asian culture at Diwali Fest's Mehfil inspired celebration. Gather with family and friends, enjoy an evening of incredible talent and entertainment, and immerse yourself in the joy, connection, and festive spirit of Diwali. Learn more",
+      "category": "Community & festivals",
+      "sourceCategories": "Whalley and City Centre Community-Hosted",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "96ad9bccd0dca17c",
       "city": "Surrey",
       "title": "Heart to Home Holiday Market",
@@ -1064,7 +1048,7 @@
       "endDate": "2026-11-15",
       "time": "12:00pm - 4:00pm",
       "location": "Surrey Arts Centre - 13750 88 Ave, Surrey, BC",
-      "description": "Dozens of local and BC artists, including current saga shop artists, will be showcasing their incredible handmade works. Browse ceramics, jewellery, art cards, paintings, photographs, stickers, books for children and adults, linocuts, and more! Plus, purchase a limited-edition tote bag by Atheana Picha inspired by West Coast baskets and knitting patterns with all proceeds going to Surrey Art Gallery Association (SAGA). All saga shop artists and market vendors are members of Surrey Art Gallery Association. SAGA members receive a 10% discount, and if visitors are not a member already, they can become one onsite. I'm so grateful for the opportunity to showcase my work at the saga shop, share it with others, and be part of such a wonderful community of artists. I'm really looking forward to the Heart to Home Holiday Market. It's another opportunity to be part of this incredible and inclusive community and to share what I love doing with others. -Dunia Tozy Longstanding saga shop artist and Gallery artist-educator Murray Sanders will be demonstrating pottery wheel throwing throughout the weekend and also have a table of his pottery for sale. Hosted with the Gallery, this annual market has been supporting the creativity and ingenuity of local artists since 2002. Vendor Types of Art Karen Bosanac Jewellery Asma Burney Paintings Jasmina Charleston Graphic art & illustration cards, stickers, textiles Terry Cummings Jewellery & ceramic sculptures Marian De Gier Jewellery Foxy Verve Atelier Jewellery, fibre arts, prints Katina Giesbrecht Paintings, monoprints, design Karen Kroeker Fibre arts By the Sea Jewellery Jewellery Gordon Rebelato Photographs Sapphorica Creation s Graphic art & illustration cards, stickers Murray Sanders Functional ceramics Wendy Schmidt Wildlife paintings Stephanie Shields Bobbin lace jewellery Dunia Tozy & Ella Davidson Paintings, colouring books, & jewellery Lyn Verra-Lay Fibre arts Nancy Wright Paintings & clocks Ramona Radu Watercolour paintings Sharon Doucette Photographs, cyanotypes Alanna Edwards Jewellery & beading Atheana Picha Weavings, prints, paintings About Surrey Art Gallery Association Surrey Art Gallery Association (SAGA) is a non-profit society that offers its members the opportunity to participate in and respond to contemporary art and be part of a community that actively supports Surrey Art Gallery.",
+      "description": "Dozens of local and BC artists, including current saga shop artists, will be showcasing their incredible handmade works. Browse ceramics, jewellery, art cards, paintings, photographs, stickers, books for children and adults, linocuts, and more! Plus, purchase a limited-edition tote bag by Atheana Picha inspired by West Coast baskets and knitting patterns with all proceeds going to Surrey Art Gallery Association (SAGA). All saga shop artists and market vendors are members of Surrey Art Gallery Association. SAGA members receive a 10% discount, and if visitors are not a member already, they can become one onsite. I'm so grateful for the opportunity to showcase my work at the saga shop, share it with others, and be part of such a wonderful community of artists. I'm really looking forward to the Heart to Home Holiday Market. It's another opportunity to be part of this incredible and inclusive community and to share what I love doing with others. -Dunia Tozy Longstanding saga shop artist and Gallery artist-educator Murray Sanders will be demonstrating pottery wheel throwing throughout the weekend and also have a table of his pottery for sale. Hosted with the Gallery, this annual market has been supporting the creativity and ingenuity of local artists since 2002. Vendor Types of Art Karen Bosanac Jewellery Asma Burney Paintings Jasmina Charleston Graphic art & illustration cards, stickers, textiles Terry Cummings Jewellery & ceramic sculptures Marian De Gier Jewellery Foxy Verve Atelier Jewellery, fibre arts, prints By the Sea Jewellery Jewellery Gordon Rebelato Photographs Sapphorica Creation s Graphic art & illustration cards, stickers Murray Sanders Functional ceramics Wendy Schmidt Wildlife paintings Stephanie Shields Bobbin lace jewellery Dunia Tozy & Ella Davidson Paintings, colouring books, & jewellery Lyn Verra-Lay Fibre arts Nancy Wright Paintings & clocks Ramona Radu Watercolour paintings Sharon Doucette Photographs, cyanotypes Alanna Edwards Jewellery & beading Atheana Picha Weavings, prints, paintings About Surrey Art Gallery Association Surrey Art Gallery Association (SAGA) is a non-profit society that offers its members the opportunity to participate in and respond to contemporary art and be part of a community that actively supports Surrey Art Gallery.",
       "category": "Arts & culture",
       "sourceCategories": "Whalley and City Centre Arts & Culture Seniors Surrey Art Gallery Youth",
       "price": "Free",
@@ -1560,7 +1544,7 @@
       "endDate": "2026-11-28",
       "time": "12:00pm - 4:00pm",
       "location": "Totest Aleng: Indigenous Learning House, 13723 Crescent Road, Surrey, BC",
-      "description": "Handmade magic! Shop the market of Indigenous artisans in the studio and take in cultural presentations and family-friendly activities in the outdoor pavilion. Hosted in partnership with Joan Williams of Semiahmoo First Nation.",
+      "description": "Handmade magic! Shop the market of Indigenous artisans in the studio and take in cultural presentations and family-friendly activities in the outdoor pavilion. Hosted in partnership with Joan Williams of Semiahmoo First Nation. Vendor lineup Corrick Creations - Corrick Creations materialized from 9 year old Ben Corrick's keen interest in business and making a difference in the world. We are members of Métis Nation BC. We will be selling wet-felted soaps and Christmas decorations. Half of the proceeds of our sales will be donated to Children's Hospital. This charity is close to Ben's heart because they saved his life when he was born. Native Art Renaissance - Led by James Groening, supporting Indigenous artists and creating opportunities for cultural learning, storytelling and connection. Nicimos Designs - Nicimos Designs is a group focused on handmade crafts, Métis Dot Art, and indigenous art. Members share their creative work. Ryan Salish Art - Coast Salish artist of the Snuneymuxw First Nation. He works in several mediums including carving, acrylic paint, wood, digital media, pencil and pencil crayon among others. Sheila Rae Designs - Paintings, burned beaded and painted hats, bead work from earrings to hair clips orange and red shirts. Starchild Beadwork - A Métis Anishinaabekwe artisan selling beadwork. Sweet Grass Soap - Indigenous handmade soap, body butters, lip balms and smudge sprays. Tradish - Tradish brings traditional Indigenous nourishment to urban Indigenous and non-Indigenous health conscious people while supporting Indigenous food sovereignty, culture and community. We sell Tradish plant medicine jam, coffee, and bannock mixes. White Rabbit Métis Artisan - Indigenous beadwork and art.",
       "category": "Arts & culture",
       "sourceCategories": "South Surrey Arts & Culture Totest Aleng",
       "price": "Free",
@@ -1832,7 +1816,7 @@
       "endDate": "2026-12-11",
       "time": "6:30pm - 7:30pm",
       "location": "Historic Stewart Farm, 13723 Crescent Road, Surrey, BC",
-      "description": "A unique holiday experience Enjoy a dramatic reading of the Charles Dickens Victorian classic in the festively decorated farmhouse with a cup of mulled wine and homemade figgy pudding. For ages 19+. Presented by Historic Stewart Farm and The Re-enactors . Get your tickets before they sell out! Call 604-501-5100 or purchase online. Tickets for the 6:30-7:30pm session Tickets for the 8-9pm session",
+      "description": "A magical winter night Gather close as The Re-enactors bring a timeless Charles Dickens classic to life, filling the trimmed farmhouse with seasonal drama and holiday charm. Embrace the festive glow of Victorian Christmas where holiday spirits come alive in this dramatic reading. Cradle a steaming cup of aromatic, spiced mulled wine to keep the evening chill at bay and indulge in traditional figgy pudding. For ages 19+. Presented by Historic Stewart Farm and The Re-enactors . Get your tickets before they sell out! Call 604-501-5100 or purchase online. Tickets for the 6:30-7:30pm session Tickets for the 8-9pm session",
       "category": "Arts & culture",
       "sourceCategories": "South Surrey Arts & Culture Heritage Stewart Farm",
       "price": "$29.50 per person",
@@ -1848,7 +1832,7 @@
       "endDate": "2026-12-11",
       "time": "8:00pm - 9:00pm",
       "location": "Historic Stewart Farm, 13723 Crescent Road, Surrey, BC",
-      "description": "A unique holiday experience Enjoy a dramatic reading of the Charles Dickens Victorian classic in the festively decorated farmhouse with a cup of mulled wine and homemade figgy pudding. For ages 19+. Presented by Historic Stewart Farm and The Re-enactors . Get your tickets before they sell out! Call 604-501-5100 or purchase online. Tickets for the 6:30-7:30pm session Tickets for the 8-9pm session",
+      "description": "A magical winter night Gather close as The Re-enactors bring a timeless Charles Dickens classic to life, filling the trimmed farmhouse with seasonal drama and holiday charm. Embrace the festive glow of Victorian Christmas where holiday spirits come alive in this dramatic reading. Cradle a steaming cup of aromatic, spiced mulled wine to keep the evening chill at bay and indulge in traditional figgy pudding. For ages 19+. Presented by Historic Stewart Farm and The Re-enactors . Get your tickets before they sell out! Call 604-501-5100 or purchase online. Tickets for the 6:30-7:30pm session Tickets for the 8-9pm session",
       "category": "Arts & culture",
       "sourceCategories": "South Surrey Arts & Culture Heritage Stewart Farm",
       "price": "$29.50 per person",
