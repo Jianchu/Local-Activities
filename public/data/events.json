@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-29T11:59:34-07:00",
+  "updatedAt": "2026-10-30T11:39:58-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-10-29T11:59:34-07:00",
+      "updatedAt": "2026-10-30T11:39:58-07:00",
       "status": "ok",
-      "count": 149
+      "count": 153
     },
     "Richmond": {
-      "updatedAt": "2026-10-29T11:59:34-07:00",
+      "updatedAt": "2026-10-30T11:39:58-07:00",
       "status": "ok",
-      "count": 20
+      "count": 18
     }
   },
   "events": [
@@ -27,22 +27,6 @@
       "description": "Come by every Tuesday to enjoy the best of a farmers market while supporting local agriculture and small businesses in your community. At the market, find fresh local produce, local gourmet foods, sweet treats, hand-made crafts and more. Bring your family or a friend and come explore! Your friendly pet on a leash is also welcome! There is plenty of free parking available and local amenities nearby for you to visit too. OUR VENDORS The Kwantlen Farmers Market features KPU’s Sustainable Agriculture and Farm School programs along with a diverse selection of talented artisans and entrepreneurs to showcase the very best of what they make, bake, grow and harvest right here in beautiful BC. Every Tuesday, you'll discover the freshest locally harvested seasonal fruits and vegetables, along with artisanal baked goods, handcrafted gifts and jewelry, SPCA certified organically fed chicken and farm fresh eggs, local honey, flowers, plants, herbs and so much more! More Information This event is for All Ages. This is an accessible site. This event is free.",
       "category": "Community & festivals",
       "sourceCategories": "Special Events - General Public Market",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "7e6447c94f7aef03",
-      "city": "Richmond",
-      "title": "Lansdowne Centre Food Garden - Free Weekly Gardening Workshops",
-      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19064",
-      "dateLabel": "Thursday, Jun 18, 2026 - Thursday, Oct 29, 2026 Every week on Thursday",
-      "startDate": "2026-06-18",
-      "endDate": "2026-10-29",
-      "time": "Dates: Now through October 31 Time: Thursdays, 3:30-4:30pm",
-      "location": "5300 No. 3 Rd",
-      "description": "Lansdowne Centre Food Garden Now entering its sixth year, the Lansdowne Centre Food Garden program continues to support the local community by growing fresh fruits, vegetables and herbs that are donated to local community organizations and the Richmond Food Bank Society, helping address food insecurity in Richmond. The program also offers free weekly gardening workshops, where participants can learn practical gardening skills and growing techniques from local experts. Since launching in 2021, the Food Garden program has donated nearly 3,000 pounds of fresh produce to local organizations serving families in need. It is also a great opportunity for children to learn where the food comes from. Workshop Schedule: https://lansdowne-centre.com/food-garden-event-schedule/ Location: Southeast parking lot at Lansdowne Centre (close to T&T Supermarket) More Information This event is for All Ages. This is an accessible site. This event is free.",
-      "category": "Nature & outdoors",
-      "sourceCategories": "Meetings / Conventions / Lectures / Workshops Workshops",
       "price": "Free",
       "isFree": true
     },
@@ -93,22 +77,6 @@
       "sourceCategories": "Halloween Events Social / Community Event",
       "price": "",
       "isFree": false
-    },
-    {
-      "id": "1b1aa88a0b0c9096",
-      "city": "Richmond",
-      "title": "Performance and Discussion: Katie Ward x Lam Tung Pang",
-      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19153",
-      "dateLabel": "Thursday, Oct 29, 2026",
-      "startDate": "2026-10-29",
-      "endDate": "2026-10-29",
-      "time": "6:30-8:30pm",
-      "location": "7700 Minoru Gate",
-      "description": "In Response: Katie Ward x Lam Tung Pang Experience a one-night-only live performance by Montréal-based choreographer and dancer Katie Ward in response to Lam Tung Pang’s exhibition at Richmond Art Gallery. Inspired by Lam’s visual language and themes, Ward will activate his site-specific installation through movement. After the performance, Ward will be joined by the artist to discuss the intersection of their respective practices. Curator Zoë Chan will moderate. Limited spaces, RSVP required. More Information This event is for Child (Ages 6-12), Youth (Ages 13-18), Adult (Ages 18+) & 55+ (Ages 55 and over) This is an accessible site. This event is free.",
-      "category": "Arts & culture",
-      "sourceCategories": "Culture & Heritage Events Dance",
-      "price": "Free",
-      "isFree": true
     },
     {
       "id": "3cbcccaa03e5134d",
@@ -380,6 +348,22 @@
       "category": "Arts & culture",
       "sourceCategories": "Whalley and City Centre Arts & Culture Seniors Surrey Art Gallery Youth",
       "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "a3d45c5d4cf95c9a",
+      "city": "Surrey",
+      "title": "Bear Creek Lights",
+      "url": "https://www.surrey.ca/news-events/events/bear-creek-lights",
+      "dateLabel": "November 6, 2026 - November 21, 2026",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-21",
+      "time": "Time not published — check event link",
+      "location": "13750 88 Avenue",
+      "description": "Join in on this fall tradition at Bear Creek Park! For over a decade this event has been a source of lasting memories for its visitors. Book your free ticket Online Buy Tickets By phone Call our call centre at 604-501-5100 , Monday to Friday, 8:30am to 4:30pm. See nature shine Step into a world of wonder at Bear Creek Park! Celebrate the beauty of nature at night at our 14th annual Bear Creek Lights event. Enjoy the safe, accessible, family-friendly light display through the park's one-kilometer garden walking loop. Plan your visit Dates November 6-20 Closed November 11 for Remembrance Day Hours Open 5-9pm every night Contact [email protected] 604-501-5100",
+      "category": "Nature & outdoors",
+      "sourceCategories": "Whalley and City Centre Festivals Parks & Environment",
+      "price": "Free. Tickets are required for entry.",
       "isFree": true
     },
     {
@@ -1231,22 +1215,6 @@
       "isFree": true
     },
     {
-      "id": "2dd60b69cd696627",
-      "city": "Surrey",
-      "title": "Screen Connects Surrey",
-      "url": "https://www.surrey.ca/news-events/events/screen-connects-surrey",
-      "dateLabel": "November 20, 2026",
-      "startDate": "2026-11-20",
-      "endDate": "2026-11-20",
-      "time": "6:00pm - 9:00pm",
-      "location": "Clayton Community Centre, 7155 187A Street, Surrey, BC",
-      "description": "Calling all film lovers! The City of Surrey invites filmmakers, animators, video artists, content creators, vloggers, directors, producers, writers, costume and makeup artists, and other screen-based creatives to participate in Screen Connects Surrey. Screen Connects is a 2-day event designed to showcase local films, connect artists with industry professionals, and help shape the future of screen arts programming in our city. Screen Connects includes two events. Participate in one or both – the choice is yours! Day 1 – Screening Friday, November 20, 6 – 9pm Be a part of Day 1’s film screening as an audience member, or as a filmmaker showcasing your work. Submit a video All submissions must be suitable for general audiences. Submissions are due by October 23, 2026 . To attend the film screening, a free ticket is required. Filmmakers with a selected submission do not need to reserve a ticket. Reserve a ticket Day 2 – Forum Saturday, November 21, time TBD Day 2 of Screen Connects will feature workshops, guest speakers, and industry insights tailored to the interests of our local creative community. To help us shape the day, we’d love your input! Let us know what you want to do by registering for your free spot before October 23, 2026. Register now The Forum schedule will be released by November 15, 2026.",
-      "category": "Arts & culture",
-      "sourceCategories": "Cloverdale Arts & Culture Community Art",
-      "price": "Free",
-      "isFree": true
-    },
-    {
       "id": "195dba2214a8eec5",
       "city": "Richmond",
       "title": "12th Annual Richmond RCMP Toy Drive",
@@ -1320,7 +1288,7 @@
       "endDate": "2026-11-21",
       "time": "Time not published — check event link",
       "location": "Clayton Community Centre, 7155 187A Street, Surrey, BC",
-      "description": "Calling all film lovers! The City of Surrey invites filmmakers, animators, video artists, content creators, vloggers, directors, producers, writers, costume and makeup artists, and other screen-based creatives to participate in Screen Connects Surrey. Screen Connects is a 2-day event designed to showcase local films, connect artists with industry professionals, and help shape the future of screen arts programming in our city. Screen Connects includes two events. Participate in one or both – the choice is yours! Day 1 – Screening Friday, November 20, 6 – 9pm Be a part of Day 1’s film screening as an audience member, or as a filmmaker showcasing your work. Submit a video All submissions must be suitable for general audiences. Submissions are due by October 23, 2026 . To attend the film screening, a free ticket is required. Filmmakers with a selected submission do not need to reserve a ticket. Reserve a ticket Day 2 – Forum Saturday, November 21, time TBD Day 2 of Screen Connects will feature workshops, guest speakers, and industry insights tailored to the interests of our local creative community. To help us shape the day, we’d love your input! Let us know what you want to do by registering for your free spot before October 23, 2026. Register now The Forum schedule will be released by November 15, 2026.",
+      "description": "Calling all film lovers! The City of Surrey invites film-lovers of all genres, as well as filmmakers, animators, video artists, content creators, vloggers, directors, producers, writers, costume and makeup artists, and other screen-based creatives to participate in Screen Connects Surrey! Screen Connects is a designed to showcase local films, connect artists with industry professionals, and help shape the future of screen-arts programming in Surrey. Screen Connects has been condensed into a one-day event! Come spend the day at Clayton Community Centre from 10am-2pm, or just join for the lunchtime screening from 12-1pm. Registration is open until November 16th. Register now Forum 10am-2pm Join for the whole day off film-related mix-and-mingles, guest speakers, interactive engagements, and industry insights. A detailed schedule will be released prior to the event. Screening 12-1pm Can’t join for the whole event? Come view a selection of short films by local creatives of all ages and enjoy a light lunch! Sign up for the event above and let us know that you are coming to the screening only.",
       "category": "Arts & culture",
       "sourceCategories": "Cloverdale Arts & Culture Community Art",
       "price": "Free",
@@ -1371,22 +1339,6 @@
       "description": "Join us for engaging dialogue and inspiring artmaking in connection with the exhibits Farheen Haq and Russna Kaur: In the Folds of Memory and tender threads , co-convened by Manjot Bains. The afternoon begins with Farheen Haq who will share a new media work in progress, taking inspiration from the poetic form of the Urdu ghazal and its capaciousness to hold difference within two lines. Haq has been studying 19 th century Indian poet Ghalib’s couplets and is creating a lyrical, gestural video work that reflects on how ravishing disunities can be held together with beauty and contemplation. Manjot Bains will lead a panel conversation with exhibiting artists Haq and the two artists from the tender threads exhibition: Jonathan Alfaro and Sena Cleave. Dialogue will be drawn from themes connected to the exhibitions In the Folds of Memory and tender threads and unfold meaning from the practices of each artist. Rounding out the event will be an artmaking activity inspired by the works of Alfaro and Cleave in tender threads . The artists will be sharing their techniques of deconstructing found fabric and weaving with organic materials. Participants will have the opportunity to create their own weaving with provided materials. About Media Arts Symposium Weaving with Memories is the 18 th edition of Surrey Art Gallery’s annual media arts symposium . While the first decade of the symposium focused on sound art, aural experience, and audio cultures, recent symposia have examined international video poetry, dance, the Covid-19 pandemic, and new digital art practices.",
       "category": "Arts & culture",
       "sourceCategories": "Whalley and City Centre Arts & Culture Surrey Art Gallery",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "05a6c4affbc2d8e1",
-      "city": "Surrey",
-      "title": "WinterFest at MOS",
-      "url": "https://www.surrey.ca/arts-culture/museum-of-surrey/whats-on/winterfest-mos",
-      "dateLabel": "November 21, 2026 - December 20, 2026",
-      "startDate": "2026-11-21",
-      "endDate": "2026-12-20",
-      "time": "Time not published — check event link",
-      "location": "17710 56a Ave, Surrey, BC",
-      "description": "Celebrate the magic of the holiday season at WinterFest at Museum of Surrey! Bring your family and friends for festive fun, creative activities and special experiences that bring our community together. From holiday traditions and Indigenous programming to hands-on crafts and sensory-friendly experiences, there are plenty of ways to make meaningful memories this season. Explore the WinterFest events November 21 – Christmas Tree Fest Get into the holiday spirit at Christmas Tree Fest! Vote for your favourite Christmas tree and enter for a chance to win a holiday prize. November 28 – Sensory Santa Meet Santa in a calm, sensory-friendly environment designed for neurodiverse children and their families. Enjoy a more comfortable and inclusive holiday experience together. December 5 – stɑl’əw̓ Craft Fair Celebrate Indigenous creativity and culture through Indigenous programming, and browse the artisan market for unique, handcrafted treasures. December 12 – Merry Makers Get creative with holiday crafts, search for Santa and his elves, and explore fun, hands-on STEAM activities for the whole family. Whether you're starting a new holiday tradition, discovering local artistry or enjoying creative activities with the kids, WinterFest offers something special for everyone. Make Museum of Surrey part of your holiday plans and celebrate the season with us! Thank you to our media sponsor Bell Media.",
-      "category": "Arts & culture",
-      "sourceCategories": "Cloverdale Children Festivals Museum of Surrey",
       "price": "Free",
       "isFree": true
     },
@@ -1487,6 +1439,22 @@
       "isFree": true
     },
     {
+      "id": "bdd0069eb0339892",
+      "city": "Surrey",
+      "title": "Welcome Winter Skating at Civic Plaza",
+      "url": "https://www.surrey.ca/news-events/events/welcome-winter-skating-civic-plaza",
+      "dateLabel": "November 27, 2026",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "time": "3:30pm - 6:00pm",
+      "location": "Surrey Civic Plaza, 13450 104 Ave, Surrey, BC",
+      "description": "Skating at Civic Plaza is in full swing! Be part of the winter fun and bring your skates to enjoy free outdoor skating under the covered ice rink, or rent skates for $5 a pair. Enjoy a bright, festive atmosphere, free activities and live music. Relax and warm up with drinks and snacks for purchase from the on-site cafe. This weekend’s highlights Friday, November 27, 3:30-6:00pm Royal Express Train Giant Dancing Polar Bear Live music DJ Saturday, November 28. 5:30-8:00pm Live music DJ Facepainting",
+      "category": "Sports & wellness",
+      "sourceCategories": "Whalley and City Centre Civic Plaza Recreation",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "b375b2255cadbc0f",
       "city": "Surrey",
       "title": "Christmas Wreath Workshop",
@@ -1567,6 +1535,22 @@
       "isFree": false
     },
     {
+      "id": "a37c675db8d61a0a",
+      "city": "Surrey",
+      "title": "Welcome Winter Skating at Civic Plaza",
+      "url": "https://www.surrey.ca/news-events/events/welcome-winter-skating-civic-plaza",
+      "dateLabel": "November 28, 2026",
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-28",
+      "time": "5:30pm - 8:00pm",
+      "location": "Surrey Civic Plaza, 13450 104 Ave, Surrey, BC",
+      "description": "Skating at Civic Plaza is in full swing! Be part of the winter fun and bring your skates to enjoy free outdoor skating under the covered ice rink, or rent skates for $5 a pair. Enjoy a bright, festive atmosphere, free activities and live music. Relax and warm up with drinks and snacks for purchase from the on-site cafe. This weekend’s highlights Friday, November 27, 3:30-6:00pm Royal Express Train Giant Dancing Polar Bear Live music DJ Saturday, November 28. 5:30-8:00pm Live music DJ Facepainting",
+      "category": "Sports & wellness",
+      "sourceCategories": "Whalley and City Centre Civic Plaza Recreation",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "3785b264eac176ae",
       "city": "Surrey",
       "title": "Youth Winter Holiday Dinner",
@@ -1576,7 +1560,7 @@
       "endDate": "2026-11-28",
       "time": "4:00pm - 8:00pm",
       "location": "13775 70 Ave, Surrey, BC V3W 0E1",
-      "description": "Youth ages 10-18 are invited to join us at Newton Recreation Centre for a community dinner, a free evening of great food, fun activities, live music, and opportunities to connect with other young people in the community. Hosted in partnership with youth-led organization The Loose Leaf Project , this event is all about bringing youth together in a welcoming and inclusive space. Whether you want to hang out with friends, meet new people, enjoy a free meal, play games, or get involved in your community, there's something for everyone. Whether you're looking to meet new people, spend time with friends, or enjoy a great meal, there's something for everyone. Registration will open on October 28. Event ID: 00554040",
+      "description": "Youth ages 10-18 are invited to join us at Newton Recreation Centre for a community dinner, a free evening of great food, fun activities, live music, and opportunities to connect with other young people in the community. Hosted in partnership with youth-led organization The Loose Leaf Project , this event is all about bringing youth together in a welcoming and inclusive space. Whether you want to hang out with friends, meet new people, enjoy a free meal, play games, or get involved in your community, there's something for everyone. Whether you're looking to meet new people, spend time with friends, or enjoy a great meal, there's something for everyone. Event ID: 00554040 Register Now",
       "category": "Community & festivals",
       "sourceCategories": "Youth",
       "price": "Free",
@@ -1631,6 +1615,22 @@
       "isFree": true
     },
     {
+      "id": "c8c8c5850d0ba1ea",
+      "city": "Surrey",
+      "title": "Holiday Memories at Skating at Civic Plaza",
+      "url": "https://www.surrey.ca/news-events/events/holiday-memories-skating-civic-plaza",
+      "dateLabel": "December 4, 2026",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-04",
+      "time": "3:30pm - 6:00pm",
+      "location": "Surrey Civic Plaza, 13450 104 Ave, Surrey, BC",
+      "description": "Bring your skates to enjoy free outdoor skating under the covered ice rink, or rent skates for $5 a pair. Enjoy a bright, festive atmosphere, free activities and live music. Relax and warm up with drinks and snacks for purchase from the on-site cafe. This weekend’s highlights under the tent Friday, December 4, 3:30-6:00pm Photobooth with customizable holiday backgrounds Live music: Acoustic covers of holiday classics Saturday, December 5, 5:30–8:00pm Live music: Acoustic covers of holiday classics Skating Anna",
+      "category": "Sports & wellness",
+      "sourceCategories": "Whalley and City Centre Civic Plaza Recreation",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "60ce24d2d4c50b25",
       "city": "Surrey",
       "title": "SASSY Awards",
@@ -1663,6 +1663,22 @@
       "isFree": false
     },
     {
+      "id": "9b95974cc4eb109c",
+      "city": "Surrey",
+      "title": "Breakfast with Santa at Skating at Civic Plaza",
+      "url": "https://www.surrey.ca/news-events/events/breakfast-santa-skating-civic-plaza",
+      "dateLabel": "December 5, 2026",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "time": "9:30am - 11:00am",
+      "location": "Surrey Civic Plaza, 13450 104 Ave, Surrey, BC",
+      "description": "Bring your skates to enjoy free outdoor skating under the covered ice rink, or rent skates for $5 a pair. Enjoy a bright, festive atmosphere, free activities and live music. Today's highlights under the tent Breakfast with Santa and Mrs. Clause (registration required) Live Music: Acoustic covers of holiday classics Giant Dancing Polar Bear Register now",
+      "category": "Sports & wellness",
+      "sourceCategories": "Whalley and City Centre Civic Plaza Recreation",
+      "price": "$16 per person Children under 2-years old enter for free",
+      "isFree": true
+    },
+    {
       "id": "f04d060166de28d6",
       "city": "Surrey",
       "title": "Deck the Halls",
@@ -1691,6 +1707,22 @@
       "description": "Clayton Community Centre's Artist in Residence, Mariel Nelms’ project Future Archives , invites community members to be co-authors of Surrey’s next chapter by exploring the influential individuals that have come before and considering our roles in the future. Nelms invites community members to participate in free portrait sessions, creative workshops, and meaningful conversations. Come out to one or all of the sessions listed, and visit Artists in Residence for more about the project and the exciting end result! Pop-Up portrait studio Come get your professional photo taken for the project. September 13, 10am-2pm September 18, 5-9pm September 27, 10am-2pm Weaving workshops Learn to upcycle recycled materials into woven textiles. October 11, 10am-2pm October 25, 10am-2pm December 5, 10am-2pm Opening of Future Archives Unveiling of final artwork and community celebration. January 16, 3-5pm",
       "category": "Arts & culture",
       "sourceCategories": "Cloverdale Arts & Culture Community Art",
+      "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "0a9a0a9dfcded369",
+      "city": "Surrey",
+      "title": "Holiday Memories at Skating at Civic Plaza",
+      "url": "https://www.surrey.ca/news-events/events/holiday-memories-skating-civic-plaza",
+      "dateLabel": "December 5, 2026",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "time": "5:30pm - 8:00pm",
+      "location": "Surrey Civic Plaza, 13450 104 Ave, Surrey, BC",
+      "description": "Bring your skates to enjoy free outdoor skating under the covered ice rink, or rent skates for $5 a pair. Enjoy a bright, festive atmosphere, free activities and live music. Relax and warm up with drinks and snacks for purchase from the on-site cafe. This weekend’s highlights under the tent Friday, December 4, 3:30-6:00pm Photobooth with customizable holiday backgrounds Live music: Acoustic covers of holiday classics Saturday, December 5, 5:30–8:00pm Live music: Acoustic covers of holiday classics Skating Anna",
+      "category": "Sports & wellness",
+      "sourceCategories": "Whalley and City Centre Civic Plaza Recreation",
       "price": "Free",
       "isFree": true
     },
