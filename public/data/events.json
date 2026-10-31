@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-30T11:39:58-07:00",
+  "updatedAt": "2026-10-31T10:48:39-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-10-30T11:39:58-07:00",
+      "updatedAt": "2026-10-31T10:48:39-07:00",
       "status": "ok",
-      "count": 153
+      "count": 151
     },
     "Richmond": {
-      "updatedAt": "2026-10-30T11:39:58-07:00",
+      "updatedAt": "2026-10-31T10:48:39-07:00",
       "status": "ok",
       "count": 18
     }
@@ -75,70 +75,6 @@
       "description": "With over 30 spooktacular Halloween-inspired events and programs to choose from now through November 1, there is fa-boo-lous fun for everyone. More Information This event is for All Ages. This is an accessible site. Varies depending on the activity.",
       "category": "Community & festivals",
       "sourceCategories": "Halloween Events Social / Community Event",
-      "price": "",
-      "isFree": false
-    },
-    {
-      "id": "3cbcccaa03e5134d",
-      "city": "Surrey",
-      "title": "Debra DiGiovanni",
-      "url": "https://www.surrey.ca/news-events/events/debra-digiovanni",
-      "dateLabel": "October 30, 2026",
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-30",
-      "time": "7:30pm - 9:00pm",
-      "location": "Main Stage at Surrey Arts Centre, 13750 88 Avenue, Surrey. BC",
-      "description": "You know her and love her—it's Debra DiGiovanni! Enjoy a night to remember listening to her hilarious take on life. Sure to have you in stitches! Audience Advisory: strong language and mature content. Get tickets About Debra DiGiovanni A beloved multiple award-winning comedian who started her career in Toronto where she was a regular on MuchMusic's Video on Trial and The Debaters . Now based in Los Angeles she tours constantly and recently performed on The Tonight Show Starring Jimmy Fallon. She was a finalist on NBC's Last Comic Standing and has specials on Netflix, Amazon Prime and Crave.",
-      "category": "Arts & culture",
-      "sourceCategories": "Whalley and City Centre Arts & Culture Surrey Civic Theatres",
-      "price": "Tickets: $50",
-      "isFree": false
-    },
-    {
-      "id": "166a78ca68b60ed6",
-      "city": "Surrey",
-      "title": "Rocky Horror Picture Show comes to Clayton Community Centre!",
-      "url": "https://www.surrey.ca/news-events/events/rocky-horror-picture-show-comes-clayton-community-centre",
-      "dateLabel": "October 30, 2026",
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-30",
-      "time": "9:30pm - 11:45pm",
-      "location": "Clayton Community Centre (Performing Arts Theatre), 7155 187A Street, Surrey, BC",
-      "description": "Join us for an interactive screening of The Rocky Horror Picture Show at Clayton Community Centre! Whether you are a long-time fan or attending for the first time, enjoy costumes, audience participation, and cult-classic fun. Tickets purchased before October 15 include an approved prop bag. Costumes are encouraged but not required. Purchase your ticket! Event details Friday, October 30, 2026 9:30pm-12:00am at the Clayton Community Centre Performing Arts Theatre. Doors open at 9:30pm, movie starts at 9:45pm. Audience Advisory: 18+ ONLY! This film contains mature themes, sexual references and strong language. Viewer discretion is advised. Please use only the props supplied by the venue. Outside props such as rice, toast, confetti, water pistols and open flames are not permitted.",
-      "category": "Arts & culture",
-      "sourceCategories": "Cloverdale Arts & Culture Community Art",
-      "price": "$17.50 per person Purchase your tickets here !",
-      "isFree": false
-    },
-    {
-      "id": "e26b53abed3d5dfa",
-      "city": "Surrey",
-      "title": "Sensory Friendly Trick or Treating",
-      "url": "https://www.surrey.ca/arts-culture/museum-of-surrey/whats-on/sensory-friendly-trick-or-treating",
-      "dateLabel": "October 30, 2026",
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-30",
-      "time": "4:00pm - 8:00pm",
-      "location": "17710 56a Ave, Surrey, BC",
-      "description": "Bring your family for a gentle and enjoyable Halloween night — full of fun, creativity, and community connection! Experience a welcoming space for kids of all ages and abilities to enjoy Halloween at their own pace. Families can explore relaxed trick-or-treating stations, participate in festive crafts, and embark on a scavenger hunt throughout the galleries. This event features a calm, low-sensory environment with no loud noises, strobe lights, or jump scares. A sensory room and quiet spaces will also be available for anyone who needs a break. Admission is free, and the event is wheelchair and stroller accessible.",
-      "category": "Arts & culture",
-      "sourceCategories": "Cloverdale Children Museum of Surrey",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "58ac75015cfec4da",
-      "city": "Richmond",
-      "title": "Spooktacular Halloween Family Skate",
-      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19166",
-      "dateLabel": "Friday, Oct 30, 2026",
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-30",
-      "time": "6:45-8:00pm",
-      "location": "7551 Minoru Gate",
-      "description": "Drop in and glide to the beat with fun tunes - including spooky Halloween hits! Wear your costume and get free skate rentals. More Information This event is for All Ages. This is an accessible site. Regular admission rates. Wear a costume and receive free skate rentals.",
-      "category": "Community & festivals",
-      "sourceCategories": "Halloween Events Skating",
       "price": "",
       "isFree": false
     },
@@ -280,7 +216,7 @@
       "endDate": "2026-11-02",
       "time": "7:00pm - 8:00pm",
       "location": "Online and in-person at City Hall, 13450 - 104 Avenue, Surrey, BC",
-      "description": "Every four years, a newly elected Mayor & Council are sworn into office with an official ceremony. Watch as Mayor-elect Doug McCallum and the Councillors-elect are sworn in at Surrey City Hall. Council's first regular council meeting will take place after the ceremony. Schedule Welcome Honour guard Mayor & councillors take oath of office Inaugural address Regular council meeting The livestream will start at 7pm. View Livestream Mayor-elect Doug McCallum Councillors-elect Harry Bains Cheney Cloke Doug Elford Meera Gill Suhana Gill Laurie Guerra Mandeep Nagra Allison Patton",
+      "description": "Every four years, a newly elected Mayor & Council are sworn into office with an official ceremony. Watch as Mayor-elect Doug McCallum and the Councillors-elect are sworn in at Surrey City Hall. Schedule Welcome Honour guard Mayor & councillors take oath of office Inaugural address The livestream will start at 7pm. View Livestream Mayor-elect Doug McCallum Councillors-elect Harry Bains Cheney Cloke Doug Elford Meera Gill Suhana Gill Laurie Guerra Mandeep Nagra Allison Patton",
       "category": "Community & festivals",
       "sourceCategories": "Whalley and City Centre Public Meetings & Open Houses",
       "price": "",
@@ -495,14 +431,14 @@
       "isFree": true
     },
     {
-      "id": "c512dc1e0f2f80e2",
+      "id": "1d0c01a983ba140e",
       "city": "Surrey",
       "title": "Nature Work Parties",
       "url": "https://www.surrey.ca/news-events/events/nature-work-parties",
       "dateLabel": "November 7, 2026",
       "startDate": "2026-11-07",
       "endDate": "2026-11-07",
-      "time": "1:00am",
+      "time": "10:00am",
       "location": "Robertson Drive Park, 12714 - 92 Ave Meet near playground located off Robertson Drive",
       "description": "Join us in caring for Surrey parks Remove invasive plants, plant native trees and shrubs, clean up litter, and enhance habitat within the park. Tools and training are provided. Bring your family and friends—all ages are welcome! Important information Dress for the weather and bring water. Drop in at one of two start times. Staggered start times help us give you a great orientation. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to strong winds or extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Sat. Nov 7 Tree and shrub planting 10:00am 12:00pm Robertson Drive Park 12714 - 92 Ave Meet near playground located off Robertson Drive Sat. Nov 14 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Feel free to drop in, or sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
       "category": "Nature & outdoors",
@@ -895,14 +831,14 @@
       "isFree": true
     },
     {
-      "id": "e232177f1705ac73",
+      "id": "8cf644f0349c4d30",
       "city": "Surrey",
       "title": "Nature Work Parties",
       "url": "https://www.surrey.ca/news-events/events/nature-work-parties",
       "dateLabel": "November 14, 2026",
       "startDate": "2026-11-14",
       "endDate": "2026-11-14",
-      "time": "1:00am",
+      "time": "10:00am & 10:30am",
       "location": "Godwin Farm Biodiversity Preserve Park, 9016 164 St Meet at the parking lot located on 164 St",
       "description": "Join us in caring for Surrey parks Remove invasive plants, plant native trees and shrubs, clean up litter, and enhance habitat within the park. Tools and training are provided. Bring your family and friends—all ages are welcome! Important information Dress for the weather and bring water. Drop in at one of two start times. Staggered start times help us give you a great orientation. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to strong winds or extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Sat. Nov 7 Tree and shrub planting 10:00am 12:00pm Robertson Drive Park 12714 - 92 Ave Meet near playground located off Robertson Drive Sat. Nov 14 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Feel free to drop in, or sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
       "category": "Nature & outdoors",
@@ -1343,6 +1279,22 @@
       "isFree": true
     },
     {
+      "id": "05a6c4affbc2d8e1",
+      "city": "Surrey",
+      "title": "WinterFest at MOS",
+      "url": "https://www.surrey.ca/arts-culture/museum-of-surrey/whats-on/winterfest-mos",
+      "dateLabel": "November 21, 2026 - December 20, 2026",
+      "startDate": "2026-11-21",
+      "endDate": "2026-12-20",
+      "time": "Time not published — check event link",
+      "location": "17710 56a Ave, Surrey, BC",
+      "description": "Celebrate the magic of the holiday season at WinterFest at Museum of Surrey! Bring your family and friends for festive fun, creative activities and special experiences that bring our community together. From holiday traditions and Indigenous programming to hands-on crafts and sensory-friendly experiences, there are plenty of ways to make meaningful memories this season. Explore the WinterFest events November 21 – Christmas Tree Fest Get into the holiday spirit at Christmas Tree Fest! Vote for your favourite Christmas tree and enter for a chance to win a holiday prize. November 28 – Sensory Santa Meet Santa in a calm, sensory-friendly environment designed for neurodiverse children and their families. Enjoy a more comfortable and inclusive holiday experience together. December 5 – stɑl’əw̓ Craft Fair Celebrate Indigenous creativity and culture through Indigenous programming, and browse the artisan market for unique, handcrafted treasures. December 12 – Merry Makers Get creative with holiday crafts, search for Santa and his elves, and explore fun, hands-on STEAM activities for the whole family. Whether you're starting a new holiday tradition, discovering local artistry or enjoying creative activities with the kids, WinterFest offers something special for everyone. Make Museum of Surrey part of your holiday plans and celebrate the season with us! Thank you to our media sponsor Bell Media.",
+      "category": "Arts & culture",
+      "sourceCategories": "Cloverdale Children Festivals Museum of Surrey",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "a2cdac03ef6e7a42",
       "city": "Surrey",
       "title": "Surrey Jazz Nights Presents: Understanding Jazz Leadsheets Workshop",
@@ -1597,6 +1549,22 @@
       "sourceCategories": "Cloverdale Children Museum of Surrey",
       "price": "$20 per family",
       "isFree": false
+    },
+    {
+      "id": "67e050c57cbef3f9",
+      "city": "Richmond",
+      "title": "Winter in Steveston Village",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19141",
+      "dateLabel": "Sunday, Nov 29, 2026 Sunday, Nov 29, 2026",
+      "startDate": "2026-11-29",
+      "endDate": "2026-11-29",
+      "time": "12:00 pm - 4:00 pm",
+      "location": "Location not published — check event link",
+      "description": "Winter in the Village! Steveston village welcomes Santa by boat, horse drawn carriage rides, tree lighting, dog parade and more! More Information This event is for All Ages. This is an accessible site. This event is free.",
+      "category": "Community & festivals",
+      "sourceCategories": "Christmas Events Social / Community Event",
+      "price": "Free",
+      "isFree": true
     },
     {
       "id": "9d1a9aa9438c36c6",
