@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-01T11:27:06-07:00",
+  "updatedAt": "2026-11-02T15:22:04-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-11-01T11:27:06-07:00",
+      "updatedAt": "2026-11-02T15:22:04-07:00",
       "status": "ok",
-      "count": 145
+      "count": 151
     },
     "Richmond": {
-      "updatedAt": "2026-11-01T11:27:06-07:00",
+      "updatedAt": "2026-11-02T15:22:04-07:00",
       "status": "ok",
-      "count": 14
+      "count": 11
     }
   },
   "events": [
@@ -31,22 +31,6 @@
       "isFree": true
     },
     {
-      "id": "88367edb8d363170",
-      "city": "Richmond",
-      "title": "Halloween Hoot",
-      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19129",
-      "dateLabel": "Saturday, Oct 24, 2026 - Sunday, Nov 01, 2026",
-      "startDate": "2026-10-24",
-      "endDate": "2026-11-01",
-      "time": "10:00am-4:00pm",
-      "location": "11851 Westminster Hwy",
-      "description": "Drop-in to the Richmond Nature Park to view Halloween decorations along the Pond Trail. Over 35 inflatables, 10 unique nature-themed art installations and a tickle tunnel will be displayed daily. Pumpkins are available for purchase during this family-friendly event that runs rain or shine. Admission is by donation, with proceeds supporting the Richmond Nature Park Society’s nature education programs. The Richmond Nature Park is located at 11851 Westminster Highway, at No. 5 Road. Onsite parking is limited. For more information, call 604-238-6188. More Information This event is for All Ages. This is an accessible site. This event is free.",
-      "category": "Community & festivals",
-      "sourceCategories": "Halloween Events Social / Community Event",
-      "price": "Free",
-      "isFree": true
-    },
-    {
       "id": "d95104674b408c23",
       "city": "Richmond",
       "title": "RAGA's Annual Art Auction Exhibition",
@@ -61,38 +45,6 @@
       "sourceCategories": "Gallery & Museum RAG Exhibit",
       "price": "Free",
       "isFree": true
-    },
-    {
-      "id": "db5661bd53e03f76",
-      "city": "Richmond",
-      "title": "Halloween Activities in Richmond",
-      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19165",
-      "dateLabel": "Monday, Oct 26, 2026 - Sunday, Nov 01, 2026",
-      "startDate": "2026-10-26",
-      "endDate": "2026-11-01",
-      "time": "Varies depending on activity.",
-      "location": "7191 Granville Avenue",
-      "description": "With over 30 spooktacular Halloween-inspired events and programs to choose from now through November 1, there is fa-boo-lous fun for everyone. More Information This event is for All Ages. This is an accessible site. Varies depending on the activity.",
-      "category": "Community & festivals",
-      "sourceCategories": "Halloween Events Social / Community Event",
-      "price": "",
-      "isFree": false
-    },
-    {
-      "id": "26ff01e40fbdb97d",
-      "city": "Richmond",
-      "title": "Spooktacular Halloween Family Skate",
-      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19168",
-      "dateLabel": "Sunday, Nov 01, 2026",
-      "startDate": "2026-11-01",
-      "endDate": "2026-11-01",
-      "time": "2:00-5:00pm",
-      "location": "7551 Minoru Gate",
-      "description": "Drop in and glide to the beat with fun tunes - including spooky Halloween hits! Wear your costume and get free skate rentals. More Information This event is for All Ages. This is an accessible site. Regular admission rates. Wear a costume and a get free skate rentals.",
-      "category": "Community & festivals",
-      "sourceCategories": "Halloween Events Skating",
-      "price": "",
-      "isFree": false
     },
     {
       "id": "3466fde07a582a29",
@@ -328,23 +280,23 @@
       "endDate": "2026-11-07",
       "time": "10:00am",
       "location": "Robertson Drive Park, 12714 - 92 Ave Meet near playground located off Robertson Drive",
-      "description": "Join us in caring for Surrey parks Remove invasive plants, plant native trees and shrubs, clean up litter, and enhance habitat within the park. Tools and training are provided. Bring your family and friends—all ages are welcome! Important information Dress for the weather and bring water. Drop in at one of two start times. Staggered start times help us give you a great orientation. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to strong winds or extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Sat. Nov 7 Tree and shrub planting 10:00am 12:00pm Robertson Drive Park 12714 - 92 Ave Meet near playground located off Robertson Drive Sat. Nov 14 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Feel free to drop in, or sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
+      "description": "Join us in caring for Surrey parks Remove invasive plants, plant native trees and shrubs, clean up litter, and enhance habitat within the park. Tools and training are provided. Bring your family and friends—all ages are welcome! Important information Dress for the weather and bring water. Drop in at one of two start times. Staggered start times help us give you a great orientation. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to strong winds or extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Sat. Nov 7 Tree and shrub planting 10:00am 12:00pm Robertson Drive Park 12714 - 92 Ave Meet near playground located off Robertson Drive Sat. Nov 14 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Nov 28 Invasive plant removal 10:00am & 10:30am 12:00pm Fleetwood Park 15802 - 80 Avenue Meet near playground located off 80 Ave Sat. Dec 5 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Dec 12 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Feel free to drop in, or sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
       "category": "Nature & outdoors",
       "sourceCategories": "Parks & Environment",
       "price": "Drop-in",
       "isFree": false
     },
     {
-      "id": "009acc9a08829b66",
+      "id": "431c19744bc6f422",
       "city": "Surrey",
       "title": "Sensory Friendly Swims",
       "url": "https://www.surrey.ca/news-events/events/sensory-friendly-swims",
       "dateLabel": "November 7, 2026",
       "startDate": "2026-11-07",
       "endDate": "2026-11-07",
-      "time": "1:00pm - 3:00pm",
+      "time": "12:00pm - 2:00pm",
       "location": "Various locations",
-      "description": "Sensory friendly swims are inclusive swim times for individuals and families looking for an environment with reduced noise. They are available for those who are autistic, have anxiety or other sensory processing needs, or anyone who feels they would benefit from a more supportive environment. There will be: Reduced noise & water features. No background music. No speaker announcements (whistles used only for emergencies). Encouraged use of paper towels instead of hand dryers using signage. Designated sensory friendly break rooms. Set clear times and transition warnings. Additional staff available for support. Schedule Guildford Recreation Centre Wednesday, November 18, 1pm to 3pm Wednesday, December 16, 1pm to 3pm Newton Recreation Centre Wednesday, October 28, 1pm to 3pm Wednesday, November 25, 1pm to 3pm Tuesday, December 22, 1pm to 3pm South Surrey Indoor Pool Saturday, November 7, 12pm to 2pm Saturday, December 5, 12pm to 2pm Surrey Sport & Leisure Complex Monday, November 9, 12pm to 2pm Monday, December 14, 12pm to 2pm Borrow a sensory friendly kit Kits include: Noise-cancelling headphones, communication cards, fidget toys, ear plugs and sunglasses. Ask a staff member to borrow one. Learn more The City of Surrey is committed to providing a safe and welcoming environment for patrons with sensory sensitivities to continue recreating and participating in activities. Learn more about the City of Surrey's initiatives to enhance accessibility, remove barriers, and create a more inclusive community .",
+      "description": "Sensory friendly swims are inclusive swim times for individuals and families looking for an environment with reduced noise. They are available for those who are autistic, have anxiety or other sensory processing needs, or anyone who feels they would benefit from a more supportive environment. There will be: Reduced noise & water features. No background music. No speaker announcements (whistles used only for emergencies). Encouraged use of paper towels instead of hand dryers using signage. Designated sensory friendly break rooms. Set clear times and transition warnings. Additional staff available for support. Schedule Guildford Recreation Centre Wednesday, November 18, 1pm to 3pm Wednesday, December 16, 1pm to 3pm Newton Recreation Centre Wednesday, November 25, 1pm to 3pm Tuesday, December 22, 1pm to 3pm South Surrey Indoor Pool Saturday, November 7, 12pm to 2pm Saturday, December 5, 12pm to 2pm Surrey Sport & Leisure Complex Monday, November 9, 12pm to 2pm Monday, December 14, 12pm to 2pm Borrow a sensory friendly kit Kits include: Noise-cancelling headphones, communication cards, fidget toys, ear plugs and sunglasses. Ask a staff member to borrow one. Learn more The City of Surrey is committed to providing a safe and welcoming environment for patrons with sensory sensitivities to continue recreating and participating in activities. Learn more about the City of Surrey's initiatives to enhance accessibility, remove barriers, and create a more inclusive community .",
       "category": "Sports & wellness",
       "sourceCategories": "Recreation",
       "price": "Use your Recreation Surrey pass or pay for a drop-in admission .",
@@ -463,16 +415,16 @@
       "isFree": true
     },
     {
-      "id": "ba402e271e3647ff",
+      "id": "4a69a8ce9758651c",
       "city": "Surrey",
       "title": "Sensory Friendly Swims",
       "url": "https://www.surrey.ca/news-events/events/sensory-friendly-swims",
       "dateLabel": "November 9, 2026",
       "startDate": "2026-11-09",
       "endDate": "2026-11-09",
-      "time": "1:00pm - 3:00pm",
+      "time": "12:00pm - 2:00pm",
       "location": "Various locations",
-      "description": "Sensory friendly swims are inclusive swim times for individuals and families looking for an environment with reduced noise. They are available for those who are autistic, have anxiety or other sensory processing needs, or anyone who feels they would benefit from a more supportive environment. There will be: Reduced noise & water features. No background music. No speaker announcements (whistles used only for emergencies). Encouraged use of paper towels instead of hand dryers using signage. Designated sensory friendly break rooms. Set clear times and transition warnings. Additional staff available for support. Schedule Guildford Recreation Centre Wednesday, November 18, 1pm to 3pm Wednesday, December 16, 1pm to 3pm Newton Recreation Centre Wednesday, October 28, 1pm to 3pm Wednesday, November 25, 1pm to 3pm Tuesday, December 22, 1pm to 3pm South Surrey Indoor Pool Saturday, November 7, 12pm to 2pm Saturday, December 5, 12pm to 2pm Surrey Sport & Leisure Complex Monday, November 9, 12pm to 2pm Monday, December 14, 12pm to 2pm Borrow a sensory friendly kit Kits include: Noise-cancelling headphones, communication cards, fidget toys, ear plugs and sunglasses. Ask a staff member to borrow one. Learn more The City of Surrey is committed to providing a safe and welcoming environment for patrons with sensory sensitivities to continue recreating and participating in activities. Learn more about the City of Surrey's initiatives to enhance accessibility, remove barriers, and create a more inclusive community .",
+      "description": "Sensory friendly swims are inclusive swim times for individuals and families looking for an environment with reduced noise. They are available for those who are autistic, have anxiety or other sensory processing needs, or anyone who feels they would benefit from a more supportive environment. There will be: Reduced noise & water features. No background music. No speaker announcements (whistles used only for emergencies). Encouraged use of paper towels instead of hand dryers using signage. Designated sensory friendly break rooms. Set clear times and transition warnings. Additional staff available for support. Schedule Guildford Recreation Centre Wednesday, November 18, 1pm to 3pm Wednesday, December 16, 1pm to 3pm Newton Recreation Centre Wednesday, November 25, 1pm to 3pm Tuesday, December 22, 1pm to 3pm South Surrey Indoor Pool Saturday, November 7, 12pm to 2pm Saturday, December 5, 12pm to 2pm Surrey Sport & Leisure Complex Monday, November 9, 12pm to 2pm Monday, December 14, 12pm to 2pm Borrow a sensory friendly kit Kits include: Noise-cancelling headphones, communication cards, fidget toys, ear plugs and sunglasses. Ask a staff member to borrow one. Learn more The City of Surrey is committed to providing a safe and welcoming environment for patrons with sensory sensitivities to continue recreating and participating in activities. Learn more about the City of Surrey's initiatives to enhance accessibility, remove barriers, and create a more inclusive community .",
       "category": "Sports & wellness",
       "sourceCategories": "Recreation",
       "price": "Use your Recreation Surrey pass or pay for a drop-in admission .",
@@ -728,7 +680,7 @@
       "endDate": "2026-11-14",
       "time": "10:00am & 10:30am",
       "location": "Godwin Farm Biodiversity Preserve Park, 9016 164 St Meet at the parking lot located on 164 St",
-      "description": "Join us in caring for Surrey parks Remove invasive plants, plant native trees and shrubs, clean up litter, and enhance habitat within the park. Tools and training are provided. Bring your family and friends—all ages are welcome! Important information Dress for the weather and bring water. Drop in at one of two start times. Staggered start times help us give you a great orientation. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to strong winds or extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Sat. Nov 7 Tree and shrub planting 10:00am 12:00pm Robertson Drive Park 12714 - 92 Ave Meet near playground located off Robertson Drive Sat. Nov 14 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Feel free to drop in, or sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
+      "description": "Join us in caring for Surrey parks Remove invasive plants, plant native trees and shrubs, clean up litter, and enhance habitat within the park. Tools and training are provided. Bring your family and friends—all ages are welcome! Important information Dress for the weather and bring water. Drop in at one of two start times. Staggered start times help us give you a great orientation. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to strong winds or extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Sat. Nov 7 Tree and shrub planting 10:00am 12:00pm Robertson Drive Park 12714 - 92 Ave Meet near playground located off Robertson Drive Sat. Nov 14 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Nov 28 Invasive plant removal 10:00am & 10:30am 12:00pm Fleetwood Park 15802 - 80 Avenue Meet near playground located off 80 Ave Sat. Dec 5 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Dec 12 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Feel free to drop in, or sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
       "category": "Nature & outdoors",
       "sourceCategories": "Parks & Environment",
       "price": "Drop-in",
@@ -975,6 +927,22 @@
       "isFree": true
     },
     {
+      "id": "c92a10ac8b0fc6f1",
+      "city": "Surrey",
+      "title": "Sensory Friendly Swims",
+      "url": "https://www.surrey.ca/news-events/events/sensory-friendly-swims",
+      "dateLabel": "November 18, 2026",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-18",
+      "time": "1:00pm - 3:00pm",
+      "location": "Various locations",
+      "description": "Sensory friendly swims are inclusive swim times for individuals and families looking for an environment with reduced noise. They are available for those who are autistic, have anxiety or other sensory processing needs, or anyone who feels they would benefit from a more supportive environment. There will be: Reduced noise & water features. No background music. No speaker announcements (whistles used only for emergencies). Encouraged use of paper towels instead of hand dryers using signage. Designated sensory friendly break rooms. Set clear times and transition warnings. Additional staff available for support. Schedule Guildford Recreation Centre Wednesday, November 18, 1pm to 3pm Wednesday, December 16, 1pm to 3pm Newton Recreation Centre Wednesday, November 25, 1pm to 3pm Tuesday, December 22, 1pm to 3pm South Surrey Indoor Pool Saturday, November 7, 12pm to 2pm Saturday, December 5, 12pm to 2pm Surrey Sport & Leisure Complex Monday, November 9, 12pm to 2pm Monday, December 14, 12pm to 2pm Borrow a sensory friendly kit Kits include: Noise-cancelling headphones, communication cards, fidget toys, ear plugs and sunglasses. Ask a staff member to borrow one. Learn more The City of Surrey is committed to providing a safe and welcoming environment for patrons with sensory sensitivities to continue recreating and participating in activities. Learn more about the City of Surrey's initiatives to enhance accessibility, remove barriers, and create a more inclusive community .",
+      "category": "Sports & wellness",
+      "sourceCategories": "Recreation",
+      "price": "Use your Recreation Surrey pass or pay for a drop-in admission .",
+      "isFree": false
+    },
+    {
       "id": "466ffa3722679469",
       "city": "Surrey",
       "title": "Surrey Jazz Nights Presents: Jenna Alamwala Trio",
@@ -989,6 +957,22 @@
       "sourceCategories": "Newton Community-Hosted",
       "price": "Free/Pay what you wish",
       "isFree": true
+    },
+    {
+      "id": "5d966a766e04808d",
+      "city": "Surrey",
+      "title": "Taste of Reach 2026",
+      "url": "https://www.surrey.ca/news-events/events/taste-of-reach-2026",
+      "dateLabel": "November 18, 2026",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-18",
+      "time": "6:00pm - 9:30pm",
+      "location": "Tasty Indian Bistro, 8295 120th St., Delta, BC",
+      "description": "Join REACH for a special fundraising dinner in support of the new REACH Surrey Centre for Autism, opening in 2027 at 7010 King George Boulevard in Newton. Enjoy a welcome reception featuring South Asian appetizers from Tasty Indian Bistro, followed by a family-style feast of authentic Indian cuisine. The evening will also feature presentations from REACH parents and an exciting live auction. Proceeds from Taste of Reach 2026 will support autism services through Reach Child and Youth Development Society, helping children and youth access life-changing programs, early intervention, family supports, and resources that empower them to reach their full potential. Come together for an evening of great food, community and fundraising in support of the new centre. Learn more",
+      "category": "Community & festivals",
+      "sourceCategories": "Newton Community-Hosted",
+      "price": "$125",
+      "isFree": false
     },
     {
       "id": "1da99920b424440c",
@@ -1343,6 +1327,22 @@
       "isFree": true
     },
     {
+      "id": "bae451f9535f60d1",
+      "city": "Surrey",
+      "title": "Nature Work Parties",
+      "url": "https://www.surrey.ca/news-events/events/nature-work-parties",
+      "dateLabel": "November 28, 2026",
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-28",
+      "time": "10:00am & 10:30am",
+      "location": "Fleetwood Park, 15802 - 80 Avenue Meet near playground located off 80 Ave",
+      "description": "Join us in caring for Surrey parks Remove invasive plants, plant native trees and shrubs, clean up litter, and enhance habitat within the park. Tools and training are provided. Bring your family and friends—all ages are welcome! Important information Dress for the weather and bring water. Drop in at one of two start times. Staggered start times help us give you a great orientation. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to strong winds or extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Sat. Nov 7 Tree and shrub planting 10:00am 12:00pm Robertson Drive Park 12714 - 92 Ave Meet near playground located off Robertson Drive Sat. Nov 14 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Nov 28 Invasive plant removal 10:00am & 10:30am 12:00pm Fleetwood Park 15802 - 80 Avenue Meet near playground located off 80 Ave Sat. Dec 5 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Dec 12 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Feel free to drop in, or sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
+      "category": "Nature & outdoors",
+      "sourceCategories": "Parks & Environment",
+      "price": "Drop-in",
+      "isFree": false
+    },
+    {
       "id": "f14402b5f0ca77e5",
       "city": "Surrey",
       "title": "North Surrey Secondary's 3rd Annual Holiday Market",
@@ -1357,6 +1357,22 @@
       "sourceCategories": "Fleetwood Community-Hosted",
       "price": "Free - toy donations to the Surrey Christmas Bureau are encouraged.",
       "isFree": true
+    },
+    {
+      "id": "ab9ac5a6c987a353",
+      "city": "Surrey",
+      "title": "Soundscape A Cappella Chorus: \"Songs for a Winter's Night\"",
+      "url": "https://www.surrey.ca/news-events/events/soundscape-cappella-chorus-songs-winters-night",
+      "dateLabel": "November 28, 2026",
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-28",
+      "time": "7:30pm - 9:00pm",
+      "location": "Fleetwood Christian Reformed Church, 9165 160 Street, Surrey, BC",
+      "description": "Soundscape A Cappella Chorus welcomes you to their annual Christmas show! Let Soundscape entertain you with seasonal favourites and new repertoire. Admission by donation. Doors open at 7:00 pm. We hope to see you there! Learn more",
+      "category": "Community & festivals",
+      "sourceCategories": "Fleetwood Community-Hosted",
+      "price": "Admission by donation",
+      "isFree": false
     },
     {
       "id": "0657acf88c0a4369",
@@ -1583,6 +1599,22 @@
       "isFree": true
     },
     {
+      "id": "608d178cc585a138",
+      "city": "Surrey",
+      "title": "Nature Work Parties",
+      "url": "https://www.surrey.ca/news-events/events/nature-work-parties",
+      "dateLabel": "December 5, 2026",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "time": "10:00am & 10:30am",
+      "location": "Godwin Farm Biodiversity Preserve Park, 9016 164 St Meet at the parking lot located on 164 St",
+      "description": "Join us in caring for Surrey parks Remove invasive plants, plant native trees and shrubs, clean up litter, and enhance habitat within the park. Tools and training are provided. Bring your family and friends—all ages are welcome! Important information Dress for the weather and bring water. Drop in at one of two start times. Staggered start times help us give you a great orientation. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to strong winds or extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Sat. Nov 7 Tree and shrub planting 10:00am 12:00pm Robertson Drive Park 12714 - 92 Ave Meet near playground located off Robertson Drive Sat. Nov 14 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Nov 28 Invasive plant removal 10:00am & 10:30am 12:00pm Fleetwood Park 15802 - 80 Avenue Meet near playground located off 80 Ave Sat. Dec 5 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Dec 12 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Feel free to drop in, or sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
+      "category": "Nature & outdoors",
+      "sourceCategories": "Parks & Environment",
+      "price": "Drop-in",
+      "isFree": false
+    },
+    {
       "id": "03de123577f24689",
       "city": "Surrey",
       "title": "Panjabi Tour of In the Folds of Memory",
@@ -1741,6 +1773,22 @@
       "sourceCategories": "South Surrey Arts & Culture Heritage Stewart Farm",
       "price": "Free",
       "isFree": true
+    },
+    {
+      "id": "1fcc6fa77a72d9a9",
+      "city": "Surrey",
+      "title": "Nature Work Parties",
+      "url": "https://www.surrey.ca/news-events/events/nature-work-parties",
+      "dateLabel": "December 12, 2026",
+      "startDate": "2026-12-12",
+      "endDate": "2026-12-12",
+      "time": "10:00am & 10:30am",
+      "location": "Godwin Farm Biodiversity Preserve Park, 9016 164 St Meet at the parking lot located on 164 St",
+      "description": "Join us in caring for Surrey parks Remove invasive plants, plant native trees and shrubs, clean up litter, and enhance habitat within the park. Tools and training are provided. Bring your family and friends—all ages are welcome! Important information Dress for the weather and bring water. Drop in at one of two start times. Staggered start times help us give you a great orientation. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to strong winds or extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Sat. Nov 7 Tree and shrub planting 10:00am 12:00pm Robertson Drive Park 12714 - 92 Ave Meet near playground located off Robertson Drive Sat. Nov 14 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Nov 28 Invasive plant removal 10:00am & 10:30am 12:00pm Fleetwood Park 15802 - 80 Avenue Meet near playground located off 80 Ave Sat. Dec 5 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Dec 12 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Feel free to drop in, or sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
+      "category": "Nature & outdoors",
+      "sourceCategories": "Parks & Environment",
+      "price": "Drop-in",
+      "isFree": false
     },
     {
       "id": "8bee0798f6ec12a4",
@@ -2156,6 +2204,22 @@
       "category": "Arts & culture",
       "sourceCategories": "Arts & Culture Music Surrey Civic Theatres",
       "price": "Tickets: $25",
+      "isFree": false
+    },
+    {
+      "id": "dd249f62d3f388e8",
+      "city": "Surrey",
+      "title": "Ramadan Fest BC",
+      "url": "https://www.surrey.ca/news-events/events/ramadan-fest-bc",
+      "dateLabel": "February 11, 2027 - February 14, 2027",
+      "startDate": "2027-02-11",
+      "endDate": "2027-02-14",
+      "time": "Time not published — check event link",
+      "location": "Cloverdale Fairgrounds, 17905 62 Ave #17607, Surrey, BC",
+      "description": "Experience the spirit of Ramadan at Ramadan Fest BC, a vibrant late-night market bringing families, friends and neighbours together for delicious food, shopping and shared celebrations. Enjoy a variety of halal food, explore the marketplace and discover local businesses in an atmosphere filled with the warmth and togetherness of Ramadan. Whether you’re taking part in Ramadan, shopping with local vendors or experiencing a Ramadan night market for the first time, everyone is welcome. Organized by Salaam Events Inc., Ramadan Fest BC celebrates Muslim culture and traditions while welcoming people of all faiths and backgrounds. It’s an opportunity to support local entrepreneurs, connect with neighbours and share in the generosity and hospitality at the heart of the holy month. Bring your family, invite your friends and join us for a memorable night of food, discovery and Ramadan celebrations! Learn more Date and time Thursday, February 11 - Sunday, February 14, 2027, 5:30pm-3:00am",
+      "category": "Community & festivals",
+      "sourceCategories": "Cloverdale Community-Hosted",
+      "price": "$6.99",
       "isFree": false
     },
     {
