@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-02T15:22:04-07:00",
+  "updatedAt": "2026-11-03T13:09:15-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-11-02T15:22:04-07:00",
+      "updatedAt": "2026-11-03T13:09:15-07:00",
       "status": "ok",
-      "count": 151
+      "count": 150
     },
     "Richmond": {
-      "updatedAt": "2026-11-02T15:22:04-07:00",
+      "updatedAt": "2026-11-03T13:09:15-07:00",
       "status": "ok",
-      "count": 11
+      "count": 12
     }
   },
   "events": [
@@ -45,22 +45,6 @@
       "sourceCategories": "Gallery & Museum RAG Exhibit",
       "price": "Free",
       "isFree": true
-    },
-    {
-      "id": "3466fde07a582a29",
-      "city": "Surrey",
-      "title": "Inauguration of Mayor & Council",
-      "url": "https://www.surrey.ca/news-events/events/inauguration-of-mayor-council",
-      "dateLabel": "November 2, 2026",
-      "startDate": "2026-11-02",
-      "endDate": "2026-11-02",
-      "time": "7:00pm - 8:00pm",
-      "location": "Online and in-person at City Hall, 13450 - 104 Avenue, Surrey, BC",
-      "description": "Every four years, a newly elected Mayor & Council are sworn into office with an official ceremony. Watch as Mayor-elect Doug McCallum and the Councillors-elect are sworn in at Surrey City Hall. Schedule Welcome Honour guard Mayor & councillors take oath of office Inaugural address The livestream will start at 7pm. View Livestream Mayor-elect Doug McCallum Councillors-elect Harry Bains Cheney Cloke Doug Elford Meera Gill Suhana Gill Laurie Guerra Mandeep Nagra Allison Patton",
-      "category": "Community & festivals",
-      "sourceCategories": "Whalley and City Centre Public Meetings & Open Houses",
-      "price": "",
-      "isFree": false
     },
     {
       "id": "30910a805a58f66c",
@@ -1471,6 +1455,22 @@
       "isFree": true
     },
     {
+      "id": "50fd49b0214bee98",
+      "city": "Richmond",
+      "title": "Disability Voices 2026: Film Screening and Director Q&A: A Place Where I Belong",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19172",
+      "dateLabel": "Tuesday, Dec 01, 2026",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
+      "time": "6:30- 8:30pm (doors open at 6:00pm)",
+      "location": "100 - 7700 Minoru Gate",
+      "description": "This event is part of the \"Disability Voices: Art, Story and Belonging\" event series, in recognition of International Day of Persons with Disabilities. For more information on this event and others, visit richmond.ca/DisabilityVoices. Join in this screening and discussion of A Place Where I Belong, a documentary following six 2SLGBTQIA+ people with intellectual and/or developmental disabilities as they pursue visibility, love and freedom. Stay after the film for a moderated discussion with the director and two cast members. More Information This event is for Youth (Ages 13-18), Adult (Ages 18+) & 55+ (Ages 55 and over) This is an accessible site. This event is free.",
+      "category": "Arts & culture",
+      "sourceCategories": "Culture & Heritage Events Film",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "9d1a9aa9438c36c6",
       "city": "Surrey",
       "title": "Thursday Artist Talk: Anoop Dhaliwal, “Mindfulness. Material. Making.”",
@@ -1576,7 +1576,7 @@
       "endDate": "2026-12-06",
       "time": "Time not published — check event link",
       "location": "Clayton Community Centre, 7155 187a St, Surrey, BC",
-      "description": "Clayton Community Centre's Artist in Residence, Mariel Nelms’ project Future Archives , invites community members to be co-authors of Surrey’s next chapter by exploring the influential individuals that have come before and considering our roles in the future. Nelms invites community members to participate in free portrait sessions, creative workshops, and meaningful conversations. Come out to one or all of the sessions listed, and visit Artists in Residence for more about the project and the exciting end result! Pop-Up portrait studio Come get your professional photo taken for the project. September 13, 10am-2pm September 18, 5-9pm September 27, 10am-2pm Weaving workshops Learn to upcycle recycled materials into woven textiles. October 11, 10am-2pm October 25, 10am-2pm December 5, 10am-2pm Opening of Future Archives Unveiling of final artwork and community celebration. January 16, 3-5pm",
+      "description": "Clayton Community Centre's Artist in Residence, Mariel Nelms’ project Future Archives , invites community members to be co-authors of Surrey’s next chapter by exploring the influential individuals that have come before and considering our roles in the future. Nelms invites community members to participate in free portrait sessions, creative workshops, and meaningful conversations. Come out to one or all of the sessions listed, and visit Artists in Residence for more about the project and the exciting end result! Pop-Up portrait studio Come get your professional photo taken for the project. September 13, 10am-2pm September 18, 5-9pm September 27, 10am-2pm Weaving workshops Learn to upcycle recycled materials into woven textiles. October 11, 10am-2pm October 25, 10am-2pm December 5, 10am-2pm Weave-a-Thons Help complete the hanging installation by joining Mariel for a marathon of weaving! First time weavers are welcome, instructions and materials provided! November 21, 10am-1pm December 12, 10am-1pm Opening of Future Archives Unveiling of final artwork and community celebration. January 16, 3-5pm",
       "category": "Arts & culture",
       "sourceCategories": "Cloverdale Arts & Culture Community Art",
       "price": "Free",
@@ -2136,7 +2136,7 @@
       "endDate": "2027-01-17",
       "time": "Time not published — check event link",
       "location": "Clayton Community Centre, 7155 187a St, Surrey, BC",
-      "description": "Clayton Community Centre's Artist in Residence, Mariel Nelms’ project Future Archives , invites community members to be co-authors of Surrey’s next chapter by exploring the influential individuals that have come before and considering our roles in the future. Nelms invites community members to participate in free portrait sessions, creative workshops, and meaningful conversations. Come out to one or all of the sessions listed, and visit Artists in Residence for more about the project and the exciting end result! Pop-Up portrait studio Come get your professional photo taken for the project. September 13, 10am-2pm September 18, 5-9pm September 27, 10am-2pm Weaving workshops Learn to upcycle recycled materials into woven textiles. October 11, 10am-2pm October 25, 10am-2pm December 5, 10am-2pm Opening of Future Archives Unveiling of final artwork and community celebration. January 16, 3-5pm",
+      "description": "Clayton Community Centre's Artist in Residence, Mariel Nelms’ project Future Archives , invites community members to be co-authors of Surrey’s next chapter by exploring the influential individuals that have come before and considering our roles in the future. Nelms invites community members to participate in free portrait sessions, creative workshops, and meaningful conversations. Come out to one or all of the sessions listed, and visit Artists in Residence for more about the project and the exciting end result! Pop-Up portrait studio Come get your professional photo taken for the project. September 13, 10am-2pm September 18, 5-9pm September 27, 10am-2pm Weaving workshops Learn to upcycle recycled materials into woven textiles. October 11, 10am-2pm October 25, 10am-2pm December 5, 10am-2pm Weave-a-Thons Help complete the hanging installation by joining Mariel for a marathon of weaving! First time weavers are welcome, instructions and materials provided! November 21, 10am-1pm December 12, 10am-1pm Opening of Future Archives Unveiling of final artwork and community celebration. January 16, 3-5pm",
       "category": "Arts & culture",
       "sourceCategories": "Cloverdale Arts & Culture Community Art",
       "price": "Free",
