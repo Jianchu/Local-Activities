@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-04T13:27:14-07:00",
+  "updatedAt": "2026-11-05T13:42:27-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-11-04T13:27:14-07:00",
+      "updatedAt": "2026-11-05T13:42:27-07:00",
       "status": "ok",
-      "count": 150
+      "count": 148
     },
     "Richmond": {
-      "updatedAt": "2026-11-04T13:27:14-07:00",
+      "updatedAt": "2026-11-05T13:42:27-07:00",
       "status": "ok",
-      "count": 12
+      "count": 14
     }
   },
   "events": [
@@ -43,22 +43,6 @@
       "description": "Richmond Art Gallery Association's annual art auction, launches online and on view in the gallery October 24, featuring a diverse range of art works available for bidding, with select works reserved for a live auction at our annual banquet on November 21. Highlights include artworks by Moozhan Ahmadzadegan, Jo-Anne Balcaen, Persimmon Blackbridge, Sandeep Johal, August Klintberg, Michael Love, Phranc, Malina Sintnicolaas, Jan Wade, Marlene Yuen, among others! More Information This event is for All Ages. This is an accessible site. This event is free.",
       "category": "Arts & culture",
       "sourceCategories": "Gallery & Museum RAG Exhibit",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "d3844e5b52332894",
-      "city": "Surrey",
-      "title": "Take Our Kids To Work Day",
-      "url": "https://www.surrey.ca/news-events/events/take-our-kids-work-day",
-      "dateLabel": "November 4, 2026",
-      "startDate": "2026-11-04",
-      "endDate": "2026-11-04",
-      "time": "8:30am - 3:00pm",
-      "location": "Various locations",
-      "description": "This one day event is for youth ages 13 to 14. Students must be in grade 9 to register for one of the three different streams available to choose from depending on the student's interests. Join the City of Surrey's Park, Recreation and Culture team for Take Our Kids To Work Day for residents in our city who are unable to take their own kids to certain professional atmospheres. Groups of students will experience a sample workday and explore diverse career paths including outdoor recreation, event planning, cultural programming and volunteer opportunities. All interested students must register by October 30 and bring a signed permission slip. Don't miss out on this unique opportunity to discover the world of work with us! Parks Grade 9 students who love nature and protecting the environment won’t want to miss this! The day will include hands-on stewardship activities and demonstrations. Taking place at the Surrey Nature Centre; dress for the weather, some activities take place outdoors (rain or shine). Location: Surrey Nature Centre - Forest Room Course ID: 00546257 Register Now Recreation Grade 9 students can explore the world of recreation through a hands-on learning experience. Engaging in fitness fundamentals, day camp activities, and aquatic operations, students will gain practical skills and insights into the importance of recreational services and how to keep their community active and engaged. Location: Newton Recreation Centre - Room 2 Course ID: 00546035 Register Now Arts & Culture Grade 9 students will discover volunteer and career opportunities in arts and culture while learning about programming, exhibitions, and special events. Participants will also enjoy a behind-the-scenes tour of the facility and gain insight into the many roles that support arts and cultural experiences in Surrey. Location: Surrey Arts Centre -Theatre Course ID: 00546254 Register Now For more information, call 604-501-5566 .",
-      "category": "Nature & outdoors",
-      "sourceCategories": "Arts & Culture Parks & Environment Recreation Youth",
       "price": "Free",
       "isFree": true
     },
@@ -459,6 +443,22 @@
       "description": "On November 11, several events will be taking place across Surrey in honour of Remembrance Day. Arrive early to find parking, or consider walking, biking, or taking transit. Events will take place rain or shine. Join your community for Remembrance Day ceremonies happening at the following locations: Veterans Square 17710 56A Avenue Procession to Veterans Square begins at 10:00am Service begins at 10:25am The ceremony will be live streamed on the City of Surrey Facebook page Event organizer: Royal Canadian Legion, Cloverdale Branch #6 Surrey Centre Cemetery 16670 60 Avenue Family event from 10:45am to 1:00pm Service begins at 10:45am Event organizer: City of Surrey, Cemetery Services Crescent Legion 2643 128 Street Procession begins at 10:00am Service begins at 10:25am Event organizer: Royal Canadian Legion, Crescent Branch #240 Whalley Legion 10626 City Parkway Procession begins at 10:00am Service begins at 10:25am Event organizer: Royal Canadian Legion, Whalley Branch #229 Port Kells Community Hall 18918 88 Avenue Service begins at 10:30am Event organizer: Port Kells Community Association Newton Senior Centre 13775 70A Avenue Service begins at 10:30am Event organizer: Girl Guides of Canada Contact [email protected] 604-591-4011",
       "category": "Arts & culture",
       "sourceCategories": "Heritage Museum of Surrey",
+      "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "48dc31c163135975",
+      "city": "Richmond",
+      "title": "Remembrance Day Service",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19179",
+      "dateLabel": "Wednesday, Nov 11, 2026",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-11",
+      "time": "10:15am - 11:30am",
+      "location": "6911 No. 3 Rd",
+      "description": "For those wishing to reflect and remember with the community, there will be an in-person Remembrance Day ceremony on Friday, November 11 at the cenotaph located on the east side of Richmond City Hall, 6911 No. 3 Road. Parade will begin at 10:20am, official ceremonies will begin at 10:40am. There will be two minutes of silence at 11:00am, followed by wreath laying. More Information This event is for All Ages. This is an accessible site. This event is free.",
+      "category": "Community & festivals",
+      "sourceCategories": "Special Events - General Parades",
       "price": "Free",
       "isFree": true
     },
@@ -1483,6 +1483,22 @@
       "description": "Using materials such as rocks, paper, pen, and coloured pencils, participants are encouraged to express themselves freely and connect back to stillness. Space is limited. Contact [email protected] to register.",
       "category": "Arts & culture",
       "sourceCategories": "Whalley and City Centre Arts & Culture Surrey Art Gallery",
+      "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "2b340562b5cd9414",
+      "city": "Richmond",
+      "title": "Disability Voices 2026: My Family's Joy: Stories, Signs & Belonging",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19175",
+      "dateLabel": "Friday, Dec 04, 2026",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-04",
+      "time": "9:30-10:30am",
+      "location": "100 - 7700 Minoru Gate",
+      "description": "This event is part of the \"Disability Voices: Art, Story and Belonging\" event series, in recognition of International Day of Persons with Disabilities. For more information on this event and others, visit richmond.ca/DisabilityVoices. Join author Hanna Ahn for a reading of My Family’s Joy, a story about family, communication and connection. Students will meet Lyra as she celebrates a birthday with her family, including her Deaf baby sister, father and grandparents. They’ll watch the story in American Sign Language, learn a few signs of their own and talk together about the many ways we communicate and connect with one another. More Information This event is for Child (Ages 6-12) This is an accessible site. This event is free.",
+      "category": "Arts & culture",
+      "sourceCategories": "Culture & Heritage Events Literary / Library",
       "price": "Free",
       "isFree": true
     },
