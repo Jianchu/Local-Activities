@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-05T13:42:27-07:00",
+  "updatedAt": "2026-11-06T12:58:39-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-11-05T13:42:27-07:00",
+      "updatedAt": "2026-11-06T12:58:39-07:00",
       "status": "ok",
       "count": 148
     },
     "Richmond": {
-      "updatedAt": "2026-11-05T13:42:27-07:00",
+      "updatedAt": "2026-11-06T12:58:39-07:00",
       "status": "ok",
-      "count": 14
+      "count": 19
     }
   },
   "events": [
@@ -43,38 +43,6 @@
       "description": "Richmond Art Gallery Association's annual art auction, launches online and on view in the gallery October 24, featuring a diverse range of art works available for bidding, with select works reserved for a live auction at our annual banquet on November 21. Highlights include artworks by Moozhan Ahmadzadegan, Jo-Anne Balcaen, Persimmon Blackbridge, Sandeep Johal, August Klintberg, Michael Love, Phranc, Malina Sintnicolaas, Jan Wade, Marlene Yuen, among others! More Information This event is for All Ages. This is an accessible site. This event is free.",
       "category": "Arts & culture",
       "sourceCategories": "Gallery & Museum RAG Exhibit",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "67b60348df6c7d08",
-      "city": "Richmond",
-      "title": "RAG Collage Club: November Session",
-      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19160",
-      "dateLabel": "Thursday, Nov 05, 2026",
-      "startDate": "2026-11-05",
-      "endDate": "2026-11-05",
-      "time": "6:30-8:30pm",
-      "location": "7700 Minoru Gate",
-      "description": "Looking for a fun, inspiring night out? Join Richmond Art Gallery's Collage Club for Adults—a relaxed, social evening dedicated to collage artmaking in a welcoming environment. No artistic experience required; just bring your imagination! Hosted in the Creativity Lab at the Richmond Cultural Centre Annex. This month's theme: Outer Space As you collage, enjoy a specially curated space-themed music video playlist, featuring cosmic visuals to help fuel your imagination. We’ll also have tea available to keep you cozy, and digital tools courtesy of our partner, Richmond Media Lab. Whether you’re an experienced artist or simply looking for a fun and relaxing creative activity, Collage Club is a welcoming space to experiment, make art and connect with others. Ages 16+yrs $5 per person • All supplies included Registration required due to limited seats. More Information This event is for Adult (Ages 18+) & 55+ (Ages 55 and over) This is an accessible site. $5.00",
-      "category": "Learn & create",
-      "sourceCategories": "Meetings / Conventions / Lectures / Workshops Workshops",
-      "price": "",
-      "isFree": false
-    },
-    {
-      "id": "cff97e96dd0f79fe",
-      "city": "Surrey",
-      "title": "Thursday Artist Talk: Stories of Learning and Process",
-      "url": "https://www.surrey.ca/news-events/events/thursday-artist-talk-stories-of-learning-and-process",
-      "dateLabel": "November 5, 2026",
-      "startDate": "2026-11-05",
-      "endDate": "2026-11-05",
-      "time": "7:00pm - 8:30pm",
-      "location": "Surrey Art Gallery, 13750 88 Ave, Surrey, BC",
-      "description": "Join a discussion with the organizers of the exhibition Making Connections and learn how Gallery Docents constructed the show selecting from over 2500 works in the Gallery's permanent collection. Find out how the group developed an exhibition that considers the idea of place from a range of intertwined and sometimes complex perspectives on Surrey. About Surrey Art Gallery Association Surrey Art Gallery Association (SAGA) is a non-profit society that offers its members the opportunity to participate in and respond to contemporary art and be part of a community that actively supports Surrey Art Gallery.",
-      "category": "Arts & culture",
-      "sourceCategories": "Whalley and City Centre Arts & Culture Seniors Surrey Art Gallery Youth",
       "price": "Free",
       "isFree": true
     },
@@ -319,6 +287,22 @@
       "isFree": true
     },
     {
+      "id": "16666a539946b995",
+      "city": "Richmond",
+      "title": "RAG Exhibition Tour in Mandarin",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19177",
+      "dateLabel": "Sunday, Nov 08, 2026",
+      "startDate": "2026-11-08",
+      "endDate": "2026-11-08",
+      "time": "2:00-3:00pm",
+      "location": "7700 Minoru Gate",
+      "description": "Drop in for a tour hosted in Mandarin of our current exhibition with Rebecca Wang. Learn more about its themes through a guided visit and informal discussion over a cup of tea. Limited spaces; RSVP to reserve a seat. Accessibility Advisory: Note: The exhibition Out of This World features low lighting and shadows, with intermittent shifts in lighting due to slide and video projections. Also, be mindful when moving through the exhibition as some of the artworks are placed low on the floor. More Information This event is for All Ages. This is an accessible site. This event is free.",
+      "category": "Arts & culture",
+      "sourceCategories": "Gallery & Museum Talk / Tour / Lecture",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "ca96be2c177a3edf",
       "city": "Surrey",
       "title": "Salmon Sessions at Bear Creek Lights",
@@ -559,6 +543,22 @@
       "isFree": true
     },
     {
+      "id": "9142ce1cdfb8a38e",
+      "city": "Richmond",
+      "title": "Songs for a New World",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19181",
+      "dateLabel": "Friday, Nov 13, 2026 Saturday, Nov 14, 2026",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-14",
+      "time": "1:30pm and 7:30pm",
+      "location": "6500 Gilbert Rd",
+      "description": "An uplifting and moving song cycle about humanity. Step into one of Richmond’s most beloved heritage sites, the Minoru Chapel, and be transported into the beautiful music of Songs for a New World. Performed as a concert, this is an intimate song cycle by Tony Award winner Jason Robert Brown. This unique theatrical journey weaves together a series of characters, each standing on the precipice of change, navigating the unknown with courage, fear and determination. Featuring some of the Lower Mainland’s best singers, their voices will paint relatable stories of risk, resilience and the choices that shape our lives. More Information This event is for Youth (Ages 13-18), Adult (Ages 18+) & 55+ (Ages 55 and over) This is an accessible site. Tickets: $40",
+      "category": "Arts & culture",
+      "sourceCategories": "Culture & Heritage Events Theatre",
+      "price": "",
+      "isFree": false
+    },
+    {
       "id": "b282e1fc7e8b567a",
       "city": "Surrey",
       "title": "The Dreamboats",
@@ -616,7 +616,7 @@
       "endDate": "2026-11-14",
       "time": "12:00pm - 4:00pm",
       "location": "Surrey Arts Centre - 13750 88 Ave, Surrey, BC",
-      "description": "Dozens of local and BC artists, including current saga shop artists, will be showcasing their incredible handmade works. Browse ceramics, jewellery, art cards, paintings, photographs, stickers, books for children and adults, linocuts, and more! Plus, purchase a limited-edition tote bag by Atheana Picha inspired by West Coast baskets and knitting patterns with all proceeds going to Surrey Art Gallery Association (SAGA). All saga shop artists and market vendors are members of Surrey Art Gallery Association. SAGA members receive a 10% discount, and if visitors are not a member already, they can become one onsite. I'm so grateful for the opportunity to showcase my work at the saga shop, share it with others, and be part of such a wonderful community of artists. I'm really looking forward to the Heart to Home Holiday Market. It's another opportunity to be part of this incredible and inclusive community and to share what I love doing with others. -Dunia Tozy Longstanding saga shop artist and Gallery artist-educator Murray Sanders will be demonstrating pottery wheel throwing throughout the weekend and also have a table of his pottery for sale. Hosted with the Gallery, this annual market has been supporting the creativity and ingenuity of local artists since 2002. Vendor Types of Art Karen Bosanac Jewellery Asma Burney Paintings Jasmina Charleston Graphic art & illustration cards, stickers, textiles Terry Cummings Jewellery & ceramic sculptures Marian De Gier Jewellery Foxy Verve Atelier Jewellery, fibre arts, prints By the Sea Jewellery Jewellery Gordon Rebelato Photographs Sapphorica Creation s Graphic art & illustration cards, stickers Murray Sanders Functional ceramics Wendy Schmidt Wildlife paintings Stephanie Shields Bobbin lace jewellery Dunia Tozy & Ella Davidson Paintings, colouring books, & jewellery Lyn Verra-Lay Fibre arts Nancy Wright Paintings & clocks Ramona Radu Watercolour paintings Sharon Doucette Photographs, cyanotypes Alanna Edwards Jewellery & beading Atheana Picha Weavings, prints, paintings About Surrey Art Gallery Association Surrey Art Gallery Association (SAGA) is a non-profit society that offers its members the opportunity to participate in and respond to contemporary art and be part of a community that actively supports Surrey Art Gallery.",
+      "description": "Dozens of local and BC artists, including current saga shop artists, will be showcasing their incredible handmade works. Browse ceramics, jewellery, art cards, paintings, photographs, stickers, books for children and adults, linocuts, and more! Plus, purchase a limited-edition tote bag by Atheana Picha inspired by West Coast baskets and knitting patterns with all proceeds going to Surrey Art Gallery Association (SAGA). All saga shop artists and market vendors are members of Surrey Art Gallery Association. SAGA members receive a 10% discount, and if visitors are not a member already, they can become one onsite. I'm so grateful for the opportunity to showcase my work at the saga shop, share it with others, and be part of such a wonderful community of artists. I'm really looking forward to the Heart to Home Holiday Market. It's another opportunity to be part of this incredible and inclusive community and to share what I love doing with others. -Dunia Tozy Longstanding saga shop artist and Gallery artist-educator Murray Sanders will be demonstrating pottery wheel throwing throughout the weekend and also have a table of his pottery for sale. Hosted with the Gallery, this annual market has been supporting the creativity and ingenuity of local artists since 2002. Vendor Types of Art Karen Bosanac Jewellery Asma Burney Paintings Jasmina Charleston Graphic art & illustration cards, stickers, textiles Terry Cummings Jewellery & ceramic sculptures Marian De Gier Jewellery Foxy Verve Atelier Jewellery, fibre arts, prints Gordon Rebelato Photographs Sapphorica Creation s Graphic art & illustration cards, stickers Murray Sanders Functional ceramics Wendy Schmidt Wildlife paintings Stephanie Shields Bobbin lace jewellery Dunia Tozy & Ella Davidson Paintings, colouring books, & jewellery Lyn Verra-Lay Fibre arts Nancy Wright Paintings & clocks Ramona Radu Watercolour paintings Sharon Doucette Photographs, cyanotypes Alanna Edwards Jewellery & beading Atheana Picha Weavings, prints, paintings About Surrey Art Gallery Association Surrey Art Gallery Association (SAGA) is a non-profit society that offers its members the opportunity to participate in and respond to contemporary art and be part of a community that actively supports Surrey Art Gallery.",
       "category": "Arts & culture",
       "sourceCategories": "Whalley and City Centre Arts & Culture Seniors Surrey Art Gallery Youth",
       "price": "Free",
@@ -744,7 +744,7 @@
       "endDate": "2026-11-15",
       "time": "12:00pm - 4:00pm",
       "location": "Surrey Arts Centre - 13750 88 Ave, Surrey, BC",
-      "description": "Dozens of local and BC artists, including current saga shop artists, will be showcasing their incredible handmade works. Browse ceramics, jewellery, art cards, paintings, photographs, stickers, books for children and adults, linocuts, and more! Plus, purchase a limited-edition tote bag by Atheana Picha inspired by West Coast baskets and knitting patterns with all proceeds going to Surrey Art Gallery Association (SAGA). All saga shop artists and market vendors are members of Surrey Art Gallery Association. SAGA members receive a 10% discount, and if visitors are not a member already, they can become one onsite. I'm so grateful for the opportunity to showcase my work at the saga shop, share it with others, and be part of such a wonderful community of artists. I'm really looking forward to the Heart to Home Holiday Market. It's another opportunity to be part of this incredible and inclusive community and to share what I love doing with others. -Dunia Tozy Longstanding saga shop artist and Gallery artist-educator Murray Sanders will be demonstrating pottery wheel throwing throughout the weekend and also have a table of his pottery for sale. Hosted with the Gallery, this annual market has been supporting the creativity and ingenuity of local artists since 2002. Vendor Types of Art Karen Bosanac Jewellery Asma Burney Paintings Jasmina Charleston Graphic art & illustration cards, stickers, textiles Terry Cummings Jewellery & ceramic sculptures Marian De Gier Jewellery Foxy Verve Atelier Jewellery, fibre arts, prints By the Sea Jewellery Jewellery Gordon Rebelato Photographs Sapphorica Creation s Graphic art & illustration cards, stickers Murray Sanders Functional ceramics Wendy Schmidt Wildlife paintings Stephanie Shields Bobbin lace jewellery Dunia Tozy & Ella Davidson Paintings, colouring books, & jewellery Lyn Verra-Lay Fibre arts Nancy Wright Paintings & clocks Ramona Radu Watercolour paintings Sharon Doucette Photographs, cyanotypes Alanna Edwards Jewellery & beading Atheana Picha Weavings, prints, paintings About Surrey Art Gallery Association Surrey Art Gallery Association (SAGA) is a non-profit society that offers its members the opportunity to participate in and respond to contemporary art and be part of a community that actively supports Surrey Art Gallery.",
+      "description": "Dozens of local and BC artists, including current saga shop artists, will be showcasing their incredible handmade works. Browse ceramics, jewellery, art cards, paintings, photographs, stickers, books for children and adults, linocuts, and more! Plus, purchase a limited-edition tote bag by Atheana Picha inspired by West Coast baskets and knitting patterns with all proceeds going to Surrey Art Gallery Association (SAGA). All saga shop artists and market vendors are members of Surrey Art Gallery Association. SAGA members receive a 10% discount, and if visitors are not a member already, they can become one onsite. I'm so grateful for the opportunity to showcase my work at the saga shop, share it with others, and be part of such a wonderful community of artists. I'm really looking forward to the Heart to Home Holiday Market. It's another opportunity to be part of this incredible and inclusive community and to share what I love doing with others. -Dunia Tozy Longstanding saga shop artist and Gallery artist-educator Murray Sanders will be demonstrating pottery wheel throwing throughout the weekend and also have a table of his pottery for sale. Hosted with the Gallery, this annual market has been supporting the creativity and ingenuity of local artists since 2002. Vendor Types of Art Karen Bosanac Jewellery Asma Burney Paintings Jasmina Charleston Graphic art & illustration cards, stickers, textiles Terry Cummings Jewellery & ceramic sculptures Marian De Gier Jewellery Foxy Verve Atelier Jewellery, fibre arts, prints Gordon Rebelato Photographs Sapphorica Creation s Graphic art & illustration cards, stickers Murray Sanders Functional ceramics Wendy Schmidt Wildlife paintings Stephanie Shields Bobbin lace jewellery Dunia Tozy & Ella Davidson Paintings, colouring books, & jewellery Lyn Verra-Lay Fibre arts Nancy Wright Paintings & clocks Ramona Radu Watercolour paintings Sharon Doucette Photographs, cyanotypes Alanna Edwards Jewellery & beading Atheana Picha Weavings, prints, paintings About Surrey Art Gallery Association Surrey Art Gallery Association (SAGA) is a non-profit society that offers its members the opportunity to participate in and respond to contemporary art and be part of a community that actively supports Surrey Art Gallery.",
       "category": "Arts & culture",
       "sourceCategories": "Whalley and City Centre Arts & Culture Seniors Surrey Art Gallery Youth",
       "price": "Free",
@@ -1007,6 +1007,22 @@
       "isFree": true
     },
     {
+      "id": "7eddab8c0c826c23",
+      "city": "Richmond",
+      "title": "Artist Salon: Lam Tung Pang on Process, Place, and Practice",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19183",
+      "dateLabel": "Saturday, Nov 21, 2026",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
+      "time": "2:00-3:30pm",
+      "location": "7700 Minoru Gate",
+      "description": "Join exhibiting artist Lam Tung Pang for a conversation about his practice. Drawing on experiences across Hong Kong, London, Beijing and Richmond, Lam will reflect on the influences, processes and artistic decisions that shape his work today. This session offers a unique opportunity for artists and arts professionals to engage with the realities of sustaining a contemporary art practice across cultures and geographies. Limited spaces; RSVP requested. Note: Film crew on site filming a documentary on artist Lam Tung Pang. Please inform staff if you do not wish to be on camera. About the Presenter: Lam Tung Pang received his BFA from the Chinese University of Hong Kong and his MFA from Central Saint Martins in London. Lam’s work is collected by LACMA (Los Angeles), Asian Art Museum (San Francisco), Burger Collection, the Deutsche Bank, Royal Bank of Canada, Hong Kong Museum of Art, Kadist Art Foundation (France & USA), White Rabbit Contemporary Chinese Art Collection (Australia), and M+ (Hong Kong), among others. In 2012, he was awarded the outstanding contributions to the development of culture and arts by The Secretary for Home Affairs, Hong Kong. More Information This event is for Youth (Ages 13-18), Adult (Ages 18+) & 55+ (Ages 55 and over) This is an accessible site. This event is free.",
+      "category": "Arts & culture",
+      "sourceCategories": "Gallery & Museum Talk / Tour / Lecture",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "5c6f3cad02d61c0a",
       "city": "Surrey",
       "title": "Christmas Wreath Workshop",
@@ -1245,6 +1261,22 @@
       "sourceCategories": "Whalley and City Centre Civic Plaza Recreation",
       "price": "Free",
       "isFree": true
+    },
+    {
+      "id": "1fb256e8fbd64f27",
+      "city": "Richmond",
+      "title": "2026 Steveston Christmas Craft Fair",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19182",
+      "dateLabel": "Saturday, Nov 28, 2026",
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-28",
+      "time": "10:00am-4:00pm",
+      "location": "4111 Moncton St",
+      "description": "You are invited to the 43rd annual Steveston Christmas Craft Fair! With over 100 vendors, you will have your holiday shopping done in no time. Features: Up to 125 vendors with handcrafted items, jewelry, \"foodie\" items and more Chances to win a raffle with items from vendors at the event Family-friendly and accessible venue Check out the Steveston village after you are done shopping Things to note: Bring cash, as there are no ATMs on site and some vendors may not have debit/credit payment squares or e-transfer options No animals are allowed, unless they are service animals Note that parking will be limited, overflow parking is available at McMath Secondary School (4251 Garry St.) More Information This event is for All Ages. This is an accessible site. Entrance is by cash donation.",
+      "category": "Community & festivals",
+      "sourceCategories": "Christmas Events Public Market",
+      "price": "",
+      "isFree": false
     },
     {
       "id": "b375b2255cadbc0f",
@@ -1583,6 +1615,22 @@
       "isFree": true
     },
     {
+      "id": "fba54eefbe8d067b",
+      "city": "Richmond",
+      "title": "Disability Voices 2026: Author Presentation with Dr. Keiko Honda",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19176",
+      "dateLabel": "Saturday, Dec 05, 2026",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "time": "2:00-3:00pm",
+      "location": "100 - 7700 Minoru Gate",
+      "description": "This event is part of the \"Disability Voices: Art, Story and Belonging\" event series, in recognition of International Day of Persons with Disabilities. For more information on this event and others, visit richmond.ca/DisabilityVoices. Join author Dr. Keiko Honda for a celebration of her new memoir, Words That Last. Moving through Basho's karumi (lightness) and Shonagon's okashi (delighted noticing), she traces what remains when the expected life falls away - and whether it's enough to build from. Dr. Keiko Honda is an epidemiologist whose life changed after a rare autoimmune disease led to long term wheelchair use. This presentation will be an afternoon of reading, reflection and conversation about what we carry, what endures and what it means to pay attention. Books will be available for purchase, with a signing to follow. More Information This event is for All Ages. This is an accessible site. This event is free.",
+      "category": "Arts & culture",
+      "sourceCategories": "Culture & Heritage Events Literary / Library",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "814e506e9368308d",
       "city": "Surrey",
       "title": "Engage with Artist in Residence Mariel Nelms",
@@ -1611,6 +1659,22 @@
       "description": "Bring your skates to enjoy free outdoor skating under the covered ice rink, or rent skates for $5 a pair. Enjoy a bright, festive atmosphere, free activities and live music. Relax and warm up with drinks and snacks for purchase from the on-site cafe. This weekend’s highlights under the tent Friday, December 4, 3:30-6:00pm Photobooth with customizable holiday backgrounds Live music: Acoustic covers of holiday classics Saturday, December 5, 5:30–8:00pm Live music: Acoustic covers of holiday classics Skating Anna",
       "category": "Sports & wellness",
       "sourceCategories": "Whalley and City Centre Civic Plaza Recreation",
+      "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "44b042ef349f205a",
+      "city": "Richmond",
+      "title": "Lighting of the Fire Hall",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19178",
+      "dateLabel": "Saturday, Dec 05, 2026",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "time": "3:30pm - 5:00pm",
+      "location": "22451 Westminster Hwy",
+      "description": "On Friday December 5th, join us as we celebrate the start of the holiday season with treats, activities and the Fire Hall's seasonal lights. More Information This event is for All Ages. This is an accessible site. This event is free.",
+      "category": "Community & festivals",
+      "sourceCategories": "Christmas Events Social / Community Event",
       "price": "Free",
       "isFree": true
     },
@@ -1836,6 +1900,22 @@
       "category": "Sports & wellness",
       "sourceCategories": "Cloverdale Recreation",
       "price": "$5.25 per person. Free with an Annual Recreation Pass . Rent skates for $3.75 and a helmet for $2.00 when you arrive. We expect high demand for rentals, so bring your own equipment if possible.",
+      "isFree": true
+    },
+    {
+      "id": "66dcc8f2368e6a71",
+      "city": "Surrey",
+      "title": "Children's Christmas Party",
+      "url": "https://www.surrey.ca/news-events/events/childrens-christmas-party",
+      "dateLabel": "December 13, 2026",
+      "startDate": "2026-12-13",
+      "endDate": "2026-12-13",
+      "time": "2:00pm - 6:00pm",
+      "location": "10441 132 Street, Surrey, BC",
+      "description": "Join the Jamaican Canadian Cultural Association of BC for a festive community celebration bringing children and families together to enjoy the holiday season in a welcoming and inclusive environment. Families can enjoy Christmas music, festive entertainment, fun activities, gifts, lunch, photos with Santa and special holiday surprises for children. Register Now",
+      "category": "Arts & culture",
+      "sourceCategories": "Whalley and City Centre Community-Hosted",
+      "price": "Free, registration required.",
       "isFree": true
     },
     {
