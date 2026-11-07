@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-06T12:58:39-07:00",
+  "updatedAt": "2026-11-07T11:05:17-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-11-06T12:58:39-07:00",
+      "updatedAt": "2026-11-07T11:05:17-07:00",
       "status": "ok",
-      "count": 148
+      "count": 145
     },
     "Richmond": {
-      "updatedAt": "2026-11-06T12:58:39-07:00",
+      "updatedAt": "2026-11-07T11:05:17-07:00",
       "status": "ok",
-      "count": 19
+      "count": 20
     }
   },
   "events": [
@@ -43,70 +43,6 @@
       "description": "Richmond Art Gallery Association's annual art auction, launches online and on view in the gallery October 24, featuring a diverse range of art works available for bidding, with select works reserved for a live auction at our annual banquet on November 21. Highlights include artworks by Moozhan Ahmadzadegan, Jo-Anne Balcaen, Persimmon Blackbridge, Sandeep Johal, August Klintberg, Michael Love, Phranc, Malina Sintnicolaas, Jan Wade, Marlene Yuen, among others! More Information This event is for All Ages. This is an accessible site. This event is free.",
       "category": "Arts & culture",
       "sourceCategories": "Gallery & Museum RAG Exhibit",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "a3d45c5d4cf95c9a",
-      "city": "Surrey",
-      "title": "Bear Creek Lights",
-      "url": "https://www.surrey.ca/news-events/events/bear-creek-lights",
-      "dateLabel": "November 6, 2026 - November 21, 2026",
-      "startDate": "2026-11-06",
-      "endDate": "2026-11-21",
-      "time": "Time not published — check event link",
-      "location": "13750 88 Avenue",
-      "description": "Join in on this fall tradition at Bear Creek Park! For over a decade this event has been a source of lasting memories for its visitors. Book your free ticket Online Buy Tickets By phone Call our call centre at 604-501-5100 , Monday to Friday, 8:30am to 4:30pm. See nature shine Step into a world of wonder at Bear Creek Park! Celebrate the beauty of nature at night at our 14th annual Bear Creek Lights event. Enjoy the safe, accessible, family-friendly light display through the park's one-kilometer garden walking loop. Plan your visit Dates November 6-20 Closed November 11 for Remembrance Day Hours Open 5-9pm every night Contact [email protected] 604-501-5100",
-      "category": "Nature & outdoors",
-      "sourceCategories": "Whalley and City Centre Festivals Parks & Environment",
-      "price": "Free. Tickets are required for entry.",
-      "isFree": true
-    },
-    {
-      "id": "1a52aea9fa0d6e4d",
-      "city": "Surrey",
-      "title": "Live Performances at Bear Creek Lights",
-      "url": "https://www.surrey.ca/news-events/events/live-music-bear-creek-lights",
-      "dateLabel": "November 6, 2026",
-      "startDate": "2026-11-06",
-      "endDate": "2026-11-06",
-      "time": "Time not published — check event link",
-      "location": "13750 - 88 Avenue, Surrey, BC",
-      "description": "Enjoy live music and performances by local artists at Bear Creek Lights. Day Date Artist Friday Nov 6 Amy Van Bergen Ragamuffin Productions Kiara Dokaj Saturday Nov 7 Surrey Jazz Nights Kiara Dokaj Sunday Nov 8 Surrey Jazz Nights Kiara Dokaj Ranj Singh Colin Sankey Friday Nov 13 Amy Van Bergen Fraser Valley Musical Theatre Kiara Dokaj Colin Sankey Saturday Nov 14 Fraser Valley Musical Theatre Cedar Hills Caledonia Pipe Band Kiara Dokaj Colin Sankey Sunday Nov 15 Kiara Dokaj Surrey Jazz Nights Colin Sankey Friday Nov 20 Amy Van Bergen Folk Star Arts Academy Kiara Dokaj Colin Sankey Things to know Performances will be held within in the tent in the plaza in the garden which is part of the ticketed event area. Music in Surrey Surrey is Canada's up and coming music city. Take a look through the musician directory and find out how the Surrey Music Strategy is guiding Surrey in becoming a music industry leader that supports musician development and a thriving music economy. LEARN about music in surrey",
-      "category": "Nature & outdoors",
-      "sourceCategories": "Whalley and City Centre Music Parks & Environment",
-      "price": "Free, drop-in",
-      "isFree": true
-    },
-    {
-      "id": "838afc333ee95f16",
-      "city": "Surrey",
-      "title": "Surrey Kids Conference",
-      "url": "https://www.surrey.ca/news-events/events/surrey-kids-conference",
-      "dateLabel": "November 6, 2026",
-      "startDate": "2026-11-06",
-      "endDate": "2026-11-06",
-      "time": "8:30am - 12:00pm",
-      "location": "Fleetwood Community Centre",
-      "description": "How to register Registration opens at 9pm on Sunday October 4 Online By phone at 604-501-5100 In person at any recreation facility Morning workshops 8:30am-12:00pm (ages 6-9 only) Package name Event ID # Package details Ages 6-9 Package A 540929 Be You Cookie Creations Yoga A Space to Create: Musical Drawings & Wearables Ages 6-9 Package B 540940 A Space to Create: Musical Drawings & Wearables Love Yourself: Vision Board Workshop Line Dance Ages 6-9 Package C 540943 Yoga A Space to Create: Musical Drawings & Wearables Love Yourself: Vision Board Workshop Ages 6-9 Package D 540945 Love Yourself: Vision Board Workshop Line Dance Be You Cookie Creations Afternoon workshops 12:30pm-3:30pm (ages 10-12 only) Package Name Event ID # Package Details Ages 10-12 Package A 540949 Love Yourself: Vision Board Workshop Be You Cookie Creations Line Dance Ages 10-12 Package B 540950 Building a Happy Community A Space to Create: Musical Drawings & Wearables Line Dance Ages 10-12 Package C 540956 A Space to Create: Musical Drawings & Wearables Love Yourself: Vision Board Workshop Line Dance Ages 10-12 Package D 541033 Be You Cookie Creations Building a Happy Community Line Dance Workshop details A Space to Create: Musical Drawings & Wearables Presented by City of Surrey’s Community Art team Step into a space where creativity comes to life! Express yourself, explore your imagination and connect with others through fun, hands-on art-making. Be You Cookie Creations Presented by City of Surrey’s Recreation Services team Get creative and decorate a cookie face that expresses YOU! Choose your own hair, eyes, expression and special details while celebrating what makes each of us unique. Building a Happy Community Presented by City of Surrey’s Youth Event Squad (YES) Share your ideas and creativity while imagining what makes a community happy and healthy! Participants will work together, express what is important to them and build confidence, communication skills and a sense of belonging. Love Yourself: Vision Board Workshop Presented by City of Surrey’s Recreation Services team Celebrate what makes you unique! Through creative vision board activities, participants will explore their strengths, build confidence, and set positive goals for the future. Children will leave with a personalized vision board that inspires self-love and growth. Line Dance Presented by City of Surrey’s Recreation Services team Get ready to move, groove and have fun! Participants will learn easy-to-follow line dance steps and routines while moving together to catchy music. No experience is needed, just bring your energy and get ready to build confidence, coordination and teamwork while having a blast! Yoga Presented by City of Surrey’s Recreation Services team Move, breathe and be YOU! Participants will try fun yoga poses, breathing exercises and relaxation activities designed to build confidence, calm and connection.",
-      "category": "Sports & wellness",
-      "sourceCategories": "Fleetwood Children Recreation",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "33ca5e36d25ad4f2",
-      "city": "Surrey",
-      "title": "Surrey Kids Conference",
-      "url": "https://www.surrey.ca/news-events/events/surrey-kids-conference",
-      "dateLabel": "November 6, 2026",
-      "startDate": "2026-11-06",
-      "endDate": "2026-11-06",
-      "time": "12:30pm - 3:30pm",
-      "location": "Fleetwood Community Centre",
-      "description": "How to register Registration opens at 9pm on Sunday October 4 Online By phone at 604-501-5100 In person at any recreation facility Morning workshops 8:30am-12:00pm (ages 6-9 only) Package name Event ID # Package details Ages 6-9 Package A 540929 Be You Cookie Creations Yoga A Space to Create: Musical Drawings & Wearables Ages 6-9 Package B 540940 A Space to Create: Musical Drawings & Wearables Love Yourself: Vision Board Workshop Line Dance Ages 6-9 Package C 540943 Yoga A Space to Create: Musical Drawings & Wearables Love Yourself: Vision Board Workshop Ages 6-9 Package D 540945 Love Yourself: Vision Board Workshop Line Dance Be You Cookie Creations Afternoon workshops 12:30pm-3:30pm (ages 10-12 only) Package Name Event ID # Package Details Ages 10-12 Package A 540949 Love Yourself: Vision Board Workshop Be You Cookie Creations Line Dance Ages 10-12 Package B 540950 Building a Happy Community A Space to Create: Musical Drawings & Wearables Line Dance Ages 10-12 Package C 540956 A Space to Create: Musical Drawings & Wearables Love Yourself: Vision Board Workshop Line Dance Ages 10-12 Package D 541033 Be You Cookie Creations Building a Happy Community Line Dance Workshop details A Space to Create: Musical Drawings & Wearables Presented by City of Surrey’s Community Art team Step into a space where creativity comes to life! Express yourself, explore your imagination and connect with others through fun, hands-on art-making. Be You Cookie Creations Presented by City of Surrey’s Recreation Services team Get creative and decorate a cookie face that expresses YOU! Choose your own hair, eyes, expression and special details while celebrating what makes each of us unique. Building a Happy Community Presented by City of Surrey’s Youth Event Squad (YES) Share your ideas and creativity while imagining what makes a community happy and healthy! Participants will work together, express what is important to them and build confidence, communication skills and a sense of belonging. Love Yourself: Vision Board Workshop Presented by City of Surrey’s Recreation Services team Celebrate what makes you unique! Through creative vision board activities, participants will explore their strengths, build confidence, and set positive goals for the future. Children will leave with a personalized vision board that inspires self-love and growth. Line Dance Presented by City of Surrey’s Recreation Services team Get ready to move, groove and have fun! Participants will learn easy-to-follow line dance steps and routines while moving together to catchy music. No experience is needed, just bring your energy and get ready to build confidence, coordination and teamwork while having a blast! Yoga Presented by City of Surrey’s Recreation Services team Move, breathe and be YOU! Participants will try fun yoga poses, breathing exercises and relaxation activities designed to build confidence, calm and connection.",
-      "category": "Sports & wellness",
-      "sourceCategories": "Fleetwood Children Recreation",
       "price": "Free",
       "isFree": true
     },
@@ -1787,6 +1723,22 @@
       "description": "Let's get festive! What is it about decorating for Christmas that just feels so cozy and warm?! Step inside the farmhouse to see our classic holiday decor. Then stay a while for a free afternoon of decking the halls. Tour & Explore: Walk through the beautifully decorated farmhouse and take on a Victorian Christmas Scavenger Hunt. Kitchen Treats & Demos: See a live chestnut roasting demonstration, taste a mini cookie and learn to make popcorn strings and decorative pomanders. Holiday Crafting: Head to Stewart Hall to create your own paper Santa ornaments, tissue paper wreaths and/ or Christmas cards. Festive Extras: Sip a coffee or tea and check out the gift shop in the Welcome Centre. Finish your visit with at the holiday photo opp in the barn. Additional holiday dates Can't make it to Deck the Halls? The Christmas events at Historic Stewart Farm are bountiful! Mark your calendar for: Victorian Christmas Evening | December 5 from 4-7pm Homemade Holidays | December 12 & 13 from 12:00-4:30pm Let's Celebrate | December 19 & 20 from 12:00-4:30pm",
       "category": "Arts & culture",
       "sourceCategories": "South Surrey Arts & Culture Heritage Stewart Farm",
+      "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "193479d7dfef5912",
+      "city": "Richmond",
+      "title": "The National Day of Remembrance and Action on Violence Against Women",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19173",
+      "dateLabel": "Sunday, Dec 06, 2026",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
+      "time": "11:00 a.m. - 12:00 noon",
+      "location": "7700 Minoru Gate",
+      "description": "On Sunday Dec. 6 at 11:00 a.m. please join us in commemorating the National day of Remembrance and Action on violence against Women. CFUW together with the Richmond Women's Resource Centre, Richmond Sunrise Rotary and other local organizations will be at the Brighouse Library Plaza at 7700 Minoru Gate. This annual event is so important for raising awareness of gender-based violence and for working towards its reduction and eventual elimination. 11:00 a.m. gather and land acknowledgement and welcome 11:15 a.m. short speeches and presentations 11:30 a.m. reading of names of 14 women killed in Montreal 11:35 a.m. lighting of candles and organization for walk 11:40 - 12:00 noon walk from plaza to MCAL down Granville sidwalk to City Hall and back to the library plaza More Information This event is for All Ages. This is an accessible site. This event is free.",
+      "category": "Community & festivals",
+      "sourceCategories": "Special Events - General Social / Community Event",
       "price": "Free",
       "isFree": true
     },
