@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-08T11:23:48-07:00",
+  "updatedAt": "2026-11-09T16:01:24-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-11-08T11:23:48-07:00",
+      "updatedAt": "2026-11-09T16:01:24-07:00",
       "status": "ok",
-      "count": 141
+      "count": 143
     },
     "Richmond": {
-      "updatedAt": "2026-11-08T11:23:48-07:00",
+      "updatedAt": "2026-11-09T16:01:24-07:00",
       "status": "ok",
-      "count": 19
+      "count": 17
     }
   },
   "events": [
@@ -43,70 +43,6 @@
       "description": "Richmond Art Gallery Association's annual art auction, launches online and on view in the gallery October 24, featuring a diverse range of art works available for bidding, with select works reserved for a live auction at our annual banquet on November 21. Highlights include artworks by Moozhan Ahmadzadegan, Jo-Anne Balcaen, Persimmon Blackbridge, Sandeep Johal, August Klintberg, Michael Love, Phranc, Malina Sintnicolaas, Jan Wade, Marlene Yuen, among others! More Information This event is for All Ages. This is an accessible site. This event is free.",
       "category": "Arts & culture",
       "sourceCategories": "Gallery & Museum RAG Exhibit",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "90e6abddfcbeb445",
-      "city": "Surrey",
-      "title": "Artist in Residence Carving Open House",
-      "url": "https://www.surrey.ca/news-events/events/artist-residence-carving-open-house",
-      "dateLabel": "November 8, 2026",
-      "startDate": "2026-11-08",
-      "endDate": "2026-11-08",
-      "time": "11:00am - 4:00pm",
-      "location": "Totest Aleng: Indigenous Learning House, 13723 Crescent Road, Surrey, BC",
-      "description": "A unique carving experience Meet Totest Aleng’s Artist in Residence, James Groening (Blue Sky) , a Cree artist from Kahkewistahaw First Nation. Explore his vibrant paintings, carving projects, and works in progress as he explores connections between Cree and Coast Salish artistic traditions. Throughout the day, James will be joined by fellow Indigenous carvers he has invited to share in the experience, offering visitors the opportunity to witness carving demonstrations, engage with multiple artists, and learn through cultural knowledge sharing. Guest carvers Ryan Hughes - Ryan Hughes is an urban Indigenous youth in the City of Surrey and is from the Snuneymuxw Nation. He is an up-and-coming multi-hyphenate artist who is honing his skills in wood carving, digital art, shading and colouring, as well as some painting. Hughes is mentored by Chris Sparrow and John Velton who teaching him technical skills in wood carving and digital art. KC Hall - KC Hall was born in Bella Bella, BC, He is the grandson of hereditary Chief Irene (Wakas) Brown. In high school, KC developed a passion for handwriting, lettering, and graffiti. After graduating from high school, he began creating work on a larger scale. In 2012, KC studied with Nisga’a artist Robert Tait in the Northwest Coast Jewellery Arts Program at Native Education College in Vancouver. Chris Sparrow - Chris Sparrow is a Coast Salish artist from xʷməθkʷəy̓əm (Musqueam First Nation). He is renowned for his exceptional carving skills and dedication to preserving and sharing traditional Salish art. Born and raised in Vancouver, Chris learned the traditional art of carving—woodcarving, mask-making, and house posts—from his late father, master carver Irving Sparrow. He mastered many rare techniques, including carving delicate contours without splitting the wood, which requires anywhere from six months to a year to complete. Jay Simeon - Jay Simeon (born 1976 in Fort McLeod, Alberta) is of Blackfoot and Haida ancestry, belonging to the Kaawaas branch of the Sdast’a.aas Eagle clan. He began apprenticing with his aunt, renowned Haida artist Sharon Hitchcock, at age 14 and later learned jewellery-making from Dwayne Simeon while continuing his study of Northwest Coast design. Working across serigraphy, sculpture, masks, panels, and carving, Simeon has demonstrated exceptional versatility and skill. He is especially celebrated for his intricate jewellery in gold, silver, bone, and argillite, establishing himself as a leading figure in contemporary Northwest Coast design.",
-      "category": "Arts & culture",
-      "sourceCategories": "South Surrey Arts & Culture Heritage Totest Aleng",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "7db5382c29fca505",
-      "city": "Surrey",
-      "title": "Live Performances at Bear Creek Lights",
-      "url": "https://www.surrey.ca/news-events/events/live-music-bear-creek-lights",
-      "dateLabel": "November 8, 2026",
-      "startDate": "2026-11-08",
-      "endDate": "2026-11-08",
-      "time": "Time not published — check event link",
-      "location": "13750 - 88 Avenue, Surrey, BC",
-      "description": "Enjoy live music and performances by local artists at Bear Creek Lights. Day Date Artist Friday Nov 6 Amy Van Bergen Ragamuffin Productions Kiara Dokaj Saturday Nov 7 Surrey Jazz Nights Kiara Dokaj Sunday Nov 8 Surrey Jazz Nights Kiara Dokaj Ranj Singh Colin Sankey Friday Nov 13 Amy Van Bergen Fraser Valley Musical Theatre Kiara Dokaj Colin Sankey Saturday Nov 14 Fraser Valley Musical Theatre Cedar Hills Caledonia Pipe Band Kiara Dokaj Colin Sankey Sunday Nov 15 Kiara Dokaj Surrey Jazz Nights Colin Sankey Friday Nov 20 Amy Van Bergen Folk Star Arts Academy Kiara Dokaj Colin Sankey Things to know Performances will be held within in the tent in the plaza in the garden which is part of the ticketed event area. Music in Surrey Surrey is Canada's up and coming music city. Take a look through the musician directory and find out how the Surrey Music Strategy is guiding Surrey in becoming a music industry leader that supports musician development and a thriving music economy. LEARN about music in surrey",
-      "category": "Nature & outdoors",
-      "sourceCategories": "Whalley and City Centre Music Parks & Environment",
-      "price": "Free, drop-in",
-      "isFree": true
-    },
-    {
-      "id": "15e9beb74ad5dff6",
-      "city": "Richmond",
-      "title": "Money in the Digital World",
-      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19156",
-      "dateLabel": "Sunday, Nov 08, 2026",
-      "startDate": "2026-11-08",
-      "endDate": "2026-11-08",
-      "time": "1:30-4:00pm",
-      "location": "Richmond Cultural Centre Annex, 7660 Minoru Gate, Richmond BC V6Y",
-      "description": "For many kids, money is already more than cash and credit cards. They buy Robux and V-Bucks and are growing up in a world where money increasingly moves digitally, but using digital currencies and understanding how they work are not the same thing. This is a free, hands-on workshop for kids aged 10-12. Through a story and team games, kids learn what digital money is, why people use it and how to use it safely. No prior knowledge is needed. Parents and guardians don't stay during the session. Only 30 spots available, so be sure to secure your ticket early at https://unicodemy-kids-digital-money.eventbrite.com/?aff=socialmedia More Information This event is for Child (Ages 6-12) This is an accessible site. This event is free.",
-      "category": "Learn & create",
-      "sourceCategories": "Meetings / Conventions / Lectures / Workshops Workshops",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "16666a539946b995",
-      "city": "Richmond",
-      "title": "RAG Exhibition Tour in Mandarin",
-      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19177",
-      "dateLabel": "Sunday, Nov 08, 2026",
-      "startDate": "2026-11-08",
-      "endDate": "2026-11-08",
-      "time": "2:00-3:00pm",
-      "location": "7700 Minoru Gate",
-      "description": "Drop in for a tour hosted in Mandarin of our current exhibition with Rebecca Wang. Learn more about its themes through a guided visit and informal discussion over a cup of tea. Limited spaces; RSVP to reserve a seat. Accessibility Advisory: Note: The exhibition Out of This World features low lighting and shadows, with intermittent shifts in lighting due to slide and video projections. Also, be mindful when moving through the exhibition as some of the artworks are placed low on the floor. More Information This event is for All Ages. This is an accessible site. This event is free.",
-      "category": "Arts & culture",
-      "sourceCategories": "Gallery & Museum Talk / Tour / Lecture",
       "price": "Free",
       "isFree": true
     },
@@ -157,22 +93,6 @@
       "sourceCategories": "Whalley and City Centre Parks & Environment",
       "price": "Drop-in with free Bear Creek Lights ticket!",
       "isFree": true
-    },
-    {
-      "id": "4a69a8ce9758651c",
-      "city": "Surrey",
-      "title": "Sensory Friendly Swims",
-      "url": "https://www.surrey.ca/news-events/events/sensory-friendly-swims",
-      "dateLabel": "November 9, 2026",
-      "startDate": "2026-11-09",
-      "endDate": "2026-11-09",
-      "time": "12:00pm - 2:00pm",
-      "location": "Various locations",
-      "description": "Sensory friendly swims are inclusive swim times for individuals and families looking for an environment with reduced noise. They are available for those who are autistic, have anxiety or other sensory processing needs, or anyone who feels they would benefit from a more supportive environment. There will be: Reduced noise & water features. No background music. No speaker announcements (whistles used only for emergencies). Encouraged use of paper towels instead of hand dryers using signage. Designated sensory friendly break rooms. Set clear times and transition warnings. Additional staff available for support. Schedule Guildford Recreation Centre Wednesday, November 18, 1pm to 3pm Wednesday, December 16, 1pm to 3pm Newton Recreation Centre Wednesday, November 25, 1pm to 3pm Tuesday, December 22, 1pm to 3pm South Surrey Indoor Pool Saturday, November 7, 12pm to 2pm Saturday, December 5, 12pm to 2pm Surrey Sport & Leisure Complex Monday, November 9, 12pm to 2pm Monday, December 14, 12pm to 2pm Borrow a sensory friendly kit Kits include: Noise-cancelling headphones, communication cards, fidget toys, ear plugs and sunglasses. Ask a staff member to borrow one. Learn more The City of Surrey is committed to providing a safe and welcoming environment for patrons with sensory sensitivities to continue recreating and participating in activities. Learn more about the City of Surrey's initiatives to enhance accessibility, remove barriers, and create a more inclusive community .",
-      "category": "Sports & wellness",
-      "sourceCategories": "Recreation",
-      "price": "Use your Recreation Surrey pass or pay for a drop-in admission .",
-      "isFree": false
     },
     {
       "id": "75227f89de013b64",
@@ -712,11 +632,27 @@
       "endDate": "2026-11-18",
       "time": "1:00pm - 3:00pm",
       "location": "Various locations",
-      "description": "Sensory friendly swims are inclusive swim times for individuals and families looking for an environment with reduced noise. They are available for those who are autistic, have anxiety or other sensory processing needs, or anyone who feels they would benefit from a more supportive environment. There will be: Reduced noise & water features. No background music. No speaker announcements (whistles used only for emergencies). Encouraged use of paper towels instead of hand dryers using signage. Designated sensory friendly break rooms. Set clear times and transition warnings. Additional staff available for support. Schedule Guildford Recreation Centre Wednesday, November 18, 1pm to 3pm Wednesday, December 16, 1pm to 3pm Newton Recreation Centre Wednesday, November 25, 1pm to 3pm Tuesday, December 22, 1pm to 3pm South Surrey Indoor Pool Saturday, November 7, 12pm to 2pm Saturday, December 5, 12pm to 2pm Surrey Sport & Leisure Complex Monday, November 9, 12pm to 2pm Monday, December 14, 12pm to 2pm Borrow a sensory friendly kit Kits include: Noise-cancelling headphones, communication cards, fidget toys, ear plugs and sunglasses. Ask a staff member to borrow one. Learn more The City of Surrey is committed to providing a safe and welcoming environment for patrons with sensory sensitivities to continue recreating and participating in activities. Learn more about the City of Surrey's initiatives to enhance accessibility, remove barriers, and create a more inclusive community .",
+      "description": "Sensory friendly swims are inclusive swim times for individuals and families looking for an environment with reduced noise. They are available for those who are autistic, have anxiety or other sensory processing needs, or anyone who feels they would benefit from a more supportive environment. There will be: Reduced noise & water features. No background music. No speaker announcements (whistles used only for emergencies). Encouraged use of paper towels instead of hand dryers using signage. Designated sensory friendly break rooms. Set clear times and transition warnings. Additional staff available for support. Schedule Guildford Recreation Centre Wednesday, November 18, 1pm to 3pm Wednesday, December 16, 1pm to 3pm Newton Recreation Centre Wednesday, November 25, 1pm to 3pm Tuesday, December 22, 1pm to 3pm South Surrey Indoor Pool Saturday, December 5, 12pm to 2pm Surrey Sport & Leisure Complex Monday, December 14, 12pm to 2pm Borrow a sensory friendly kit Kits include: Noise-cancelling headphones, communication cards, fidget toys, ear plugs and sunglasses. Ask a staff member to borrow one. Learn more The City of Surrey is committed to providing a safe and welcoming environment for patrons with sensory sensitivities to continue recreating and participating in activities. Learn more about the City of Surrey's initiatives to enhance accessibility, remove barriers, and create a more inclusive community .",
       "category": "Sports & wellness",
       "sourceCategories": "Recreation",
       "price": "Use your Recreation Surrey pass or pay for a drop-in admission .",
       "isFree": false
+    },
+    {
+      "id": "51ba98f282c063d3",
+      "city": "Surrey",
+      "title": "Stories, Dialogue & Restorative Justice",
+      "url": "https://www.surrey.ca/news-events/events/stories-dialogue-restorative-justice",
+      "dateLabel": "November 18, 2026",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-18",
+      "time": "4:00pm - 7:00pm",
+      "location": "KPU Surrey Conference Centre, 12666 72 Ave, Surrey, BC",
+      "description": "Join us for an evening of learning, conversation & connection featuring guest speaker Candace Wood. Candace is a survivor, author, and advocate whose work explores healing, accountability, and justice through lived experience. Over the past year, she has deepened her engagement with restorative justice, including participating in restorative dialogue and communicating directly with the man who harmed her while he was incarcerated. Drawing on her experiences as both a survivor and restorative justice participant, Candace will speak about the complexities of trauma, accountability, difficult conversations, and the possibility of healing after serious harm. Candace is also the creator of the This Is About You podcast and author of the Knots book series, including Hidden Knots: Unlocked Words , written to support children navigating the experience of having a parent in prison. Complimentary light refreshments will be served. Paid visitor parking is available on campus. Learn more",
+      "category": "Community & festivals",
+      "sourceCategories": "Newton Community-Hosted",
+      "price": "Free",
+      "isFree": true
     },
     {
       "id": "466ffa3722679469",
@@ -959,6 +895,22 @@
       "isFree": true
     },
     {
+      "id": "a8198f98af2ff028",
+      "city": "Surrey",
+      "title": "Formed by Nature: Hand-Building & Glaze Workshop",
+      "url": "https://www.surrey.ca/news-events/events/formed-nature-hand-building-glaze-workshop",
+      "dateLabel": "November 22, 2026",
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-22",
+      "time": "Time not published — check event link",
+      "location": "Crescent Beach Community Gallery, 12160 Beecher Street, Surrey, BC",
+      "description": "This workshop is a hands-on, process-oriented clay class focusing on exploring natural shapes and understanding how the medium behaves. It emphasizes intuitive creation (\"listening to the clay\") and letting go of rigid, predetermined expectations for the final product. You will be making one small dish using a found form in nature, such as a rock, piece of drift wood or any form that speaks to you. Part one of the workshop will show you how to work with mid fire clay, using hand building techniques, including the use of slip, to create your small dish. Part two of the workshop will cover glazing techniques. You will glaze your pieces and have a chance to play with layering glazes. All participants will take their finished pieces home. Session dates and times Part 1: November 22 Group 1: 10:00am-12:00pm (4 people) Group 2: 1:00-3:00pm (4 people) Part 2: November 29 Group 1: 10:00am-12:00pm Group 2: 1:00-3:00pm Participants must be able to make both dates to complete the project. This workshop is presented as part of the Sea & Roots – Extensions of Light and Possibilities exhibition at Crescent Beach Community Gallery.",
+      "category": "Nature & outdoors",
+      "sourceCategories": "South Surrey Community-Hosted",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "a2cdac03ef6e7a42",
       "city": "Surrey",
       "title": "Surrey Jazz Nights Presents: Understanding Jazz Leadsheets Workshop",
@@ -1036,6 +988,22 @@
       "category": "Learn & create",
       "sourceCategories": "South Surrey Community-Hosted",
       "price": "$70",
+      "isFree": false
+    },
+    {
+      "id": "5fd23227fac07e95",
+      "city": "Surrey",
+      "title": "Sensory Friendly Swims",
+      "url": "https://www.surrey.ca/news-events/events/sensory-friendly-swims",
+      "dateLabel": "November 25, 2026",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-25",
+      "time": "1:00pm - 3:00pm",
+      "location": "Various locations",
+      "description": "Sensory friendly swims are inclusive swim times for individuals and families looking for an environment with reduced noise. They are available for those who are autistic, have anxiety or other sensory processing needs, or anyone who feels they would benefit from a more supportive environment. There will be: Reduced noise & water features. No background music. No speaker announcements (whistles used only for emergencies). Encouraged use of paper towels instead of hand dryers using signage. Designated sensory friendly break rooms. Set clear times and transition warnings. Additional staff available for support. Schedule Guildford Recreation Centre Wednesday, November 18, 1pm to 3pm Wednesday, December 16, 1pm to 3pm Newton Recreation Centre Wednesday, November 25, 1pm to 3pm Tuesday, December 22, 1pm to 3pm South Surrey Indoor Pool Saturday, December 5, 12pm to 2pm Surrey Sport & Leisure Complex Monday, December 14, 12pm to 2pm Borrow a sensory friendly kit Kits include: Noise-cancelling headphones, communication cards, fidget toys, ear plugs and sunglasses. Ask a staff member to borrow one. Learn more The City of Surrey is committed to providing a safe and welcoming environment for patrons with sensory sensitivities to continue recreating and participating in activities. Learn more about the City of Surrey's initiatives to enhance accessibility, remove barriers, and create a more inclusive community .",
+      "category": "Sports & wellness",
+      "sourceCategories": "Recreation",
+      "price": "Use your Recreation Surrey pass or pay for a drop-in admission .",
       "isFree": false
     },
     {
@@ -1243,6 +1211,22 @@
       "description": "Get creative with artmaking activities inspired by these exhibits: Farheen Haq and Russna Kaur: In the Folds of Memory tender threads S F Ho: TRIPLE BURNER FLOWER FIELD Make art with Gallery artist-educators in the studio. Try-out a layered drawing project, create a calligraphed character, and craft your own album of memories. Explore the exhibitions and collect the workshop stamps in your Art Monster activity book with the Youth Docents. Take a quiet moment in the sensory space to regroup and recharge between activities. All are welcome. Children must be accompanied by an adult.",
       "category": "Arts & culture",
       "sourceCategories": "Whalley and City Centre Arts & Culture Children Seniors Surrey Art Gallery",
+      "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "4e04f38f3693d92a",
+      "city": "Surrey",
+      "title": "Formed by Nature: Hand-Building & Glaze Workshop",
+      "url": "https://www.surrey.ca/news-events/events/formed-nature-hand-building-glaze-workshop",
+      "dateLabel": "November 29, 2026",
+      "startDate": "2026-11-29",
+      "endDate": "2026-11-29",
+      "time": "Time not published — check event link",
+      "location": "Crescent Beach Community Gallery, 12160 Beecher Street, Surrey, BC",
+      "description": "This workshop is a hands-on, process-oriented clay class focusing on exploring natural shapes and understanding how the medium behaves. It emphasizes intuitive creation (\"listening to the clay\") and letting go of rigid, predetermined expectations for the final product. You will be making one small dish using a found form in nature, such as a rock, piece of drift wood or any form that speaks to you. Part one of the workshop will show you how to work with mid fire clay, using hand building techniques, including the use of slip, to create your small dish. Part two of the workshop will cover glazing techniques. You will glaze your pieces and have a chance to play with layering glazes. All participants will take their finished pieces home. Session dates and times Part 1: November 22 Group 1: 10:00am-12:00pm (4 people) Group 2: 1:00-3:00pm (4 people) Part 2: November 29 Group 1: 10:00am-12:00pm Group 2: 1:00-3:00pm Participants must be able to make both dates to complete the project. This workshop is presented as part of the Sea & Roots – Extensions of Light and Possibilities exhibition at Crescent Beach Community Gallery.",
+      "category": "Nature & outdoors",
+      "sourceCategories": "South Surrey Community-Hosted",
       "price": "Free",
       "isFree": true
     },
@@ -1519,6 +1503,22 @@
       "isFree": true
     },
     {
+      "id": "790aaf3328d37276",
+      "city": "Surrey",
+      "title": "Sensory Friendly Swims",
+      "url": "https://www.surrey.ca/news-events/events/sensory-friendly-swims",
+      "dateLabel": "December 5, 2026",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "time": "12:00pm - 2:00pm",
+      "location": "Various locations",
+      "description": "Sensory friendly swims are inclusive swim times for individuals and families looking for an environment with reduced noise. They are available for those who are autistic, have anxiety or other sensory processing needs, or anyone who feels they would benefit from a more supportive environment. There will be: Reduced noise & water features. No background music. No speaker announcements (whistles used only for emergencies). Encouraged use of paper towels instead of hand dryers using signage. Designated sensory friendly break rooms. Set clear times and transition warnings. Additional staff available for support. Schedule Guildford Recreation Centre Wednesday, November 18, 1pm to 3pm Wednesday, December 16, 1pm to 3pm Newton Recreation Centre Wednesday, November 25, 1pm to 3pm Tuesday, December 22, 1pm to 3pm South Surrey Indoor Pool Saturday, December 5, 12pm to 2pm Surrey Sport & Leisure Complex Monday, December 14, 12pm to 2pm Borrow a sensory friendly kit Kits include: Noise-cancelling headphones, communication cards, fidget toys, ear plugs and sunglasses. Ask a staff member to borrow one. Learn more The City of Surrey is committed to providing a safe and welcoming environment for patrons with sensory sensitivities to continue recreating and participating in activities. Learn more about the City of Surrey's initiatives to enhance accessibility, remove barriers, and create a more inclusive community .",
+      "category": "Sports & wellness",
+      "sourceCategories": "Recreation",
+      "price": "Use your Recreation Surrey pass or pay for a drop-in admission .",
+      "isFree": false
+    },
+    {
       "id": "da1edf4f3269572b",
       "city": "Surrey",
       "title": "Surrey Youth Stewardship Squad",
@@ -1560,7 +1560,7 @@
       "endDate": "2026-12-05",
       "time": "10:00am - 2:00pm",
       "location": "Clayton Community Centre, 7155 187a St, Surrey, BC",
-      "description": "Join us to celebrate with your neighbours at this free community event filled with fun, connection, and community spirit!",
+      "description": "Join us to celebrate with your neighbours at this free community event filled with fun, connection, and community spirit! Enjoy a variety of activities, ranging from cookie decorating, face-painting, to snowflake making and theatre performances! Schedule All events are 10am-2pm unless stated otherwise. Gymnasium Stay and Play 10am-12pm Community Kitchen Cookie Decorating Lobby Face Painting Table Top Activities Giant Games Popcorn Machine & Self Serve Hot Chocolate Music with Pat Chessel and Colin Sankey World Photography Cup Exhibition Library (Upstairs) Winter Family Storytime | Surrey Libraries 10:30-11:15am Family Movie: Penguins of Madagascar | Surrey Libraries 12:00-1:30pm Performing Arts Studio Royal Canadian Theatre Company will take over the Performing Arts Studio for this event. Engage with theatrically-themed crafts and games, and don’t miss your photo op with Panto characters. Visual Arts Studio Snowflake Making Weaving with Clayton's Artist in Residence, Mariel Nelms Arts Hallway ( in front of theatre) Engage with Arts & Culture Groups across City of Surrey! Soundscape Choir: Soundscape is a Surrey-based, auditioned, mixed-voice a cappella chorus, under the direction of Sam Dabrusin. With 31 years as a chorus, they sing a repertoire of tunes from the '40's and 50’s to the present. Don’t miss their engagement table, or the pop-up performance at 11am in the lobby! Westcoast Chorus: Westcoast Harmony Chorus is a group of women and people of marginalized genders who love to sing and are personally committed to excellence and lasting friendships. Come visit their table for a musical craft (while supplies last!) Shufa Foundation: Try your hand at the ancient art of Chinese calligraphy and learn about how this meditative practice is for everyone. Surrey Photography Club : Interested in Photography? Surrey Photography Club members will be present to show off their exhibition and talk about the art form. Vancouver Cantonese Opera : Prepare to be mesmerized by a spectacular Cantonese opera signature makeup demonstration and special pop-up water dance. MP 117 Peace Arch Weavers: demos and activities MP 107 Honeybee Centre: dipped candle making MP 106 Folk Star Arts Academy: Participate in Bhangra mini-workshops, share knowledge about Punjabi folk dance and cultural traditions, and discover traditional Punjabi musical instruments.",
       "category": "Arts & culture",
       "sourceCategories": "Cloverdale Arts & Culture Community Art",
       "price": "Free",
