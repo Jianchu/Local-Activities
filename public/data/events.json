@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-09T16:01:24-07:00",
+  "updatedAt": "2026-11-10T13:29:29-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-11-09T16:01:24-07:00",
+      "updatedAt": "2026-11-10T13:29:29-07:00",
       "status": "ok",
       "count": 143
     },
     "Richmond": {
-      "updatedAt": "2026-11-09T16:01:24-07:00",
+      "updatedAt": "2026-11-10T13:29:29-07:00",
       "status": "ok",
-      "count": 17
+      "count": 18
     }
   },
   "events": [
@@ -43,38 +43,6 @@
       "description": "Richmond Art Gallery Association's annual art auction, launches online and on view in the gallery October 24, featuring a diverse range of art works available for bidding, with select works reserved for a live auction at our annual banquet on November 21. Highlights include artworks by Moozhan Ahmadzadegan, Jo-Anne Balcaen, Persimmon Blackbridge, Sandeep Johal, August Klintberg, Michael Love, Phranc, Malina Sintnicolaas, Jan Wade, Marlene Yuen, among others! More Information This event is for All Ages. This is an accessible site. This event is free.",
       "category": "Arts & culture",
       "sourceCategories": "Gallery & Museum RAG Exhibit",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "ca96be2c177a3edf",
-      "city": "Surrey",
-      "title": "Salmon Sessions at Bear Creek Lights",
-      "url": "https://www.surrey.ca/news-events/events/salmon-sessions-bear-creek-lights",
-      "dateLabel": "November 8, 2026 - November 9, 2026",
-      "startDate": "2026-11-08",
-      "endDate": "2026-11-09",
-      "time": "Time not published — check event link",
-      "location": "Bear Creek Park, 13750 88 Avenue, Surrey, BC",
-      "description": "Learn about salmon stewardship Stop by the SHaRP interpretive booths from 5pm for family-friendly activities. They’ll be located within the ticketed area, southeast of the bridge at King Creek. Discover salmon guided walks Walk along King Creek with us as we look for spawning salmon returning to lay their eggs. Salmon can be more active moving upstream as nighttime approaches. Learn about the creek, the types of fish living there and be on the look out for zombie salmon! Join in on this guided walk offered at 5:30pm & 7:30pm at Bear Creek Lights. Things to know Drop-in, spaces are limited All ages All children must be accompanied by an adult Meet in the program tent, located just southeast of the bridge over King Creek. Program runs rain or shine and does not guarantee wildlife sightings!",
-      "category": "Nature & outdoors",
-      "sourceCategories": "Whalley and City Centre Parks & Environment",
-      "price": "Drop-in with free Bear Creek Lights ticket!",
-      "isFree": true
-    },
-    {
-      "id": "6bc332f3b8663909",
-      "city": "Surrey",
-      "title": "Regular Council Meeting - Public Hearing",
-      "url": "https://www.surrey.ca/news-events/events/regular-council-meeting-public-hearing",
-      "dateLabel": "November 9, 2026",
-      "startDate": "2026-11-09",
-      "endDate": "2026-11-09",
-      "time": "7:00pm - 10:00pm",
-      "location": "Online and in-person at City Hall, 13450 - 104 Avenue, Surrey, BC",
-      "description": "Learn how to attend and participate in Council Meetings , or view the livestream from home. To find out what will be discussed at the meeting, see our list of upcoming Council Meeting Public Hearing Items . Council meetings are held every other Monday evening at City Hall, with some exceptions. See the Council Meeting Schedule for full details.",
-      "category": "Community & festivals",
-      "sourceCategories": "Public Meetings & Open Houses",
       "price": "Free",
       "isFree": true
     },
@@ -735,6 +703,22 @@
       "isFree": true
     },
     {
+      "id": "45f98754d370c76f",
+      "city": "Richmond",
+      "title": "12th Annual RCMP Toy Drive and Arrival of Santa at Lansdowne Centre",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19184",
+      "dateLabel": "Saturday, Nov 21, 2026",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
+      "time": "Toy Drive: Sat, Nov 21, 9:00am-2:00pm Santa’s Arrival: Nov 21-Dec 24",
+      "location": "5300 No. 3 Rd",
+      "description": "Celebrate the holiday season by bringing a new, unwrapped toy or make a donation on November 21 to support local families, enjoy festive activities and welcome Santa, who will be spreading holiday cheer through December 24. Lansdowne Centre is once again partnering with the Richmond RCMP to host the 12th Annual Richmond RCMP Toy Drive in support of the Richmond Christmas Fund. Now in its 94th year, the fund is organized by Richmond Cares, Richmond Gives (RCRG) to help local families in need. Community members are encouraged to bring new, unwrapped toys or make a minimum donation of $10 to help brighten the holidays. As a sweet thank you, everyone who contributes will receive a complimentary bag of mini-donuts. There’s plenty of festive fun for the whole family. Snap a photo with Santa at the Coca-Cola Santa display, explore community booths and cheer on the Richmond RCMP and Richmond Sockeyes as they face off against local VIPs on the full-size street hockey rink. The festivities continue with Lansdowne Centre’s annual Santa photo experience at Centre Court. Naughty or nice, stop by to tell Santa your wish and capture magical moments. Santa will be at Lansdowne Centre through December 24. More Information This event is for All Ages. This is an accessible site. gigglebooth.ca/lansdowne",
+      "category": "Community & festivals",
+      "sourceCategories": "Christmas Events Festival",
+      "price": "",
+      "isFree": false
+    },
+    {
       "id": "195dba2214a8eec5",
       "city": "Richmond",
       "title": "12th Annual Richmond RCMP Toy Drive",
@@ -940,6 +924,22 @@
       "category": "Community & festivals",
       "sourceCategories": "Whalley and City Centre Festivals",
       "price": "Free!",
+      "isFree": true
+    },
+    {
+      "id": "be753108652e87bb",
+      "city": "Surrey",
+      "title": "Regular Council Meeting - Public Hearing",
+      "url": "https://www.surrey.ca/news-events/events/regular-council-meeting-public-hearing",
+      "dateLabel": "November 23, 2026",
+      "startDate": "2026-11-23",
+      "endDate": "2026-11-23",
+      "time": "7:00pm - 10:00pm",
+      "location": "Online and in-person at City Hall, 13450 - 104 Avenue, Surrey, BC",
+      "description": "Learn how to attend and participate in Council Meetings , or view the livestream from home. To find out what will be discussed at the meeting, see our list of upcoming Council Meeting Public Hearing Items . Council meetings are held every other Monday evening at City Hall, with some exceptions. See the Council Meeting Schedule for full details.",
+      "category": "Community & festivals",
+      "sourceCategories": "Public Meetings & Open Houses",
+      "price": "Free",
       "isFree": true
     },
     {
@@ -1560,7 +1560,7 @@
       "endDate": "2026-12-05",
       "time": "10:00am - 2:00pm",
       "location": "Clayton Community Centre, 7155 187a St, Surrey, BC",
-      "description": "Join us to celebrate with your neighbours at this free community event filled with fun, connection, and community spirit! Enjoy a variety of activities, ranging from cookie decorating, face-painting, to snowflake making and theatre performances! Schedule All events are 10am-2pm unless stated otherwise. Gymnasium Stay and Play 10am-12pm Community Kitchen Cookie Decorating Lobby Face Painting Table Top Activities Giant Games Popcorn Machine & Self Serve Hot Chocolate Music with Pat Chessel and Colin Sankey World Photography Cup Exhibition Library (Upstairs) Winter Family Storytime | Surrey Libraries 10:30-11:15am Family Movie: Penguins of Madagascar | Surrey Libraries 12:00-1:30pm Performing Arts Studio Royal Canadian Theatre Company will take over the Performing Arts Studio for this event. Engage with theatrically-themed crafts and games, and don’t miss your photo op with Panto characters. Visual Arts Studio Snowflake Making Weaving with Clayton's Artist in Residence, Mariel Nelms Arts Hallway ( in front of theatre) Engage with Arts & Culture Groups across City of Surrey! Soundscape Choir: Soundscape is a Surrey-based, auditioned, mixed-voice a cappella chorus, under the direction of Sam Dabrusin. With 31 years as a chorus, they sing a repertoire of tunes from the '40's and 50’s to the present. Don’t miss their engagement table, or the pop-up performance at 11am in the lobby! Westcoast Chorus: Westcoast Harmony Chorus is a group of women and people of marginalized genders who love to sing and are personally committed to excellence and lasting friendships. Come visit their table for a musical craft (while supplies last!) Shufa Foundation: Try your hand at the ancient art of Chinese calligraphy and learn about how this meditative practice is for everyone. Surrey Photography Club : Interested in Photography? Surrey Photography Club members will be present to show off their exhibition and talk about the art form. Vancouver Cantonese Opera : Prepare to be mesmerized by a spectacular Cantonese opera signature makeup demonstration and special pop-up water dance. MP 117 Peace Arch Weavers: demos and activities MP 107 Honeybee Centre: dipped candle making MP 106 Folk Star Arts Academy: Participate in Bhangra mini-workshops, share knowledge about Punjabi folk dance and cultural traditions, and discover traditional Punjabi musical instruments.",
+      "description": "Join us to celebrate with your neighbours at this free community event filled with fun, connection, and community spirit! Enjoy a variety of activities, ranging from cookie decorating, face-painting, to snowflake making and theatre performances! Schedule All events are 10am-2pm unless stated otherwise. Gymnasium Stay and Play 10am-12pm Community Kitchen Cookie Decorating Lobby Face Painting Table Top Activities Giant Games Popcorn Machine & Self Serve Hot Chocolate Music with Pat Chessel and Colin Sankey World Photography Cup Exhibition Library (Upstairs) Winter Family Storytime | Surrey Libraries 10:30-11:15am Family Movie: Penguins of Madagascar | Surrey Libraries 12:00-1:30pm Performing Arts Studio Royal Canadian Theatre Company will take over the Performing Arts Studio for this event. Engage with theatrically-themed crafts and games, and don’t miss your photo op with Panto characters. Visual Arts Studio Snowflake Making Weaving with Clayton's Artist in Residence, Mariel Nelms Arts Hallway ( in front of theatre) Engage with Arts & Culture Groups across City of Surrey! Soundscape Choir: Soundscape is a Surrey-based, auditioned, mixed-voice a cappella chorus, under the direction of Sam Dabrusin. With 31 years as a chorus, they sing a repertoire of tunes from the '40's and 50’s to the present. Don’t miss their engagement table, or the pop-up performance at 11am in the lobby! Westcoast Chorus: Westcoast Harmony Chorus is a group of women and people of marginalized genders who love to sing and are personally committed to excellence and lasting friendships. Come visit their table for a musical craft (while supplies last!) Shufa Foundation: Try your hand at the ancient art of Chinese calligraphy and learn about how this meditative practice is for everyone. Surrey Photography Club : Interested in Photography? Surrey Photography Club members will be present to show off their exhibition and talk about the art form. Vancouver Cantonese Opera : Prepare to be mesmerized by a spectacular Cantonese opera signature makeup demonstration and special pop-up water dance. MP 117 Peace Arch Weavers : demos and activities MP 107 Honeybee Centre : dipped candle making MP 106 Folk Star Arts Academy: Participate in Bhangra mini-workshops, share knowledge about Punjabi folk dance and cultural traditions, and discover traditional Punjabi musical instruments.",
       "category": "Arts & culture",
       "sourceCategories": "Cloverdale Arts & Culture Community Art",
       "price": "Free",
