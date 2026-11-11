@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-10T13:29:29-07:00",
+  "updatedAt": "2026-11-11T13:14:00-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-11-10T13:29:29-07:00",
+      "updatedAt": "2026-11-11T13:14:00-07:00",
       "status": "ok",
       "count": 143
     },
     "Richmond": {
-      "updatedAt": "2026-11-10T13:29:29-07:00",
+      "updatedAt": "2026-11-11T13:14:00-07:00",
       "status": "ok",
-      "count": 18
+      "count": 17
     }
   },
   "events": [
@@ -43,54 +43,6 @@
       "description": "Richmond Art Gallery Association's annual art auction, launches online and on view in the gallery October 24, featuring a diverse range of art works available for bidding, with select works reserved for a live auction at our annual banquet on November 21. Highlights include artworks by Moozhan Ahmadzadegan, Jo-Anne Balcaen, Persimmon Blackbridge, Sandeep Johal, August Klintberg, Michael Love, Phranc, Malina Sintnicolaas, Jan Wade, Marlene Yuen, among others! More Information This event is for All Ages. This is an accessible site. This event is free.",
       "category": "Arts & culture",
       "sourceCategories": "Gallery & Museum RAG Exhibit",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "995b5585f19d881d",
-      "city": "Surrey",
-      "title": "Salmon Sessions at Bear Creek Lights",
-      "url": "https://www.surrey.ca/news-events/events/salmon-sessions-bear-creek-lights",
-      "dateLabel": "November 9, 2026 - November 10, 2026",
-      "startDate": "2026-11-09",
-      "endDate": "2026-11-10",
-      "time": "Time not published — check event link",
-      "location": "Bear Creek Park, 13750 88 Avenue, Surrey, BC",
-      "description": "Learn about salmon stewardship Stop by the SHaRP interpretive booths from 5pm for family-friendly activities. They’ll be located within the ticketed area, southeast of the bridge at King Creek. Discover salmon guided walks Walk along King Creek with us as we look for spawning salmon returning to lay their eggs. Salmon can be more active moving upstream as nighttime approaches. Learn about the creek, the types of fish living there and be on the look out for zombie salmon! Join in on this guided walk offered at 5:30pm & 7:30pm at Bear Creek Lights. Things to know Drop-in, spaces are limited All ages All children must be accompanied by an adult Meet in the program tent, located just southeast of the bridge over King Creek. Program runs rain or shine and does not guarantee wildlife sightings!",
-      "category": "Nature & outdoors",
-      "sourceCategories": "Whalley and City Centre Parks & Environment",
-      "price": "Drop-in with free Bear Creek Lights ticket!",
-      "isFree": true
-    },
-    {
-      "id": "75227f89de013b64",
-      "city": "Surrey",
-      "title": "Nature at Night Walk at Bear Creek Lights",
-      "url": "https://www.surrey.ca/news-events/events/nature-night-walk-bear-creek-lights",
-      "dateLabel": "November 10, 2026",
-      "startDate": "2026-11-10",
-      "endDate": "2026-11-10",
-      "time": "Time not published — check event link",
-      "location": "13750 - 88 Avenue, Surrey, BC",
-      "description": "Explore the urban forest after dark! Discover how plants, wildlife and soil work together to keep our city cool, our air clean and our parks full of life. Learn what the urban forest needs to thrive and how you can help. Things to know Drop-in, spaces are limited All ages All children must be accompanied by an adult Meet in the program tent, located in the plaza of the garden. Program runs rain or shine and does not guarantee wildlife sightings!",
-      "category": "Nature & outdoors",
-      "sourceCategories": "Newton Parks & Environment",
-      "price": "Free, drop-in.",
-      "isFree": true
-    },
-    {
-      "id": "33a93991141c3152",
-      "city": "Richmond",
-      "title": "The Guild presents an Afternoon at the Sherman Armoury Museum",
-      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19158",
-      "dateLabel": "Tuesday, Nov 10, 2026",
-      "startDate": "2026-11-10",
-      "endDate": "2026-11-10",
-      "time": "3 p.m. - 6 p.m.",
-      "location": "5500 No. 4 Rd",
-      "description": "The Guild presents an Afternoon at the Sherman Armoury Museum. Visit the the museum and learn about the history and operations of Richmond's Army reserve Unit, 39 Service Battalion and our Cadets corps. Share your support to the youth, citizen soldiers and military families based in Richmond More Information This event is for All Ages. This is an accessible site. This event is free.",
-      "category": "Arts & culture",
-      "sourceCategories": "Gallery & Museum Museum / Heritage Exhibit",
       "price": "Free",
       "isFree": true
     },
