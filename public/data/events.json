@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-11T13:14:00-07:00",
+  "updatedAt": "2026-11-12T13:55:07-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-11-11T13:14:00-07:00",
+      "updatedAt": "2026-11-12T13:55:07-07:00",
       "status": "ok",
-      "count": 143
+      "count": 141
     },
     "Richmond": {
-      "updatedAt": "2026-11-11T13:14:00-07:00",
+      "updatedAt": "2026-11-12T13:55:07-07:00",
       "status": "ok",
-      "count": 17
+      "count": 18
     }
   },
   "events": [
@@ -43,54 +43,6 @@
       "description": "Richmond Art Gallery Association's annual art auction, launches online and on view in the gallery October 24, featuring a diverse range of art works available for bidding, with select works reserved for a live auction at our annual banquet on November 21. Highlights include artworks by Moozhan Ahmadzadegan, Jo-Anne Balcaen, Persimmon Blackbridge, Sandeep Johal, August Klintberg, Michael Love, Phranc, Malina Sintnicolaas, Jan Wade, Marlene Yuen, among others! More Information This event is for All Ages. This is an accessible site. This event is free.",
       "category": "Arts & culture",
       "sourceCategories": "Gallery & Museum RAG Exhibit",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "788db8a2cbb3459b",
-      "city": "Surrey",
-      "title": "Cloverdale Indoor Soccer Tournament",
-      "url": "https://www.surrey.ca/news-events/events/cloverdale-indoor-soccer-tournament",
-      "dateLabel": "November 11, 2026",
-      "startDate": "2026-11-11",
-      "endDate": "2026-11-11",
-      "time": "12:00pm - 6:00pm",
-      "location": "Cloverdale Recreation Centre, 6188 - 176th Street, Surrey, BC",
-      "description": "Put your skills to the test in Cloverdale's third annual indoor soccer tournament! Teams will compete in a 5 vs. 5 futsal tournament featuring a minimum of three games, making for an exciting afternoon of friendly competition. The tournament is open to participants ages 19 and older. Tournament format 5 vs. 5 futsal Two 15-minute halves with a running clock Tournament runs from 12:00pm to 6:00pm Minimum of three games per team Teams must have at least one player of the opposite gender on the court at all times Registration Register as a team, with one team captain completing the registration. Maximum of 10 players per team roster Team roster must be submitted at the start of the tournament Course ID: 00519596 Register now",
-      "category": "Sports & wellness",
-      "sourceCategories": "Cloverdale Recreation",
-      "price": "$150 per team",
-      "isFree": false
-    },
-    {
-      "id": "6c8812c877a1baf1",
-      "city": "Surrey",
-      "title": "Remembrance Day Ceremonies",
-      "url": "https://www.surrey.ca/news-events/events/remembrance-day-ceremonies",
-      "dateLabel": "November 11, 2026",
-      "startDate": "2026-11-11",
-      "endDate": "2026-11-11",
-      "time": "Time not published — check event link",
-      "location": "Various",
-      "description": "On November 11, several events will be taking place across Surrey in honour of Remembrance Day. Arrive early to find parking, or consider walking, biking, or taking transit. Events will take place rain or shine. Join your community for Remembrance Day ceremonies happening at the following locations: Veterans Square 17710 56A Avenue Procession to Veterans Square begins at 10:00am Service begins at 10:25am The ceremony will be live streamed on the City of Surrey Facebook page Event organizer: Royal Canadian Legion, Cloverdale Branch #6 Surrey Centre Cemetery 16670 60 Avenue Family event from 10:45am to 1:00pm Service begins at 10:45am Event organizer: City of Surrey, Cemetery Services Crescent Legion 2643 128 Street Procession begins at 10:00am Service begins at 10:25am Event organizer: Royal Canadian Legion, Crescent Branch #240 Whalley Legion 10626 City Parkway Procession begins at 10:00am Service begins at 10:25am Event organizer: Royal Canadian Legion, Whalley Branch #229 Port Kells Community Hall 18918 88 Avenue Service begins at 10:30am Event organizer: Port Kells Community Association Newton Senior Centre 13775 70A Avenue Service begins at 10:30am Event organizer: Girl Guides of Canada Contact [email protected] 604-591-4011",
-      "category": "Arts & culture",
-      "sourceCategories": "Heritage Museum of Surrey",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "48dc31c163135975",
-      "city": "Richmond",
-      "title": "Remembrance Day Service",
-      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19179",
-      "dateLabel": "Wednesday, Nov 11, 2026",
-      "startDate": "2026-11-11",
-      "endDate": "2026-11-11",
-      "time": "10:15am - 11:30am",
-      "location": "6911 No. 3 Rd",
-      "description": "For those wishing to reflect and remember with the community, there will be an in-person Remembrance Day ceremony on Friday, November 11 at the cenotaph located on the east side of Richmond City Hall, 6911 No. 3 Road. Parade will begin at 10:20am, official ceremonies will begin at 10:40am. There will be two minutes of silence at 11:00am, followed by wreath laying. More Information This event is for All Ages. This is an accessible site. This event is free.",
-      "category": "Community & festivals",
-      "sourceCategories": "Special Events - General Parades",
       "price": "Free",
       "isFree": true
     },
@@ -751,6 +703,22 @@
       "isFree": false
     },
     {
+      "id": "a073ed9b4282ed8c",
+      "city": "Richmond",
+      "title": "RAG Artist Salon: Lam Tung Pang on Process, Place, and Practice",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19186",
+      "dateLabel": "Saturday, Nov 21, 2026",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
+      "time": "2:00-3:30pm",
+      "location": "7700 Minoru Gate",
+      "description": "Join exhibiting artist Lam Tung Pang for a conversation about his practice. Drawing on experiences across Hong Kong, London, Beijing, and Richmond, Lam will reflect on the influences, processes, and artistic decisions that shape his work today. This session offers a unique opportunity for artists and arts professionals to engage with the realities of sustaining a contemporary art practice across cultures and geographies. Limited spaces, RSVP requested. Note: Film crew on site filming a documentary on artist Lam Tung Pang. Please inform staff if you do not wish to be on camera. About the Presenter: Lam Tung Pang received his BFA from the Chinese University of Hong Kong and his MFA from Central Saint Martins in London. Lam’s work is collected by LACMA (Los Angeles), Asian Art Museum (San Francisco), Burger Collection, the Deutsche Bank, Royal Bank of Canada, Hong Kong Museum of Art, Kadist Art Foundation (France & USA), White Rabbit Contemporary Chinese Art Collection (Australia), and M+ (Hong Kong), among others. In 2012, he was awarded the outstanding contributions to the development of culture and arts by The Secretary for Home Affairs, Hong Kong. More Information This event is for Youth (Ages 13-18), Adult (Ages 18+) & 55+ (Ages 55 and over) This is an accessible site. This event is free.",
+      "category": "Arts & culture",
+      "sourceCategories": "Gallery & Museum Talk / Tour / Lecture",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "63e2428c7b5069aa",
       "city": "Surrey",
       "title": "Screen Connects Surrey",
@@ -1048,7 +1016,7 @@
       "endDate": "2026-11-28",
       "time": "12:00pm - 4:00pm",
       "location": "Totest Aleng: Indigenous Learning House, 13723 Crescent Road, Surrey, BC",
-      "description": "Handmade magic! Shop the market of Indigenous artisans in the studio and take in cultural presentations and family-friendly activities in the outdoor pavilion. Hosted in partnership with Joan Williams of Semiahmoo First Nation. Vendor lineup Corrick Creations - Corrick Creations materialized from 9 year old Ben Corrick's keen interest in business and making a difference in the world. We are members of Métis Nation BC. We will be selling wet-felted soaps and Christmas decorations. Half of the proceeds of our sales will be donated to Children's Hospital. This charity is close to Ben's heart because they saved his life when he was born. Native Art Renaissance - Led by James Groening, supporting Indigenous artists and creating opportunities for cultural learning, storytelling and connection. Nicimos Designs - Nicimos Designs is a group focused on handmade crafts, Métis Dot Art, and indigenous art. Members share their creative work. Ryan Salish Art - Coast Salish artist of the Snuneymuxw First Nation. He works in several mediums including carving, acrylic paint, wood, digital media, pencil and pencil crayon among others. Sheila Rae Designs - Paintings, burned beaded and painted hats, bead work from earrings to hair clips orange and red shirts. Starchild Beadwork - A Métis Anishinaabekwe artisan selling beadwork. Sweet Grass Soap - Indigenous handmade soap, body butters, lip balms and smudge sprays. Tradish - Tradish brings traditional Indigenous nourishment to urban Indigenous and non-Indigenous health conscious people while supporting Indigenous food sovereignty, culture and community. We sell Tradish plant medicine jam, coffee, and bannock mixes. White Rabbit Métis Artisan - Indigenous beadwork and art.",
+      "description": "Handmade magic! Shop the market of Indigenous artisans in the studio and take in cultural presentations and family-friendly activities in the outdoor pavilion. While you're here, grab a treat from Dozer's Donuts and a drink from Dirty Pop . Hosted in partnership with Joan Williams of Semiahmoo First Nation. Vendor lineup Corrick Creations - Corrick Creations materialized from 9 year old Ben Corrick's keen interest in business and making a difference in the world. We are members of Métis Nation BC. We will be selling wet-felted soaps and Christmas decorations. Half of the proceeds of our sales will be donated to Children's Hospital. This charity is close to Ben's heart because they saved his life when he was born. Midnight Moon Creations - Mixed St'at'imc artist selling bonebead and crystal jewelry. Native Art Renaissance - Led by James Groening, supporting Indigenous artists and creating opportunities for cultural learning, storytelling and connection. Nicimos Designs - Nicimos Designs is a group focused on handmade crafts, Métis Dot Art, and indigenous art. Members share their creative work. Ryan Salish Art - Coast Salish artist of the Snuneymuxw First Nation. He works in several mediums including carving, acrylic paint, wood, digital media, pencil and pencil crayon among others. Shawaha Designs - Indigenous-owned artisan jewelry brand specializing in one-of-a-kind, handcrafted cedar and medicine jewelry. Sheila Rae Designs - Paintings, burned beaded and painted hats, bead work from earrings to hair clips orange and red shirts. SOLAH Botanicals - Land-based botanical apothecary. Starchild Beadwork - A Métis Anishinaabekwe artisan selling beadwork. Sweet Grass Soap - Indigenous handmade soap, body butters, lip balms and smudge sprays. Tradish - Tradish brings traditional Indigenous nourishment to urban Indigenous and non-Indigenous health conscious people while supporting Indigenous food sovereignty, culture and community. We sell Tradish plant medicine jam, coffee, and bannock mixes. White Rabbit Métis Artisan - Indigenous beadwork and art.",
       "category": "Arts & culture",
       "sourceCategories": "South Surrey Arts & Culture Totest Aleng",
       "price": "Free",
@@ -1341,6 +1309,22 @@
       "sourceCategories": "Whalley and City Centre Civic Plaza Recreation",
       "price": "$16 per person Children under 2-years old enter for free",
       "isFree": true
+    },
+    {
+      "id": "432fd0e2fc3b0392",
+      "city": "Richmond",
+      "title": "Carols and Crafts at Aberdeen Park",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19185",
+      "dateLabel": "Saturday, Dec 05, 2026",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "time": "11:00am - 3:00pm",
+      "location": "8331 Cambie Road",
+      "description": "This free special outdoor community event includes: A Craft Fair Shop from local vendors offering unique handmade goods including jewelry, art, and decor Food Trucks Enjoy delicious eats and warm beverages from three featured food trucks Live Performances Experience incredible live entertainment throughout the day Photos with Santa Capture the magic of the season! Santa will be available for photos from 12:30–2:30pm. Lots of holiday cheer, music and fun for the whole family! Event subject to change or cancellation due to weather. Aberdeen Neighbourhood Park (8331 Cambie Road) More Information This event is for All Ages. This is an accessible site. $50 per table for vendors",
+      "category": "Community & festivals",
+      "sourceCategories": "Christmas Events Social / Community Event",
+      "price": "",
+      "isFree": false
     },
     {
       "id": "f04d060166de28d6",
@@ -1727,14 +1711,14 @@
       "isFree": true
     },
     {
-      "id": "a1f8f81dcf7dcc0a",
+      "id": "da243d26e36f861d",
       "city": "Surrey",
       "title": "Holiday Spectacular",
       "url": "https://www.surrey.ca/news-events/events/holiday-spectacular",
       "dateLabel": "December 17, 2026",
       "startDate": "2026-12-17",
       "endDate": "2026-12-17",
-      "time": "6:30pm - 8:30pm",
+      "time": "7:30pm - 9:30pm",
       "location": "Bell Performing Arts Centre, 6250 144 St, Surrey, BC",
       "description": "Produced by Vancouver's Alan Corbishley and Frédérik Robert, this 90-minute holiday spectacular brings together talented musical theatre performers and recording artists for an unforgettable celebration of seasonal favourites. The first half of the show features a mix of timeless Christmas classics and contemporary hits, including We Need a Little Christmas , O Holy Night , and holiday favourites from Stevie Wonder, Elton John and Ed Sheeran. The second half brings even more festive cheer with Mariah Carey's All I Want for Christmas Is You , followed by an interactive holiday sing-along featuring beloved songs such as Let It Snow , Deck the Halls and Have Yourself a Merry Little Christmas . Bring your family and friends, sing along to your favourite holiday tunes, and enjoy an evening filled with music, nostalgia and holiday spirit. Learn more",
       "category": "Community & festivals",
@@ -2279,7 +2263,7 @@
       "startDate": "2027-05-29",
       "endDate": "2027-05-29",
       "time": "1:00pm - 1:45pm",
-      "location": "Main Stage at Surrey Arts Centre 13750 88 Avenue, Surrey, BC",
+      "location": "Main Stage at Surrey Arts Centre, 13750 88 Avenue, Surrey, BC",
       "description": "By Branar Téatar do Pháistí (Ireland) Once there was a boy who was always looking up. He dreamt of having a star as a friend. This is the story of his adventure. Based on the beloved book by award-winning Irish author Oliver Jeffers. This adaptation combines stunning puppetry with a twinkling musical score and Branar’s signature storytelling that reminds us all to follow our dreams. A non-verbal show for ages 4+. Get tickets About Branar Téatar do Pháistí Based in the West of Ireland since 2001, Branar is one of Ireland’s leading theatre companies making work for children. Renowned for creating highly imaginative and beautiful work, Branar tours nationally and internationally. Their company’s motto is ‘serious fun’. Aiming to instill not just wildness inside us but wonder, joy, curiosity and compassion, Branar views every child as an equal citizen of the world who should be nurtured through engagement with exceptional arts experiences. Filled with wonder and creativity, their world and the world around them will be more fulfilling for all. The company tours nationally and internationally, bringing its work with equal enthusiasm to leading arts venues such as the South Bank Centre, London as to a local school in Galway. Branar is committed to reaching its audience, wherever they are. Kindly supported by Culture Ireland, Arts Council of Ireland, Galway City Council, Foras na Gaeilge and Galway County Council.",
       "category": "Arts & culture",
       "sourceCategories": "Whalley and City Centre Arts & Culture Children Surrey Civic Theatres",
