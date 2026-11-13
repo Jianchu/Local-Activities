@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-12T13:55:07-07:00",
+  "updatedAt": "2026-11-13T13:31:00-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-11-12T13:55:07-07:00",
+      "updatedAt": "2026-11-13T13:31:00-07:00",
       "status": "ok",
-      "count": 141
+      "count": 140
     },
     "Richmond": {
-      "updatedAt": "2026-11-12T13:55:07-07:00",
+      "updatedAt": "2026-11-13T13:31:00-07:00",
       "status": "ok",
-      "count": 18
+      "count": 19
     }
   },
   "events": [
@@ -43,38 +43,6 @@
       "description": "Richmond Art Gallery Association's annual art auction, launches online and on view in the gallery October 24, featuring a diverse range of art works available for bidding, with select works reserved for a live auction at our annual banquet on November 21. Highlights include artworks by Moozhan Ahmadzadegan, Jo-Anne Balcaen, Persimmon Blackbridge, Sandeep Johal, August Klintberg, Michael Love, Phranc, Malina Sintnicolaas, Jan Wade, Marlene Yuen, among others! More Information This event is for All Ages. This is an accessible site. This event is free.",
       "category": "Arts & culture",
       "sourceCategories": "Gallery & Museum RAG Exhibit",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "96d83d74bff87b34",
-      "city": "Surrey",
-      "title": "Nature at Night Walk at Bear Creek Lights",
-      "url": "https://www.surrey.ca/news-events/events/nature-night-walk-bear-creek-lights",
-      "dateLabel": "November 12, 2026",
-      "startDate": "2026-11-12",
-      "endDate": "2026-11-12",
-      "time": "Time not published — check event link",
-      "location": "13750 - 88 Avenue, Surrey, BC",
-      "description": "Explore the urban forest after dark! Discover how plants, wildlife and soil work together to keep our city cool, our air clean and our parks full of life. Learn what the urban forest needs to thrive and how you can help. Things to know Drop-in, spaces are limited All ages All children must be accompanied by an adult Meet in the program tent, located in the plaza of the garden. Program runs rain or shine and does not guarantee wildlife sightings!",
-      "category": "Nature & outdoors",
-      "sourceCategories": "Newton Parks & Environment",
-      "price": "Free, drop-in.",
-      "isFree": true
-    },
-    {
-      "id": "19c3a55338aca6b5",
-      "city": "Surrey",
-      "title": "Seniors Open Houses",
-      "url": "https://www.surrey.ca/news-events/events/seniors-open-houses",
-      "dateLabel": "November 12, 2026",
-      "startDate": "2026-11-12",
-      "endDate": "2026-11-12",
-      "time": "12:00pm - 2:00pm",
-      "location": "Various locations",
-      "description": "Discover what makes Surrey’s seniors programs and spaces vibrant hubs for community and creativity. Join us for Open House events at six locations – featuring activities, refreshments, entertainment, and opportunities to shape future programs and services. Upcoming open houses: November 12, 2026 Guildford Recreation Centre 15105 - 105 Avenue Surrey, BC 12:00pm-2:00pm November 17, 2026 Fleetwood Community Centre 15996 - 84 Avenue Surrey, BC 12:00pm-2:00pm",
-      "category": "Community & festivals",
-      "sourceCategories": "Guildford Seniors",
       "price": "Free",
       "isFree": true
     },
@@ -285,22 +253,6 @@
       "sourceCategories": "Meetings / Conventions / Lectures / Workshops Workshops",
       "price": "",
       "isFree": false
-    },
-    {
-      "id": "5343ae267bcc2ea0",
-      "city": "Surrey",
-      "title": "Seniors Forum: Keeping Up with a Digital Healthcare System",
-      "url": "https://www.surrey.ca/news-events/events/seniors-forum-keeping-digital-healthcare-system",
-      "dateLabel": "November 14, 2026",
-      "startDate": "2026-11-14",
-      "endDate": "2026-11-14",
-      "time": "10:00am - 2:30pm",
-      "location": "Newton Seniors Centre, 13775 70 Ave, Surrey, BC",
-      "description": "The Access to Health Project is a community education initiative that helps Surrey seniors better understand and navigate the healthcare system. Through a series of forums and learning opportunities, participants will gain practical knowledge and tools to access healthcare services, make informed decisions, and confidently use digital health resources. Join us for the first forum in the series, focused on navigating today's digital healthcare system. What you'll learn How to stay safe online and protect your privacy How to identify legitimate healthcare providers and virtual care services How to recognize legitimate pharmacy text and email notifications Choosing the right healthcare service for your needs Understanding Urgent and Primary Care Centres (UPCCs) and HealthLink BC 8-1-1 Accessing your personal health information online Setting up and using Health Gateway Protecting your personal health information online Event features Resource tables and information booths Complimentary refreshments and lunch Door prizes Register In partnership with:",
-      "category": "Community & festivals",
-      "sourceCategories": "Newton Seniors",
-      "price": "Free",
-      "isFree": true
     },
     {
       "id": "7f86362613bc740b",
@@ -685,6 +637,22 @@
       "sourceCategories": "South Surrey Community-Hosted",
       "price": "$70",
       "isFree": false
+    },
+    {
+      "id": "23772d3a6383bfc1",
+      "city": "Richmond",
+      "title": "Free Gavel Club Trial Sessions",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19187",
+      "dateLabel": "Saturday, Nov 21, 2026 - Saturday, Nov 28, 2026 Every week on Saturday",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-28",
+      "time": "3:00-5:00pm",
+      "location": "Location not published — check event link",
+      "description": "Free Gavel Club trial sessions for ages 8-18 years to build confidence, public speaking, communication and leadership skills through fun activities. Come check out the U+ Gavel Club with our free trial sessions. This is a great chance to get a feel for what the club is all about and see if public speaking is your thing. We'll be meeting in person at 8171 Cook Rd, our Richmond Office on November 21. We'll also be meeting in person at Cambie Community Centre on November 28. The following times and age groups are available for each week: Ages 8-12yrs: 3:00-4:00pm Ages 13-18yrs: 4:00-5:00pm It's a friendly, no-pressure environment to jump in and try out some speaking activities. Whether you're curious or ready to jump in, this trial session is the perfect way to start. Hope to see you there. Learn more at: https://www.upluscommunity.org/gavel-club-free-trials If you have any questions, you can email us at tm@upluseducation.ca or call us at 647-616-0159. More Information This event is for Child (Ages 6-12) & Youth (Ages 13-18) This is an accessible site. Free",
+      "category": "Learn & create",
+      "sourceCategories": "Meetings / Conventions / Lectures / Workshops Workshops",
+      "price": "Free",
+      "isFree": true
     },
     {
       "id": "132765e9d451e32c",
