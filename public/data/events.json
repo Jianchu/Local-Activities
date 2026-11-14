@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-13T13:31:00-07:00",
+  "updatedAt": "2026-11-14T11:46:01-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-11-13T13:31:00-07:00",
+      "updatedAt": "2026-11-14T11:46:01-07:00",
       "status": "ok",
-      "count": 140
+      "count": 139
     },
     "Richmond": {
-      "updatedAt": "2026-11-13T13:31:00-07:00",
+      "updatedAt": "2026-11-14T11:46:01-07:00",
       "status": "ok",
       "count": 19
     }
@@ -47,54 +47,6 @@
       "isFree": true
     },
     {
-      "id": "4b026b6ceda498df",
-      "city": "Surrey",
-      "title": "Family Movie Nights",
-      "url": "https://www.surrey.ca/news-events/events/family-movie-nights",
-      "dateLabel": "November 13, 2026",
-      "startDate": "2026-11-13",
-      "endDate": "2026-11-13",
-      "time": "7:00pm - 9:00pm",
-      "location": "Clayton Community Centre, 7155 187A Street, Surrey, BC",
-      "description": "Enjoy a free cinematic experience with your loved ones! View family favourites in the Performing Arts Theatre – don’t forget to wear your pyjamas! Movie screening schedule Date Movie September 18 Sing October 30 Hotel Transylvania November 13 Sing 2 December 18 The Muppet Christmas Carol",
-      "category": "Arts & culture",
-      "sourceCategories": "Cloverdale Arts & Culture Community Art",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "61c5970aa167c5d0",
-      "city": "Surrey",
-      "title": "Karaoke Nights",
-      "url": "https://www.surrey.ca/news-events/events/karaoke-nights",
-      "dateLabel": "November 13, 2026",
-      "startDate": "2026-11-13",
-      "endDate": "2026-11-13",
-      "time": "5:00pm - 7:00pm",
-      "location": "Clayton Community Centre, 7155 187A Street, Surrey, BC",
-      "description": "Sing your heart out at our free monthly karaoke night! Step into the spotlight and enjoy an evening of music and fun in our state-of-the-art Performing Arts Theatre.",
-      "category": "Arts & culture",
-      "sourceCategories": "Cloverdale Arts & Culture Community Art",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "8cefc1ae1cb43105",
-      "city": "Surrey",
-      "title": "Playful Palettes For the Love Of the Art Gala",
-      "url": "https://www.surrey.ca/news-events/events/playful-palettes-love-of-art-gala",
-      "dateLabel": "November 13, 2026",
-      "startDate": "2026-11-13",
-      "endDate": "2026-11-13",
-      "time": "8:00pm - 11:00pm",
-      "location": "Bayside Rugby Clubhouse, 14600 20 Ave, Surrey BC",
-      "description": "Step into the spotlight for an evening of arts and entertainment at the 2nd Annual Playful Palette Foundation Gala. This year’s gala brings the spirit of cabaret to South Surrey with live jazz, performances, food and opportunities to connect. Dress up, grab a drink, meet new people, catch up with friends and enjoy an evening celebrating the arts and the community that makes this work possible. Whether you're looking to connect with others, enjoy the entertainment, support a great cause or simply have a fun night out, there’s something for everyone. Celebrate “For the Love of the Arts” while supporting opportunities for children and youth to experience and participate in the arts. Get tickets",
-      "category": "Arts & culture",
-      "sourceCategories": "South Surrey Community-Hosted",
-      "price": "$75",
-      "isFree": false
-    },
-    {
       "id": "048a2bbf288fd7fd",
       "city": "Surrey",
       "title": "Salmon Sessions at Bear Creek Lights",
@@ -124,22 +76,6 @@
       "category": "Arts & culture",
       "sourceCategories": "Culture & Heritage Events Theatre",
       "price": "",
-      "isFree": false
-    },
-    {
-      "id": "b282e1fc7e8b567a",
-      "city": "Surrey",
-      "title": "The Dreamboats",
-      "url": "https://www.surrey.ca/news-events/events/dreamboats",
-      "dateLabel": "November 13, 2026",
-      "startDate": "2026-11-13",
-      "endDate": "2026-11-13",
-      "time": "7:30pm - 9:00pm",
-      "location": "Main Stage at Surrey Arts Centre, 13750 88 Avenue, Surrey, BC",
-      "description": "Get ready to fall in love with rock 'n' roll all over again! With electrifying energy, slick musicianship and timeless style, The Dreamboats deliver a night packed with the biggest hits of the ’50s and ’60s. Get tickets About the Dreamboats From performing at the legendary Cavern Club in Liverpool—the very stage where The Beatles cut their teeth—to hearing first-hand rock ’n’ roll history from the iconic Ronnie Hawkins and even swimming in Elvis Presley’s pool, this quartet lives and breathes the era they represent. This isn’t just a tribute; it’s a revival led by four Canadian boys who transport audiences back to rock 'n' roll's golden age.",
-      "category": "Arts & culture",
-      "sourceCategories": "Whalley and City Centre Arts & Culture Music Surrey Civic Theatres",
-      "price": "Zone A: $69 Zone B: $59 Zone C: $49",
       "isFree": false
     },
     {
@@ -253,6 +189,22 @@
       "sourceCategories": "Meetings / Conventions / Lectures / Workshops Workshops",
       "price": "",
       "isFree": false
+    },
+    {
+      "id": "5343ae267bcc2ea0",
+      "city": "Surrey",
+      "title": "Seniors Forum: Keeping Up with a Digital Healthcare System",
+      "url": "https://www.surrey.ca/news-events/events/seniors-forum-keeping-digital-healthcare-system",
+      "dateLabel": "November 14, 2026",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-14",
+      "time": "10:00am - 2:30pm",
+      "location": "Newton Seniors Centre, 13775 70 Ave, Surrey, BC",
+      "description": "The Access to Health Project is a community education initiative that helps Surrey seniors better understand and navigate the healthcare system. Through a series of forums and learning opportunities, participants will gain practical knowledge and tools to access healthcare services, make informed decisions, and confidently use digital health resources. Join us for the first forum in the series, focused on navigating today's digital healthcare system. What you'll learn How to stay safe online and protect your privacy How to identify legitimate healthcare providers and virtual care services How to recognize legitimate pharmacy text and email notifications Choosing the right healthcare service for your needs Understanding Urgent and Primary Care Centres (UPCCs) and HealthLink BC 8-1-1 Accessing your personal health information online Setting up and using Health Gateway Protecting your personal health information online Event features Resource tables and information booths Complimentary refreshments and lunch Door prizes Register In partnership with:",
+      "category": "Community & festivals",
+      "sourceCategories": "Newton Seniors",
+      "price": "Free",
+      "isFree": true
     },
     {
       "id": "7f86362613bc740b",
@@ -1624,7 +1576,7 @@
       "endDate": "2027-01-03",
       "time": "Time not published — check event link",
       "location": "Cloverdale Arena, 6090 176 Street, Surrey, BC",
-      "description": "It's that time of year again where Cloverdale Arena transforms into a winter wonderland with festive lights twinkling, seasonal decorations everywhere you look and lively music filling the air! This popular, traditional event is an unforgettable skating experience and is the perfect way to spend time with your loved ones during this holiday season. Sign up 72 hours in advance Early sign up opens 72 hours in advance of skating session times. Participants must register at least one hour in advance of their desired session time to secure their spot. Each participant must sign up for a spot to be guaranteed entry. Sign up one of three ways: Register online By phone: 604-501-5100 or any recreation facility In-person at any recreation facility For private facility rentals, email [email protected] . Dates & times Date Time Saturday, December 12 1:00–2:30pm 3:00–4:30pm Sunday, December 13 No public skates Monday, December 14 No public skates Tuesday, December 15 No public skates Wednesday, December 16 3:30–5:00pm 5:30–7:00pm Thursday, December 17 5:30–7:00pm Friday, December 18 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm 7:30–9:00pm Saturday, December 19 1:30–3:00pm – Santa Skate (registration required) 3:30–5:00pm – Santa Skate (registration required) 5:30–7:00pm – Santa Skate (registration required) 7:30–9:00pm Sunday, December 20 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Monday, December 21 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Tuesday, December 22 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Wednesday, December 23 9:30–11:00am 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm Thursday, December 24 9:30–11:00am 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm Friday, December 25 Closed Saturday, December 26 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Sunday, December 27 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Monday, December 28 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Tuesday, December 29 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Wednesday, December 30 9:30–11:00am 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm Thursday, December 31 9:30–11:00am 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm – New Year’s Eve Skate Friday, January 1 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm Saturday, January 2 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm 7:30–9:00pm Sunday, January 3 11:30am–1:00pm 1:30–3:00pm What to expect when you arrive Arrive early to complete the check in process. Doors will open 30 minutes before your session start time. Spot(s) will be held for 30 minutes after your session start time. Dress for the weather as the check-in process is outside. A staff member will verify your registration and give you a wristband. Go to the skate shop to rent skates and/or a helmet (if needed). Lace up your skates , put on your gear and get ready to skate! After 90 minutes when your session is over, please exit promptly so the next session can enter. Remove your equipment, return your rentals (if needed) and exit the building. Important information For your safety Doors will open 30 minutes before each session's scheduled start time to facilitate ice resurfacing, equipment rental restocking and adequate cleaning of the arena. Helmets are mandatory for children ages 12 and under. Although, we highly encourage people of all ages to wear one. Leave your valuables at home. Cubbies are available to store shoes and other small items during sessions. A limited number of skating aids will be available for those that wish to use them. Family and friends are permitted to watch (no registration or payment required). Don't waste your space With limited capacity and no waitlist available, please cancel your booking if you cannot attend , so that others may participate. Cancel your booking by calling 604-501-5100 (Monday–Friday, 8:30am–4:30pm) or in-person at any Surrey recreation facility.",
+      "description": "It's that time of year again where Cloverdale Arena transforms into a winter wonderland with festive lights twinkling, seasonal decorations everywhere you look and lively music filling the air! This popular, traditional event is an unforgettable skating experience and is the perfect way to spend time with your loved ones during this holiday season. Sign up 72 hours in advance Early sign up opens 72 hours in advance of skating session times. Participants must register at least one hour in advance of their desired session time to secure their spot. Each participant must sign up for a spot to be guaranteed entry. Sign up one of three ways: Register online By phone: 604-501-5100 or any recreation facility In-person at any recreation facility For private facility rentals, email [email protected] . Dates & times Date Time Saturday, December 12 1:00–2:30pm 3:00–4:30pm Sunday, December 13 No public skates Monday, December 14 No public skates Tuesday, December 15 No public skates Wednesday, December 16 3:30–5:00pm 5:30–7:00pm Thursday, December 17 5:30–7:00pm Friday, December 18 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm 7:30–9:00pm Saturday, December 19 1:30–3:00pm – Santa Skate (registration required) 3:30–5:00pm – Santa Skate (registration required) 5:30–7:00pm – Santa Skate (registration required) 7:30–9:00pm Sunday, December 20 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Monday, December 21 11:30am–1:00pm – Elf Skate 1:30–3:00pm – Elf Skate 3:30–5:00pm – Elf Skate 5:30–7:00pm – Elf Skate Tuesday, December 22 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Wednesday, December 23 9:30–11:00am 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm Thursday, December 24 9:30–11:00am – Ugly Sweater Skate 11:30am–1:00pm – Ugly Sweater Skate 1:30–3:00pm – Ugly Sweater Skate 3:30–5:00pm – Ugly Sweater Skate Friday, December 25 Closed Saturday, December 26 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Sunday, December 27 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Monday, December 28 11:30am–1:00pm – Junior Hockey Fan Skate 1:30–3:00pm – Junior Hockey Fan Skate 3:30–5:00pm – Junior Hockey Fan Skate 5:30–7:00pm – Junior Hockey Fan Skate Tuesday, December 29 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm 5:30–7:00pm Wednesday, December 30 9:30–11:00am 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm Thursday, December 31 9:30–11:00am 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm – New Year’s Eve Skate Friday, January 1 11:30am–1:00pm 1:30–3:00pm 3:30–5:00pm Saturday, January 2 1:30–3:00pm – Disney Skate 3:30–5:00pm – Disney Skate 5:30–7:00pm – Disney Skate 7:30–9:00pm – Disney Skate Sunday, January 3 11:30am–1:00pm 1:30–3:00pm What to expect when you arrive Arrive early to complete the check in process. Doors will open 30 minutes before your session start time. Spot(s) will be held for 30 minutes after your session start time. Dress for the weather as the check-in process is outside. A staff member will verify your registration and give you a wristband. Go to the skate shop to rent skates and/or a helmet (if needed). Lace up your skates , put on your gear and get ready to skate! After 90 minutes when your session is over, please exit promptly so the next session can enter. Remove your equipment, return your rentals (if needed) and exit the building. Session themes Make your Winter Ice Palace experience even more fun by joining one of our themed skate sessions! Show up dressed for the theme and enjoy a fun skate with family and friends. December 21 – Elf Skate Join our Elf Hunt Theme Skate! Dress as an elf, explore the arena to find all 20 hidden elves and enter for your chance to win a recreational prize. December 24 – Ugly Sweater Skate Show off your most outrageous holiday sweater at our Ugly Sweater Theme Skate! Come skate, spread some holiday cheer and enter for your chance to win a prize. December 28 – Junior Hockey Fan Skate Throw on your favourite hockey jersey and join us as we celebrate Surrey's junior hockey teams! Featuring autograph sessions, giveaways and more, this is a day you won't want to miss! January 2 – Disney Skate Join us for a Disney Theme Skate! Dress up as your favourite Disney character, skate to your favourite Disney songs and enjoy a magical experience for the whole family. Important information For your safety Doors will open 30 minutes before each session's scheduled start time to facilitate ice resurfacing, equipment rental restocking and adequate cleaning of the arena. Helmets are mandatory for children ages 12 and under. Although, we highly encourage people of all ages to wear one. Leave your valuables at home. Cubbies are available to store shoes and other small items during sessions. A limited number of skating aids will be available for those that wish to use them. Family and friends are permitted to watch (no registration or payment required). Don't waste your space With limited capacity and no waitlist available, please cancel your booking if you cannot attend , so that others may participate. Cancel your booking by calling 604-501-5100 (Monday–Friday, 8:30am–4:30pm) or in-person at any Surrey recreation facility.",
       "category": "Sports & wellness",
       "sourceCategories": "Cloverdale Recreation",
       "price": "$5.25 per person. Free with an Annual Recreation Pass . Rent skates for $3.75 and a helmet for $2.00 when you arrive. We expect high demand for rentals, so bring your own equipment if possible.",
