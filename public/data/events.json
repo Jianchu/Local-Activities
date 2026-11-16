@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-15T12:24:14-07:00",
+  "updatedAt": "2026-11-16T15:55:55-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-11-15T12:24:14-07:00",
+      "updatedAt": "2026-11-16T15:55:55-07:00",
       "status": "ok",
-      "count": 136
+      "count": 134
     },
     "Richmond": {
-      "updatedAt": "2026-11-15T12:24:14-07:00",
+      "updatedAt": "2026-11-16T15:55:55-07:00",
       "status": "ok",
       "count": 17
     }
@@ -44,70 +44,6 @@
       "category": "Arts & culture",
       "sourceCategories": "Gallery & Museum RAG Exhibit",
       "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "5e5235f205bd6a34",
-      "city": "Surrey",
-      "title": "Salmon Sessions at Bear Creek Lights",
-      "url": "https://www.surrey.ca/news-events/events/salmon-sessions-bear-creek-lights",
-      "dateLabel": "November 14, 2026 - November 15, 2026",
-      "startDate": "2026-11-14",
-      "endDate": "2026-11-15",
-      "time": "Time not published — check event link",
-      "location": "Bear Creek Park, 13750 88 Avenue, Surrey, BC",
-      "description": "Learn about salmon stewardship Stop by the SHaRP interpretive booths from 5pm for family-friendly activities. They’ll be located within the ticketed area, southeast of the bridge at King Creek. Discover salmon guided walks Walk along King Creek with us as we look for spawning salmon returning to lay their eggs. Salmon can be more active moving upstream as nighttime approaches. Learn about the creek, the types of fish living there and be on the look out for zombie salmon! Join in on this guided walk offered at 5:30pm & 7:30pm at Bear Creek Lights. Things to know Drop-in, spaces are limited All ages All children must be accompanied by an adult Meet in the program tent, located just southeast of the bridge over King Creek. Program runs rain or shine and does not guarantee wildlife sightings!",
-      "category": "Nature & outdoors",
-      "sourceCategories": "Whalley and City Centre Parks & Environment",
-      "price": "Drop-in with free Bear Creek Lights ticket!",
-      "isFree": true
-    },
-    {
-      "id": "739a3b9143e0894f",
-      "city": "Surrey",
-      "title": "Diwali Fest's Diwali in Surrey",
-      "url": "https://www.surrey.ca/news-events/events/diwali-fests-diwali-surrey",
-      "dateLabel": "November 15, 2026",
-      "startDate": "2026-11-15",
-      "endDate": "2026-11-15",
-      "time": "2:00pm - 5:00pm",
-      "location": "Surrey City Hall, 13450 104 Ave, Surrey, BC",
-      "description": "Experience a unique fusion of classical and contemporary sounds, traditional and modern dance, and artistic performances that celebrate the beauty and diversity of South Asian culture at Diwali Fest's Mehfil inspired celebration. Gather with family and friends, enjoy an evening of incredible talent and entertainment, and immerse yourself in the joy, connection, and festive spirit of Diwali. Learn more",
-      "category": "Community & festivals",
-      "sourceCategories": "Whalley and City Centre Community-Hosted",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "96ad9bccd0dca17c",
-      "city": "Surrey",
-      "title": "Heart to Home Holiday Market",
-      "url": "https://www.surrey.ca/news-events/events/heart-home-holiday-market",
-      "dateLabel": "November 15, 2026",
-      "startDate": "2026-11-15",
-      "endDate": "2026-11-15",
-      "time": "12:00pm - 4:00pm",
-      "location": "Surrey Arts Centre - 13750 88 Ave, Surrey, BC",
-      "description": "Dozens of local and BC artists, including current saga shop artists, will be showcasing their incredible handmade works. Browse ceramics, jewellery, art cards, paintings, photographs, stickers, books for children and adults, linocuts, and more! Plus, purchase a limited-edition tote bag by Atheana Picha inspired by West Coast baskets and knitting patterns with all proceeds going to Surrey Art Gallery Association (SAGA). All saga shop artists and market vendors are members of Surrey Art Gallery Association. SAGA members receive a 10% discount, and if visitors are not a member already, they can become one onsite. I'm so grateful for the opportunity to showcase my work at the saga shop, share it with others, and be part of such a wonderful community of artists. I'm really looking forward to the Heart to Home Holiday Market. It's another opportunity to be part of this incredible and inclusive community and to share what I love doing with others. -Dunia Tozy Longstanding saga shop artist and Gallery artist-educator Murray Sanders will be demonstrating pottery wheel throwing throughout the weekend and also have a table of his pottery for sale. Hosted with the Gallery, this annual market has been supporting the creativity and ingenuity of local artists since 2002. Vendor Types of Art Karen Bosanac Jewellery Asma Burney Paintings Jasmina Charleston Graphic art & illustration cards, stickers, textiles Terry Cummings Jewellery & ceramic sculptures Marian De Gier Jewellery Foxy Verve Atelier Jewellery, fibre arts, prints Gordon Rebelato Photographs Sapphorica Creation s Graphic art & illustration cards, stickers Murray Sanders Functional ceramics Wendy Schmidt Wildlife paintings Stephanie Shields Bobbin lace jewellery Dunia Tozy & Ella Davidson Paintings, colouring books, & jewellery Lyn Verra-Lay Fibre arts Nancy Wright Paintings & clocks Ramona Radu Watercolour paintings Sharon Doucette Photographs, cyanotypes Alanna Edwards Jewellery & beading Atheana Picha Weavings, prints, paintings About Surrey Art Gallery Association Surrey Art Gallery Association (SAGA) is a non-profit society that offers its members the opportunity to participate in and respond to contemporary art and be part of a community that actively supports Surrey Art Gallery.",
-      "category": "Arts & culture",
-      "sourceCategories": "Whalley and City Centre Arts & Culture Seniors Surrey Art Gallery Youth",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "2cd53c2be0ad59e0",
-      "city": "Surrey",
-      "title": "Live Performances at Bear Creek Lights",
-      "url": "https://www.surrey.ca/news-events/events/live-music-bear-creek-lights",
-      "dateLabel": "November 15, 2026",
-      "startDate": "2026-11-15",
-      "endDate": "2026-11-15",
-      "time": "Time not published — check event link",
-      "location": "13750 - 88 Avenue, Surrey, BC",
-      "description": "Enjoy live music and performances by local artists at Bear Creek Lights. Day Date Artist Friday Nov 6 Amy Van Bergen Ragamuffin Productions Kiara Dokaj Saturday Nov 7 Surrey Jazz Nights Kiara Dokaj Sunday Nov 8 Surrey Jazz Nights Kiara Dokaj Ranj Singh Colin Sankey Friday Nov 13 Amy Van Bergen Fraser Valley Musical Theatre Kiara Dokaj Colin Sankey Saturday Nov 14 Fraser Valley Musical Theatre Cedar Hills Caledonia Pipe Band Kiara Dokaj Colin Sankey Sunday Nov 15 Kiara Dokaj Surrey Jazz Nights Colin Sankey Friday Nov 20 Amy Van Bergen Folk Star Arts Academy Kiara Dokaj Colin Sankey Things to know Performances will be held within in the tent in the plaza in the garden which is part of the ticketed event area. Music in Surrey Surrey is Canada's up and coming music city. Take a look through the musician directory and find out how the Surrey Music Strategy is guiding Surrey in becoming a music industry leader that supports musician development and a thriving music economy. LEARN about music in surrey",
-      "category": "Nature & outdoors",
-      "sourceCategories": "Whalley and City Centre Music Parks & Environment",
-      "price": "Free, drop-in",
       "isFree": true
     },
     {
@@ -1229,6 +1165,22 @@
       "sourceCategories": "Parks & Environment Youth",
       "price": "Drop-in",
       "isFree": false
+    },
+    {
+      "id": "e77e4c1f42209afe",
+      "city": "Surrey",
+      "title": "UNITI Holiday Craft Fair",
+      "url": "https://www.surrey.ca/news-events/events/uniti-holiday-craft-fair",
+      "dateLabel": "December 5, 2026",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "time": "10:00am - 3:00pm",
+      "location": "15306 24 Avenue, Surrey, BC",
+      "description": "UNITI is excited to announce that their Holiday Craft Fair will take place on Saturday, December 5, from 10am to 3pm! The Holiday Craft Fair brings together community members, families, and local businesses to celebrate the season while supporting local vendors and creators. UNITI strives to create a welcoming and enjoyable shopping experience and carefully considers the mix of vendors to ensure a diverse variety of products and services are represented throughout the event. Santa will be here for photos from 10am-12pm! Learn more",
+      "category": "Community & festivals",
+      "sourceCategories": "South Surrey Community-Hosted",
+      "price": "Free",
+      "isFree": true
     },
     {
       "id": "b87354efa35cfc80",
