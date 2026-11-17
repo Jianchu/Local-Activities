@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-16T15:55:55-07:00",
+  "updatedAt": "2026-11-17T14:49:17-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-11-16T15:55:55-07:00",
+      "updatedAt": "2026-11-17T14:49:17-07:00",
       "status": "ok",
-      "count": 134
+      "count": 126
     },
     "Richmond": {
-      "updatedAt": "2026-11-16T15:55:55-07:00",
+      "updatedAt": "2026-11-17T14:49:17-07:00",
       "status": "ok",
-      "count": 17
+      "count": 18
     }
   },
   "events": [
@@ -47,54 +47,6 @@
       "isFree": true
     },
     {
-      "id": "68ebdf823bc707bc",
-      "city": "Surrey",
-      "title": "Salmon Sessions at Bear Creek Lights",
-      "url": "https://www.surrey.ca/news-events/events/salmon-sessions-bear-creek-lights",
-      "dateLabel": "November 15, 2026 - November 16, 2026",
-      "startDate": "2026-11-15",
-      "endDate": "2026-11-16",
-      "time": "Time not published — check event link",
-      "location": "Bear Creek Park, 13750 88 Avenue, Surrey, BC",
-      "description": "Learn about salmon stewardship Stop by the SHaRP interpretive booths from 5pm for family-friendly activities. They’ll be located within the ticketed area, southeast of the bridge at King Creek. Discover salmon guided walks Walk along King Creek with us as we look for spawning salmon returning to lay their eggs. Salmon can be more active moving upstream as nighttime approaches. Learn about the creek, the types of fish living there and be on the look out for zombie salmon! Join in on this guided walk offered at 5:30pm & 7:30pm at Bear Creek Lights. Things to know Drop-in, spaces are limited All ages All children must be accompanied by an adult Meet in the program tent, located just southeast of the bridge over King Creek. Program runs rain or shine and does not guarantee wildlife sightings!",
-      "category": "Nature & outdoors",
-      "sourceCategories": "Whalley and City Centre Parks & Environment",
-      "price": "Drop-in with free Bear Creek Lights ticket!",
-      "isFree": true
-    },
-    {
-      "id": "73f465b40da2d919",
-      "city": "Surrey",
-      "title": "Storytime at Bear Creek Lights",
-      "url": "https://www.surrey.ca/news-events/events/storytime-bear-creek-lights",
-      "dateLabel": "November 16, 2026",
-      "startDate": "2026-11-16",
-      "endDate": "2026-11-16",
-      "time": "6:00pm - 7:00pm",
-      "location": "Bear Creek Park, 13750 88 Avenue, Surrey, BC",
-      "description": "Storytime by Surrey Libraries Join Surrey Libraries staff for fun stories and songs for all ages at Bear Creek Lights! Help imaginations grow and build a love of reading. Register the whole family for library cards. The Mobile Library will be onsite November 16! Surrey Libraries staff will be onsite from 5pm onwards. Session times 6:00pm 7:00pm Things to know Drop-in, spaces are limited. Program for ages 2-5, but all ages are welcome. All children must be accompanied by an adult. Meet in the program area in the garden’s central plaza. This is within the ticketed area, so please book a free Bear Creek Lights ticket for your desired timeslot.",
-      "category": "Nature & outdoors",
-      "sourceCategories": "Whalley and City Centre Children Parks & Environment",
-      "price": "Drop-in with free Bear Creek Lights ticket",
-      "isFree": true
-    },
-    {
-      "id": "257c49db8455c660",
-      "city": "Surrey",
-      "title": "Storytime at Bear Creek Lights",
-      "url": "https://www.surrey.ca/news-events/events/storytime-bear-creek-lights",
-      "dateLabel": "November 16, 2026",
-      "startDate": "2026-11-16",
-      "endDate": "2026-11-16",
-      "time": "7:00pm - 8:00pm",
-      "location": "Bear Creek Park, 13750 88 Avenue, Surrey, BC",
-      "description": "Storytime by Surrey Libraries Join Surrey Libraries staff for fun stories and songs for all ages at Bear Creek Lights! Help imaginations grow and build a love of reading. Register the whole family for library cards. The Mobile Library will be onsite November 16! Surrey Libraries staff will be onsite from 5pm onwards. Session times 6:00pm 7:00pm Things to know Drop-in, spaces are limited. Program for ages 2-5, but all ages are welcome. All children must be accompanied by an adult. Meet in the program area in the garden’s central plaza. This is within the ticketed area, so please book a free Bear Creek Lights ticket for your desired timeslot.",
-      "category": "Nature & outdoors",
-      "sourceCategories": "Whalley and City Centre Children Parks & Environment",
-      "price": "Drop-in with free Bear Creek Lights ticket",
-      "isFree": true
-    },
-    {
       "id": "dbbd82aa381cfea5",
       "city": "Surrey",
       "title": "Nature at Night Walk at Bear Creek Lights",
@@ -108,22 +60,6 @@
       "category": "Nature & outdoors",
       "sourceCategories": "Newton Parks & Environment",
       "price": "Free, drop-in.",
-      "isFree": true
-    },
-    {
-      "id": "503f90fb7058a1c7",
-      "city": "Surrey",
-      "title": "Seniors Open Houses",
-      "url": "https://www.surrey.ca/news-events/events/seniors-open-houses",
-      "dateLabel": "November 17, 2026",
-      "startDate": "2026-11-17",
-      "endDate": "2026-11-17",
-      "time": "12:00pm - 2:00pm",
-      "location": "Various locations",
-      "description": "Discover what makes Surrey’s seniors programs and spaces vibrant hubs for community and creativity. Join us for Open House events at six locations – featuring activities, refreshments, entertainment, and opportunities to shape future programs and services. Upcoming open houses: November 12, 2026 Guildford Recreation Centre 15105 - 105 Avenue Surrey, BC 12:00pm-2:00pm November 17, 2026 Fleetwood Community Centre 15996 - 84 Avenue Surrey, BC 12:00pm-2:00pm",
-      "category": "Community & festivals",
-      "sourceCategories": "Guildford Seniors",
-      "price": "Free",
       "isFree": true
     },
     {
@@ -456,7 +392,7 @@
       "endDate": "2026-11-21",
       "time": "1:00pm",
       "location": "Surrey Nature Centre, 14225 Green Timbers Way Meet near Surrey Nature Centre entrance",
-      "description": "Volunteer in parks with other youth Remove invasive plants, plant trees and shrubs, clean up litter, and enhance habitat within Surrey parks. Tools and training are provided. Bring your friends - all youth aged 13 to 18 are welcome! No experience is required. Important information Dress for the weather and bring water. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Sat. Nov 14 Invasive plant removal 1:00pm 3:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Nov 21 SYSS Art & Stewardship 1:00pm 3:30pm Surrey Nature Centre 14225 Green Timbers Way Meet near Surrey Nature Centre entrance Sat. Nov 28 Invasive plant removal 1:00pm 3:00pm Fleetwood Park 15802 - 80 Avenue Meet near playground located off 80 Ave Sat. Dec 5 Invasive plant removal 1:00pm 3:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Dec 12 Invasive plant removal 1:00pm 3:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Additional opportunities are shared online for registered Surrey Youth Stewardship Squad volunteers. Sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
+      "description": "Volunteer in parks with other youth Remove invasive plants, plant trees and shrubs, clean up litter, and enhance habitat within Surrey parks. Tools and training are provided. Bring your friends - all youth aged 13 to 18 are welcome! No experience is required. Important information Dress for the weather and bring water. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Sat. Nov 21 SYSS Art & Stewardship 1:00pm 3:30pm Surrey Nature Centre 14225 Green Timbers Way Meet near Surrey Nature Centre entrance Sat. Nov 28 Invasive plant removal 1:00pm 3:00pm Fleetwood Park 15802 - 80 Avenue Meet near playground located off 80 Ave Sat. Dec 5 Invasive plant removal 1:00pm 3:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Dec 12 Invasive plant removal 1:00pm 3:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Additional opportunities are shared online for registered Surrey Youth Stewardship Squad volunteers. Sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
       "category": "Nature & outdoors",
       "sourceCategories": "Parks & Environment Youth",
       "price": "Drop-in",
@@ -728,7 +664,7 @@
       "endDate": "2026-11-28",
       "time": "10:00am & 10:30am",
       "location": "Fleetwood Park, 15802 - 80 Avenue Meet near playground located off 80 Ave",
-      "description": "Join us in caring for Surrey parks Remove invasive plants, plant native trees and shrubs, clean up litter, and enhance habitat within the park. Tools and training are provided. Bring your family and friends—all ages are welcome! Important information Dress for the weather and bring water. Drop in at one of two start times. Staggered start times help us give you a great orientation. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to strong winds or extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Sat. Nov 7 Tree and shrub planting 10:00am 12:00pm Robertson Drive Park 12714 - 92 Ave Meet near playground located off Robertson Drive Sat. Nov 14 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Nov 28 Invasive plant removal 10:00am & 10:30am 12:00pm Fleetwood Park 15802 - 80 Avenue Meet near playground located off 80 Ave Sat. Dec 5 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Dec 12 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Feel free to drop in, or sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
+      "description": "Join us in caring for Surrey parks Remove invasive plants, plant native trees and shrubs, clean up litter, and enhance habitat within the park. Tools and training are provided. Bring your family and friends—all ages are welcome! Important information Dress for the weather and bring water. Drop in at one of two start times. Staggered start times help us give you a great orientation. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to strong winds or extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Sat. Nov 28 Invasive plant removal 10:00am & 10:30am 12:00pm Fleetwood Park 15802 - 80 Avenue Meet near playground located off 80 Ave Sat. Dec 5 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Dec 12 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Feel free to drop in, or sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
       "category": "Nature & outdoors",
       "sourceCategories": "Parks & Environment",
       "price": "Drop-in",
@@ -776,7 +712,7 @@
       "endDate": "2026-11-28",
       "time": "1:00pm",
       "location": "Fleetwood Park, 15802 - 80 Avenue Meet near playground located off 80 Ave",
-      "description": "Volunteer in parks with other youth Remove invasive plants, plant trees and shrubs, clean up litter, and enhance habitat within Surrey parks. Tools and training are provided. Bring your friends - all youth aged 13 to 18 are welcome! No experience is required. Important information Dress for the weather and bring water. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Sat. Nov 14 Invasive plant removal 1:00pm 3:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Nov 21 SYSS Art & Stewardship 1:00pm 3:30pm Surrey Nature Centre 14225 Green Timbers Way Meet near Surrey Nature Centre entrance Sat. Nov 28 Invasive plant removal 1:00pm 3:00pm Fleetwood Park 15802 - 80 Avenue Meet near playground located off 80 Ave Sat. Dec 5 Invasive plant removal 1:00pm 3:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Dec 12 Invasive plant removal 1:00pm 3:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Additional opportunities are shared online for registered Surrey Youth Stewardship Squad volunteers. Sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
+      "description": "Volunteer in parks with other youth Remove invasive plants, plant trees and shrubs, clean up litter, and enhance habitat within Surrey parks. Tools and training are provided. Bring your friends - all youth aged 13 to 18 are welcome! No experience is required. Important information Dress for the weather and bring water. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Sat. Nov 21 SYSS Art & Stewardship 1:00pm 3:30pm Surrey Nature Centre 14225 Green Timbers Way Meet near Surrey Nature Centre entrance Sat. Nov 28 Invasive plant removal 1:00pm 3:00pm Fleetwood Park 15802 - 80 Avenue Meet near playground located off 80 Ave Sat. Dec 5 Invasive plant removal 1:00pm 3:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Dec 12 Invasive plant removal 1:00pm 3:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Additional opportunities are shared online for registered Surrey Youth Stewardship Squad volunteers. Sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
       "category": "Nature & outdoors",
       "sourceCategories": "Parks & Environment Youth",
       "price": "Drop-in",
@@ -1071,6 +1007,22 @@
       "isFree": true
     },
     {
+      "id": "797d1fe644065207",
+      "city": "Richmond",
+      "title": "Friends of the Richmond Library Christmas Mini-Sale",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19188",
+      "dateLabel": "Saturday, Dec 05, 2026",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "time": "10:00am-4:00pm",
+      "location": "150 - 11590 Cambie Rd",
+      "description": "Mark your calendars. Don’t miss out on this special Christmas shopping day. Books make the perfect gift for all ages. Friends of the Richmond Library (FOL) is hosting its annual Christmas sale which will feature a wide selection of quality English and Chinese books ranging from fiction, classics and literature, cookbooks, children’s and many non-fiction titles. The gently used and some unopened books are marked individually at low prices. For more affordable and great reads, explore our used bookstore nearby at Unit 130. We have something for everyone. Donations of used books in good condition are gratefully accepted all year round at this location during store hours (Wednesdays, 10:00am-8:00pm and Saturdays, 10:00am-4:00pm). Proceeds from the sale directly benefit Richmond public libraries. Please bring cash as well as bags or boxes for book purchases. Richmond Public Library – Cambie Branch 150 – 11590 Cambie Road, Richmond Saturday, December 5 10:00am-4:00pm For more information, visit https://www.richmondfol.ca More Information This event is for All Ages. This is an accessible site. This event is free.",
+      "category": "Community & festivals",
+      "sourceCategories": "Christmas Events Social / Community Event",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "0a9a0a9dfcded369",
       "city": "Surrey",
       "title": "Holiday Memories at Skating at Civic Plaza",
@@ -1112,7 +1064,7 @@
       "endDate": "2026-12-05",
       "time": "10:00am & 10:30am",
       "location": "Godwin Farm Biodiversity Preserve Park, 9016 164 St Meet at the parking lot located on 164 St",
-      "description": "Join us in caring for Surrey parks Remove invasive plants, plant native trees and shrubs, clean up litter, and enhance habitat within the park. Tools and training are provided. Bring your family and friends—all ages are welcome! Important information Dress for the weather and bring water. Drop in at one of two start times. Staggered start times help us give you a great orientation. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to strong winds or extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Sat. Nov 7 Tree and shrub planting 10:00am 12:00pm Robertson Drive Park 12714 - 92 Ave Meet near playground located off Robertson Drive Sat. Nov 14 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Nov 28 Invasive plant removal 10:00am & 10:30am 12:00pm Fleetwood Park 15802 - 80 Avenue Meet near playground located off 80 Ave Sat. Dec 5 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Dec 12 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Feel free to drop in, or sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
+      "description": "Join us in caring for Surrey parks Remove invasive plants, plant native trees and shrubs, clean up litter, and enhance habitat within the park. Tools and training are provided. Bring your family and friends—all ages are welcome! Important information Dress for the weather and bring water. Drop in at one of two start times. Staggered start times help us give you a great orientation. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to strong winds or extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Sat. Nov 28 Invasive plant removal 10:00am & 10:30am 12:00pm Fleetwood Park 15802 - 80 Avenue Meet near playground located off 80 Ave Sat. Dec 5 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Dec 12 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Feel free to drop in, or sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
       "category": "Nature & outdoors",
       "sourceCategories": "Parks & Environment",
       "price": "Drop-in",
@@ -1160,7 +1112,7 @@
       "endDate": "2026-12-05",
       "time": "1:00pm",
       "location": "Godwin Farm Biodiversity Preserve Park, 9016 164 St Meet at the parking lot located on 164 St",
-      "description": "Volunteer in parks with other youth Remove invasive plants, plant trees and shrubs, clean up litter, and enhance habitat within Surrey parks. Tools and training are provided. Bring your friends - all youth aged 13 to 18 are welcome! No experience is required. Important information Dress for the weather and bring water. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Sat. Nov 14 Invasive plant removal 1:00pm 3:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Nov 21 SYSS Art & Stewardship 1:00pm 3:30pm Surrey Nature Centre 14225 Green Timbers Way Meet near Surrey Nature Centre entrance Sat. Nov 28 Invasive plant removal 1:00pm 3:00pm Fleetwood Park 15802 - 80 Avenue Meet near playground located off 80 Ave Sat. Dec 5 Invasive plant removal 1:00pm 3:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Dec 12 Invasive plant removal 1:00pm 3:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Additional opportunities are shared online for registered Surrey Youth Stewardship Squad volunteers. Sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
+      "description": "Volunteer in parks with other youth Remove invasive plants, plant trees and shrubs, clean up litter, and enhance habitat within Surrey parks. Tools and training are provided. Bring your friends - all youth aged 13 to 18 are welcome! No experience is required. Important information Dress for the weather and bring water. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Sat. Nov 21 SYSS Art & Stewardship 1:00pm 3:30pm Surrey Nature Centre 14225 Green Timbers Way Meet near Surrey Nature Centre entrance Sat. Nov 28 Invasive plant removal 1:00pm 3:00pm Fleetwood Park 15802 - 80 Avenue Meet near playground located off 80 Ave Sat. Dec 5 Invasive plant removal 1:00pm 3:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Dec 12 Invasive plant removal 1:00pm 3:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Additional opportunities are shared online for registered Surrey Youth Stewardship Squad volunteers. Sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
       "category": "Nature & outdoors",
       "sourceCategories": "Parks & Environment Youth",
       "price": "Drop-in",
@@ -1211,22 +1163,6 @@
       "description": "Join us to celebrate with your neighbours at this free community event filled with fun, connection, and community spirit! Enjoy a variety of activities, ranging from cookie decorating, face-painting, to snowflake making and theatre performances! Schedule All events are 10am-2pm unless stated otherwise. Gymnasium Stay and Play 10am-12pm Community Kitchen Cookie Decorating Lobby Face Painting Table Top Activities Giant Games Popcorn Machine & Self Serve Hot Chocolate Music with Pat Chessel and Colin Sankey World Photography Cup Exhibition Library (Upstairs) Winter Family Storytime | Surrey Libraries 10:30-11:15am Family Movie: Penguins of Madagascar | Surrey Libraries 12:00-1:30pm Performing Arts Studio Royal Canadian Theatre Company will take over the Performing Arts Studio for this event. Engage with theatrically-themed crafts and games, and don’t miss your photo op with Panto characters. Visual Arts Studio Snowflake Making Weaving with Clayton's Artist in Residence, Mariel Nelms Arts Hallway ( in front of theatre) Engage with Arts & Culture Groups across City of Surrey! Soundscape Choir: Soundscape is a Surrey-based, auditioned, mixed-voice a cappella chorus, under the direction of Sam Dabrusin. With 31 years as a chorus, they sing a repertoire of tunes from the '40's and 50’s to the present. Don’t miss their engagement table, or the pop-up performance at 11am in the lobby! Westcoast Chorus: Westcoast Harmony Chorus is a group of women and people of marginalized genders who love to sing and are personally committed to excellence and lasting friendships. Come visit their table for a musical craft (while supplies last!) Shufa Foundation: Try your hand at the ancient art of Chinese calligraphy and learn about how this meditative practice is for everyone. Surrey Photography Club : Interested in Photography? Surrey Photography Club members will be present to show off their exhibition and talk about the art form. Vancouver Cantonese Opera : Prepare to be mesmerized by a spectacular Cantonese opera signature makeup demonstration and special pop-up water dance. MP 117 Peace Arch Weavers : demos and activities MP 107 Honeybee Centre : dipped candle making MP 106 Folk Star Arts Academy: Participate in Bhangra mini-workshops, share knowledge about Punjabi folk dance and cultural traditions, and discover traditional Punjabi musical instruments.",
       "category": "Arts & culture",
       "sourceCategories": "Cloverdale Arts & Culture Community Art",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "71f01e2b79713872",
-      "city": "Surrey",
-      "title": "stɑl̓əw̓ Craft Fair",
-      "url": "https://www.surrey.ca/arts-culture/museum-of-surrey/whats-on/stalw-craft-fair",
-      "dateLabel": "December 5, 2026",
-      "startDate": "2026-12-05",
-      "endDate": "2026-12-05",
-      "time": "10:00am - 4:00pm",
-      "location": "17710 56a Ave, Surrey, BC",
-      "description": "Join us for a day filled with incredible vendors, showcasing unique handmade goods perfect for holiday gifting! Visit the wide variety of vendors Experience Indigenous programming Visit Santa from 11am to 1pm. Vendors Spring Salmon Studio Elinor Atkins Art sxwnem Una-Ann Moyer Sandra's Métis Creations Patti Williams Lucia-Rose Métis/Cree Artisans Tina Taphouse Creative Hazel Gludo stɑl̓əw̓ Arts & Cultural Society Salish Hause 41 Nicimos Designs A Piece of Me by JudyG Sheila-Rae Designs B’n Crafty Thelildragonstudio Spirit Bear Designs Hazel Gludo & Walter Knott Made and Found Hawk Lace Dark Laydee Designs Marisa Crafts Things white rabbit Métis Artisan Bcbuttonandbeads Unseeded Beading Sashs Ribbon Creations Sage+Solstice Haisla Dreams Creations Blue Sky Native Artisan Shining Bear Designs Elena's Regal Knits Urban Temple Wellness Anishinaababe x",
-      "category": "Arts & culture",
-      "sourceCategories": "Cloverdale Arts & Culture Museum of Surrey",
       "price": "Free",
       "isFree": true
     },
@@ -1336,7 +1272,7 @@
       "endDate": "2026-12-12",
       "time": "10:00am & 10:30am",
       "location": "Godwin Farm Biodiversity Preserve Park, 9016 164 St Meet at the parking lot located on 164 St",
-      "description": "Join us in caring for Surrey parks Remove invasive plants, plant native trees and shrubs, clean up litter, and enhance habitat within the park. Tools and training are provided. Bring your family and friends—all ages are welcome! Important information Dress for the weather and bring water. Drop in at one of two start times. Staggered start times help us give you a great orientation. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to strong winds or extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Sat. Nov 7 Tree and shrub planting 10:00am 12:00pm Robertson Drive Park 12714 - 92 Ave Meet near playground located off Robertson Drive Sat. Nov 14 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Nov 28 Invasive plant removal 10:00am & 10:30am 12:00pm Fleetwood Park 15802 - 80 Avenue Meet near playground located off 80 Ave Sat. Dec 5 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Dec 12 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Feel free to drop in, or sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
+      "description": "Join us in caring for Surrey parks Remove invasive plants, plant native trees and shrubs, clean up litter, and enhance habitat within the park. Tools and training are provided. Bring your family and friends—all ages are welcome! Important information Dress for the weather and bring water. Drop in at one of two start times. Staggered start times help us give you a great orientation. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to strong winds or extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Sat. Nov 28 Invasive plant removal 10:00am & 10:30am 12:00pm Fleetwood Park 15802 - 80 Avenue Meet near playground located off 80 Ave Sat. Dec 5 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Dec 12 Invasive plant removal 10:00am & 10:30am 12:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Feel free to drop in, or sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
       "category": "Nature & outdoors",
       "sourceCategories": "Parks & Environment",
       "price": "Drop-in",
@@ -1352,7 +1288,7 @@
       "endDate": "2026-12-12",
       "time": "1:00pm",
       "location": "Godwin Farm Biodiversity Preserve Park, 9016 164 St Meet at the parking lot located on 164 St",
-      "description": "Volunteer in parks with other youth Remove invasive plants, plant trees and shrubs, clean up litter, and enhance habitat within Surrey parks. Tools and training are provided. Bring your friends - all youth aged 13 to 18 are welcome! No experience is required. Important information Dress for the weather and bring water. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Sat. Nov 14 Invasive plant removal 1:00pm 3:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Nov 21 SYSS Art & Stewardship 1:00pm 3:30pm Surrey Nature Centre 14225 Green Timbers Way Meet near Surrey Nature Centre entrance Sat. Nov 28 Invasive plant removal 1:00pm 3:00pm Fleetwood Park 15802 - 80 Avenue Meet near playground located off 80 Ave Sat. Dec 5 Invasive plant removal 1:00pm 3:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Dec 12 Invasive plant removal 1:00pm 3:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Additional opportunities are shared online for registered Surrey Youth Stewardship Squad volunteers. Sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
+      "description": "Volunteer in parks with other youth Remove invasive plants, plant trees and shrubs, clean up litter, and enhance habitat within Surrey parks. Tools and training are provided. Bring your friends - all youth aged 13 to 18 are welcome! No experience is required. Important information Dress for the weather and bring water. Look for the Surrey Parks tents and staff upon arrival. Programs may be cancelled due to extreme weather. If you have a group of more than five people, please email us at [email protected] at least one week in advance to explore options. Upcoming dates Date Start time End time Location Address Sat. Nov 21 SYSS Art & Stewardship 1:00pm 3:30pm Surrey Nature Centre 14225 Green Timbers Way Meet near Surrey Nature Centre entrance Sat. Nov 28 Invasive plant removal 1:00pm 3:00pm Fleetwood Park 15802 - 80 Avenue Meet near playground located off 80 Ave Sat. Dec 5 Invasive plant removal 1:00pm 3:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Sat. Dec 12 Invasive plant removal 1:00pm 3:00pm Godwin Farm Biodiversity Preserve Park 9016 164 St Meet at the parking lot located on 164 St Additional opportunities are shared online for registered Surrey Youth Stewardship Squad volunteers. Sign up to stay up-to-date on upcoming opportunities and to track your volunteer hours.",
       "category": "Nature & outdoors",
       "sourceCategories": "Parks & Environment Youth",
       "price": "Drop-in",
