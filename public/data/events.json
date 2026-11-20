@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-19T14:39:15-07:00",
+  "updatedAt": "2026-11-20T14:15:39-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-11-19T14:39:15-07:00",
+      "updatedAt": "2026-11-20T14:15:39-07:00",
       "status": "ok",
-      "count": 115
+      "count": 113
     },
     "Richmond": {
-      "updatedAt": "2026-11-19T14:39:15-07:00",
+      "updatedAt": "2026-11-20T14:15:39-07:00",
       "status": "ok",
-      "count": 19
+      "count": 20
     }
   },
   "events": [
@@ -44,22 +44,6 @@
       "category": "Arts & culture",
       "sourceCategories": "Gallery & Museum RAG Exhibit",
       "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "3a740c774d7bfa78",
-      "city": "Surrey",
-      "title": "Nature at Night Walk at Bear Creek Lights",
-      "url": "https://www.surrey.ca/news-events/events/nature-night-walk-bear-creek-lights",
-      "dateLabel": "November 19, 2026",
-      "startDate": "2026-11-19",
-      "endDate": "2026-11-19",
-      "time": "Time not published — check event link",
-      "location": "13750 - 88 Avenue, Surrey, BC",
-      "description": "Explore the urban forest after dark! Discover how plants, wildlife and soil work together to keep our city cool, our air clean and our parks full of life. Learn what the urban forest needs to thrive and how you can help. Things to know Drop-in, spaces are limited All ages All children must be accompanied by an adult Meet in the program tent, located in the plaza of the garden. Program runs rain or shine and does not guarantee wildlife sightings!",
-      "category": "Nature & outdoors",
-      "sourceCategories": "Newton Parks & Environment",
-      "price": "Free, drop-in.",
       "isFree": true
     },
     {
@@ -415,6 +399,22 @@
       "isFree": false
     },
     {
+      "id": "e348a57142835410",
+      "city": "Richmond",
+      "title": "'The Golden Village' and Other Stories",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19192",
+      "dateLabel": "Thursday, Nov 26, 2026",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
+      "time": "5:30-8:00pm",
+      "location": "7700 Minoru Gate",
+      "description": "'The Golden Village' and Other Stories: Film Screening and Panel Discussion Presented in partnership by the City of Richmond and Cinevolution. The Golden Village (2026) takes viewers inside the vibrant spaces of Richmond’s Asian malls where every shop tells a story and everyday activities become opportunities for connection and belonging. Following the screening, a panel featuring community members with long-standing and newer connections to Richmond will explore how community-centred storytelling and inclusive design can create meaningful spaces for cultural expression and belonging, and the important role these shared spaces play in bringing residents together and strengthening a sense of place. Speakers: Yanting Qiu, Community Engagement Producer, Gateway Theatre Catrina Megumi Longmuir, Filmmaker and Artist Nuh Topkaraoglu, Richmond Local Immigration Partnership This film screening is presented in partnership with Cinevolution Media Arts Society as part of the City of Richmond's Diversity Symposium, a free conference for professionals, volunteers and community members interested in advancing diversity, equity and inclusion. To learn more about this year's Diversity Symposium program, visit richmond.ca/diversity. For more information and to reserve your seat, please visit: https://tinyurl.com/golden-village-stories More Information This event is for Youth (Ages 13-18), Adult (Ages 18+) & 55+ (Ages 55 and over) This is an accessible site. This event is free.",
+      "category": "Arts & culture",
+      "sourceCategories": "Culture & Heritage Events Film",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "c429f2dece1c7be6",
       "city": "Surrey",
       "title": "The Clayton Coffee House",
@@ -699,6 +699,22 @@
       "description": "Winter in the Village! Steveston village welcomes Santa by boat, horse drawn carriage rides, tree lighting, dog parade and more! More Information This event is for All Ages. This is an accessible site. This event is free.",
       "category": "Community & festivals",
       "sourceCategories": "Christmas Events Social / Community Event",
+      "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "85041f2d4f9e684f",
+      "city": "Surrey",
+      "title": "Nature Fall Bliss",
+      "url": "https://www.surrey.ca/news-events/events/nature-fall-bliss",
+      "dateLabel": "November 30, 2026",
+      "startDate": "2026-11-30",
+      "endDate": "2026-11-30",
+      "time": "11:00am - 12:00pm",
+      "location": "Heron Park, 12310 Beecher Street, Surrey, BC",
+      "description": "Join Park People for a relaxing nature bathing experience at Heron Park. Slow down, reconnect with nature and take in the sights and sounds of fall. During this one-hour outdoor experience, you'll be encouraged to engage your senses, listen to birdsong and appreciate the natural surroundings. Enjoy a peaceful break from your daily routine while experiencing the benefits of spending time outdoors.",
+      "category": "Nature & outdoors",
+      "sourceCategories": "South Surrey Community-Hosted",
       "price": "Free",
       "isFree": true
     },
@@ -1357,6 +1373,22 @@
       "sourceCategories": "Cloverdale Recreation",
       "price": "$200 per team",
       "isFree": false
+    },
+    {
+      "id": "86a83c43227b3cab",
+      "city": "Surrey",
+      "title": "Final Exhibition with James Groening",
+      "url": "https://www.surrey.ca/news-events/events/final-exhibition-james-groening",
+      "dateLabel": "December 19, 2026",
+      "startDate": "2026-12-19",
+      "endDate": "2026-12-19",
+      "time": "12:00pm - 4:00pm",
+      "location": "Totest Aleng: Indigenous Learning House, 13723 Crescent Road, Surrey, BC",
+      "description": "Goodbye Blue Sky Celebrate the culmination of James Groening artist residency at Totest Aleng. Featuring Woodland-style paintings, carvings, and contemporary works, this exhibition showcases James’s journey of artistic growth through a Cree lens while learning and engaging with Coast Salish carving traditions. The works on display reflect the progression of his skills, knowledge, and carving practice throughout the residency, highlighting the mentorship, cultural exchange, and creative exploration that shaped his experience. Join us to view the finished works and learn more about the stories, teachings, and connections behind them.",
+      "category": "Arts & culture",
+      "sourceCategories": "South Surrey Arts & Culture Heritage Totest Aleng",
+      "price": "Free",
+      "isFree": true
     },
     {
       "id": "39075f39e92b45f1",
