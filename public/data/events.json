@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-22T13:24:00-07:00",
+  "updatedAt": "2026-11-23T18:00:14-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-11-22T13:24:00-07:00",
+      "updatedAt": "2026-11-23T18:00:14-07:00",
       "status": "ok",
-      "count": 102
+      "count": 101
     },
     "Richmond": {
-      "updatedAt": "2026-11-22T13:24:00-07:00",
+      "updatedAt": "2026-11-23T18:00:14-07:00",
       "status": "ok",
-      "count": 15
+      "count": 16
     }
   },
   "events": [
@@ -44,54 +44,6 @@
       "category": "Learn & create",
       "sourceCategories": "Meetings / Conventions / Lectures / Workshops Workshops",
       "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "a8198f98af2ff028",
-      "city": "Surrey",
-      "title": "Formed by Nature: Hand-Building & Glaze Workshop",
-      "url": "https://www.surrey.ca/news-events/events/formed-nature-hand-building-glaze-workshop",
-      "dateLabel": "November 22, 2026",
-      "startDate": "2026-11-22",
-      "endDate": "2026-11-22",
-      "time": "Time not published — check event link",
-      "location": "Crescent Beach Community Gallery, 12160 Beecher Street, Surrey, BC",
-      "description": "This workshop is a hands-on, process-oriented clay class focusing on exploring natural shapes and understanding how the medium behaves. It emphasizes intuitive creation (\"listening to the clay\") and letting go of rigid, predetermined expectations for the final product. You will be making one small dish using a found form in nature, such as a rock, piece of drift wood or any form that speaks to you. Part one of the workshop will show you how to work with mid fire clay, using hand building techniques, including the use of slip, to create your small dish. Part two of the workshop will cover glazing techniques. You will glaze your pieces and have a chance to play with layering glazes. All participants will take their finished pieces home. Session dates and times Part 1: November 22 Group 1: 10:00am-12:00pm (4 people) Group 2: 1:00-3:00pm (4 people) Part 2: November 29 Group 1: 10:00am-12:00pm Group 2: 1:00-3:00pm Participants must be able to make both dates to complete the project. This workshop is presented as part of the Sea & Roots – Extensions of Light and Possibilities exhibition at Crescent Beach Community Gallery.",
-      "category": "Nature & outdoors",
-      "sourceCategories": "South Surrey Community-Hosted",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "a2cdac03ef6e7a42",
-      "city": "Surrey",
-      "title": "Surrey Jazz Nights Presents: Understanding Jazz Leadsheets Workshop",
-      "url": "https://www.surrey.ca/news-events/events/surrey-jazz-nights-presents-understanding-jazz-leadsheets-workshop",
-      "dateLabel": "November 22, 2026",
-      "startDate": "2026-11-22",
-      "endDate": "2026-11-22",
-      "time": "3:00pm - 5:00pm",
-      "location": "Strawberry Hill Library, 7399 122 St, Surrey, BC",
-      "description": "Sign up for Surrey Jazz Nights next workshop with local Surrey jazz trumpeter and pianist Julian Borkowksi on Sunday, November 22, from 2-4pm at the Surrey Libraries Strawberry Hill Branch. While a lead sheet might look simple, it contains all kinds of information that a jazz musician needs to be able to recognize. This workshop will cover what your particular instrument is responsible for when reading a lead sheet, basic to intermediate chord analysis, and how to turn a lead sheet into a full performance of a jazz piece. Sign up",
-      "category": "Learn & create",
-      "sourceCategories": "Newton Community-Hosted",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "fdd97853e4d55857",
-      "city": "Surrey",
-      "title": "Surrey Tree Lighting Festival & Holiday Market 2026",
-      "url": "https://www.surrey.ca/news-events/events/surrey-tree-lighting-festival-holiday-market-2026",
-      "dateLabel": "November 22, 2026",
-      "startDate": "2026-11-22",
-      "endDate": "2026-11-22",
-      "time": "12:00pm - 8:00pm",
-      "location": "Surrey Civic Plaza, 13450 104 Avenue, Surrey, BC",
-      "description": "The 16th annual Surrey Tree Lighting Festival & Holiday Market returns with free outdoor ice skating rink. Presented by Concord Pacific, the two-day celebration features free entertainment, family activities, and the season’s first tree lighting! The festival will feature a full lineup of free activities and attractions, including: • The official tree lighting ceremony at 6:30pm on November 21. • Photos with Santa on both days with online reservations opening in early November. • Family-friendly activities including letters to Santa, holiday crafts and ice skating with complementary skate and helmet rentals. • A Holiday Market featuring over 30 local vendors in the City Hall Atrium. • Live entertainment across four stages. • Ferris wheel and amusement rides. • A spectacular fire show on Sunday evening. For more information, visit surreytreelighting.ca",
-      "category": "Community & festivals",
-      "sourceCategories": "Whalley and City Centre Festivals",
-      "price": "Free!",
       "isFree": true
     },
     {
@@ -189,6 +141,22 @@
       "sourceCategories": "Culture & Heritage Events Film",
       "price": "Free",
       "isFree": true
+    },
+    {
+      "id": "35cf3c5a4cc993da",
+      "city": "Surrey",
+      "title": "Robin Hood: The Panto",
+      "url": "https://www.surrey.ca/news-events/events/robin-hood-panto",
+      "dateLabel": "November 27, 2026 - December 6, 2026",
+      "startDate": "2026-11-27",
+      "endDate": "2026-12-06",
+      "time": "Time not published — check event link",
+      "location": "Main Stage at the Surrey Arts Centre; 13750 88 Ave, Surrey, BC",
+      "description": "The evil Sheriff of Nottingham has taxed and taunted the villagers till they have nothing left. Thank goodness Robin Hood and his Merry Men are able to steal some of their belongings back. But the Sheriff and his wicked henchmen have hatched a plot to capture Robin at an archery contest. And to top it all off, the Sheriff has fallen for Maid Marian, Robin's true love. Will Robin be able to foil the Sheriff's plan and rescue Marian? Come see FVMT's panto, Robin Hood! at the Surrey Arts Centre to find out! Get Tickets Show dates and times Date Time November 27, 2026 7:30-9:45pm November 28, 2026 2:30-4:45pm November 29, 2026 2:30-4:45pm December 3, 2026 7:30-9:45pm December 4, 2026 7:30-9:45pm December 5, 2026 2:30-4:45pm 7:30-9:45pm December 6, 2026 2:30-4:45pm",
+      "category": "Community & festivals",
+      "sourceCategories": "Newton Community-Hosted",
+      "price": "Adults: $35 Children (ages 12 and under): $25 Seniors (ages 60+): $30",
+      "isFree": false
     },
     {
       "id": "c429f2dece1c7be6",
@@ -527,6 +495,22 @@
       "isFree": true
     },
     {
+      "id": "bf64dbc4cde2b750",
+      "city": "Surrey",
+      "title": "International Day of Persons with Disabilities",
+      "url": "https://www.surrey.ca/news-events/events/international-day-of-persons-disabilities",
+      "dateLabel": "December 3, 2026",
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-03",
+      "time": "11:00am - 1:00pm",
+      "location": "Surrey City Hall; 13450 104 Ave, Surrey, BC",
+      "description": "Join the Surrey Accessibility Leadership Team (SALT) to celebrate International Day of Persons with Disabilities (IDPD) — a United Nations-sanctioned day that promotes understanding of disability issues and supports the dignity, rights, and well-being of persons with disabilities. About IDPD This day is an opportunity to: Celebrate the contributions of people with disabilities in all areas of society. Raise awareness about physical, social, and attitudinal barriers that limit inclusion. Promote action toward creating accessible and inclusive environments for everyone. Event details Drop in at Surrey City Hall on December 3rd from 11am-1pm for coffee/tea, donuts, interactive activities, and a special program listed below: Indigenous welcome with perspectives on disability Hear from Advocate, Bill Conway, and engage in an interactive simulation maze Meet SALT members and learn about their advocacy Meet Special Olympics athletes and learn more about Special Olympics BC Try out the Paralympic sport Boccia with our Accessibility and Inclusion team Learn about the City's Age-Friendly Strategy Demo an Evac Chair Connect with community organizations like Equal Access Collective, ORCAS Society of BC, and Self-Advocates of Semiahmoo Enjoy complimentary fruit, coffee, tea, donuts, and win fun prizes. If you have any questions about the event, please reach out to [email protected] . If you require ASL interpretation, please contact Amber Quan at 604-598-5867 .",
+      "category": "Community & festivals",
+      "sourceCategories": "Whalley and City Centre Community-Hosted",
+      "price": "Free!",
+      "isFree": true
+    },
+    {
       "id": "9d1a9aa9438c36c6",
       "city": "Surrey",
       "title": "Thursday Artist Talk: Anoop Dhaliwal, “Mindfulness. Material. Making.”",
@@ -637,6 +621,22 @@
       "sourceCategories": "Christmas Events Social / Community Event",
       "price": "",
       "isFree": false
+    },
+    {
+      "id": "d05db31ac0f4ee96",
+      "city": "Richmond",
+      "title": "Carols and Crafts in Aberdeen Neighbourhood Park",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19194",
+      "dateLabel": "Saturday, Dec 05, 2026",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "time": "11:00am-3:00pm",
+      "location": "8331 Cambie Road",
+      "description": "Celebrate the holiday season at this free, annual festive event that brings the community together for an afternoon of holiday fun, shopping, music and activities for all ages. Discover unique gifts, enjoy live entertainment and get into the holiday spirit with a variety of festive experiences, including: Holiday shopping: Browse handmade jewellery, art, décor and other unique finds from local vendors. Live entertainment: Enjoy performances throughout the afternoon featuring Estella Celeste, Show Stoppers, Stefanie Artuso and “No One in Particular” Jazz Ensemble. Photos with Santa: Capture a special holiday memory with Santa, 12:30 to 2:30pm. Festive activities: Get creative with free holiday crafts and activities. Food and refreshments: Treat yourself to delicious eats and warm beverages from three featured food trucks. Visit the webpage for more information, including the entertainment schedule. Lots of holiday cheer, music and fun for the whole family! More Information This event is for All Ages. This is an accessible site. This event is free.",
+      "category": "Community & festivals",
+      "sourceCategories": "Christmas Events Social / Community Event",
+      "price": "Free",
+      "isFree": true
     },
     {
       "id": "f04d060166de28d6",
