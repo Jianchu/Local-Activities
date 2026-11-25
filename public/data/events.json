@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-24T16:04:48-07:00",
+  "updatedAt": "2026-11-25T15:37:19-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-11-24T16:04:48-07:00",
+      "updatedAt": "2026-11-25T15:37:19-07:00",
       "status": "ok",
-      "count": 99
+      "count": 100
     },
     "Richmond": {
-      "updatedAt": "2026-11-24T16:04:48-07:00",
+      "updatedAt": "2026-11-25T15:37:19-07:00",
       "status": "ok",
-      "count": 16
+      "count": 17
     }
   },
   "events": [
@@ -47,22 +47,6 @@
       "isFree": true
     },
     {
-      "id": "b4c040f56de349db",
-      "city": "Surrey",
-      "title": "Baby SPARK! Little Fox",
-      "url": "https://www.surrey.ca/news-events/events/baby-spark-little-fox",
-      "dateLabel": "November 25, 2026",
-      "startDate": "2026-11-25",
-      "endDate": "2026-11-25",
-      "time": "10:30am - 12:00pm",
-      "location": "Studio Theatre at Surrey Arts Centre, 13750 88 Avenue, Surrey, BC",
-      "description": "Baby SPARK! performances are for babies and their caretakers to enjoy a musical performance together that will spark young imaginations. Enjoy indie-folk vibes with award-winning singer/songwriter and preschool music teacher, Alison Jenkins and violinist Masae Day . Tickets include pre-show refreshments and a post-show stay & play! For children ages 0–2. 10:30–11:00am: Arrive early, settle in, enjoy light refreshments 11:00–11:45am: Musical performance 11:45–12:00pm: Stay & play Get tickets About the artists Led by songwriter/multi-instrumentalist Alison Jenkins , LittleFox is reinventing Chamber Folk, blending roots-y banjo, fiddle, and mandolin with haunting strings, woodwinds, and pedal steel guitar. Since 2021, LittleFox has performed at some of Vancouver's most beloved venues, including The Heatley, The Painted Ship, Water Street Cafe, and Gastown's Guilt & Co. They have also appeared at the White Rock Blues Festival, Khatsahlano Street Party, Galiano Island's Yellowhouse Arts Centre, Gabriola Island's Birdsong house concert series, and are regular performers at Persephone Brewing on the Sunshine Coast. Masae Day is a west coast performer and creator specializing in quirky characters and music-infused performances. Masae plays fiddle with the Vancouver-based indie-folk band LittleFox. She also works with theatre companies across Canada, including the Blyth Festival, Blue Bridge Theatre, Firehall Arts Centre, Axis Theatre, Western Canada Theatre, Thousand Islands Playhouse, Chemainus Theatre Festival, Carousel Theatre For Young People, Seven Tyrants, Ensemble Theatre Company, and Bard On The Beach. Masae trained in theatre at Studio 58, Tooba Physical Theatre Centre, and Canada’s National Voice Intensive, and as a classical violinist at the University of Victoria.",
-      "category": "Arts & culture",
-      "sourceCategories": "Whalley and City Centre Arts & Culture Children Surrey Civic Theatres",
-      "price": "Baby & Adult: $35 Additional person: $20 Get tickets",
-      "isFree": false
-    },
-    {
       "id": "43211db92591cfee",
       "city": "Surrey",
       "title": "Christmas Wreath Workshop",
@@ -93,6 +77,22 @@
       "sourceCategories": "Recreation",
       "price": "Use your Recreation Surrey pass or pay for a drop-in admission .",
       "isFree": false
+    },
+    {
+      "id": "aa4a03e3dc464dfc",
+      "city": "Surrey",
+      "title": "WinterFest at MOS",
+      "url": "https://www.surrey.ca/arts-culture/museum-of-surrey/whats-on/winterfest-mos",
+      "dateLabel": "November 25, 2026 - December 20, 2026",
+      "startDate": "2026-11-25",
+      "endDate": "2026-12-20",
+      "time": "Time not published — check event link",
+      "location": "17710 56a Ave, Surrey, BC",
+      "description": "Celebrate the magic of the holiday season at WinterFest at Museum of Surrey! Bring your family and friends for festive fun, creative activities and special experiences that bring our community together. From holiday traditions and Indigenous programming to hands-on crafts and sensory-friendly experiences, there are plenty of ways to make meaningful memories this season. Explore the WinterFest events November 21 – Christmas Tree Fest Get into the holiday spirit at Christmas Tree Fest! Vote for your favourite Christmas tree and enter for a chance to win a holiday prize. Participating businesses Auxiliary for BC Children’s Hospital Balance Real Estate Group Carol-Ann Photography Clover Hills Dental Clover Towing Cloverdale BIA Cloverdale District Chamber of Commerce Heritage Smiles Dental Historic Stewart Farm Honeybee Centre Katronis Real Estate Kwantlen Polytechnic University Naked Cake Company Nature and Nurture Academy Pillarstone Skin & Co Roots & Wings Montessori Preschool Sources: Life Skills Centre Splitz Gymnastics stɑl̓əw̓ Arts and Cultural Society Surrey Archives Surrey Association of Community Living Thrive Greenery and Gifts Turkey's Party Makers White Rock Gymnastics Athletics Society November 29 – Sensory Santa Meet Santa in a calm, sensory-friendly environment designed for neurodiverse children and their families. Enjoy a more comfortable and inclusive holiday experience together. December 5 – stɑl’əw̓ Craft Fair Celebrate Indigenous creativity and culture through Indigenous programming, and browse the artisan market for unique, handcrafted treasures. December 12 – Merry Makers Get creative with holiday crafts, search for Santa and his elves, and explore fun, hands-on STEAM activities for the whole family. Whether you're starting a new holiday tradition, discovering local artistry or enjoying creative activities with the kids, WinterFest offers something special for everyone. Make Museum of Surrey part of your holiday plans and celebrate the season with us! Thank you to our media sponsor Bell Media.",
+      "category": "Arts & culture",
+      "sourceCategories": "Cloverdale Children Festivals Museum of Surrey",
+      "price": "Free",
+      "isFree": true
     },
     {
       "id": "e348a57142835410",
@@ -152,7 +152,7 @@
       "endDate": "2026-11-27",
       "time": "3:30pm - 8:00pm",
       "location": "Surrey Civic Plaza, 13450 104 Ave, Surrey, BC",
-      "description": "Skating at Civic Plaza is in full swing! Be part of the winter fun and bring your skates to enjoy free outdoor skating under the covered ice rink, or rent skates for $5 a pair. Enjoy a bright, festive atmosphere, free activities and live music. Relax and warm up with drinks and snacks for purchase from the on-site cafe. This weekend’s highlights Friday, November 27, 3:30-8:00pm Royal Express Train Giant Dancing Polar Bear Live music: DJ and holiday classics covers The first 200 visitors will receive free hot chocolate from the on-site café Saturday, November 28. 5:30-8:00pm Live music: DJ Facepainting",
+      "description": "Skating at Civic Plaza is in full swing! Be part of the winter fun and bring your skates to enjoy free outdoor skating under the covered ice rink, or rent skates for $5 a pair. Enjoy a bright, festive atmosphere, free activities and live music. Relax and warm up with drinks and snacks for purchase from the on-site cafe. This weekend’s highlights Friday, November 27, 3:30-8:00pm Royal Express Train Giant Dancing Polar Bear Live music: DJ and holiday classics covers The first 500 visitors will receive free hot chocolate from the on-site café Saturday, November 28. 5:30-8:00pm Live music: DJ A-Slam Facepainting",
       "category": "Sports & wellness",
       "sourceCategories": "Whalley and City Centre Civic Plaza Recreation",
       "price": "Free",
@@ -312,7 +312,7 @@
       "endDate": "2026-11-28",
       "time": "5:30pm - 8:00pm",
       "location": "Surrey Civic Plaza, 13450 104 Ave, Surrey, BC",
-      "description": "Skating at Civic Plaza is in full swing! Be part of the winter fun and bring your skates to enjoy free outdoor skating under the covered ice rink, or rent skates for $5 a pair. Enjoy a bright, festive atmosphere, free activities and live music. Relax and warm up with drinks and snacks for purchase from the on-site cafe. This weekend’s highlights Friday, November 27, 3:30-8:00pm Royal Express Train Giant Dancing Polar Bear Live music: DJ and holiday classics covers The first 200 visitors will receive free hot chocolate from the on-site café Saturday, November 28. 5:30-8:00pm Live music: DJ Facepainting",
+      "description": "Skating at Civic Plaza is in full swing! Be part of the winter fun and bring your skates to enjoy free outdoor skating under the covered ice rink, or rent skates for $5 a pair. Enjoy a bright, festive atmosphere, free activities and live music. Relax and warm up with drinks and snacks for purchase from the on-site cafe. This weekend’s highlights Friday, November 27, 3:30-8:00pm Royal Express Train Giant Dancing Polar Bear Live music: DJ and holiday classics covers The first 500 visitors will receive free hot chocolate from the on-site café Saturday, November 28. 5:30-8:00pm Live music: DJ A-Slam Facepainting",
       "category": "Sports & wellness",
       "sourceCategories": "Whalley and City Centre Civic Plaza Recreation",
       "price": "Free",
@@ -520,7 +520,7 @@
       "endDate": "2026-12-04",
       "time": "3:30pm - 8:00pm",
       "location": "Surrey Civic Plaza, 13450 104 Ave, Surrey, BC",
-      "description": "Bring your skates to enjoy free outdoor skating under the covered ice rink, or rent skates for $5 a pair. Enjoy a bright, festive atmosphere, free activities and live music. Relax and warm up with drinks and snacks for purchase from the on-site cafe. This weekend’s highlights under the tent Friday, December 4, 3:30-8:00pm Photobooth with customizable holiday backgrounds Live music: Acoustic covers of holiday classics and Christmas Carolers Saturday, December 5, 5:30–8:00pm Live music: Acoustic covers of holiday classics Skating Anna",
+      "description": "Bring your skates to enjoy free outdoor skating under the covered ice rink, or rent skates for $5 a pair. Enjoy a bright, festive atmosphere, free activities and live music. Relax and warm up with drinks and snacks for purchase from the on-site cafe. This weekend’s highlights under the tent Friday, December 4, 3:30-8:00pm Photobooth with customizable holiday backgrounds Live music: Acoustic covers of holiday classics by Alex Whittaker and SFU Christmas Carollers Saturday, December 5, 5:30–8:00pm Live music: Acoustic covers of holiday classics by Pat Chessell Skating Snow Princess Anna",
       "category": "Sports & wellness",
       "sourceCategories": "Whalley and City Centre Civic Plaza Recreation",
       "price": "Free",
@@ -539,6 +539,22 @@
       "description": "The SASSY Awards (Service Above Self Surrey Youth) is Semiahmoo Rotary’s celebration and recognition of the fantastic youth who live, work, volunteer, and learn in Surrey and White Rock. Recognizing and engaging exceptional youth in our community honours the core Rotarian values of Service, Fellowship, Diversity, Integrity and Leadership. Finalists will be selected in each of four categories Community Leadership and Service Diversity, Equity, and Inclusion Leadership and Service Beyond Adversity School Leadership and Service This year, for the first time, each of the four categories will have both Junior (Grade 11 and under) and Senior (Grade 12 and up) divisions. The award recipients of each category will receive a cash award along with a donation that they will present to a charity of their choice: Senior $1000 award $100 donation SASSY Awards Trophy Junior $750 award $100 donation SASSY Awards Trophy Finalists in each category will receive: Senior (2 Finalists) $750 award $100 donation Junior (1 Finalist) $500 award $100 donation The awards will be presented at the Awards Show on Friday, December 4, 2026, at Surrey City Hall. Nominations are now closed! For more information, contact [email protected] and check for updates on the SASSY Awards pages.",
       "category": "Sports & wellness",
       "sourceCategories": "Recreation Youth",
+      "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "ee8c4e6c16a7e626",
+      "city": "Richmond",
+      "title": "Author Presentation with Dr. Keiko Honda",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19195",
+      "dateLabel": "Saturday, Dec 05, 2026",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "time": "2:00-3:00pm",
+      "location": "100 - 7700 Minoru Gate",
+      "description": "Join the library and the City of Richmond with author Dr. Keiko Honda for a celebration of her new memoir, Words That Last (Caitlin Press, 2026). Enjoy an afternoon of reading, reflection and conversation about what we carry, what endures and what it means to pay attention. Books will be available for purchase, with a signing to follow. More Information This event is for Adult (Ages 18+) & 55+ (Ages 55 and over) This is an accessible site. This event is free.",
+      "category": "Arts & culture",
+      "sourceCategories": "Culture & Heritage Events Literary / Library",
       "price": "Free",
       "isFree": true
     },
@@ -680,7 +696,7 @@
       "endDate": "2026-12-05",
       "time": "5:30pm - 8:00pm",
       "location": "Surrey Civic Plaza, 13450 104 Ave, Surrey, BC",
-      "description": "Bring your skates to enjoy free outdoor skating under the covered ice rink, or rent skates for $5 a pair. Enjoy a bright, festive atmosphere, free activities and live music. Relax and warm up with drinks and snacks for purchase from the on-site cafe. This weekend’s highlights under the tent Friday, December 4, 3:30-8:00pm Photobooth with customizable holiday backgrounds Live music: Acoustic covers of holiday classics and Christmas Carolers Saturday, December 5, 5:30–8:00pm Live music: Acoustic covers of holiday classics Skating Anna",
+      "description": "Bring your skates to enjoy free outdoor skating under the covered ice rink, or rent skates for $5 a pair. Enjoy a bright, festive atmosphere, free activities and live music. Relax and warm up with drinks and snacks for purchase from the on-site cafe. This weekend’s highlights under the tent Friday, December 4, 3:30-8:00pm Photobooth with customizable holiday backgrounds Live music: Acoustic covers of holiday classics by Alex Whittaker and SFU Christmas Carollers Saturday, December 5, 5:30–8:00pm Live music: Acoustic covers of holiday classics by Pat Chessell Skating Snow Princess Anna",
       "category": "Sports & wellness",
       "sourceCategories": "Whalley and City Centre Civic Plaza Recreation",
       "price": "Free",
@@ -795,6 +811,22 @@
       "description": "Step inside the rustically decorated farmhouse with the aroma of gingerbread throughout. Enjoy live harp music with Leanne Page in the parlour as you snack on woodstove baked treats. Make a homemade lantern and then venture outside to snap a photo with Father Christmas in the pole barn. A perfect local Christmas activity for the whole family.",
       "category": "Arts & culture",
       "sourceCategories": "South Surrey Arts & Culture Heritage Seniors Stewart Farm",
+      "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "4acf605bbd875d41",
+      "city": "Surrey",
+      "title": "Winter Community Social",
+      "url": "https://www.surrey.ca/news-events/events/winter-community-social",
+      "dateLabel": "December 5, 2026",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "time": "10:00am - 2:00pm",
+      "location": "Clayton Community Centre, 7155 187a St, Surrey, BC",
+      "description": "Join us to celebrate with your neighbours at this free community event filled with fun, connection, and community spirit! Enjoy a variety of activities, ranging from cookie decorating, face-painting, to snowflake making and theatre performances! Schedule All events are 10am-2pm unless stated otherwise. Gymnasium Stay and Play 10am-12pm Community Kitchen Cookie Decorating Lobby Face Painting Table Top Activities Giant Games Popcorn Machine & Self Serve Hot Chocolate Music with Pat Chessel and Colin Sankey World Photography Cup Exhibition Library (Upstairs) Winter Family Storytime | Surrey Libraries 10:30-11:15am Family Movie: Penguins of Madagascar | Surrey Libraries 12:00-1:30pm Performing Arts Studio Royal Canadian Theatre Company will take over the Performing Arts Studio for this event. Engage with theatrically-themed crafts and games, and don’t miss your photo op with Panto characters. Visual Arts Studio Snowflake Making Weaving with Clayton's Artist in Residence, Mariel Nelms Arts Hallway ( in front of theatre) Engage with Arts & Culture Groups across City of Surrey! Soundscape Choir: Soundscape is a Surrey-based, auditioned, mixed-voice a cappella chorus, under the direction of Sam Dabrusin. With 31 years as a chorus, they sing a repertoire of tunes from the '40's and 50’s to the present. Don’t miss their engagement table, or the pop-up performance at 11am in the lobby! Westcoast Chorus: Westcoast Harmony Chorus is a group of women and people of marginalized genders who love to sing and are personally committed to excellence and lasting friendships. Come visit their table for a musical craft (while supplies last!) Shufa Foundation: Try your hand at the ancient art of Chinese calligraphy and learn about how this meditative practice is for everyone. Surrey Photography Club : Interested in Photography? Surrey Photography Club members will be present to show off their exhibition and talk about the art form. Vancouver Cantonese Opera : Prepare to be mesmerized by a spectacular Cantonese opera signature makeup demonstration and special pop-up water dance. MP 117 Peace Arch Weavers : demos and activities MP 107 Honeybee Centre : dipped candle making MP 106 Folk Star Arts Academy: Participate in Bhangra mini-workshops, share knowledge about Punjabi folk dance and cultural traditions, and discover traditional Punjabi musical instruments.",
+      "category": "Arts & culture",
+      "sourceCategories": "Cloverdale Arts & Culture Community Art",
       "price": "Free",
       "isFree": true
     },
