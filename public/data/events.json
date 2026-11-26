@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-25T15:37:19-07:00",
+  "updatedAt": "2026-11-26T15:25:36-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-11-25T15:37:19-07:00",
+      "updatedAt": "2026-11-26T15:25:36-07:00",
       "status": "ok",
-      "count": 100
+      "count": 106
     },
     "Richmond": {
-      "updatedAt": "2026-11-25T15:37:19-07:00",
+      "updatedAt": "2026-11-26T15:25:36-07:00",
       "status": "ok",
       "count": 17
     }
@@ -47,54 +47,6 @@
       "isFree": true
     },
     {
-      "id": "43211db92591cfee",
-      "city": "Surrey",
-      "title": "Christmas Wreath Workshop",
-      "url": "https://www.surrey.ca/news-events/events/christmas-wreath-workshop",
-      "dateLabel": "November 25, 2026",
-      "startDate": "2026-11-25",
-      "endDate": "2026-11-25",
-      "time": "11:00am - 1:00pm",
-      "location": "Darts Hill Garden Park (park at 1680 168 Street), Surrey, BC",
-      "description": "Explore your creativity using a mix of foliage from Darts Hill Garden to create your own unique Christmas wreath. You'll use fresh greens cut from the garden and work in our outdoor Maple Activity Center. All wreath making supplies and equipment will be provided at the workshop. Please dress warmly and in layers and bring your own beverages or snacks if you wish.",
-      "category": "Learn & create",
-      "sourceCategories": "South Surrey Community-Hosted",
-      "price": "$70",
-      "isFree": false
-    },
-    {
-      "id": "5fd23227fac07e95",
-      "city": "Surrey",
-      "title": "Sensory Friendly Swims",
-      "url": "https://www.surrey.ca/news-events/events/sensory-friendly-swims",
-      "dateLabel": "November 25, 2026",
-      "startDate": "2026-11-25",
-      "endDate": "2026-11-25",
-      "time": "1:00pm - 3:00pm",
-      "location": "Various locations",
-      "description": "Sensory friendly swims are inclusive swim times for individuals and families looking for an environment with reduced noise. They are available for those who are autistic, have anxiety or other sensory processing needs, or anyone who feels they would benefit from a more supportive environment. There will be: Reduced noise & water features. No background music. No speaker announcements (whistles used only for emergencies). Encouraged use of paper towels instead of hand dryers using signage. Designated sensory friendly break rooms. Set clear times and transition warnings. Additional staff available for support. Schedule Guildford Recreation Centre Wednesday, December 16, 1pm to 3pm Newton Recreation Centre Wednesday, November 25, 1pm to 3pm Tuesday, December 22, 1pm to 3pm South Surrey Indoor Pool Saturday, December 5, 12pm to 2pm Surrey Sport & Leisure Complex Monday, December 14, 12pm to 2pm Borrow a sensory friendly kit Kits include: Noise-cancelling headphones, communication cards, fidget toys, ear plugs and sunglasses. Ask a staff member to borrow one. Learn more The City of Surrey is committed to providing a safe and welcoming environment for patrons with sensory sensitivities to continue recreating and participating in activities. Learn more about the City of Surrey's initiatives to enhance accessibility, remove barriers, and create a more inclusive community .",
-      "category": "Sports & wellness",
-      "sourceCategories": "Recreation",
-      "price": "Use your Recreation Surrey pass or pay for a drop-in admission .",
-      "isFree": false
-    },
-    {
-      "id": "aa4a03e3dc464dfc",
-      "city": "Surrey",
-      "title": "WinterFest at MOS",
-      "url": "https://www.surrey.ca/arts-culture/museum-of-surrey/whats-on/winterfest-mos",
-      "dateLabel": "November 25, 2026 - December 20, 2026",
-      "startDate": "2026-11-25",
-      "endDate": "2026-12-20",
-      "time": "Time not published — check event link",
-      "location": "17710 56a Ave, Surrey, BC",
-      "description": "Celebrate the magic of the holiday season at WinterFest at Museum of Surrey! Bring your family and friends for festive fun, creative activities and special experiences that bring our community together. From holiday traditions and Indigenous programming to hands-on crafts and sensory-friendly experiences, there are plenty of ways to make meaningful memories this season. Explore the WinterFest events November 21 – Christmas Tree Fest Get into the holiday spirit at Christmas Tree Fest! Vote for your favourite Christmas tree and enter for a chance to win a holiday prize. Participating businesses Auxiliary for BC Children’s Hospital Balance Real Estate Group Carol-Ann Photography Clover Hills Dental Clover Towing Cloverdale BIA Cloverdale District Chamber of Commerce Heritage Smiles Dental Historic Stewart Farm Honeybee Centre Katronis Real Estate Kwantlen Polytechnic University Naked Cake Company Nature and Nurture Academy Pillarstone Skin & Co Roots & Wings Montessori Preschool Sources: Life Skills Centre Splitz Gymnastics stɑl̓əw̓ Arts and Cultural Society Surrey Archives Surrey Association of Community Living Thrive Greenery and Gifts Turkey's Party Makers White Rock Gymnastics Athletics Society November 29 – Sensory Santa Meet Santa in a calm, sensory-friendly environment designed for neurodiverse children and their families. Enjoy a more comfortable and inclusive holiday experience together. December 5 – stɑl’əw̓ Craft Fair Celebrate Indigenous creativity and culture through Indigenous programming, and browse the artisan market for unique, handcrafted treasures. December 12 – Merry Makers Get creative with holiday crafts, search for Santa and his elves, and explore fun, hands-on STEAM activities for the whole family. Whether you're starting a new holiday tradition, discovering local artistry or enjoying creative activities with the kids, WinterFest offers something special for everyone. Make Museum of Surrey part of your holiday plans and celebrate the season with us! Thank you to our media sponsor Bell Media.",
-      "category": "Arts & culture",
-      "sourceCategories": "Cloverdale Children Festivals Museum of Surrey",
-      "price": "Free",
-      "isFree": true
-    },
-    {
       "id": "e348a57142835410",
       "city": "Richmond",
       "title": "'The Golden Village' and Other Stories",
@@ -107,6 +59,22 @@
       "description": "'The Golden Village' and Other Stories: Film Screening and Panel Discussion Presented in partnership by the City of Richmond and Cinevolution. The Golden Village (2026) takes viewers inside the vibrant spaces of Richmond’s Asian malls where every shop tells a story and everyday activities become opportunities for connection and belonging. Following the screening, a panel featuring community members with long-standing and newer connections to Richmond will explore how community-centred storytelling and inclusive design can create meaningful spaces for cultural expression and belonging, and the important role these shared spaces play in bringing residents together and strengthening a sense of place. Speakers: Yanting Qiu, Community Engagement Producer, Gateway Theatre Catrina Megumi Longmuir, Filmmaker and Artist Nuh Topkaraoglu, Richmond Local Immigration Partnership This film screening is presented in partnership with Cinevolution Media Arts Society as part of the City of Richmond's Diversity Symposium, a free conference for professionals, volunteers and community members interested in advancing diversity, equity and inclusion. To learn more about this year's Diversity Symposium program, visit richmond.ca/diversity. For more information and to reserve your seat, please visit: https://tinyurl.com/golden-village-stories More Information This event is for Youth (Ages 13-18), Adult (Ages 18+) & 55+ (Ages 55 and over) This is an accessible site. This event is free.",
       "category": "Arts & culture",
       "sourceCategories": "Culture & Heritage Events Film",
+      "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "caaa948237d3a5e0",
+      "city": "Surrey",
+      "title": "WinterFest at MOS",
+      "url": "https://www.surrey.ca/arts-culture/museum-of-surrey/whats-on/winterfest-mos",
+      "dateLabel": "November 26, 2026",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
+      "time": "Time not published — check event link",
+      "location": "17710 56a Ave, Surrey, BC",
+      "description": "Celebrate the magic of the holiday season at WinterFest at Museum of Surrey! Bring your family and friends for festive fun, creative activities and special experiences that bring our community together. From holiday traditions and Indigenous programming to hands-on crafts and sensory-friendly experiences, there are plenty of ways to make meaningful memories this season. Explore the WinterFest events November 21 – Christmas Tree Fest Get into the holiday spirit at Christmas Tree Fest! Vote for your favourite Christmas tree and enter for a chance to win a holiday prize. Participating businesses Auxiliary for BC Children’s Hospital Balance Real Estate Group Carol-Ann Photography Clover Hills Dental Clover Towing Cloverdale BIA Cloverdale District Chamber of Commerce Heritage Smiles Dental Historic Stewart Farm Honeybee Centre Katronis Real Estate Kwantlen Polytechnic University Naked Cake Company Nature and Nurture Academy Pillarstone Skin & Co Roots & Wings Montessori Preschool Sources: Life Skills Centre Splitz Gymnastics stɑl̓əw̓ Arts and Cultural Society Surrey Archives Surrey Association of Community Living Thrive Greenery and Gifts Turkey's Party Makers White Rock Gymnastics Athletics Society November 29 – Sensory Santa Meet Santa in a calm, sensory-friendly environment designed for neurodiverse children and their families. Enjoy a more comfortable and inclusive holiday experience together. December 5 – stɑl’əw̓ Craft Fair Celebrate Indigenous creativity and culture through Indigenous programming, and browse the artisan market for unique, handcrafted treasures. December 12 – Merry Makers Get creative with holiday crafts, search for Santa and his elves, and explore fun, hands-on STEAM activities for the whole family. Whether you're starting a new holiday tradition, discovering local artistry or enjoying creative activities with the kids, WinterFest offers something special for everyone. Make Museum of Surrey part of your holiday plans and celebrate the season with us! Thank you to our media sponsor Bell Media.",
+      "category": "Arts & culture",
+      "sourceCategories": "Cloverdale Children Festivals Museum of Surrey",
       "price": "Free",
       "isFree": true
     },
@@ -824,7 +792,7 @@
       "endDate": "2026-12-05",
       "time": "10:00am - 2:00pm",
       "location": "Clayton Community Centre, 7155 187a St, Surrey, BC",
-      "description": "Join us to celebrate with your neighbours at this free community event filled with fun, connection, and community spirit! Enjoy a variety of activities, ranging from cookie decorating, face-painting, to snowflake making and theatre performances! Schedule All events are 10am-2pm unless stated otherwise. Gymnasium Stay and Play 10am-12pm Community Kitchen Cookie Decorating Lobby Face Painting Table Top Activities Giant Games Popcorn Machine & Self Serve Hot Chocolate Music with Pat Chessel and Colin Sankey World Photography Cup Exhibition Library (Upstairs) Winter Family Storytime | Surrey Libraries 10:30-11:15am Family Movie: Penguins of Madagascar | Surrey Libraries 12:00-1:30pm Performing Arts Studio Royal Canadian Theatre Company will take over the Performing Arts Studio for this event. Engage with theatrically-themed crafts and games, and don’t miss your photo op with Panto characters. Visual Arts Studio Snowflake Making Weaving with Clayton's Artist in Residence, Mariel Nelms Arts Hallway ( in front of theatre) Engage with Arts & Culture Groups across City of Surrey! Soundscape Choir: Soundscape is a Surrey-based, auditioned, mixed-voice a cappella chorus, under the direction of Sam Dabrusin. With 31 years as a chorus, they sing a repertoire of tunes from the '40's and 50’s to the present. Don’t miss their engagement table, or the pop-up performance at 11am in the lobby! Westcoast Chorus: Westcoast Harmony Chorus is a group of women and people of marginalized genders who love to sing and are personally committed to excellence and lasting friendships. Come visit their table for a musical craft (while supplies last!) Shufa Foundation: Try your hand at the ancient art of Chinese calligraphy and learn about how this meditative practice is for everyone. Surrey Photography Club : Interested in Photography? Surrey Photography Club members will be present to show off their exhibition and talk about the art form. Vancouver Cantonese Opera : Prepare to be mesmerized by a spectacular Cantonese opera signature makeup demonstration and special pop-up water dance. MP 117 Peace Arch Weavers : demos and activities MP 107 Honeybee Centre : dipped candle making MP 106 Folk Star Arts Academy: Participate in Bhangra mini-workshops, share knowledge about Punjabi folk dance and cultural traditions, and discover traditional Punjabi musical instruments.",
+      "description": "Join us to celebrate with your neighbours at this free community event filled with fun, connection, and community spirit! Enjoy a variety of activities, ranging from cookie decorating, face-painting, to snowflake making and theatre performances! Schedule All events are 10am-2pm unless stated otherwise. Gymnasium Stay and Play 10am-12pm Community Kitchen Cookie Decorating Lobby Face Painting Table Top Activities Giant Games Popcorn Machine & Self Serve Hot Chocolate Music with Pat Chessel and Colin Sankey World Photography Cup Exhibition Library (Upstairs) Winter Family Storytime | Surrey Libraries 10:30-11:15am Family Movie: Penguins of Madagascar | Surrey Libraries 12:00-1:30pm Performing Arts Studio Royal Canadian Theatre Company : will take over the Performing Arts Studio for this event. Engage with theatrically-themed crafts and games, and don’t miss your photo op with Panto characters. Visual Arts Studio Snowflake Making Weaving with Clayton's Artist in Residence, Mariel Nelms Arts Hallway ( in front of theatre) Engage with Arts & Culture Groups across City of Surrey! Soundscape Choir : Soundscape is a Surrey-based, auditioned, mixed-voice a cappella chorus, under the direction of Sam Dabrusin. With 31 years as a chorus, they sing a repertoire of tunes from the '40's and 50’s to the present. Don’t miss their engagement table, or the pop-up performance at 11am in the lobby! Westcoast Chorus: Westcoast Harmony Chorus is a group of women and people of marginalized genders who love to sing and are personally committed to excellence and lasting friendships. Come visit their table for a musical craft (while supplies last!) Shufa Foundation : Try your hand at the ancient art of Chinese calligraphy and learn about how this meditative practice is for everyone. Surrey Photography Club : Interested in Photography? Surrey Photography Club members will be present to show off their exhibition and talk about the art form. Vancouver Cantonese Opera : Prepare to be mesmerized by a spectacular Cantonese opera signature makeup demonstration and special pop-up water dance. Woodworking Studio Urban Woodworker : Learn about the woodworking studio from professional educators and highly skilled craftspeople. MP 117 Peace Arch Weavers : Demos and activities. MP 107 Honeybee Centre : Dipped candle making. MP 106 Folk Star Arts Academy: Participate in Bhangra mini-workshops, share knowledge about Punjabi folk dance and cultural traditions, and discover traditional Punjabi musical instruments.",
       "category": "Arts & culture",
       "sourceCategories": "Cloverdale Arts & Culture Community Art",
       "price": "Free",
@@ -1407,6 +1375,22 @@
       "isFree": false
     },
     {
+      "id": "a2960323d917747f",
+      "city": "Surrey",
+      "title": "Winter Opening Reception",
+      "url": "https://www.surrey.ca/news-events/events/winter-opening-reception",
+      "dateLabel": "January 23, 2027",
+      "startDate": "2027-01-23",
+      "endDate": "2027-01-23",
+      "time": "6:00pm - 9:00pm",
+      "location": "Surrey Art Gallery, 13750 88 Ave, Surrey, BC",
+      "description": "The evening will begin with an exhibition tour at 6pm, led by Jordan Strom, Curator of Exhibitions and Collections. There will be a collage-making activity and a sound performance by Slavko Bucifal and Jeremy Stewart, co-presented with Casse Tête Experimental Music Festival .",
+      "category": "Arts & culture",
+      "sourceCategories": "Whalley and City Centre Arts & Culture Seniors Surrey Art Gallery Youth",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "c51a67d2b8b79982",
       "city": "Surrey",
       "title": "Bird Walks",
@@ -1471,6 +1455,38 @@
       "isFree": false
     },
     {
+      "id": "f73ca83e5a8aaa98",
+      "city": "Surrey",
+      "title": "Thursday Artist Talk: Alexis Chivir-Ter Tsebga, “Collage Brain Methods in Motion”",
+      "url": "https://www.surrey.ca/news-events/events/thursday-artist-talk-alexis-chivir-ter-tsebga-collage-brain-methods-motion",
+      "dateLabel": "February 4, 2027",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-04",
+      "time": "7:00pm - 8:30pm",
+      "location": "Surrey Art Gallery, 13750 88 Ave, Surrey, BC",
+      "description": "Alexis Chivir-Ter Tsebga will discuss her interest and approach to collage art, including her artworks in Some Reassembly Required while situating the new work within her larger development as an artist. Based between Abuja (Nigeria) and Vancouver, Tsegba engages language, intimacy, spirituality and Afrofuturism to address suppressed histories and speculative futures. This free monthly series is organized by Surrey Art Gallery Association. About Surrey Art Gallery Association Surrey Art Gallery Association (SAGA) is a non-profit society that offers its members the opportunity to participate in and respond to contemporary art and be part of a community that actively supports Surrey Art Gallery.",
+      "category": "Arts & culture",
+      "sourceCategories": "Whalley and City Centre Arts & Culture Seniors Surrey Art Gallery Youth",
+      "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "75264faf17167353",
+      "city": "Surrey",
+      "title": "Family Art Jam: February 6",
+      "url": "https://www.surrey.ca/news-events/events/family-art-jam-february-6",
+      "dateLabel": "February 6, 2027",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-06",
+      "time": "1:30pm - 3:00pm",
+      "location": "Surrey Art Gallery, 13750 88 Ave, Surrey, BC",
+      "description": "Join an afternoon designed with young children and their families in mind and get creative at the Gallery. Make art and contemplate artworks and ideas together with Gallery artist-educators. The day will include interactive activities in the exhibition Some Reassembly Required and hands-on artmaking in a family-friendly environment. To register for this free program, call 604-501-5566 (dial 0) or email [email protected] .",
+      "category": "Arts & culture",
+      "sourceCategories": "Whalley and City Centre Arts & Culture Children Surrey Art Gallery",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "8f93a9bb425f7b02",
       "city": "Surrey",
       "title": "Music City Showcase",
@@ -1519,6 +1535,22 @@
       "isFree": false
     },
     {
+      "id": "5e44f5bd405decf5",
+      "city": "Surrey",
+      "title": "From the Ant’s Perspective to How the Moon Sees It: Collage Art Today",
+      "url": "https://www.surrey.ca/news-events/events/ants-perspective-how-moon-sees-it-collage-art-today-0",
+      "dateLabel": "February 20, 2027",
+      "startDate": "2027-02-20",
+      "endDate": "2027-02-20",
+      "time": "1:30pm - 3:00pm",
+      "location": "Surrey Art Gallery,13750 88 Ave, Surrey, BC",
+      "description": "Collage art, in its modern form, recently celebrated a hundred years since its founding moment. Artists continue to find new ways to adapt its methods to meet the challenges of daily life. In conjunction with Some Reassembly Required , Aimée Henny Brown, Jay Cabalu, and Elizabeth Zvonar will discuss their interests and approaches with collage in a world of hyper-media manipulation. Moderated by Jordan Strom, Curator of Exhibitions and Collections.",
+      "category": "Arts & culture",
+      "sourceCategories": "Whalley and City Centre Arts & Culture Seniors Surrey Art Gallery Youth",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "af7407f56fcac3a1",
       "city": "Surrey",
       "title": "Louisa May Alcott's Little Women",
@@ -1551,6 +1583,22 @@
       "isFree": false
     },
     {
+      "id": "a0cbc06ff987442a",
+      "city": "Surrey",
+      "title": "Family Art Party: March 7",
+      "url": "https://www.surrey.ca/news-events/events/family-art-party-march-7",
+      "dateLabel": "March 7, 2027",
+      "startDate": "2027-03-07",
+      "endDate": "2027-03-07",
+      "time": "1:00pm - 5:00pm",
+      "location": "Surrey Art Gallery, 13750 88 Ave, Surrey, BC",
+      "description": "Make art in one of the workshops led by artist-educators and try out our Art Monster scavenger hunt in the Gallery led by volunteer Youth Docents. All are welcome at this free drop-in event. Children must be accompanied by an adult.",
+      "category": "Arts & culture",
+      "sourceCategories": "Whalley and City Centre Arts & Culture Children Surrey Art Gallery",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "bf66c6efe89730c4",
       "city": "Surrey",
       "title": "Baby SPARK! with Janni & Sami",
@@ -1565,6 +1613,22 @@
       "sourceCategories": "Whalley and City Centre Arts & Culture Children Surrey Civic Theatres",
       "price": "Baby & Adult: $35 Additional person: $20 Get tickets",
       "isFree": false
+    },
+    {
+      "id": "867ba7ed4155639d",
+      "city": "Surrey",
+      "title": "Art & Feminism Wikipedia Edit-a-thon",
+      "url": "https://www.surrey.ca/news-events/events/art-feminism-wikipedia-edit-thon",
+      "dateLabel": "March 11, 2027",
+      "startDate": "2027-03-11",
+      "endDate": "2027-03-11",
+      "time": "1:00pm - 4:00pm",
+      "location": "Surrey Art Gallery - 13750 88 Ave, Surrey, BC",
+      "description": "In partnership with Rungh magazine, learn how to create and edit entries on the world’s largest encyclopedia. Pre-researched artists and artworks in the Gallery’s permanent collection will be available or come with artists in mind. No prior knowledge is required.",
+      "category": "Arts & culture",
+      "sourceCategories": "Whalley and City Centre Arts & Culture Seniors Surrey Art Gallery Youth",
+      "price": "Free",
+      "isFree": true
     },
     {
       "id": "b24804384f1ee3eb",
