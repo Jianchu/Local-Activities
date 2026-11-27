@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-26T15:25:36-07:00",
+  "updatedAt": "2026-11-27T15:05:30-07:00",
   "timezone": "America/Vancouver",
   "sources": {
     "Surrey": {
-      "updatedAt": "2026-11-26T15:25:36-07:00",
+      "updatedAt": "2026-11-27T15:05:30-07:00",
       "status": "ok",
-      "count": 106
+      "count": 111
     },
     "Richmond": {
-      "updatedAt": "2026-11-26T15:25:36-07:00",
+      "updatedAt": "2026-11-27T15:05:30-07:00",
       "status": "ok",
-      "count": 17
+      "count": 18
     }
   },
   "events": [
@@ -43,38 +43,6 @@
       "description": "Free Gavel Club trial sessions for ages 8-18 years to build confidence, public speaking, communication and leadership skills through fun activities. Come check out the U+ Gavel Club with our free trial sessions. This is a great chance to get a feel for what the club is all about and see if public speaking is your thing. We'll be meeting in person at 8171 Cook Rd, our Richmond Office on November 21. We'll also be meeting in person at Cambie Community Centre on November 28. The following times and age groups are available for each week: Ages 8-12yrs: 3:00-4:00pm Ages 13-18yrs: 4:00-5:00pm It's a friendly, no-pressure environment to jump in and try out some speaking activities. Whether you're curious or ready to jump in, this trial session is the perfect way to start. Hope to see you there. Learn more at: https://www.upluscommunity.org/gavel-club-free-trials If you have any questions, you can email us at tm@upluseducation.ca or call us at 647-616-0159. More Information This event is for Child (Ages 6-12) & Youth (Ages 13-18) This is an accessible site. Free",
       "category": "Learn & create",
       "sourceCategories": "Meetings / Conventions / Lectures / Workshops Workshops",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "e348a57142835410",
-      "city": "Richmond",
-      "title": "'The Golden Village' and Other Stories",
-      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19192",
-      "dateLabel": "Thursday, Nov 26, 2026",
-      "startDate": "2026-11-26",
-      "endDate": "2026-11-26",
-      "time": "5:30-8:00pm",
-      "location": "7700 Minoru Gate",
-      "description": "'The Golden Village' and Other Stories: Film Screening and Panel Discussion Presented in partnership by the City of Richmond and Cinevolution. The Golden Village (2026) takes viewers inside the vibrant spaces of Richmond’s Asian malls where every shop tells a story and everyday activities become opportunities for connection and belonging. Following the screening, a panel featuring community members with long-standing and newer connections to Richmond will explore how community-centred storytelling and inclusive design can create meaningful spaces for cultural expression and belonging, and the important role these shared spaces play in bringing residents together and strengthening a sense of place. Speakers: Yanting Qiu, Community Engagement Producer, Gateway Theatre Catrina Megumi Longmuir, Filmmaker and Artist Nuh Topkaraoglu, Richmond Local Immigration Partnership This film screening is presented in partnership with Cinevolution Media Arts Society as part of the City of Richmond's Diversity Symposium, a free conference for professionals, volunteers and community members interested in advancing diversity, equity and inclusion. To learn more about this year's Diversity Symposium program, visit richmond.ca/diversity. For more information and to reserve your seat, please visit: https://tinyurl.com/golden-village-stories More Information This event is for Youth (Ages 13-18), Adult (Ages 18+) & 55+ (Ages 55 and over) This is an accessible site. This event is free.",
-      "category": "Arts & culture",
-      "sourceCategories": "Culture & Heritage Events Film",
-      "price": "Free",
-      "isFree": true
-    },
-    {
-      "id": "caaa948237d3a5e0",
-      "city": "Surrey",
-      "title": "WinterFest at MOS",
-      "url": "https://www.surrey.ca/arts-culture/museum-of-surrey/whats-on/winterfest-mos",
-      "dateLabel": "November 26, 2026",
-      "startDate": "2026-11-26",
-      "endDate": "2026-11-26",
-      "time": "Time not published — check event link",
-      "location": "17710 56a Ave, Surrey, BC",
-      "description": "Celebrate the magic of the holiday season at WinterFest at Museum of Surrey! Bring your family and friends for festive fun, creative activities and special experiences that bring our community together. From holiday traditions and Indigenous programming to hands-on crafts and sensory-friendly experiences, there are plenty of ways to make meaningful memories this season. Explore the WinterFest events November 21 – Christmas Tree Fest Get into the holiday spirit at Christmas Tree Fest! Vote for your favourite Christmas tree and enter for a chance to win a holiday prize. Participating businesses Auxiliary for BC Children’s Hospital Balance Real Estate Group Carol-Ann Photography Clover Hills Dental Clover Towing Cloverdale BIA Cloverdale District Chamber of Commerce Heritage Smiles Dental Historic Stewart Farm Honeybee Centre Katronis Real Estate Kwantlen Polytechnic University Naked Cake Company Nature and Nurture Academy Pillarstone Skin & Co Roots & Wings Montessori Preschool Sources: Life Skills Centre Splitz Gymnastics stɑl̓əw̓ Arts and Cultural Society Surrey Archives Surrey Association of Community Living Thrive Greenery and Gifts Turkey's Party Makers White Rock Gymnastics Athletics Society November 29 – Sensory Santa Meet Santa in a calm, sensory-friendly environment designed for neurodiverse children and their families. Enjoy a more comfortable and inclusive holiday experience together. December 5 – stɑl’əw̓ Craft Fair Celebrate Indigenous creativity and culture through Indigenous programming, and browse the artisan market for unique, handcrafted treasures. December 12 – Merry Makers Get creative with holiday crafts, search for Santa and his elves, and explore fun, hands-on STEAM activities for the whole family. Whether you're starting a new holiday tradition, discovering local artistry or enjoying creative activities with the kids, WinterFest offers something special for everyone. Make Museum of Surrey part of your holiday plans and celebrate the season with us! Thank you to our media sponsor Bell Media.",
-      "category": "Arts & culture",
-      "sourceCategories": "Cloverdale Children Festivals Museum of Surrey",
       "price": "Free",
       "isFree": true
     },
@@ -123,6 +91,22 @@
       "description": "Skating at Civic Plaza is in full swing! Be part of the winter fun and bring your skates to enjoy free outdoor skating under the covered ice rink, or rent skates for $5 a pair. Enjoy a bright, festive atmosphere, free activities and live music. Relax and warm up with drinks and snacks for purchase from the on-site cafe. This weekend’s highlights Friday, November 27, 3:30-8:00pm Royal Express Train Giant Dancing Polar Bear Live music: DJ and holiday classics covers The first 500 visitors will receive free hot chocolate from the on-site café Saturday, November 28. 5:30-8:00pm Live music: DJ A-Slam Facepainting",
       "category": "Sports & wellness",
       "sourceCategories": "Whalley and City Centre Civic Plaza Recreation",
+      "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "2240938bf1812dee",
+      "city": "Surrey",
+      "title": "WinterFest at MOS",
+      "url": "https://www.surrey.ca/arts-culture/museum-of-surrey/whats-on/winterfest-mos",
+      "dateLabel": "November 27, 2026 - December 20, 2026",
+      "startDate": "2026-11-27",
+      "endDate": "2026-12-20",
+      "time": "Time not published — check event link",
+      "location": "17710 56a Ave, Surrey, BC",
+      "description": "Celebrate the magic of the holiday season at WinterFest at Museum of Surrey! Bring your family and friends for festive fun, creative activities and special experiences that bring our community together. From holiday traditions and Indigenous programming to hands-on crafts and sensory-friendly experiences, there are plenty of ways to make meaningful memories this season. Explore the WinterFest events November 21 – Christmas Tree Fest Get into the holiday spirit at Christmas Tree Fest! Vote for your favourite Christmas tree and enter for a chance to win a holiday prize. Participating businesses Auxiliary for BC Children’s Hospital Balance Real Estate Group Carol-Ann Photography Clover Hills Dental Clover Towing Cloverdale BIA Cloverdale District Chamber of Commerce Heritage Smiles Dental Historic Stewart Farm Honeybee Centre Katronis Real Estate Kwantlen Polytechnic University Naked Cake Company Nature and Nurture Academy Pillarstone Skin & Co Roots & Wings Montessori Preschool Sources: Life Skills Centre Splitz Gymnastics stɑl̓əw̓ Arts and Cultural Society Surrey Archives Surrey Association of Community Living Thrive Greenery and Gifts Turkey's Party Makers White Rock Gymnastics Athletics Society November 29 – Sensory Santa Meet Santa in a calm, sensory-friendly environment designed for neurodiverse children and their families. Enjoy a more comfortable and inclusive holiday experience together. December 5 – stɑl’əw̓ Craft Fair Celebrate Indigenous creativity and culture through Indigenous programming, and browse the artisan market for unique, handcrafted treasures. December 12 – Merry Makers Get creative with holiday crafts, search for Santa and his elves, and explore fun, hands-on STEAM activities for the whole family. Whether you're starting a new holiday tradition, discovering local artistry or enjoying creative activities with the kids, WinterFest offers something special for everyone. Make Museum of Surrey part of your holiday plans and celebrate the season with us! Thank you to our media sponsor Bell Media.",
+      "category": "Arts & culture",
+      "sourceCategories": "Cloverdale Children Festivals Museum of Surrey",
       "price": "Free",
       "isFree": true
     },
@@ -511,6 +495,22 @@
       "isFree": true
     },
     {
+      "id": "258d5ff1a3989992",
+      "city": "Richmond",
+      "title": "Artist Trading Cards (ATCs) Trading Session",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19196",
+      "dateLabel": "Saturday, Dec 05, 2026",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "time": "3:00-5:00pm",
+      "location": "7700 Minoru Gate",
+      "description": "Join us for a fun and creative gathering where adults can explore the world of Artist Trading Cards (ATCs)—miniature artworks created for trading and connection. RSVP appreciated Whether you’re a seasoned artist or just starting out, this welcoming session is perfect for anyone curious about small-scale art, creative exchange and meeting other artists. Artist Ming Yeung will host the session, explain how ATC trading works and answer questions. Bring along your own pre-made and signed Artist Trading Cards to trade with others. Please note: The ATC Trading Session is dedicated to trading only. No art-making activities will take place during this session. What are Artist Trading Cards (ATCs)? Artist Trading Cards are original mini artworks measuring 2.5 x 3.5 inches or8.89 x 6.35 cm, created in any medium. Started in the 1990s, this global art movement encourages creativity, collaboration and community through trading art. ATC Guidelines Must be ATC size: 2.5 x 3.5 inches Original artwork or small-run limited-edition prints Artist name or signature on the back (Optional: title, medium, date, city/country, email or website) Made for trading only, not for sale What to Expect at the Trading Session A relaxed, social art exchange for adults Bring at least 9 pre-made, signed ATCs to trade Chat with other artists about your work and process Negotiate trades and grow your collection Follow good trading etiquette Light refreshments provided. Questions? Contact our Public Programs Coordinator: ktycholis@richmond.ca More Information This event is for Youth (Ages 13-18), Adult (Ages 18+) & 55+ (Ages 55 and over) This is an accessible site. This event is free.",
+      "category": "Arts & culture",
+      "sourceCategories": "Gallery & Museum Art",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "ee8c4e6c16a7e626",
       "city": "Richmond",
       "title": "Author Presentation with Dr. Keiko Honda",
@@ -700,6 +700,22 @@
       "category": "Nature & outdoors",
       "sourceCategories": "Parks & Environment",
       "price": "Drop-in",
+      "isFree": false
+    },
+    {
+      "id": "9e67047740e6e715",
+      "city": "Richmond",
+      "title": "Pancakes in Bethlehem",
+      "url": "https://www.richmond.ca/culture/calendar/search/Event.aspx?EventID=19198",
+      "dateLabel": "Saturday, Dec 05, 2026",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "time": "10:00am-2:00pm",
+      "location": "Location not published — check event link",
+      "description": "Join us at Thrive Church for Pancakes in Bethlehem, a special Christmas event filled with fun, laughter and memories for the whole family. Enjoy delicious pancakes, journey through the story of the very first Christmas, take a photo with Santa and discover the joy of Christmas together. Thrive Church 200 – 6061 No. 3 Road, Richmond, BC Near Richmond Centre and across from Richmond–Brighouse SkyTrain Station Registration is required. Reserve your family's spot today at http://www.thrivechurch.ca/pancakes More Information This event is for All Ages. This is an accessible site. $5 (Ages 4+) Free (Ages 3 & under)",
+      "category": "Community & festivals",
+      "sourceCategories": "Christmas Events Social / Community Event",
+      "price": "",
       "isFree": false
     },
     {
@@ -927,6 +943,22 @@
       "isFree": false
     },
     {
+      "id": "3255e650c069773a",
+      "city": "Surrey",
+      "title": "Sugar Plum Skate at Civic Plaza",
+      "url": "https://www.surrey.ca/news-events/events/sugar-plum-skate-civic-plaza",
+      "dateLabel": "December 11, 2026",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-11",
+      "time": "3:30pm - 8:00pm",
+      "location": "Surrey Civic Plaza, 13450 104 Ave, Surrey, BC",
+      "description": "Bring your skates to enjoy free outdoor skating under the covered ice rink or rent skates for $5 a pair. Enjoy a bright, festive atmosphere, free activities and live music. Relax and warm up with drinks and snacks for purchase from the on-site cafe. Join us Friday for facepainting and fun DJ remixes and holiday covers, and on Saturday, enjoy free hot chocolate for the first 100 skaters (beginning at 4:45pm) and other festive activities brought to you by the Downtown Surrey Business Improvement Association . This weekend’s highlights under the tent Friday, December 11, 3:30-8:00pm Live Music: DJ remixes and holiday classic covers by Aidan Farrell Facepainting Saturday, December 12, 4:00-8:30pm Brought to you by the Downtown Surrey Business Improvement Association. FREE hot chocolate for up to 100 skaters, (beginning at 4:45pm) Skating Sugar Plum Fairy Facepainting Nutcracker themed craft and coloring",
+      "category": "Sports & wellness",
+      "sourceCategories": "Whalley and City Centre Civic Plaza Recreation",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "ef7764a6ff18dbea",
       "city": "Surrey",
       "title": "Homemade Holidays",
@@ -957,6 +989,22 @@
       "sourceCategories": "Parks & Environment",
       "price": "Drop-in",
       "isFree": false
+    },
+    {
+      "id": "3fd39a6a8596eee4",
+      "city": "Surrey",
+      "title": "Sugar Plum Skate at Civic Plaza",
+      "url": "https://www.surrey.ca/news-events/events/sugar-plum-skate-civic-plaza",
+      "dateLabel": "December 12, 2026",
+      "startDate": "2026-12-12",
+      "endDate": "2026-12-12",
+      "time": "4:00pm - 8:30pm",
+      "location": "Surrey Civic Plaza, 13450 104 Ave, Surrey, BC",
+      "description": "Bring your skates to enjoy free outdoor skating under the covered ice rink or rent skates for $5 a pair. Enjoy a bright, festive atmosphere, free activities and live music. Relax and warm up with drinks and snacks for purchase from the on-site cafe. Join us Friday for facepainting and fun DJ remixes and holiday covers, and on Saturday, enjoy free hot chocolate for the first 100 skaters (beginning at 4:45pm) and other festive activities brought to you by the Downtown Surrey Business Improvement Association . This weekend’s highlights under the tent Friday, December 11, 3:30-8:00pm Live Music: DJ remixes and holiday classic covers by Aidan Farrell Facepainting Saturday, December 12, 4:00-8:30pm Brought to you by the Downtown Surrey Business Improvement Association. FREE hot chocolate for up to 100 skaters, (beginning at 4:45pm) Skating Sugar Plum Fairy Facepainting Nutcracker themed craft and coloring",
+      "category": "Sports & wellness",
+      "sourceCategories": "Whalley and City Centre Civic Plaza Recreation",
+      "price": "Free",
+      "isFree": true
     },
     {
       "id": "8bee0798f6ec12a4",
@@ -1087,6 +1135,22 @@
       "isFree": true
     },
     {
+      "id": "bac0122f81aabb0f",
+      "city": "Surrey",
+      "title": "Iconic Holiday Fun at Civic Plaza",
+      "url": "https://www.surrey.ca/news-events/events/iconic-holiday-fun-civic-plaza",
+      "dateLabel": "December 18, 2026",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "time": "3:30pm - 8:00pm",
+      "location": "Surrey Civic Plaza, 13450 104 Ave, Surrey, BC",
+      "description": "Bring your skates to enjoy free outdoor skating under the covered ice rink, or rent skates for $5 a pair. Enjoy a bright, festive atmosphere, free activities and live music. Relax and warm up with drinks and snacks for purchase from the on-site cafe. On Friday, enjoy holiday classics with the SFU Christmas Carollers from 3:30-5:30pm and stay to enjoy free popcorn while watching Elf under the tent. Join us Saturday evening for more live music and a visit by a famous holiday grouch. This weekend’s highlights under the tent Friday, December 18, 3:30-8:00pm Live Music: SFU Christmas Carollers Movie Night showing ‘Elf’ (movie starts at 5:30pm) Free popcorn from 3:30-8:00pm. Facepainting Saturday, December 19, 5:30-8:00pm Live music: Acoustic covers of holiday classics by Pat Chessell Photobooth with customizable holiday backgrounds Visit by a famous holiday grouch",
+      "category": "Sports & wellness",
+      "sourceCategories": "Whalley and City Centre Civic Plaza Recreation",
+      "price": "Free",
+      "isFree": true
+    },
+    {
       "id": "85218a10a3011ad1",
       "city": "Surrey",
       "title": "Jack and the Beanstalk",
@@ -1101,6 +1165,22 @@
       "sourceCategories": "Whalley and City Centre Community-Hosted",
       "price": "$18.75-38.75",
       "isFree": false
+    },
+    {
+      "id": "5228bc7a63b584dc",
+      "city": "Surrey",
+      "title": "Movie Night at Civic Plaza",
+      "url": "https://www.surrey.ca/news-events/events/movie-night-civic-plaza",
+      "dateLabel": "December 18, 2026",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-18",
+      "time": "5:30pm - 8:00pm",
+      "location": "Surrey Civic Plaza, 13450 104 Ave, Surrey, BC",
+      "description": "Get cozy under the tent at Civic Plaza and enjoy free popcorn for a special movie night showing “Elf” starting at 5:30pm. Pre-movie activities include classic Christmas carols by the SFU choir and facepainting! Come early and bring your skates to enjoy free outdoor skating under the covered ice rink, or rent skates for $5 a pair. Enjoy facepainting, and a bright, festive atmosphere, free activities and live music. Relax and warm up with drinks and other snacks for purchase from the on-site cafe.",
+      "category": "Sports & wellness",
+      "sourceCategories": "Whalley and City Centre Civic Plaza Recreation",
+      "price": "Free",
+      "isFree": true
     },
     {
       "id": "132384b3616174be",
@@ -1131,6 +1211,22 @@
       "description": "Goodbye Blue Sky Celebrate the culmination of James Groening artist residency at Totest Aleng. Featuring Woodland-style paintings, carvings, and contemporary works, this exhibition showcases James’s journey of artistic growth through a Cree lens while learning and engaging with Coast Salish carving traditions. The works on display reflect the progression of his skills, knowledge, and carving practice throughout the residency, highlighting the mentorship, cultural exchange, and creative exploration that shaped his experience. Join us to view the finished works and learn more about the stories, teachings, and connections behind them.",
       "category": "Arts & culture",
       "sourceCategories": "South Surrey Arts & Culture Heritage Totest Aleng",
+      "price": "Free",
+      "isFree": true
+    },
+    {
+      "id": "722b0b22329e8511",
+      "city": "Surrey",
+      "title": "Iconic Holiday Fun at Civic Plaza",
+      "url": "https://www.surrey.ca/news-events/events/iconic-holiday-fun-civic-plaza",
+      "dateLabel": "December 19, 2026",
+      "startDate": "2026-12-19",
+      "endDate": "2026-12-19",
+      "time": "5:30pm - 8:00pm",
+      "location": "Surrey Civic Plaza, 13450 104 Ave, Surrey, BC",
+      "description": "Bring your skates to enjoy free outdoor skating under the covered ice rink, or rent skates for $5 a pair. Enjoy a bright, festive atmosphere, free activities and live music. Relax and warm up with drinks and snacks for purchase from the on-site cafe. On Friday, enjoy holiday classics with the SFU Christmas Carollers from 3:30-5:30pm and stay to enjoy free popcorn while watching Elf under the tent. Join us Saturday evening for more live music and a visit by a famous holiday grouch. This weekend’s highlights under the tent Friday, December 18, 3:30-8:00pm Live Music: SFU Christmas Carollers Movie Night showing ‘Elf’ (movie starts at 5:30pm) Free popcorn from 3:30-8:00pm. Facepainting Saturday, December 19, 5:30-8:00pm Live music: Acoustic covers of holiday classics by Pat Chessell Photobooth with customizable holiday backgrounds Visit by a famous holiday grouch",
+      "category": "Sports & wellness",
+      "sourceCategories": "Whalley and City Centre Civic Plaza Recreation",
       "price": "Free",
       "isFree": true
     },
